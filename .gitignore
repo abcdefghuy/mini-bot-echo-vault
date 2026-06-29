@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+articles/
+article_hashes.json
+.venv/
+venv/
