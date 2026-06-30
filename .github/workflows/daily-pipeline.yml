@@ -33,12 +33,57 @@ jobs:
         HASH_STORE_FILE: "article_hashes.json"
         UPLOAD_HASHES_FILE: "upload_hashes.json"
       run: |
-        python main.py
+        python main.py | tee pipeline.log
+
+    - name: Generate Job Summary
+      if: always()
+      run: |
+        python -c '
+        import re, os
+        try:
+            if not os.path.exists("pipeline.log"):
+                print("Log file not found")
+                exit(0)
+            with open("pipeline.log", "r", encoding="utf-8") as f:
+                log_content = f.read()
+            
+            # Find summaries
+            scrape_match = re.search(r"Scrape - Fetched: (\d+), Added: (\d+), Updated: (\d+), Skipped: (\d+), Errors: (\d+)", log_content)
+            upload_match = re.search(r"Upload - Uploaded: (\d+), Skipped: (\d+), Errors: (\d+)", log_content)
+            
+            summary_md = "## Pipeline Run Summary\n\n"
+            
+            if scrape_match:
+                f_count, a_count, u_count, s_count, e_count = scrape_match.groups()
+                summary_md += "### Zendesk Scraper\n"
+                summary_md += f"| Metric | Count |\n|---|---|\n"
+                summary_md += f"| Total Fetched | {f_count} |\n"
+                summary_md += f"| Added (New) | **{a_count}** |\n"
+                summary_md += f"| Updated | **{u_count}** |\n"
+                summary_md += f"| Skipped | {s_count} |\n"
+                summary_md += f"| Errors | {e_count} |\n\n"
+            
+            if upload_match:
+                up_count, sk_count, err_count = upload_match.groups()
+                summary_md += "### Gemini File Search Uploader\n"
+                summary_md += f"| Metric | Count |\n|---|---|\n"
+                summary_md += f"| Uploaded (New/Updated) | **{up_count}** |\n"
+                summary_md += f"| Skipped (Unchanged) | {sk_count} |\n"
+                summary_md += f"| Errors | {err_count} |\n\n"
+            
+            # Write to Step Summary
+            summary_file = os.environ.get("GITHUB_STEP_SUMMARY")
+            if summary_file:
+                with open(summary_file, "a", encoding="utf-8") as sf:
+                    sf.write(summary_md)
+        except Exception as ex:
+            print("Failed to generate summary:", ex)
+        '
 
     - name: Commit and Push Delta Cache Files
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add article_hashes.json upload_hashes.json
+        git add -f article_hashes.json upload_hashes.json
         git commit -m "chore: auto-update delta sync cache files [skip ci]" || echo "No changes to commit"
         git push origin HEAD:${{ github.ref }}
