@@ -42,7 +42,7 @@ class VectorStoreUploader:
         self.articles_dir = Path(articles_dir or os.getenv("OUTPUT_DIR", "articles"))
         self.assistant_id = assistant_id or os.getenv("OPENAI_ASSISTANT_ID")
         self.vector_store_name = vector_store_name
-        self.upload_hashes_file = Path(UPLOAD_HASHES_FILE)
+        self.upload_hashes_file = Path(os.getenv("UPLOAD_HASHES_FILE", UPLOAD_HASHES_FILE))
         self.max_workers = max_workers
 
         # Stats
