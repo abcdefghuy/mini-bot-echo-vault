@@ -37,6 +37,10 @@ class CleanMarkdownConverter(MarkdownConverter):
         src = el.get("src", "")
         title = el.get("title", "")
 
+        # Skip base64 inline images as they cause Gemini API ingestion failures
+        if src and src.startswith("data:image/"):
+            return "<!-- [Base64 Image Removed] -->"
+
         # Skip tracking pixels and tiny images
         width = el.get("width", "")
         height = el.get("height", "")
