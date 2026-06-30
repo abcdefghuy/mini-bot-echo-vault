@@ -2,6 +2,9 @@
 
 Echo-Vault is a pipeline that scrapes Zendesk support articles, converts them to Markdown, and synchronizes them to Google Gemini's File Search Store for RAG-based AI retrieval.
 
+### Chunking Strategy
+We leverage **Google Gemini's Managed Semantic Chunking** via the File Search API. Rather than splitting text manually, the Gemini API automatically processes the uploaded Markdown files, dynamically splitting them into chunks that respect semantic boundaries (like headings, lists, and paragraphs) and indexing them using the `gemini-embedding-2` model for optimal RAG retrieval.
+
 ## 1. Setup
 
 ### Installation
