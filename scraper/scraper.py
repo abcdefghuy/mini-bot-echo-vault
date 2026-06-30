@@ -1,15 +1,8 @@
-"""
-scraper/scraper.py - OptiSigns support article scraper.
-
-Orchestrates fetching articles from Zendesk, converting to Markdown,
-and saving with delta detection via content hashing.
-"""
-
 import os
 import json
-import time
 import logging
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from .api import ZendeskClient
 from .converter import html_to_clean_markdown
@@ -20,26 +13,26 @@ from utils import slugify, compute_hash
 # ---------------------------------------------------------------------------
 logger = logging.getLogger(__name__)
 
+# ---------------------------------------------------------------------------
+# Concurrency
+# ---------------------------------------------------------------------------
+MAX_WORKERS_SCRAPE = 10  # Concurrent threads for article processing
+
 
 class OptiSignsScraper:
-    """
-    Scrapes OptiSigns support articles via Zendesk Help Center API
-    and converts them to clean Markdown files.
-
-    Supports delta detection via content hashing to avoid re-processing
-    unchanged articles.
-    """
 
     def __init__(
         self,
         output_dir: str = None,
         hash_store_file: str = None,
         base_url: str = None,
+        max_workers: int = MAX_WORKERS_SCRAPE,
     ):
         self.base_url = base_url or os.getenv("SUPPORT_BASE_URL", "https://support.optisigns.com")
         self.output_dir = Path(output_dir or os.getenv("OUTPUT_DIR", "articles"))
         self.hash_store_file = Path(hash_store_file or os.getenv("HASH_STORE_FILE", "article_hashes.json"))
         self.api_client = ZendeskClient(self.base_url)
+        self.max_workers = max_workers
 
         # Stats
         self.stats = {"added": 0, "updated": 0, "skipped": 0, "errors": 0, "total_fetched": 0}
@@ -76,54 +69,69 @@ class OptiSignsScraper:
         header += "---\n\n"
         return header
 
-    def _process_article(self, article: dict, existing_hashes: dict) -> tuple[str, str, bool]:
-        """
-        Process a single article: convert to Markdown, detect changes.
-
-        Returns:
-            (slug, markdown_content, is_changed, content_hash, article_id)
-        """
+    def _process_single_article(
+        self, article: dict, existing_hashes: dict, index: int, total: int
+    ) -> dict:
         title = article.get("title", "Untitled")
         article_id = str(article.get("id", ""))
-        html_body = self.api_client.fetch_article_body(article)
 
-        if not html_body:
-            logger.warning(f"Empty body for article: {title}")
-            return None, None, False
+        try:
+            html_body = self.api_client.fetch_article_body(article)
 
-        # Convert HTML to Markdown
-        article_url = article.get("html_url", "")
-        markdown_body = html_to_clean_markdown(html_body, article_url)
-        header = self._build_article_header(article)
-        full_markdown = header + markdown_body
+            if not html_body:
+                logger.warning(f"[{index}/{total}] Empty body: {title}")
+                return {"status": "error", "title": title}
 
-        # Compute hash for delta detection
-        new_hash = compute_hash(full_markdown)
-        old_hash = existing_hashes.get(article_id, {}).get("hash", "")
+            # Convert HTML to Markdown
+            article_url = article.get("html_url", "")
+            markdown_body = html_to_clean_markdown(html_body, article_url)
+            header = self._build_article_header(article)
+            full_markdown = header + markdown_body
 
-        # Generate slug
-        slug = slugify(title)
+            # Compute hash for delta detection
+            new_hash = compute_hash(full_markdown)
+            old_hash = existing_hashes.get(article_id, {}).get("hash", "")
 
-        is_changed = new_hash != old_hash
-        return slug, full_markdown, is_changed, new_hash, article_id
+            # Generate slug
+            slug = slugify(title)
+            file_path = self.output_dir / f"{slug}.md"
+
+            # Determine action
+            is_new = article_id not in existing_hashes
+            is_changed = new_hash != old_hash
+
+            if is_new:
+                file_path.write_text(full_markdown, encoding="utf-8")
+                logger.info(f"[{index}/{total}] ADDED: {file_path.name}")
+                status = "added"
+            elif is_changed:
+                file_path.write_text(full_markdown, encoding="utf-8")
+                logger.info(f"[{index}/{total}] UPDATED: {file_path.name}")
+                status = "updated"
+            else:
+                logger.info(f"[{index}/{total}] SKIPPED: {file_path.name}")
+                status = "skipped"
+
+            return {
+                "status": status,
+                "article_id": article_id,
+                "hash": new_hash,
+                "slug": slug,
+                "title": title,
+                "updated_at": article.get("updated_at", ""),
+            }
+
+        except Exception as e:
+            logger.error(f"[{index}/{total}] ERROR '{title}': {e}")
+            return {"status": "error", "title": title}
 
     # ------------------------------------------------------------------
     # Main entry point
     # ------------------------------------------------------------------
     def run(self) -> dict:
-        """
-        Run the full scraping pipeline:
-        1. Fetch all articles from Zendesk API
-        2. Convert to Markdown
-        3. Detect changes (delta)
-        4. Save only new/updated articles
-        5. Return stats
-
-        Returns:
-            dict with counts: added, updated, skipped, errors, total_fetched
-        """
         logger.info("=" * 60)
         logger.info("OptiSigns Support Scraper - Starting")
+        logger.info(f"  Concurrency: {self.max_workers} threads")
         logger.info("=" * 60)
 
         # Create output directory
@@ -133,7 +141,7 @@ class OptiSignsScraper:
         existing_hashes = self._load_hashes()
         new_hashes = {}
 
-        # Fetch all articles
+        # Fetch all articles (sequential — respects Zendesk rate limits)
         articles = self.api_client.fetch_all_articles()
         self.stats["total_fetched"] = len(articles)
 
@@ -141,51 +149,42 @@ class OptiSignsScraper:
             logger.warning("No articles fetched. Exiting.")
             return self.stats
 
-        # Process each article
-        for i, article in enumerate(articles, 1):
-            title = article.get("title", "Untitled")
-            logger.info(f"[{i}/{len(articles)}] Processing: {title}")
+        logger.info(f"Processing {len(articles)} articles with {self.max_workers} threads...")
 
-            try:
-                result = self._process_article(article, existing_hashes)
-                if result[0] is None:
+        # Process articles CONCURRENTLY
+        futures = {}
+        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
+            for i, article in enumerate(articles, 1):
+                future = executor.submit(
+                    self._process_single_article,
+                    article, existing_hashes, i, len(articles)
+                )
+                futures[future] = article
+
+            # Collect results as they complete
+            for future in as_completed(futures):
+                result = future.result()
+                status = result.get("status", "error")
+
+                if status == "added":
+                    self.stats["added"] += 1
+                elif status == "updated":
+                    self.stats["updated"] += 1
+                elif status == "skipped":
+                    self.stats["skipped"] += 1
+                else:
                     self.stats["errors"] += 1
                     continue
 
-                slug, full_markdown, is_changed, content_hash, article_id = result
-
-                # Store hash
-                new_hashes[article_id] = {
-                    "hash": content_hash,
-                    "slug": slug,
-                    "title": title,
-                    "updated_at": article.get("updated_at", ""),
-                }
-
-                # Save file only if changed
-                file_path = self.output_dir / f"{slug}.md"
-
-                if article_id not in existing_hashes:
-                    # New article
-                    file_path.write_text(full_markdown, encoding="utf-8")
-                    self.stats["added"] += 1
-                    logger.info(f"  ✅ ADDED: {file_path.name}")
-                elif is_changed:
-                    # Updated article
-                    file_path.write_text(full_markdown, encoding="utf-8")
-                    self.stats["updated"] += 1
-                    logger.info(f"  🔄 UPDATED: {file_path.name}")
-                else:
-                    # Unchanged
-                    self.stats["skipped"] += 1
-                    logger.info(f"  ⏭️  SKIPPED (unchanged): {file_path.name}")
-
-                # Small delay to be nice to the API
-                time.sleep(0.2)
-
-            except Exception as e:
-                logger.error(f"  ❌ ERROR processing '{title}': {e}")
-                self.stats["errors"] += 1
+                # Store hash for successful processing
+                article_id = result.get("article_id")
+                if article_id:
+                    new_hashes[article_id] = {
+                        "hash": result["hash"],
+                        "slug": result["slug"],
+                        "title": result["title"],
+                        "updated_at": result["updated_at"],
+                    }
 
         # Save updated hashes
         self._save_hashes(new_hashes)
@@ -202,6 +201,7 @@ class OptiSignsScraper:
         logger.info(f"  Errors:         {self.stats['errors']}")
         logger.info(f"  Output dir:     {self.output_dir.resolve()}")
         logger.info(f"  Hash store:     {self.hash_store_file.resolve()}")
+        logger.info(f"  Threads used:   {self.max_workers}")
         logger.info("=" * 60)
 
         return self.stats

@@ -1,18 +1,3 @@
-"""
-main.py - Entry point for the echo-vault scraper pipeline.
-
-This script orchestrates:
-1. Scraping articles from OptiSigns support (Zendesk)
-2. Converting to clean Markdown
-3. Detecting new/updated articles (delta via hashing)
-4. Uploading changed files to OpenAI Vector Store
-
-Usage:
-    python main.py              # Run full pipeline (scrape + upload)
-    python main.py --scrape     # Only scrape, no upload
-    python main.py --upload     # Only upload, no scrape
-"""
-
 import argparse
 import logging
 import sys
@@ -39,12 +24,17 @@ def run_scraper() -> dict:
     return stats
 
 
-def run_upload() -> dict:
-    """Run the vector store upload pipeline and return stats."""
-    # Import here to avoid requiring openai key just for scraping
-    from uploader import VectorStoreUploader
-    logger.info("Starting vector store upload pipeline...")
-    uploader = VectorStoreUploader()
+def run_upload(provider: str = "gemini") -> dict:
+    """Run the vector store / file search store upload pipeline and return stats."""
+    if provider == "openai":
+        from uploader import VectorStoreUploader
+        logger.info("Starting OpenAI Vector Store upload pipeline...")
+        uploader = VectorStoreUploader()
+    else:
+        from uploader import GeminiFileSearchUploader
+        logger.info("Starting Gemini File Search Store upload pipeline...")
+        uploader = GeminiFileSearchUploader()
+
     stats = uploader.run()
     return stats
 
@@ -53,7 +43,7 @@ def main():
     load_dotenv()
 
     parser = argparse.ArgumentParser(
-        description="Echo-Vault: OptiSigns support article scraper & vector store uploader"
+        description="Echo-Vault: support article scraper & vector store uploader"
     )
     parser.add_argument(
         "--scrape", action="store_true",
@@ -62,6 +52,10 @@ def main():
     parser.add_argument(
         "--upload", action="store_true",
         help="Only run uploader (no scrape)"
+    )
+    parser.add_argument(
+        "--provider", choices=["gemini", "openai"], default="gemini",
+        help="Upload provider: 'gemini' (default) or 'openai'"
     )
     args = parser.parse_args()
 
@@ -85,9 +79,9 @@ def main():
                      f"~{scrape_stats['updated']} updated, "
                      f"={scrape_stats['skipped']} skipped)")
 
-    # ---- Step 2: Upload to Vector Store ----
+    # ---- Step 2: Upload to File Search Store / Vector Store ----
     if args.upload or run_both:
-        upload_stats = run_upload()
+        upload_stats = run_upload(provider=args.provider)
         logger.info(f"Uploader done: {upload_stats.get('uploaded', 0)} files uploaded, "
                      f"{upload_stats.get('skipped', 0)} skipped")
 
