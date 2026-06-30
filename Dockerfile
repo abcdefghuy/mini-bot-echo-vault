@@ -7,8 +7,9 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy source code
-COPY scraper.py .
-COPY uploader.py .
+COPY scraper/ scraper/
+COPY uploader/ uploader/
+COPY utils/ utils/
 COPY main.py .
 
 # Run the pipeline

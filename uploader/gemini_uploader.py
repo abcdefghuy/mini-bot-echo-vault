@@ -42,7 +42,7 @@ class GeminiFileSearchUploader:
         self.client = genai.Client(api_key=api_key)
         self.articles_dir = Path(articles_dir or os.getenv("OUTPUT_DIR", "articles"))
         self.store_display_name = store_display_name
-        self.upload_hashes_file = Path(UPLOAD_HASHES_FILE)
+        self.upload_hashes_file = Path(os.getenv("UPLOAD_HASHES_FILE", UPLOAD_HASHES_FILE))
         self.max_workers = max_workers
 
         # Stats
