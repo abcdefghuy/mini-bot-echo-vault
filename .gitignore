@@ -3,5 +3,6 @@ __pycache__/
 *.pyc
 articles/
 article_hashes.json
+upload_hashes.json
 .venv/
 venv/

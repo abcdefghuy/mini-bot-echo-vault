@@ -15,7 +15,7 @@ import requests
 # ---------------------------------------------------------------------------
 DEFAULT_LOCALE = "en-us"
 PER_PAGE = 100  # Zendesk max per page
-RATE_LIMIT_PAUSE = 1  # seconds between API calls
+RATE_LIMIT_PAUSE = 0.3  # seconds between API calls (Zendesk allows 200 req/min)
 
 logger = logging.getLogger(__name__)
 
