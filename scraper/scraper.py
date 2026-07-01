@@ -109,7 +109,12 @@ class OptiSignsScraper:
                 logger.info(f"[{index}/{total}] UPDATED: {file_path.name}")
                 status = "updated"
             else:
-                logger.info(f"[{index}/{total}] SKIPPED: {file_path.name}")
+                # Hash unchanged — but still write if file missing (e.g. fresh CI checkout)
+                if not file_path.exists():
+                    file_path.write_text(full_markdown, encoding="utf-8")
+                    logger.info(f"[{index}/{total}] SKIPPED (restored): {file_path.name}")
+                else:
+                    logger.info(f"[{index}/{total}] SKIPPED: {file_path.name}")
                 status = "skipped"
 
             return {
