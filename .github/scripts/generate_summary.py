@@ -44,6 +44,12 @@ def main():
 
     if not scrape_match and not upload_match:
         summary_md += "> No summary data found in pipeline log.\n\n"
+        # Debug: print tail of log so we can see what's there
+        lines = log_content.strip().splitlines()
+        tail = lines[-20:] if len(lines) > 20 else lines
+        print("DEBUG: No summary patterns matched. Last lines of pipeline.log:")
+        for line in tail:
+            print(f"  | {line}")
 
     # Write to GitHub Step Summary
     summary_file = os.environ.get("GITHUB_STEP_SUMMARY")

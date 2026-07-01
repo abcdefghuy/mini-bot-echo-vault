@@ -33,7 +33,7 @@ jobs:
         HASH_STORE_FILE: "article_hashes.json"
         UPLOAD_HASHES_FILE: "upload_hashes.json"
       run: |
-        python main.py | tee pipeline.log
+        python main.py 2>&1 | tee pipeline.log
 
     - name: Generate Job Summary
       if: always()
