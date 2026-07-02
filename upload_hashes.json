@@ -147,6 +147,10 @@
     "hash": "908f7ea81030dced46c4843253ffeb652773de5c83a7ff92d640ae49b92f08e8",
     "doc_name": "uploaded:configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md"
   },
+  "connect-cisco-webex-rooms-to-optisigns-digital-signage.md": {
+    "hash": "0cfeb60044f4175c2a3e25a65f2f164cfe3c588f339fe2f892d2aad1527ca4ed",
+    "doc_name": "uploaded:connect-cisco-webex-rooms-to-optisigns-digital-signage.md"
+  },
   "connect-google-meet-hardware-to-optisigns-digital-signage.md": {
     "hash": "3224301bc8b24fde10547d855ba8dfba39ef7e551651d723b17fc329160a9048",
     "doc_name": "uploaded:connect-google-meet-hardware-to-optisigns-digital-signage.md"
@@ -202,10 +206,6 @@
   "displaying-sharepoint-sites-on-optisigns.md": {
     "hash": "bb6db711e8b03e798ad94a34c6d8da689b0db844e8798b38be6c9672d1bcbbed",
     "doc_name": "uploaded:displaying-sharepoint-sites-on-optisigns.md"
-  },
-  "does-optisigns-offer-non-profiteducation-discount.md": {
-    "hash": "a151f3aba8753519ff882d79884e4c6edca33a10f4f46fb57e662beb8303566b",
-    "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
   },
   "edit-screen-what-does-each-option-do.md": {
     "hash": "f0dfff7823e393e7bb70f263f60c605e72397d4a7a8be8ce0fc4774d1c6bc50b",
@@ -506,6 +506,10 @@
   "how-to-export-high-resolution-canvas-template-designs.md": {
     "hash": "c73e5737a0cd6d6a97ebfbf80ebeec9cc667230ab81baf5f7d4b3b9b9210a340",
     "doc_name": "uploaded:how-to-export-high-resolution-canvas-template-designs.md"
+  },
+  "how-to-factory-reset-your-fire-stick-device.md": {
+    "hash": "7faeaca8896e41b0eb45eacbc288c4b38955038095c6bad13a9ba93f03e95030",
+    "doc_name": "uploaded:how-to-factory-reset-your-fire-stick-device.md"
   },
   "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3.md": {
     "hash": "18bb5258e679b7ebfa53e9fe6ab69d7c157c199486fa23819af7dc359a873a1b",
@@ -1599,12 +1603,16 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "connect-cisco-webex-rooms-to-optisigns-digital-signage.md": {
-    "hash": "0cfeb60044f4175c2a3e25a65f2f164cfe3c588f339fe2f892d2aad1527ca4ed",
-    "doc_name": "uploaded:connect-cisco-webex-rooms-to-optisigns-digital-signage.md"
+  "does-optisigns-offer-non-profiteducation-discount.md": {
+    "hash": "443df29c418e6af99522168fb70640893d9d7a561c7750345223c3d250881c91",
+    "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
   },
-  "how-to-factory-reset-your-fire-stick-device.md": {
-    "hash": "7faeaca8896e41b0eb45eacbc288c4b38955038095c6bad13a9ba93f03e95030",
-    "doc_name": "uploaded:how-to-factory-reset-your-fire-stick-device.md"
+  "how-to-display-a-snowflake-dashboard-with-optisigns.md": {
+    "hash": "244795c1632f98b58d057d661f43d06c2b57cd66e208c66afc5679a014382dd6",
+    "doc_name": "uploaded:how-to-display-a-snowflake-dashboard-with-optisigns.md"
+  },
+  "using-the-japan-earthquake-app.md": {
+    "hash": "40736d178375ff6e29ec81b94de705c1fa21ceb9f66867e2882bfa2969442b43",
+    "doc_name": "uploaded:using-the-japan-earthquake-app.md"
   }
 }
