@@ -827,6 +827,10 @@
     "hash": "1dc2701fcefe9808c6a54daaa13af6e1287ba62df6ccd6f2f34e98c73c091c55",
     "doc_name": "uploaded:how-to-use-facebook-video-app.md"
   },
+  "how-to-use-follow-us-app.md": {
+    "hash": "202759a80f803acf4950a0db551523ff01a230d24282cabe71d8168f54e353d4",
+    "doc_name": "uploaded:how-to-use-follow-us-app.md"
+  },
   "how-to-use-google-calendar-with-optisigns.md": {
     "hash": "6562018d4a08cad1b3eb2645848bafe3775fe84177416fb26dc0022703c16291",
     "doc_name": "uploaded:how-to-use-google-calendar-with-optisigns.md"
@@ -1307,6 +1311,10 @@
     "hash": "b7af1c92c8c9c9a5568a49a76025d1efa1d85066cb2ee9de069be176d4b49701",
     "doc_name": "uploaded:multilingual-and-multi-currency.md"
   },
+  "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md": {
+    "hash": "df482d139cc7cdac900449f0e42aed67e7cefd8d0e587171569814f539e5e6c7",
+    "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md"
+  },
   "my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-p.md": {
     "hash": "18cb1ebebb2a865ce908b8c3ef1e7704f626d8f4c221b627b6c8e489a5bb2a3e",
     "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-p.md"
@@ -1531,10 +1539,6 @@
     "hash": "570d8b0870f2e7e78dc8649f53985262a4c8220f8ee243c05768006f353d34e7",
     "doc_name": "uploaded:using-rs-232-to-schedule-tv-power-onoff-or-other-commands.md"
   },
-  "using-the-japan-earthquake-app.md": {
-    "hash": "40736d178375ff6e29ec81b94de705c1fa21ceb9f66867e2882bfa2969442b43",
-    "doc_name": "uploaded:using-the-japan-earthquake-app.md"
-  },
   "video-codec-or-video-playback-issues.md": {
     "hash": "7efff985231b6bdd15f75bbb2a075a04c9cc38a2ae988c2f7a471e2530fd3da1",
     "doc_name": "uploaded:video-codec-or-video-playback-issues.md"
@@ -1607,12 +1611,12 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-use-follow-us-app.md": {
-    "hash": "202759a80f803acf4950a0db551523ff01a230d24282cabe71d8168f54e353d4",
-    "doc_name": "uploaded:how-to-use-follow-us-app.md"
+  "what-access-does-optisigns-have-to-my-account-and-devices.md": {
+    "hash": "b814d4ac0759e37b420c455001002a78f6334c648d6fdd9eddb46ebda7e1ce71",
+    "doc_name": "uploaded:what-access-does-optisigns-have-to-my-account-and-devices.md"
   },
-  "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md": {
-    "hash": "df482d139cc7cdac900449f0e42aed67e7cefd8d0e587171569814f539e5e6c7",
-    "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md"
+  "using-the-japan-earthquake-app.md": {
+    "hash": "7290265684961c224f2fb27276b654fb4fae5402451dd086cce1bbfe725cb45c",
+    "doc_name": "uploaded:using-the-japan-earthquake-app.md"
   }
 }
