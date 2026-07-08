@@ -99,10 +99,6 @@
     "hash": "041bb168b3790e767519b9a1dfd76f3953d4415d1df76642cf8b620dbf56add4",
     "doc_name": "uploaded:audience-intelligence-ai-camera-faqs.md"
   },
-  "billing-how-do-i-change-my-subscription-plan.md": {
-    "hash": "85b4ddc9a3093af23b15b53149235c5311296b4a52b4fdfcf77d8421d1b702a7",
-    "doc_name": "uploaded:billing-how-do-i-change-my-subscription-plan.md"
-  },
   "brand-kit-and-enforcing-brand-guidelines.md": {
     "hash": "673fac0634833ed03c9821845e42d95172d2fafb2496134795f73ff16ee64717",
     "doc_name": "uploaded:brand-kit-and-enforcing-brand-guidelines.md"
@@ -426,10 +422,6 @@
   "how-to-create-and-use-nested-playlists.md": {
     "hash": "89ca9970cee7e0e0dde6b8f7d8bf1e503904e6e9b55d779e2bf208919cd1ed46",
     "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
-  },
-  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
-    "hash": "8d0b4ebe62b0c492dd8bf4222f3ea6a99f81a27628a5f821c5f5307ffbe69337",
-    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
   },
   "how-to-create-and-use-qr-code-call-to-action-app.md": {
     "hash": "be3dffc15ebd8dd195610b2c1d646850d23a61f13b1bc41e1e9eab0343c104b8",
@@ -1215,10 +1207,6 @@
     "hash": "5d53ea6f1cb76db7eeb0a23c24b086ca5f8373d2bd774d6f7504bfa47da13882",
     "doc_name": "uploaded:how-to-use-youtube-playlist-with-optisigns.md"
   },
-  "how-to-use-youtube-with-optisigns.md": {
-    "hash": "b7c6826ecdaffebe684479f67430a27adb513b1c469fa3009ab94aebb5e43518",
-    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
-  },
   "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md": {
     "hash": "8ff5b63b7e7a2e5f6437415479f7f5a06bc808332be9bce4626331fd5b4ef0d0",
     "doc_name": "uploaded:how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md"
@@ -1310,6 +1298,10 @@
   "multilingual-and-multi-currency.md": {
     "hash": "b7af1c92c8c9c9a5568a49a76025d1efa1d85066cb2ee9de069be176d4b49701",
     "doc_name": "uploaded:multilingual-and-multi-currency.md"
+  },
+  "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md": {
+    "hash": "fe954950af9a570e3edcf1e740a6b3534d33209531a220a03a12ba534c79963a",
+    "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md"
   },
   "my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-p.md": {
     "hash": "18cb1ebebb2a865ce908b8c3ef1e7704f626d8f4c221b627b6c8e489a5bb2a3e",
@@ -1423,10 +1415,6 @@
     "hash": "27d8e6a0ffc43e6f61c966df975b7532e787c7d6b633838ab06e7bf60be34fed",
     "doc_name": "uploaded:roku-troubleshooting-guide.md"
   },
-  "room-integrations-turn-your-meeting-rooms-into-digital-signage.md": {
-    "hash": "28dc3ab5da5851fc50bb075c8bb61b9c3d1b48c5df7d9faae474b9d7d0ded2ae",
-    "doc_name": "uploaded:room-integrations-turn-your-meeting-rooms-into-digital-signage.md"
-  },
   "saml-integration-strategies-best-practices.md": {
     "hash": "e7ed7e84acd1dbe5eb7ae0b7bd46a3c71a5cf3547f274d4c6ac8957a208ba3ed",
     "doc_name": "uploaded:saml-integration-strategies-best-practices.md"
@@ -1483,6 +1471,10 @@
     "hash": "2d3d6814c3edc1317b69d1492d9692eda68df2ebfd7f9a4371a74584329f89fd",
     "doc_name": "uploaded:subscription-function-in-graphql.md"
   },
+  "synchronized-playback-sync-play-feature.md": {
+    "hash": "f0b69eff66cb7401b4886adc5a4ac9c7913be08614d63a0d7067df7ee5c284f7",
+    "doc_name": "uploaded:synchronized-playback-sync-play-feature.md"
+  },
   "tagging-in-optisigns.md": {
     "hash": "45a39a90403963b06dea01d9f66022775630587534cbdef0dc91a31365fcb5e3",
     "doc_name": "uploaded:tagging-in-optisigns.md"
@@ -1530,10 +1522,6 @@
   "using-rs-232-to-schedule-tv-power-onoff-or-other-commands.md": {
     "hash": "570d8b0870f2e7e78dc8649f53985262a4c8220f8ee243c05768006f353d34e7",
     "doc_name": "uploaded:using-rs-232-to-schedule-tv-power-onoff-or-other-commands.md"
-  },
-  "using-the-japan-earthquake-app.md": {
-    "hash": "7290265684961c224f2fb27276b654fb4fae5402451dd086cce1bbfe725cb45c",
-    "doc_name": "uploaded:using-the-japan-earthquake-app.md"
   },
   "video-codec-or-video-playback-issues.md": {
     "hash": "7efff985231b6bdd15f75bbb2a075a04c9cc38a2ae988c2f7a471e2530fd3da1",
@@ -1611,12 +1599,28 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "synchronized-playback-sync-play-feature.md": {
-    "hash": "f0b69eff66cb7401b4886adc5a4ac9c7913be08614d63a0d7067df7ee5c284f7",
-    "doc_name": "uploaded:synchronized-playback-sync-play-feature.md"
+  "how-to-use-youtube-with-optisigns.md": {
+    "hash": "b78617f72f446f099ed5c587b28a914a64439be75aa194bd74b6efeff956e32c",
+    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
   },
-  "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md": {
-    "hash": "fe954950af9a570e3edcf1e740a6b3534d33209531a220a03a12ba534c79963a",
-    "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md"
+  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
+    "hash": "b44e84052edb293f2212940c753bc01f6a47d74cb43ebb8c9b3eea131ff60dd8",
+    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
+  },
+  "room-integrations-turn-your-meeting-rooms-into-digital-signage.md": {
+    "hash": "9243fcf70c44bc049351af03ceb31ff348fd231da4d4f1d66559eafaf3ab2a48",
+    "doc_name": "uploaded:room-integrations-turn-your-meeting-rooms-into-digital-signage.md"
+  },
+  "billing-how-do-i-change-my-subscription-plan.md": {
+    "hash": "3d6046aac9f46252c3e9b286a1f853f166cce8a0c7f45e02a0ecc8f1e7525a74",
+    "doc_name": "uploaded:billing-how-do-i-change-my-subscription-plan.md"
+  },
+  "using-the-japan-earthquake-app.md": {
+    "hash": "52319d0935ee2a29298424c7c21ebf324ae071280dd1fa5d33577d603d4a02a7",
+    "doc_name": "uploaded:using-the-japan-earthquake-app.md"
+  },
+  "refer-earn-optisigns-referral-program.md": {
+    "hash": "350b0d1c20ccdd332b3f7b3bfd91ef16f62eac8824bbf6dcaa3fe4b20ee2e88d",
+    "doc_name": "uploaded:refer-earn-optisigns-referral-program.md"
   }
 }
