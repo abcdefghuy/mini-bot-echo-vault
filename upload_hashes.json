@@ -99,6 +99,10 @@
     "hash": "041bb168b3790e767519b9a1dfd76f3953d4415d1df76642cf8b620dbf56add4",
     "doc_name": "uploaded:audience-intelligence-ai-camera-faqs.md"
   },
+  "billing-how-do-i-change-my-subscription-plan.md": {
+    "hash": "3d6046aac9f46252c3e9b286a1f853f166cce8a0c7f45e02a0ecc8f1e7525a74",
+    "doc_name": "uploaded:billing-how-do-i-change-my-subscription-plan.md"
+  },
   "brand-kit-and-enforcing-brand-guidelines.md": {
     "hash": "673fac0634833ed03c9821845e42d95172d2fafb2496134795f73ff16ee64717",
     "doc_name": "uploaded:brand-kit-and-enforcing-brand-guidelines.md"
@@ -355,10 +359,6 @@
     "hash": "e161685ac103166460ced2231bb81ff783d08ae699102336cccbe196d28f5edf",
     "doc_name": "uploaded:how-to-change-close-nav-bar-styler-preferences.md"
   },
-  "how-to-change-time-zone-on-your-fire-stick-device.md": {
-    "hash": "59eaeac0534698b4221921f569099b652138d0f8b236c9ba7b62dcfb32df33b7",
-    "doc_name": "uploaded:how-to-change-time-zone-on-your-fire-stick-device.md"
-  },
   "how-to-change-time-zone-on-your-raspberry-pi-device.md": {
     "hash": "7399dd690a6775a098bc92cd91f19e8253624f044ce879e0b3e084575fc4ef1c",
     "doc_name": "uploaded:how-to-change-time-zone-on-your-raspberry-pi-device.md"
@@ -422,6 +422,10 @@
   "how-to-create-and-use-nested-playlists.md": {
     "hash": "89ca9970cee7e0e0dde6b8f7d8bf1e503904e6e9b55d779e2bf208919cd1ed46",
     "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
+  },
+  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
+    "hash": "b44e84052edb293f2212940c753bc01f6a47d74cb43ebb8c9b3eea131ff60dd8",
+    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
   },
   "how-to-create-and-use-qr-code-call-to-action-app.md": {
     "hash": "be3dffc15ebd8dd195610b2c1d646850d23a61f13b1bc41e1e9eab0343c104b8",
@@ -674,10 +678,6 @@
   "how-to-set-up-audit-log-for-your-account.md": {
     "hash": "8a1f3c2c557a8b98c512b87c5e643d895852f583ff6b84cc94fe76ac81968157",
     "doc_name": "uploaded:how-to-set-up-audit-log-for-your-account.md"
-  },
-  "how-to-set-up-dynamic-data-mapping-with-optisync.md": {
-    "hash": "c74dca8a7ea3c4db48c24f08bc7fa727b61489e5c2394f378e32f860516978cb",
-    "doc_name": "uploaded:how-to-set-up-dynamic-data-mapping-with-optisync.md"
   },
   "how-to-set-up-monitoring-alert-feature.md": {
     "hash": "8e958e1b5126534695b4808dffc33c59684acedce15cb8bedea6de0b571628fa",
@@ -1207,6 +1207,10 @@
     "hash": "5d53ea6f1cb76db7eeb0a23c24b086ca5f8373d2bd774d6f7504bfa47da13882",
     "doc_name": "uploaded:how-to-use-youtube-playlist-with-optisigns.md"
   },
+  "how-to-use-youtube-with-optisigns.md": {
+    "hash": "b78617f72f446f099ed5c587b28a914a64439be75aa194bd74b6efeff956e32c",
+    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
+  },
   "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md": {
     "hash": "8ff5b63b7e7a2e5f6437415479f7f5a06bc808332be9bce4626331fd5b4ef0d0",
     "doc_name": "uploaded:how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md"
@@ -1399,6 +1403,10 @@
     "hash": "83b758c4c3f5b09c9933fd1a9126d03e4b1561863f8bb011040e1aa3b672b62d",
     "doc_name": "uploaded:raspberry-pi.md"
   },
+  "refer-earn-optisigns-referral-program.md": {
+    "hash": "350b0d1c20ccdd332b3f7b3bfd91ef16f62eac8824bbf6dcaa3fe4b20ee2e88d",
+    "doc_name": "uploaded:refer-earn-optisigns-referral-program.md"
+  },
   "remotely-control-and-command-optisigns-devices.md": {
     "hash": "52ce49b557fadf30221e2999c444cb7e39640042bf3e19488678e32c48ea24b3",
     "doc_name": "uploaded:remotely-control-and-command-optisigns-devices.md"
@@ -1414,6 +1422,10 @@
   "roku-troubleshooting-guide.md": {
     "hash": "27d8e6a0ffc43e6f61c966df975b7532e787c7d6b633838ab06e7bf60be34fed",
     "doc_name": "uploaded:roku-troubleshooting-guide.md"
+  },
+  "room-integrations-turn-your-meeting-rooms-into-digital-signage.md": {
+    "hash": "9243fcf70c44bc049351af03ceb31ff348fd231da4d4f1d66559eafaf3ab2a48",
+    "doc_name": "uploaded:room-integrations-turn-your-meeting-rooms-into-digital-signage.md"
   },
   "saml-integration-strategies-best-practices.md": {
     "hash": "e7ed7e84acd1dbe5eb7ae0b7bd46a3c71a5cf3547f274d4c6ac8957a208ba3ed",
@@ -1523,6 +1535,10 @@
     "hash": "570d8b0870f2e7e78dc8649f53985262a4c8220f8ee243c05768006f353d34e7",
     "doc_name": "uploaded:using-rs-232-to-schedule-tv-power-onoff-or-other-commands.md"
   },
+  "using-the-japan-earthquake-app.md": {
+    "hash": "52319d0935ee2a29298424c7c21ebf324ae071280dd1fa5d33577d603d4a02a7",
+    "doc_name": "uploaded:using-the-japan-earthquake-app.md"
+  },
   "video-codec-or-video-playback-issues.md": {
     "hash": "7efff985231b6bdd15f75bbb2a075a04c9cc38a2ae988c2f7a471e2530fd3da1",
     "doc_name": "uploaded:video-codec-or-video-playback-issues.md"
@@ -1571,10 +1587,6 @@
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "aa5f7ba82f400494f4a7ea9376623d572fdd9bc6af25e09e76e06fc72f2234cb",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
-  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1599,28 +1611,16 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-use-youtube-with-optisigns.md": {
-    "hash": "b78617f72f446f099ed5c587b28a914a64439be75aa194bd74b6efeff956e32c",
-    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
+  "how-to-set-up-dynamic-data-mapping-with-optisync.md": {
+    "hash": "858091eaa1e73efbe8dd0db7052b2f942a04579dddc845983bba8d31f932e49f",
+    "doc_name": "uploaded:how-to-set-up-dynamic-data-mapping-with-optisync.md"
   },
-  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
-    "hash": "b44e84052edb293f2212940c753bc01f6a47d74cb43ebb8c9b3eea131ff60dd8",
-    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
+  "how-to-change-time-zone-on-your-fire-stick-device.md": {
+    "hash": "69c2ff52c1fbbd3c1f120d364d5d1868534fa0bfe28150f937d3cb6504fa168c",
+    "doc_name": "uploaded:how-to-change-time-zone-on-your-fire-stick-device.md"
   },
-  "room-integrations-turn-your-meeting-rooms-into-digital-signage.md": {
-    "hash": "9243fcf70c44bc049351af03ceb31ff348fd231da4d4f1d66559eafaf3ab2a48",
-    "doc_name": "uploaded:room-integrations-turn-your-meeting-rooms-into-digital-signage.md"
-  },
-  "billing-how-do-i-change-my-subscription-plan.md": {
-    "hash": "3d6046aac9f46252c3e9b286a1f853f166cce8a0c7f45e02a0ecc8f1e7525a74",
-    "doc_name": "uploaded:billing-how-do-i-change-my-subscription-plan.md"
-  },
-  "using-the-japan-earthquake-app.md": {
-    "hash": "52319d0935ee2a29298424c7c21ebf324ae071280dd1fa5d33577d603d4a02a7",
-    "doc_name": "uploaded:using-the-japan-earthquake-app.md"
-  },
-  "refer-earn-optisigns-referral-program.md": {
-    "hash": "350b0d1c20ccdd332b3f7b3bfd91ef16f62eac8824bbf6dcaa3fe4b20ee2e88d",
-    "doc_name": "uploaded:refer-earn-optisigns-referral-program.md"
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "fd945b0356653691faa61f0064da8a3acfba8417f1c203b8c7e4f6f214a926b4",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
   }
 }
