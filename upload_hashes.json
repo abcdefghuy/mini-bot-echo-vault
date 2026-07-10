@@ -359,6 +359,10 @@
     "hash": "e161685ac103166460ced2231bb81ff783d08ae699102336cccbe196d28f5edf",
     "doc_name": "uploaded:how-to-change-close-nav-bar-styler-preferences.md"
   },
+  "how-to-change-time-zone-on-your-fire-stick-device.md": {
+    "hash": "69c2ff52c1fbbd3c1f120d364d5d1868534fa0bfe28150f937d3cb6504fa168c",
+    "doc_name": "uploaded:how-to-change-time-zone-on-your-fire-stick-device.md"
+  },
   "how-to-change-time-zone-on-your-raspberry-pi-device.md": {
     "hash": "7399dd690a6775a098bc92cd91f19e8253624f044ce879e0b3e084575fc4ef1c",
     "doc_name": "uploaded:how-to-change-time-zone-on-your-raspberry-pi-device.md"
@@ -430,10 +434,6 @@
   "how-to-create-and-use-qr-code-call-to-action-app.md": {
     "hash": "be3dffc15ebd8dd195610b2c1d646850d23a61f13b1bc41e1e9eab0343c104b8",
     "doc_name": "uploaded:how-to-create-and-use-qr-code-call-to-action-app.md"
-  },
-  "how-to-create-and-use-the-split-screen-app.md": {
-    "hash": "2e456a3868492454dc886c74572ef7317bc8daf76cfa436ab211394701c9a538",
-    "doc_name": "uploaded:how-to-create-and-use-the-split-screen-app.md"
   },
   "how-to-create-and-use-virtual-screen-app.md": {
     "hash": "3da844aa60c1576d11964dc7b3ee30fefd09d79905c3b46fa888968469b58094",
@@ -678,6 +678,10 @@
   "how-to-set-up-audit-log-for-your-account.md": {
     "hash": "8a1f3c2c557a8b98c512b87c5e643d895852f583ff6b84cc94fe76ac81968157",
     "doc_name": "uploaded:how-to-set-up-audit-log-for-your-account.md"
+  },
+  "how-to-set-up-dynamic-data-mapping-with-optisync.md": {
+    "hash": "858091eaa1e73efbe8dd0db7052b2f942a04579dddc845983bba8d31f932e49f",
+    "doc_name": "uploaded:how-to-set-up-dynamic-data-mapping-with-optisync.md"
   },
   "how-to-set-up-monitoring-alert-feature.md": {
     "hash": "8e958e1b5126534695b4808dffc33c59684acedce15cb8bedea6de0b571628fa",
@@ -1587,6 +1591,10 @@
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "fd945b0356653691faa61f0064da8a3acfba8417f1c203b8c7e4f6f214a926b4",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1611,16 +1619,8 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-set-up-dynamic-data-mapping-with-optisync.md": {
-    "hash": "858091eaa1e73efbe8dd0db7052b2f942a04579dddc845983bba8d31f932e49f",
-    "doc_name": "uploaded:how-to-set-up-dynamic-data-mapping-with-optisync.md"
-  },
-  "how-to-change-time-zone-on-your-fire-stick-device.md": {
-    "hash": "69c2ff52c1fbbd3c1f120d364d5d1868534fa0bfe28150f937d3cb6504fa168c",
-    "doc_name": "uploaded:how-to-change-time-zone-on-your-fire-stick-device.md"
-  },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "fd945b0356653691faa61f0064da8a3acfba8417f1c203b8c7e4f6f214a926b4",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  "how-to-create-and-use-the-split-screen-app.md": {
+    "hash": "c63bca0caf3e0d93e85b5eff16e56f3a0b82b08c5775f210518405291d0f040e",
+    "doc_name": "uploaded:how-to-create-and-use-the-split-screen-app.md"
   }
 }
