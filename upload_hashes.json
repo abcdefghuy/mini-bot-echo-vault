@@ -435,6 +435,10 @@
     "hash": "be3dffc15ebd8dd195610b2c1d646850d23a61f13b1bc41e1e9eab0343c104b8",
     "doc_name": "uploaded:how-to-create-and-use-qr-code-call-to-action-app.md"
   },
+  "how-to-create-and-use-the-split-screen-app.md": {
+    "hash": "c63bca0caf3e0d93e85b5eff16e56f3a0b82b08c5775f210518405291d0f040e",
+    "doc_name": "uploaded:how-to-create-and-use-the-split-screen-app.md"
+  },
   "how-to-create-and-use-virtual-screen-app.md": {
     "hash": "3da844aa60c1576d11964dc7b3ee30fefd09d79905c3b46fa888968469b58094",
     "doc_name": "uploaded:how-to-create-and-use-virtual-screen-app.md"
@@ -546,10 +550,6 @@
   "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md": {
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
-  },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "fa943a75b4ce639ee1507245ebca5118f2e7a60f8abc22327f405523bce4929d",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
@@ -1619,8 +1619,8 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-create-and-use-the-split-screen-app.md": {
-    "hash": "c63bca0caf3e0d93e85b5eff16e56f3a0b82b08c5775f210518405291d0f040e",
-    "doc_name": "uploaded:how-to-create-and-use-the-split-screen-app.md"
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "0341b6d00a3480920849c2fb14bad5fedbbf0e538773ff918c4ab366680b3734",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   }
 }
