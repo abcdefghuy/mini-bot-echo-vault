@@ -551,6 +551,10 @@
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
   },
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "0341b6d00a3480920849c2fb14bad5fedbbf0e538773ff918c4ab366680b3734",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
+  },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
     "doc_name": "uploaded:how-to-install-optisigns-as-an-apk-file-on-android-devices.md"
@@ -1618,9 +1622,5 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
-  },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "0341b6d00a3480920849c2fb14bad5fedbbf0e538773ff918c4ab366680b3734",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   }
 }
