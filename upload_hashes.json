@@ -1003,10 +1003,6 @@
     "hash": "005ba6985143bd12300db84e6e0ea6e367c3b78359f251ef6f3667ffef8f5efa",
     "doc_name": "uploaded:how-to-use-the-atlassian-jira-app.md"
   },
-  "how-to-use-the-cap-alert-app.md": {
-    "hash": "c3ea35f752d83c24804ff8bd67b8a8c82f9ef090e196a2ebf63e768c0dcfc920",
-    "doc_name": "uploaded:how-to-use-the-cap-alert-app.md"
-  },
   "how-to-use-the-cbc-news-app.md": {
     "hash": "d21565f9b2ba05ac2663541002c270eea449175b92cf959fc984911566604d54",
     "doc_name": "uploaded:how-to-use-the-cbc-news-app.md"
@@ -1575,10 +1571,6 @@
     "hash": "853653387dbdbb7058b75ce33713576b887ea219c5e3e9da2f5e4774069de280",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
   },
-  "what-hardware-and-devices-are-supported.md": {
-    "hash": "9bcb89f715f7e5441bd268e5d0c27af64bffefb53c1b821103c5e77c0557c484",
-    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
-  },
   "what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md": {
     "hash": "3d6c2bd3b9f9cd0cef5dcdb97a54dc05c11153dc853dbddbc418edacc688e98f",
     "doc_name": "uploaded:what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md"
@@ -1622,5 +1614,13 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "what-hardware-and-devices-are-supported.md": {
+    "hash": "adc7f30dcfb277af17b28d11e966bbcbead229588de7a2721f3a5d33e71853a7",
+    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
+  },
+  "how-to-use-the-cap-alert-app.md": {
+    "hash": "2120636034c4cf1fe947bde5916fa6b05fcf9074ffb32b93b337ac7caafc7343",
+    "doc_name": "uploaded:how-to-use-the-cap-alert-app.md"
   }
 }
