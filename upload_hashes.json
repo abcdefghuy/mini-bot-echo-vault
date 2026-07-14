@@ -19,10 +19,6 @@
     "hash": "e471f8e655a8edd1de968091e13a79248cb39eaf502b01a64e6c953fbb06facc",
     "doc_name": "uploaded:adjusting-social-news-wall-speeds.md"
   },
-  "advanced-custom-domain-mapping.md": {
-    "hash": "d3b996509a7a26d80d968f9cb3d1c63d3967dd2f7913b1dba96237db5b4cec54",
-    "doc_name": "uploaded:advanced-custom-domain-mapping.md"
-  },
   "advanced-enforce-sso-login-for-your-account.md": {
     "hash": "e542de2cec9eae9efdd265eb0c9fa09e19d59d6633c64bdd65f03ac42c4afd1b",
     "doc_name": "uploaded:advanced-enforce-sso-login-for-your-account.md"
@@ -166,10 +162,6 @@
   "creating-and-using-schedules-with-optisigns.md": {
     "hash": "108461fa4c0a8e84a0c71a6a2695070316b9c75522e72ab3e0cd51aef1073101",
     "doc_name": "uploaded:creating-and-using-schedules-with-optisigns.md"
-  },
-  "custom-branding-settings.md": {
-    "hash": "bf1876474954644e4081deaf388ee99fcf127d4beadadc059b8a2f55f2b076b4",
-    "doc_name": "uploaded:custom-branding-settings.md"
   },
   "customize-text.md": {
     "hash": "0402e1d07b1b300f24045f8729d5dfde23d5369f374228f206e02a5dc798d86a",
@@ -451,10 +443,6 @@
     "hash": "030f3c8cecd646ac239c05bf4b8a6cc4a187dedda93785ed2286501255a2edce",
     "doc_name": "uploaded:how-to-create-custom-news-feeds-with-optisync.md"
   },
-  "how-to-create-use-playlists.md": {
-    "hash": "ad87d1d54c272a824522a5c08c6c161d9996e9e6510c93ed5c3f703a86e9f224",
-    "doc_name": "uploaded:how-to-create-use-playlists.md"
-  },
   "how-to-customize-the-thumbnail-of-files-assets-and-folders.md": {
     "hash": "7fa617c8dc37295bc9cbf165054b3ca41b3f8e7f9f3cb539605fd4fc26b5f83a",
     "doc_name": "uploaded:how-to-customize-the-thumbnail-of-files-assets-and-folders.md"
@@ -462,10 +450,6 @@
   "how-to-delete-your-account-from-optisigns.md": {
     "hash": "c2addecaa1103ee9a278f63185e43f7d2be4c2ab50df6ffd6af14111ba4226fd",
     "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
-  },
-  "how-to-design-kiosk-apps-using-kiosk-designer-pro.md": {
-    "hash": "4b3eae9862a436037e7b7eb0e5767d887b85b2e3f96a3354eaf9ed2cb657380e",
-    "doc_name": "uploaded:how-to-design-kiosk-apps-using-kiosk-designer-pro.md"
   },
   "how-to-display-a-snowflake-dashboard-with-optisigns.md": {
     "hash": "244795c1632f98b58d057d661f43d06c2b57cd66e208c66afc5679a014382dd6",
@@ -1002,6 +986,10 @@
   "how-to-use-the-atlassian-jira-app.md": {
     "hash": "005ba6985143bd12300db84e6e0ea6e367c3b78359f251ef6f3667ffef8f5efa",
     "doc_name": "uploaded:how-to-use-the-atlassian-jira-app.md"
+  },
+  "how-to-use-the-cap-alert-app.md": {
+    "hash": "2120636034c4cf1fe947bde5916fa6b05fcf9074ffb32b93b337ac7caafc7343",
+    "doc_name": "uploaded:how-to-use-the-cap-alert-app.md"
   },
   "how-to-use-the-cbc-news-app.md": {
     "hash": "d21565f9b2ba05ac2663541002c270eea449175b92cf959fc984911566604d54",
@@ -1571,6 +1559,10 @@
     "hash": "853653387dbdbb7058b75ce33713576b887ea219c5e3e9da2f5e4774069de280",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
   },
+  "what-hardware-and-devices-are-supported.md": {
+    "hash": "adc7f30dcfb277af17b28d11e966bbcbead229588de7a2721f3a5d33e71853a7",
+    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
+  },
   "what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md": {
     "hash": "3d6c2bd3b9f9cd0cef5dcdb97a54dc05c11153dc853dbddbc418edacc688e98f",
     "doc_name": "uploaded:what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md"
@@ -1615,12 +1607,20 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "what-hardware-and-devices-are-supported.md": {
-    "hash": "adc7f30dcfb277af17b28d11e966bbcbead229588de7a2721f3a5d33e71853a7",
-    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
+  "custom-branding-settings.md": {
+    "hash": "31b841da5157e5e708c2895d1e1cf0b5cf94d59e34775d87a4b78512d04751b5",
+    "doc_name": "uploaded:custom-branding-settings.md"
   },
-  "how-to-use-the-cap-alert-app.md": {
-    "hash": "2120636034c4cf1fe947bde5916fa6b05fcf9074ffb32b93b337ac7caafc7343",
-    "doc_name": "uploaded:how-to-use-the-cap-alert-app.md"
+  "how-to-design-kiosk-apps-using-kiosk-designer-pro.md": {
+    "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
+    "doc_name": "uploaded:how-to-design-kiosk-apps-using-kiosk-designer-pro.md"
+  },
+  "advanced-custom-domain-mapping.md": {
+    "hash": "539edb901677b867ac77ca3900e1e4bf5b09767b63d328497db3e7ec69ad4cd9",
+    "doc_name": "uploaded:advanced-custom-domain-mapping.md"
+  },
+  "how-to-create-use-playlists.md": {
+    "hash": "491875dae8365df1211d07909a6c5dae2d5aefad607644e84ecbe3847c682a00",
+    "doc_name": "uploaded:how-to-create-use-playlists.md"
   }
 }
