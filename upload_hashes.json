@@ -19,6 +19,10 @@
     "hash": "e471f8e655a8edd1de968091e13a79248cb39eaf502b01a64e6c953fbb06facc",
     "doc_name": "uploaded:adjusting-social-news-wall-speeds.md"
   },
+  "advanced-custom-domain-mapping.md": {
+    "hash": "539edb901677b867ac77ca3900e1e4bf5b09767b63d328497db3e7ec69ad4cd9",
+    "doc_name": "uploaded:advanced-custom-domain-mapping.md"
+  },
   "advanced-enforce-sso-login-for-your-account.md": {
     "hash": "e542de2cec9eae9efdd265eb0c9fa09e19d59d6633c64bdd65f03ac42c4afd1b",
     "doc_name": "uploaded:advanced-enforce-sso-login-for-your-account.md"
@@ -162,6 +166,10 @@
   "creating-and-using-schedules-with-optisigns.md": {
     "hash": "108461fa4c0a8e84a0c71a6a2695070316b9c75522e72ab3e0cd51aef1073101",
     "doc_name": "uploaded:creating-and-using-schedules-with-optisigns.md"
+  },
+  "custom-branding-settings.md": {
+    "hash": "31b841da5157e5e708c2895d1e1cf0b5cf94d59e34775d87a4b78512d04751b5",
+    "doc_name": "uploaded:custom-branding-settings.md"
   },
   "customize-text.md": {
     "hash": "0402e1d07b1b300f24045f8729d5dfde23d5369f374228f206e02a5dc798d86a",
@@ -411,10 +419,6 @@
     "hash": "3ad8c7f0e5f6a84484599e9ce99a19b4ca05e778a5cd00ce7590dcc5772c4c67",
     "doc_name": "uploaded:how-to-create-and-use-google-reviews-wall.md"
   },
-  "how-to-create-and-use-instagram-wall.md": {
-    "hash": "ed705748383cf27a5840e607db8a83f74301a579d3bf85c4ad9a99f6be4559da",
-    "doc_name": "uploaded:how-to-create-and-use-instagram-wall.md"
-  },
   "how-to-create-and-use-nested-playlists.md": {
     "hash": "89ca9970cee7e0e0dde6b8f7d8bf1e503904e6e9b55d779e2bf208919cd1ed46",
     "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
@@ -443,6 +447,10 @@
     "hash": "030f3c8cecd646ac239c05bf4b8a6cc4a187dedda93785ed2286501255a2edce",
     "doc_name": "uploaded:how-to-create-custom-news-feeds-with-optisync.md"
   },
+  "how-to-create-use-playlists.md": {
+    "hash": "491875dae8365df1211d07909a6c5dae2d5aefad607644e84ecbe3847c682a00",
+    "doc_name": "uploaded:how-to-create-use-playlists.md"
+  },
   "how-to-customize-the-thumbnail-of-files-assets-and-folders.md": {
     "hash": "7fa617c8dc37295bc9cbf165054b3ca41b3f8e7f9f3cb539605fd4fc26b5f83a",
     "doc_name": "uploaded:how-to-customize-the-thumbnail-of-files-assets-and-folders.md"
@@ -450,6 +458,10 @@
   "how-to-delete-your-account-from-optisigns.md": {
     "hash": "c2addecaa1103ee9a278f63185e43f7d2be4c2ab50df6ffd6af14111ba4226fd",
     "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
+  },
+  "how-to-design-kiosk-apps-using-kiosk-designer-pro.md": {
+    "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
+    "doc_name": "uploaded:how-to-design-kiosk-apps-using-kiosk-designer-pro.md"
   },
   "how-to-display-a-snowflake-dashboard-with-optisigns.md": {
     "hash": "244795c1632f98b58d057d661f43d06c2b57cd66e208c66afc5679a014382dd6",
@@ -1607,20 +1619,8 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "custom-branding-settings.md": {
-    "hash": "31b841da5157e5e708c2895d1e1cf0b5cf94d59e34775d87a4b78512d04751b5",
-    "doc_name": "uploaded:custom-branding-settings.md"
-  },
-  "how-to-design-kiosk-apps-using-kiosk-designer-pro.md": {
-    "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
-    "doc_name": "uploaded:how-to-design-kiosk-apps-using-kiosk-designer-pro.md"
-  },
-  "advanced-custom-domain-mapping.md": {
-    "hash": "539edb901677b867ac77ca3900e1e4bf5b09767b63d328497db3e7ec69ad4cd9",
-    "doc_name": "uploaded:advanced-custom-domain-mapping.md"
-  },
-  "how-to-create-use-playlists.md": {
-    "hash": "491875dae8365df1211d07909a6c5dae2d5aefad607644e84ecbe3847c682a00",
-    "doc_name": "uploaded:how-to-create-use-playlists.md"
+  "how-to-create-and-use-instagram-wall.md": {
+    "hash": "4a3374f15883b35e150ccf589980eb3562e60bcec7b623c66bd1c5165e782c1b",
+    "doc_name": "uploaded:how-to-create-and-use-instagram-wall.md"
   }
 }

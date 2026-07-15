@@ -1,33 +1,9 @@
 {
-  "1500000485202": {
-    "hash": "31b841da5157e5e708c2895d1e1cf0b5cf94d59e34775d87a4b78512d04751b5",
-    "slug": "custom-branding-settings",
-    "title": "Custom Branding Settings",
-    "updated_at": "2026-07-14T16:23:24Z"
-  },
-  "360047275934": {
-    "hash": "fd945b0356653691faa61f0064da8a3acfba8417f1c203b8c7e4f6f214a926b4",
-    "slug": "whitelist-optisigns-ip-addresses-ports",
-    "title": "Whitelist OptiSigns IP addresses & ports",
-    "updated_at": "2026-07-09T19:48:39Z"
-  },
-  "15313086319763": {
-    "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
-    "slug": "how-to-design-kiosk-apps-using-kiosk-designer-pro",
-    "title": "How to Design Kiosk Apps Using Kiosk Designer Pro",
-    "updated_at": "2026-07-14T07:45:20Z"
-  },
-  "360016313754": {
-    "hash": "0341b6d00a3480920849c2fb14bad5fedbbf0e538773ff918c4ab366680b3734",
-    "slug": "how-to-install-an-apk-file-on-your-fire-tv",
-    "title": "How to Install an APK file on your Fire TV",
-    "updated_at": "2026-07-10T23:06:42Z"
-  },
-  "360056086653": {
-    "hash": "69c2ff52c1fbbd3c1f120d364d5d1868534fa0bfe28150f937d3cb6504fa168c",
-    "slug": "how-to-change-time-zone-on-your-fire-stick-device",
-    "title": "How to Change Time Zone on Your Fire Stick device",
-    "updated_at": "2026-07-09T18:27:02Z"
+  "360016388733": {
+    "hash": "4a3374f15883b35e150ccf589980eb3562e60bcec7b623c66bd1c5165e782c1b",
+    "slug": "how-to-create-and-use-instagram-wall",
+    "title": "How to create and use Instagram Wall",
+    "updated_at": "2026-07-15T15:27:32Z"
   },
   "1500000480302": {
     "hash": "539edb901677b867ac77ca3900e1e4bf5b09767b63d328497db3e7ec69ad4cd9",
@@ -35,11 +11,23 @@
     "title": "Advanced: Custom Domain Mapping",
     "updated_at": "2026-07-14T17:53:32Z"
   },
-  "360021855653": {
-    "hash": "adc7f30dcfb277af17b28d11e966bbcbead229588de7a2721f3a5d33e71853a7",
-    "slug": "what-hardware-and-devices-are-supported",
-    "title": "What hardware and devices are supported?",
-    "updated_at": "2026-07-13T15:50:57Z"
+  "1500000485202": {
+    "hash": "31b841da5157e5e708c2895d1e1cf0b5cf94d59e34775d87a4b78512d04751b5",
+    "slug": "custom-branding-settings",
+    "title": "Custom Branding Settings",
+    "updated_at": "2026-07-14T16:23:24Z"
+  },
+  "360056086653": {
+    "hash": "69c2ff52c1fbbd3c1f120d364d5d1868534fa0bfe28150f937d3cb6504fa168c",
+    "slug": "how-to-change-time-zone-on-your-fire-stick-device",
+    "title": "How to Change Time Zone on Your Fire Stick device",
+    "updated_at": "2026-07-09T18:27:02Z"
+  },
+  "360016313754": {
+    "hash": "0341b6d00a3480920849c2fb14bad5fedbbf0e538773ff918c4ab366680b3734",
+    "slug": "how-to-install-an-apk-file-on-your-fire-tv",
+    "title": "How to Install an APK file on your Fire TV",
+    "updated_at": "2026-07-10T23:06:42Z"
   },
   "6604468198291": {
     "hash": "2120636034c4cf1fe947bde5916fa6b05fcf9074ffb32b93b337ac7caafc7343",
@@ -59,47 +47,23 @@
     "title": "Refer & Earn: OptiSigns Referral Program",
     "updated_at": "2026-07-08T17:09:50Z"
   },
+  "360021855653": {
+    "hash": "adc7f30dcfb277af17b28d11e966bbcbead229588de7a2721f3a5d33e71853a7",
+    "slug": "what-hardware-and-devices-are-supported",
+    "title": "What hardware and devices are supported?",
+    "updated_at": "2026-07-13T15:50:57Z"
+  },
   "53095698149011": {
     "hash": "52319d0935ee2a29298424c7c21ebf324ae071280dd1fa5d33577d603d4a02a7",
     "slug": "using-the-japan-earthquake-app",
     "title": "Using the Japan Earthquake App",
     "updated_at": "2026-07-08T18:39:51Z"
   },
-  "360026559573": {
-    "hash": "c63bca0caf3e0d93e85b5eff16e56f3a0b82b08c5775f210518405291d0f040e",
-    "slug": "how-to-create-and-use-the-split-screen-app",
-    "title": "How to Create and Use the Split Screen App",
-    "updated_at": "2026-07-09T21:32:58Z"
-  },
-  "360049875794": {
-    "hash": "202759a80f803acf4950a0db551523ff01a230d24282cabe71d8168f54e353d4",
-    "slug": "how-to-use-follow-us-app",
-    "title": "How to use Follow Us App",
-    "updated_at": "2026-07-05T19:15:39Z"
-  },
-  "1500000493782": {
-    "hash": "3d6046aac9f46252c3e9b286a1f853f166cce8a0c7f45e02a0ecc8f1e7525a74",
-    "slug": "billing-how-do-i-change-my-subscription-plan",
-    "title": "Billing: How Do I Change my Subscription Plan?",
-    "updated_at": "2026-07-08T04:10:51Z"
-  },
-  "360016252654": {
-    "hash": "443df29c418e6af99522168fb70640893d9d7a561c7750345223c3d250881c91",
-    "slug": "does-optisigns-offer-non-profiteducation-discount",
-    "title": "Does OptiSigns offer Non-profit/Education discount?",
-    "updated_at": "2026-07-02T17:12:40Z"
-  },
-  "360054298754": {
-    "hash": "7faeaca8896e41b0eb45eacbc288c4b38955038095c6bad13a9ba93f03e95030",
-    "slug": "how-to-factory-reset-your-fire-stick-device",
-    "title": "How to Factory Reset Your Fire Stick device ",
-    "updated_at": "2026-07-01T13:59:15Z"
-  },
-  "360035538093": {
-    "hash": "fe954950af9a570e3edcf1e740a6b3534d33209531a220a03a12ba534c79963a",
-    "slug": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati",
-    "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
-    "updated_at": "2026-07-07T16:43:26Z"
+  "360047275934": {
+    "hash": "fd945b0356653691faa61f0064da8a3acfba8417f1c203b8c7e4f6f214a926b4",
+    "slug": "whitelist-optisigns-ip-addresses-ports",
+    "title": "Whitelist OptiSigns IP addresses & ports",
+    "updated_at": "2026-07-09T19:48:39Z"
   },
   "360051014713": {
     "hash": "b78617f72f446f099ed5c587b28a914a64439be75aa194bd74b6efeff956e32c",
@@ -107,11 +71,17 @@
     "title": "How to use YouTube with OptiSigns",
     "updated_at": "2026-07-08T15:01:25Z"
   },
-  "23565267463315": {
-    "hash": "e5ce8ad3de4a48d6ac8e35517486e41f6818c7e582af8c03ad6bd309d3b92412",
-    "slug": "engage-plan-faqs",
-    "title": "Engage Plan - FAQs",
-    "updated_at": "2026-06-29T19:25:18Z"
+  "15313086319763": {
+    "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
+    "slug": "how-to-design-kiosk-apps-using-kiosk-designer-pro",
+    "title": "How to Design Kiosk Apps Using Kiosk Designer Pro",
+    "updated_at": "2026-07-14T07:45:20Z"
+  },
+  "360026559573": {
+    "hash": "c63bca0caf3e0d93e85b5eff16e56f3a0b82b08c5775f210518405291d0f040e",
+    "slug": "how-to-create-and-use-the-split-screen-app",
+    "title": "How to Create and Use the Split Screen App",
+    "updated_at": "2026-07-09T21:32:58Z"
   },
   "29217646663187": {
     "hash": "858091eaa1e73efbe8dd0db7052b2f942a04579dddc845983bba8d31f932e49f",
@@ -119,17 +89,11 @@
     "title": "How to Set Up Dynamic Data Mapping with OptiSync",
     "updated_at": "2026-07-09T15:33:50Z"
   },
-  "360025661053": {
-    "hash": "df3f2c8f0f3c36107b40a9588ba5d2cf69fadd8fc661041c2d8805e209a917a8",
-    "slug": "how-can-i-removedelete-uploaded-files-or-assets",
-    "title": "How Can I Remove/Delete Uploaded Files or Assets?",
-    "updated_at": "2026-06-26T20:54:46Z"
-  },
-  "53216900345875": {
-    "hash": "b814d4ac0759e37b420c455001002a78f6334c648d6fdd9eddb46ebda7e1ce71",
-    "slug": "what-access-does-optisigns-have-to-my-account-and-devices",
-    "title": "What Access Does OptiSigns Have to My Account and Devices?",
-    "updated_at": "2026-07-06T15:29:04Z"
+  "52113036672403": {
+    "hash": "9243fcf70c44bc049351af03ceb31ff348fd231da4d4f1d66559eafaf3ab2a48",
+    "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
+    "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
+    "updated_at": "2026-07-08T14:58:11Z"
   },
   "28598173096723": {
     "hash": "b44e84052edb293f2212940c753bc01f6a47d74cb43ebb8c9b3eea131ff60dd8",
@@ -137,23 +101,11 @@
     "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
     "updated_at": "2026-07-08T14:47:07Z"
   },
-  "52113036672403": {
-    "hash": "9243fcf70c44bc049351af03ceb31ff348fd231da4d4f1d66559eafaf3ab2a48",
-    "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
-    "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
-    "updated_at": "2026-07-08T14:58:11Z"
-  },
-  "360055328454": {
-    "hash": "c352d304db5abd24a1d41ecb31a4efc3eafb6042e603ff0e77b5c94c92009e22",
-    "slug": "how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv",
-    "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
-    "updated_at": "2026-06-28T17:13:26Z"
-  },
-  "53028011485715": {
-    "hash": "244795c1632f98b58d057d661f43d06c2b57cd66e208c66afc5679a014382dd6",
-    "slug": "how-to-display-a-snowflake-dashboard-with-optisigns",
-    "title": "How to Display a Snowflake Dashboard with OptiSigns",
-    "updated_at": "2026-07-01T21:59:22Z"
+  "1500000493782": {
+    "hash": "3d6046aac9f46252c3e9b286a1f853f166cce8a0c7f45e02a0ecc8f1e7525a74",
+    "slug": "billing-how-do-i-change-my-subscription-plan",
+    "title": "Billing: How Do I Change my Subscription Plan?",
+    "updated_at": "2026-07-08T04:10:51Z"
   },
   "4412065189267": {
     "hash": "f0b69eff66cb7401b4886adc5a4ac9c7913be08614d63a0d7067df7ee5c284f7",
@@ -161,53 +113,59 @@
     "title": "Synchronized playback (Sync Play) feature",
     "updated_at": "2026-07-06T21:29:32Z"
   },
+  "360035538093": {
+    "hash": "fe954950af9a570e3edcf1e740a6b3534d33209531a220a03a12ba534c79963a",
+    "slug": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati",
+    "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
+    "updated_at": "2026-07-07T16:43:26Z"
+  },
+  "53216900345875": {
+    "hash": "b814d4ac0759e37b420c455001002a78f6334c648d6fdd9eddb46ebda7e1ce71",
+    "slug": "what-access-does-optisigns-have-to-my-account-and-devices",
+    "title": "What Access Does OptiSigns Have to My Account and Devices?",
+    "updated_at": "2026-07-06T15:29:04Z"
+  },
+  "360016252654": {
+    "hash": "443df29c418e6af99522168fb70640893d9d7a561c7750345223c3d250881c91",
+    "slug": "does-optisigns-offer-non-profiteducation-discount",
+    "title": "Does OptiSigns offer Non-profit/Education discount?",
+    "updated_at": "2026-07-02T17:12:40Z"
+  },
+  "360049875794": {
+    "hash": "202759a80f803acf4950a0db551523ff01a230d24282cabe71d8168f54e353d4",
+    "slug": "how-to-use-follow-us-app",
+    "title": "How to use Follow Us App",
+    "updated_at": "2026-07-05T19:15:39Z"
+  },
+  "53028011485715": {
+    "hash": "244795c1632f98b58d057d661f43d06c2b57cd66e208c66afc5679a014382dd6",
+    "slug": "how-to-display-a-snowflake-dashboard-with-optisigns",
+    "title": "How to Display a Snowflake Dashboard with OptiSigns",
+    "updated_at": "2026-07-01T21:59:22Z"
+  },
+  "23565267463315": {
+    "hash": "e5ce8ad3de4a48d6ac8e35517486e41f6818c7e582af8c03ad6bd309d3b92412",
+    "slug": "engage-plan-faqs",
+    "title": "Engage Plan - FAQs",
+    "updated_at": "2026-06-29T19:25:18Z"
+  },
   "360042143753": {
     "hash": "b6c1c66439197aa58992e816c81f0680fc667f39beafb9ef9773da2b5e393a74",
     "slug": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices",
     "title": "How to re-encode video files for better compatibility on your devices",
     "updated_at": "2026-06-29T19:08:36Z"
   },
-  "27267311796243": {
-    "hash": "5c7e6f3417fdb67c53af652be6c5ba439e715edb7e0170a8d1d047f96376aa07",
-    "slug": "optistick",
-    "title": "OptiStick",
-    "updated_at": "2026-06-26T13:51:49Z"
+  "360054298754": {
+    "hash": "7faeaca8896e41b0eb45eacbc288c4b38955038095c6bad13a9ba93f03e95030",
+    "slug": "how-to-factory-reset-your-fire-stick-device",
+    "title": "How to Factory Reset Your Fire Stick device ",
+    "updated_at": "2026-07-01T13:59:15Z"
   },
-  "21708242980755": {
-    "hash": "4458f919c9b5075c6b59f2b97ff5a3d6079c0a2d0ebe0d6858a8d4742ce2fcaf",
-    "slug": "how-to-share-playlist-and-folder-with-external-users",
-    "title": "How to Share Playlist and Folder with External Users",
-    "updated_at": "2026-06-26T13:56:08Z"
-  },
-  "360037391854": {
-    "hash": "6956708936eea9fb1f3add428576cf3671453918f0f012ce72e6e6cd32929c2b",
-    "slug": "how-to-display-content-inside-websites-that-require-login",
-    "title": "How to display content inside websites that require login?",
-    "updated_at": "2026-06-25T12:33:44Z"
-  },
-  "360037965133": {
-    "hash": "43f8beb33787da1cc21591fbe315517d0348c4dbf6b9b1d750d106e87257ddf4",
-    "slug": "how-to-use-rss-feeds-with-optisigns",
-    "title": "How to use RSS feeds with OptiSigns",
-    "updated_at": "2026-06-15T16:04:29Z"
-  },
-  "17129313173395": {
-    "hash": "c0fd2c62fdc9652375c278e948996b6d881eea23fbc04faca366456024c787f5",
-    "slug": "how-to-manage-sub-account-billing-with-optisigns",
-    "title": "How to manage Sub-Account billing with OptiSigns",
-    "updated_at": "2026-06-24T17:40:46Z"
-  },
-  "51343184586643": {
-    "hash": "0cfeb60044f4175c2a3e25a65f2f164cfe3c588f339fe2f892d2aad1527ca4ed",
-    "slug": "connect-cisco-webex-rooms-to-optisigns-digital-signage",
-    "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
-    "updated_at": "2026-07-01T16:55:46Z"
-  },
-  "52350277262483": {
-    "hash": "96978664e1bd19ce4f62122a30ede5ee88f4cbe32bc82a736c5263da896f3b1f",
-    "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
-    "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
-    "updated_at": "2026-06-24T18:39:16Z"
+  "360025661053": {
+    "hash": "df3f2c8f0f3c36107b40a9588ba5d2cf69fadd8fc661041c2d8805e209a917a8",
+    "slug": "how-can-i-removedelete-uploaded-files-or-assets",
+    "title": "How Can I Remove/Delete Uploaded Files or Assets?",
+    "updated_at": "2026-06-26T20:54:46Z"
   },
   "27690296225555": {
     "hash": "beccda387c61330b490e6b181885dad11872b15fc8ea4819a3b5d7046ad4e11b",
@@ -215,11 +173,83 @@
     "title": "AI Camera App - Quick Start",
     "updated_at": "2026-06-29T19:26:02Z"
   },
+  "360055328454": {
+    "hash": "c352d304db5abd24a1d41ecb31a4efc3eafb6042e603ff0e77b5c94c92009e22",
+    "slug": "how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv",
+    "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
+    "updated_at": "2026-06-28T17:13:26Z"
+  },
   "10259143299219": {
     "hash": "be513932b1371ce46763a6b48b883e6154de95f04373a63cb4f2b9c3210646ec",
     "slug": "how-to-use-website-screenshot-app",
     "title": "How to use Website Screenshot app",
     "updated_at": "2026-06-25T19:46:15Z"
+  },
+  "51343184586643": {
+    "hash": "0cfeb60044f4175c2a3e25a65f2f164cfe3c588f339fe2f892d2aad1527ca4ed",
+    "slug": "connect-cisco-webex-rooms-to-optisigns-digital-signage",
+    "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
+    "updated_at": "2026-07-01T16:55:46Z"
+  },
+  "27267311796243": {
+    "hash": "5c7e6f3417fdb67c53af652be6c5ba439e715edb7e0170a8d1d047f96376aa07",
+    "slug": "optistick",
+    "title": "OptiStick",
+    "updated_at": "2026-06-26T13:51:49Z"
+  },
+  "360037391854": {
+    "hash": "6956708936eea9fb1f3add428576cf3671453918f0f012ce72e6e6cd32929c2b",
+    "slug": "how-to-display-content-inside-websites-that-require-login",
+    "title": "How to display content inside websites that require login?",
+    "updated_at": "2026-06-25T12:33:44Z"
+  },
+  "21708242980755": {
+    "hash": "4458f919c9b5075c6b59f2b97ff5a3d6079c0a2d0ebe0d6858a8d4742ce2fcaf",
+    "slug": "how-to-share-playlist-and-folder-with-external-users",
+    "title": "How to Share Playlist and Folder with External Users",
+    "updated_at": "2026-06-26T13:56:08Z"
+  },
+  "17129313173395": {
+    "hash": "c0fd2c62fdc9652375c278e948996b6d881eea23fbc04faca366456024c787f5",
+    "slug": "how-to-manage-sub-account-billing-with-optisigns",
+    "title": "How to manage Sub-Account billing with OptiSigns",
+    "updated_at": "2026-06-24T17:40:46Z"
+  },
+  "4404151402899": {
+    "hash": "e493bd84fc47611e8c8612d410c211624634f8b7b59e637d5f1ed084798276d5",
+    "slug": "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes",
+    "title": "How to Use OptiSigns' Template & Designer to Make Your Digital Signs in Minutes",
+    "updated_at": "2026-06-20T07:00:26Z"
+  },
+  "360052088413": {
+    "hash": "37a1a77e7633d3fd4ccbfeffa808d09aa9b02ef245e6d93862aaf0e30680d278",
+    "slug": "how-to-use-the-data-studio-app",
+    "title": "How to Use the Data Studio App",
+    "updated_at": "2026-06-12T19:57:31Z"
+  },
+  "360037965133": {
+    "hash": "43f8beb33787da1cc21591fbe315517d0348c4dbf6b9b1d750d106e87257ddf4",
+    "slug": "how-to-use-rss-feeds-with-optisigns",
+    "title": "How to use RSS feeds with OptiSigns",
+    "updated_at": "2026-06-15T16:04:29Z"
+  },
+  "52350277262483": {
+    "hash": "96978664e1bd19ce4f62122a30ede5ee88f4cbe32bc82a736c5263da896f3b1f",
+    "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
+    "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
+    "updated_at": "2026-06-24T18:39:16Z"
+  },
+  "15268811715347": {
+    "hash": "0209df16798ee642889f574941133e8c36643c25506d53372afb66059428fc07",
+    "slug": "cannot-find-the-optisigns-app-on-your-samsung-smart-tv",
+    "title": "Cannot find the OptiSigns app on Your Samsung Smart TV",
+    "updated_at": "2026-06-11T17:13:11Z"
+  },
+  "52523606879251": {
+    "hash": "2a3afb88449dfe284373dbcda5ee0f130dfbf0e3524ecb0b174b544fe5a688c5",
+    "slug": "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app",
+    "title": "OptiSigns Digital Signage App for Zoom — Adding, Using, and Removing the App",
+    "updated_at": "2026-06-11T22:24:43Z"
   },
   "360055549854": {
     "hash": "4b9c80d054b94e8fd12303fca90e3a16a57592c3faeb7f49814c902812f9650e",
@@ -233,41 +263,11 @@
     "title": "OptiStick Troubleshooting Guide",
     "updated_at": "2026-06-26T13:52:36Z"
   },
-  "4404151402899": {
-    "hash": "e493bd84fc47611e8c8612d410c211624634f8b7b59e637d5f1ed084798276d5",
-    "slug": "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes",
-    "title": "How to Use OptiSigns' Template & Designer to Make Your Digital Signs in Minutes",
-    "updated_at": "2026-06-20T07:00:26Z"
-  },
-  "52523606879251": {
-    "hash": "2a3afb88449dfe284373dbcda5ee0f130dfbf0e3524ecb0b174b544fe5a688c5",
-    "slug": "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app",
-    "title": "OptiSigns Digital Signage App for Zoom — Adding, Using, and Removing the App",
-    "updated_at": "2026-06-11T22:24:43Z"
-  },
-  "15268811715347": {
-    "hash": "0209df16798ee642889f574941133e8c36643c25506d53372afb66059428fc07",
-    "slug": "cannot-find-the-optisigns-app-on-your-samsung-smart-tv",
-    "title": "Cannot find the OptiSigns app on Your Samsung Smart TV",
-    "updated_at": "2026-06-11T17:13:11Z"
-  },
-  "25607930101907": {
-    "hash": "bb365c46c9dbda32f959a9d9709e2f96132af5c337947d5300421035ea4c9fb6",
-    "slug": "how-to-get-the-most-out-of-your-digital-signs",
-    "title": "How to get the most out of your Digital Signs",
-    "updated_at": "2026-06-08T15:18:50Z"
-  },
-  "360025626853": {
-    "hash": "47fc081e5eca7f2c72d7ea432907812a99e53bb78f3d2203282883566e49850e",
-    "slug": "how-to-start-optisigns-automatically-when-devices-boot-up",
-    "title": "How to start OptiSigns automatically when devices boot up",
-    "updated_at": "2026-06-08T18:26:02Z"
-  },
-  "360052088413": {
-    "hash": "37a1a77e7633d3fd4ccbfeffa808d09aa9b02ef245e6d93862aaf0e30680d278",
-    "slug": "how-to-use-the-data-studio-app",
-    "title": "How to Use the Data Studio App",
-    "updated_at": "2026-06-12T19:57:31Z"
+  "31960461758611": {
+    "hash": "2d0f291829408e044820e0b88549a46e2ad5c52958e783f363a77d868b8bfcd4",
+    "slug": "how-to-order-a-preconfigured-optisigns-android-player-device",
+    "title": "How to Order a Preconfigured OptiSigns Android Player Device",
+    "updated_at": "2026-06-11T17:48:29Z"
   },
   "52412502456083": {
     "hash": "3224301bc8b24fde10547d855ba8dfba39ef7e551651d723b17fc329160a9048",
@@ -275,35 +275,29 @@
     "title": "Connect Google Meet Hardware to OptiSigns Digital Signage",
     "updated_at": "2026-06-15T19:14:07Z"
   },
-  "4404590815635": {
-    "hash": "6d59d50779705bbb45523733436cd1915fa6fcc1a4f124386fda45d813327316",
-    "slug": "how-to-set-up-saml-20-with-optisigns-and-okta",
-    "title": "How to set up SAML 2.0  with OptiSigns and Okta",
-    "updated_at": "2026-06-08T15:02:21Z"
-  },
-  "11116333259283": {
-    "hash": "e1e5c530ab23145f5ca75978222a3f73eade8a5388a25c6aa70d1e0961e08408",
-    "slug": "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade",
-    "title": "Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)",
-    "updated_at": "2026-06-10T11:03:57Z"
-  },
   "52069065128723": {
     "hash": "564b987eeea04f8e28d52a0ad9f460ed60d32a6467b8a27eebdfbbec74b27f30",
     "slug": "connect-zoom-rooms-to-optisigns-digital-signage",
     "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
     "updated_at": "2026-06-11T22:22:00Z"
   },
-  "9169378546195": {
-    "hash": "05a11da0d19348ae958893132d39646475e4844a427d8c4ce06dfebc5257c00d",
-    "slug": "data-residency-and-optisigns",
-    "title": "Data Residency and OptiSigns",
-    "updated_at": "2026-06-05T14:25:01Z"
+  "360025626853": {
+    "hash": "47fc081e5eca7f2c72d7ea432907812a99e53bb78f3d2203282883566e49850e",
+    "slug": "how-to-start-optisigns-automatically-when-devices-boot-up",
+    "title": "How to start OptiSigns automatically when devices boot up",
+    "updated_at": "2026-06-08T18:26:02Z"
   },
-  "31960461758611": {
-    "hash": "2d0f291829408e044820e0b88549a46e2ad5c52958e783f363a77d868b8bfcd4",
-    "slug": "how-to-order-a-preconfigured-optisigns-android-player-device",
-    "title": "How to Order a Preconfigured OptiSigns Android Player Device",
-    "updated_at": "2026-06-11T17:48:29Z"
+  "4404590815635": {
+    "hash": "6d59d50779705bbb45523733436cd1915fa6fcc1a4f124386fda45d813327316",
+    "slug": "how-to-set-up-saml-20-with-optisigns-and-okta",
+    "title": "How to set up SAML 2.0  with OptiSigns and Okta",
+    "updated_at": "2026-06-08T15:02:21Z"
+  },
+  "25607930101907": {
+    "hash": "bb365c46c9dbda32f959a9d9709e2f96132af5c337947d5300421035ea4c9fb6",
+    "slug": "how-to-get-the-most-out-of-your-digital-signs",
+    "title": "How to get the most out of your Digital Signs",
+    "updated_at": "2026-06-08T15:18:50Z"
   },
   "20153471319187": {
     "hash": "edde3ee1530607cab807f426a16a90a77f6c9d4a68a2bc5b64e5cec98f5316c7",
@@ -311,17 +305,11 @@
     "title": "External Storage on OptiSigns Devices",
     "updated_at": "2026-06-05T16:36:27Z"
   },
-  "360042143333": {
-    "hash": "33dcbee32529ac2d02e1f46c9f6cbc9a413c20d0ff8d4ed4e15e1df6cf4929ca",
-    "slug": "roku-release-notes-limitation",
-    "title": "Roku Release Notes & Limitation",
-    "updated_at": "2026-06-02T20:21:45Z"
-  },
-  "28295074995859": {
-    "hash": "64a29a917b48d52c3ad46268e0d2461986d57bfa0e6e7a0a42349e78903b5a5c",
-    "slug": "how-to-manage-and-edit-your-playlist-settings",
-    "title": "How to Manage and Edit Your Playlist Settings",
-    "updated_at": "2026-06-04T22:14:32Z"
+  "30003143806099": {
+    "hash": "de5632921889e1171c382c3fd0a6f427b4929bbf508702d313677395de59884e",
+    "slug": "how-to-use-the-optisigns-mobile-admin-app",
+    "title": "How to Use the OptiSigns Mobile Admin App",
+    "updated_at": "2026-06-11T11:49:35Z"
   },
   "360016174554": {
     "hash": "9db22176f43e3c612e13148f68b6958a9c199f8675f03d0ff23bd64faeb9cee7",
@@ -329,29 +317,17 @@
     "title": "Amazon Firestick",
     "updated_at": "2026-06-05T22:12:50Z"
   },
-  "18986181635859": {
-    "hash": "8d14505819cbb803559f024b7543c33758bdcec1363202addac1f9f29e431905",
-    "slug": "how-to-share-contents-with-other-usersteams",
-    "title": "How to Share Contents with Other Users/Teams",
-    "updated_at": "2026-05-29T17:35:48Z"
+  "11116333259283": {
+    "hash": "e1e5c530ab23145f5ca75978222a3f73eade8a5388a25c6aa70d1e0961e08408",
+    "slug": "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade",
+    "title": "Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)",
+    "updated_at": "2026-06-10T11:03:57Z"
   },
-  "360034883113": {
-    "hash": "153694d2afc51ba7491e3e6b541cc6aff99a8028d390f73ab767484830812839",
-    "slug": "working-with-teams-and-security-levels",
-    "title": "Working with Teams and Security Levels",
-    "updated_at": "2026-06-01T19:53:55Z"
-  },
-  "30003143806099": {
-    "hash": "de5632921889e1171c382c3fd0a6f427b4929bbf508702d313677395de59884e",
-    "slug": "how-to-use-the-optisigns-mobile-admin-app",
-    "title": "How to Use the OptiSigns Mobile Admin App",
-    "updated_at": "2026-06-11T11:49:35Z"
-  },
-  "360016376793": {
-    "hash": "853653387dbdbb7058b75ce33713576b887ea219c5e3e9da2f5e4774069de280",
-    "slug": "what-happen-if-internet-connection-is-lost",
-    "title": "What happen if internet connection is lost?",
-    "updated_at": "2026-05-26T18:14:07Z"
+  "9169378546195": {
+    "hash": "05a11da0d19348ae958893132d39646475e4844a427d8c4ce06dfebc5257c00d",
+    "slug": "data-residency-and-optisigns",
+    "title": "Data Residency and OptiSigns",
+    "updated_at": "2026-06-05T14:25:01Z"
   },
   "360056087613": {
     "hash": "26593cb814af37d74da1292f35596e864cd7cf720ac862c5135af0e5fc03d4fd",
@@ -359,11 +335,35 @@
     "title": "How to Clear Cache on Your Fire Stick device",
     "updated_at": "2026-05-30T19:09:27Z"
   },
-  "17639078588691": {
-    "hash": "645dc3f5007183784aab35e278b5822ecfec711f36a915f2ecdb00a6d0d81ee3",
-    "slug": "how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case",
-    "title": "How to cancel subscription or pause subscription for Seasonal Use Case",
-    "updated_at": "2026-05-28T20:38:07Z"
+  "360034883113": {
+    "hash": "153694d2afc51ba7491e3e6b541cc6aff99a8028d390f73ab767484830812839",
+    "slug": "working-with-teams-and-security-levels",
+    "title": "Working with Teams and Security Levels",
+    "updated_at": "2026-06-01T19:53:55Z"
+  },
+  "28295074995859": {
+    "hash": "64a29a917b48d52c3ad46268e0d2461986d57bfa0e6e7a0a42349e78903b5a5c",
+    "slug": "how-to-manage-and-edit-your-playlist-settings",
+    "title": "How to Manage and Edit Your Playlist Settings",
+    "updated_at": "2026-06-04T22:14:32Z"
+  },
+  "18986181635859": {
+    "hash": "8d14505819cbb803559f024b7543c33758bdcec1363202addac1f9f29e431905",
+    "slug": "how-to-share-contents-with-other-usersteams",
+    "title": "How to Share Contents with Other Users/Teams",
+    "updated_at": "2026-05-29T17:35:48Z"
+  },
+  "360042143333": {
+    "hash": "33dcbee32529ac2d02e1f46c9f6cbc9a413c20d0ff8d4ed4e15e1df6cf4929ca",
+    "slug": "roku-release-notes-limitation",
+    "title": "Roku Release Notes & Limitation",
+    "updated_at": "2026-06-02T20:21:45Z"
+  },
+  "360016376793": {
+    "hash": "853653387dbdbb7058b75ce33713576b887ea219c5e3e9da2f5e4774069de280",
+    "slug": "what-happen-if-internet-connection-is-lost",
+    "title": "What happen if internet connection is lost?",
+    "updated_at": "2026-05-26T18:14:07Z"
   },
   "360016247974": {
     "hash": "02f2c378a8cd7e4dee96dc2a10e9ff9f1219c58f3db4862354eff564f2db9d23",
@@ -371,11 +371,11 @@
     "title": "How to Upload & Manage Your Files/ Assets",
     "updated_at": "2026-05-28T19:30:59Z"
   },
-  "44652521310099": {
-    "hash": "f5751ec8f7c56fc103fd814a3a22faa7ea645fdc9afe5f8789a640eaac6e97c7",
-    "slug": "kiosk10",
-    "title": "Kiosk10",
-    "updated_at": "2026-05-28T16:41:17Z"
+  "17639078588691": {
+    "hash": "645dc3f5007183784aab35e278b5822ecfec711f36a915f2ecdb00a6d0d81ee3",
+    "slug": "how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case",
+    "title": "How to cancel subscription or pause subscription for Seasonal Use Case",
+    "updated_at": "2026-05-28T20:38:07Z"
   },
   "360016484473": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
@@ -389,11 +389,11 @@
     "title": "Guide for Creating Content with OptiSigns",
     "updated_at": "2026-05-21T17:52:16Z"
   },
-  "360040943374": {
-    "hash": "910b506ff87005a0d3bc527dc0ef34e035e7aeb4b4211541904783800597be1f",
-    "slug": "assign-default-content-for-schedules",
-    "title": "Assign Default Content for Schedules",
-    "updated_at": "2026-05-05T19:18:10Z"
+  "360035739414": {
+    "hash": "399a92d2cf7690676b14e2745cf4d9136725d3db4c7eb80699c07e449ff211f6",
+    "slug": "how-to-preview-a-screen",
+    "title": "How to Preview a Screen",
+    "updated_at": "2026-05-17T21:11:45Z"
   },
   "44890229616403": {
     "hash": "a1524949c0964bbefa38cd0b3536c32370c8172d892d7e6a110d0e65418d6526",
@@ -407,23 +407,17 @@
     "title": "Your Templates",
     "updated_at": "2026-05-12T21:04:13Z"
   },
-  "360035739414": {
-    "hash": "399a92d2cf7690676b14e2745cf4d9136725d3db4c7eb80699c07e449ff211f6",
-    "slug": "how-to-preview-a-screen",
-    "title": "How to Preview a Screen",
-    "updated_at": "2026-05-17T21:11:45Z"
+  "44652521310099": {
+    "hash": "f5751ec8f7c56fc103fd814a3a22faa7ea645fdc9afe5f8789a640eaac6e97c7",
+    "slug": "kiosk10",
+    "title": "Kiosk10",
+    "updated_at": "2026-05-28T16:41:17Z"
   },
-  "42436941395475": {
-    "hash": "ef82a6862d0d3ed1fc077a20869989bd708f669dc373f9885d2fdd88c59d7c17",
-    "slug": "widgets-in-designer",
-    "title": "Widgets in Designer",
-    "updated_at": "2026-06-03T15:53:35Z"
-  },
-  "41432385864595": {
-    "hash": "bb5c22d2c87fcfcfff1d90d497a29a64eb0d6cde6a6ef3cd1d1e98b7ba1a75cb",
-    "slug": "designer-20-new-features",
-    "title": "Designer 2.0 New Features",
-    "updated_at": "2026-05-12T14:17:09Z"
+  "360048914673": {
+    "hash": "f0dfff7823e393e7bb70f263f60c605e72397d4a7a8be8ce0fc4774d1c6bc50b",
+    "slug": "edit-screen-what-does-each-option-do",
+    "title": "Edit Screen: What does each option do?",
+    "updated_at": "2026-05-21T13:09:58Z"
   },
   "4404616314515": {
     "hash": "dd5f7cbac9ed381f055eb2d1efa70b34107467fad7586ad0bd9c68938f09c176",
@@ -431,29 +425,17 @@
     "title": "How to Change Account Owners",
     "updated_at": "2026-05-05T16:36:22Z"
   },
-  "1500012522362": {
-    "hash": "5096749d0c8ac5a986db7636031070986931d0d908f41b80e77dfe0aa14a1ea5",
-    "slug": "how-to-use-the-web-scripting-app",
-    "title": "How to use the Web Scripting App",
-    "updated_at": "2026-05-14T16:05:37Z"
+  "360040943374": {
+    "hash": "910b506ff87005a0d3bc527dc0ef34e035e7aeb4b4211541904783800597be1f",
+    "slug": "assign-default-content-for-schedules",
+    "title": "Assign Default Content for Schedules",
+    "updated_at": "2026-05-05T19:18:10Z"
   },
-  "5090125683219": {
-    "hash": "c91c903d3c7385336ae10b6790e51cd73430f020805598298fae0a87c5ff2cc1",
-    "slug": "brightsign-players",
-    "title": "BrightSign Players",
-    "updated_at": "2026-05-05T15:50:07Z"
-  },
-  "360041222994": {
-    "hash": "d8c58e1c67dfaece9931500499af6cf193e5ae8caa88dcc8df8a7add03290764",
-    "slug": "how-to-use-the-countup-app",
-    "title": "How to Use the CountUp App",
-    "updated_at": "2026-05-05T17:07:53Z"
-  },
-  "360042736794": {
-    "hash": "9ac3b0ef45f5c4dae624b896a8f16a99cdfa5cac462960a6bf120dc81668066a",
-    "slug": "how-to-set-an-asset-to-live-or-expire-at-specific-time",
-    "title": "How to set an asset to Live or Expire at specific time",
-    "updated_at": "2026-05-14T22:03:28Z"
+  "42436941395475": {
+    "hash": "ef82a6862d0d3ed1fc077a20869989bd708f669dc373f9885d2fdd88c59d7c17",
+    "slug": "widgets-in-designer",
+    "title": "Widgets in Designer",
+    "updated_at": "2026-06-03T15:53:35Z"
   },
   "20750060900883": {
     "hash": "635f864cd3abad6342dc2db427d5d0ef8eaf085e0aa8d427c63c9bd3b3242f22",
@@ -467,17 +449,23 @@
     "title": "How to use the CountDown App",
     "updated_at": "2026-05-05T17:08:12Z"
   },
-  "360048914673": {
-    "hash": "f0dfff7823e393e7bb70f263f60c605e72397d4a7a8be8ce0fc4774d1c6bc50b",
-    "slug": "edit-screen-what-does-each-option-do",
-    "title": "Edit Screen: What does each option do?",
-    "updated_at": "2026-05-21T13:09:58Z"
+  "360042736794": {
+    "hash": "9ac3b0ef45f5c4dae624b896a8f16a99cdfa5cac462960a6bf120dc81668066a",
+    "slug": "how-to-set-an-asset-to-live-or-expire-at-specific-time",
+    "title": "How to set an asset to Live or Expire at specific time",
+    "updated_at": "2026-05-14T22:03:28Z"
   },
-  "40671590645651": {
-    "hash": "eafe107ae8def2fa7f2b0bca0456752dbbb2d2491bab2166129d31a1b0836cba",
-    "slug": "how-to-play-licensed-background-music-on-digital-signs-with-optisound",
-    "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
-    "updated_at": "2026-04-08T22:33:37Z"
+  "360041222994": {
+    "hash": "d8c58e1c67dfaece9931500499af6cf193e5ae8caa88dcc8df8a7add03290764",
+    "slug": "how-to-use-the-countup-app",
+    "title": "How to Use the CountUp App",
+    "updated_at": "2026-05-05T17:07:53Z"
+  },
+  "5090125683219": {
+    "hash": "c91c903d3c7385336ae10b6790e51cd73430f020805598298fae0a87c5ff2cc1",
+    "slug": "brightsign-players",
+    "title": "BrightSign Players",
+    "updated_at": "2026-05-05T15:50:07Z"
   },
   "27463953562899": {
     "hash": "a48ec0bda471ff26cae3b89a50cba8e185ed5ddc3c8d3a7ea4c2733622d1a44d",
@@ -485,11 +473,59 @@
     "title": "Amazon TV / FireStick Troubleshooting Guide",
     "updated_at": "2026-04-28T15:36:27Z"
   },
-  "44669013147923": {
-    "hash": "69b9c07509931baeb6cd3295ee239f5fabbfb0bec150a2b2586c9a6f8521a6f1",
-    "slug": "kiosk32",
-    "title": "Kiosk32",
-    "updated_at": "2026-04-29T15:27:37Z"
+  "1500012522362": {
+    "hash": "5096749d0c8ac5a986db7636031070986931d0d908f41b80e77dfe0aa14a1ea5",
+    "slug": "how-to-use-the-web-scripting-app",
+    "title": "How to use the Web Scripting App",
+    "updated_at": "2026-05-14T16:05:37Z"
+  },
+  "49039295567891": {
+    "hash": "b39b73729dbd17f17b543c27edf4a487061f99830bb62bb2441d855583721f11",
+    "slug": "chromeos-pwa-instructions",
+    "title": "ChromeOS PWA Instructions",
+    "updated_at": "2026-05-05T15:48:27Z"
+  },
+  "41432385864595": {
+    "hash": "bb5c22d2c87fcfcfff1d90d497a29a64eb0d6cde6a6ef3cd1d1e98b7ba1a75cb",
+    "slug": "designer-20-new-features",
+    "title": "Designer 2.0 New Features",
+    "updated_at": "2026-05-12T14:17:09Z"
+  },
+  "48241081473043": {
+    "hash": "cf2d8e49b776b06b2fde1375e640db54f8036dace099b031d788079f74ff32ae",
+    "slug": "operational-schedule-troubleshooting",
+    "title": "Operational Schedule Troubleshooting",
+    "updated_at": "2026-04-20T21:26:17Z"
+  },
+  "29465595849235": {
+    "hash": "cdec6ed0aa9e1828a5f8fec17267be29b7a1847c0dd30b1a2cccdd1080a9aaf0",
+    "slug": "list-of-supported-cities-for-weather-wall-city-themes",
+    "title": "List of Supported Cities for Weather Wall City Themes",
+    "updated_at": "2026-04-08T13:41:37Z"
+  },
+  "18823504383891": {
+    "hash": "c5f7baa831e9c7bd99001bde8700be3db9d64e95afa427f671e873ca85cba02a",
+    "slug": "optisigns-getting-started-guide",
+    "title": "OptiSigns - Getting Started Guide",
+    "updated_at": "2026-03-31T21:41:21Z"
+  },
+  "4416542923667": {
+    "hash": "5df8206f120edf70819f001c889330a59cad0ae1057434690a49a5e3f4bddd41",
+    "slug": "how-to-perform-mass-provisioning-with-optisigns",
+    "title": "How to Perform Mass Provisioning with OptiSigns",
+    "updated_at": "2026-04-16T14:17:14Z"
+  },
+  "40671590645651": {
+    "hash": "eafe107ae8def2fa7f2b0bca0456752dbbb2d2491bab2166129d31a1b0836cba",
+    "slug": "how-to-play-licensed-background-music-on-digital-signs-with-optisound",
+    "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
+    "updated_at": "2026-04-08T22:33:37Z"
+  },
+  "42307234534547": {
+    "hash": "6826c898df539b69a04205968e47c56575b15a1911e8f68aa5060fa3aba41f81",
+    "slug": "shapes-and-elements",
+    "title": "Shapes and Elements",
+    "updated_at": "2026-03-30T20:09:57Z"
   },
   "44650391786131": {
     "hash": "f0c2ed7b3ef5af57976677d6db50a4ff479209d1c193abaebb9537a416ac0959",
@@ -503,59 +539,11 @@
     "title": "Enabling Lock Down Mode on Touch Screen Devices",
     "updated_at": "2026-04-21T19:22:05Z"
   },
-  "4416542923667": {
-    "hash": "5df8206f120edf70819f001c889330a59cad0ae1057434690a49a5e3f4bddd41",
-    "slug": "how-to-perform-mass-provisioning-with-optisigns",
-    "title": "How to Perform Mass Provisioning with OptiSigns",
-    "updated_at": "2026-04-16T14:17:14Z"
-  },
-  "48241081473043": {
-    "hash": "cf2d8e49b776b06b2fde1375e640db54f8036dace099b031d788079f74ff32ae",
-    "slug": "operational-schedule-troubleshooting",
-    "title": "Operational Schedule Troubleshooting",
-    "updated_at": "2026-04-20T21:26:17Z"
-  },
-  "49039295567891": {
-    "hash": "b39b73729dbd17f17b543c27edf4a487061f99830bb62bb2441d855583721f11",
-    "slug": "chromeos-pwa-instructions",
-    "title": "ChromeOS PWA Instructions",
-    "updated_at": "2026-05-05T15:48:27Z"
-  },
-  "18823504383891": {
-    "hash": "c5f7baa831e9c7bd99001bde8700be3db9d64e95afa427f671e873ca85cba02a",
-    "slug": "optisigns-getting-started-guide",
-    "title": "OptiSigns - Getting Started Guide",
-    "updated_at": "2026-03-31T21:41:21Z"
-  },
-  "29465595849235": {
-    "hash": "cdec6ed0aa9e1828a5f8fec17267be29b7a1847c0dd30b1a2cccdd1080a9aaf0",
-    "slug": "list-of-supported-cities-for-weather-wall-city-themes",
-    "title": "List of Supported Cities for Weather Wall City Themes",
-    "updated_at": "2026-04-08T13:41:37Z"
-  },
-  "46299245284243": {
-    "hash": "45ee5ef8804b0a9c9ccfb912b6573fffadb4ade0ba5f913214b78ea8091f1786",
-    "slug": "kiosk50",
-    "title": "Kiosk50",
-    "updated_at": "2026-03-30T17:22:38Z"
-  },
-  "42307234534547": {
-    "hash": "6826c898df539b69a04205968e47c56575b15a1911e8f68aa5060fa3aba41f81",
-    "slug": "shapes-and-elements",
-    "title": "Shapes and Elements",
-    "updated_at": "2026-03-30T20:09:57Z"
-  },
-  "27356288211859": {
-    "hash": "0801ad60f56f21ec8eecad4e4d28034f30fb42d77e962da17b86207e1d21d759",
-    "slug": "how-to-use-icloud-calendar-with-optisigns",
-    "title": "How to use iCloud Calendar with OptiSigns",
-    "updated_at": "2026-03-26T16:45:12Z"
-  },
-  "4406214738707": {
-    "hash": "9b22aa81ae24520b7a459f0b90475c338e7ca9869a2c24949635993820f44370",
-    "slug": "how-to-use-the-microsoft-meeting-room-app",
-    "title": "How to Use the Microsoft Meeting Room App",
-    "updated_at": "2026-03-25T21:28:34Z"
+  "44669013147923": {
+    "hash": "69b9c07509931baeb6cd3295ee239f5fabbfb0bec150a2b2586c9a6f8521a6f1",
+    "slug": "kiosk32",
+    "title": "Kiosk32",
+    "updated_at": "2026-04-29T15:27:37Z"
   },
   "360016981853": {
     "hash": "108461fa4c0a8e84a0c71a6a2695070316b9c75522e72ab3e0cd51aef1073101",
@@ -563,28 +551,34 @@
     "title": "Creating and Using Schedules with OptiSigns",
     "updated_at": "2026-03-31T22:14:33Z"
   },
+  "35577511423635": {
+    "hash": "a919156c1b435715e74375001ba8bc1d7f72c7747830c6c49ef831df0ea537a3",
+    "slug": "optisigns-pro-player-advanced-features",
+    "title": "OptiSigns Pro Player Advanced Features",
+    "updated_at": "2026-03-30T17:22:38Z"
+  },
+  "46299245284243": {
+    "hash": "45ee5ef8804b0a9c9ccfb912b6573fffadb4ade0ba5f913214b78ea8091f1786",
+    "slug": "kiosk50",
+    "title": "Kiosk50",
+    "updated_at": "2026-03-30T17:22:38Z"
+  },
+  "38680194603155": {
+    "hash": "9fdd1d9e79ba7242c931521196ef81766d2f62e7df69d096f4d85addce407dad",
+    "slug": "promax",
+    "title": "ProMax",
+    "updated_at": "2026-03-30T17:22:38Z"
+  },
   "4403616315539": {
     "hash": "6524be47a6ac623c79694db3c3a2cd6f062ecaae179a557e41521ed866573141",
     "slug": "how-to-approve-optisigns-as-enterprise-app-on-microsoft-azure-for-power-bi-calen",
     "title": "How to approve OptiSigns as Enterprise App on Microsoft Azure (for Power BI, Calendar, etc. access)",
     "updated_at": "2026-03-17T22:33:37Z"
   },
-  "32860569148819": {
-    "hash": "69c8957e319b66853db7c5007d9ff9a163be8f62f8d108e0955af3ed4f0b6f75",
-    "slug": "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns",
-    "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
-    "updated_at": "2026-03-17T22:32:17Z"
-  },
-  "8098889840531": {
-    "hash": "559c50edc958b7100f7df34b6b4fc17d83288dd77a040b341d932dd10e13b4bd",
-    "slug": "how-to-use-rtsp-streams-on-optisigns-devices",
-    "title": "How to use RTSP Streams on OptiSigns Devices",
-    "updated_at": "2026-03-16T15:03:03Z"
-  },
-  "35577511423635": {
-    "hash": "a919156c1b435715e74375001ba8bc1d7f72c7747830c6c49ef831df0ea537a3",
-    "slug": "optisigns-pro-player-advanced-features",
-    "title": "OptiSigns Pro Player Advanced Features",
+  "32129032857875": {
+    "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
+    "slug": "where-to-buy-optisigns-devices",
+    "title": "Where to Buy OptiSigns Devices",
     "updated_at": "2026-03-30T17:22:38Z"
   },
   "33940834613139": {
@@ -593,23 +587,11 @@
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "updated_at": "2026-03-27T20:38:29Z"
   },
-  "25273043501587": {
-    "hash": "8ce6f1dbe1d6a7ff2beec98049cd8e230739b73509d8d38713e3c46e44f8027c",
-    "slug": "how-to-lockdown-ipadsingle-app-with-guided-accessibility",
-    "title": "How to Lockdown iPad/Single App with Guided Accessibility",
-    "updated_at": "2026-02-10T16:54:02Z"
-  },
-  "38680194603155": {
-    "hash": "9fdd1d9e79ba7242c931521196ef81766d2f62e7df69d096f4d85addce407dad",
-    "slug": "promax",
-    "title": "ProMax",
-    "updated_at": "2026-03-30T17:22:38Z"
-  },
-  "360058936513": {
-    "hash": "c06b61775859b9824af3a1077daccc8f563b7e6b9eec8a0b42d7883ee3986142",
-    "slug": "advanced-proof-of-play-or-playback-report",
-    "title": "Advanced: Proof of Play (or Playback report)",
-    "updated_at": "2026-02-26T18:04:23Z"
+  "4403332894867": {
+    "hash": "8a1f3c2c557a8b98c512b87c5e643d895852f583ff6b84cc94fe76ac81968157",
+    "slug": "how-to-set-up-audit-log-for-your-account",
+    "title": "How to set up Audit Log for your account",
+    "updated_at": "2026-03-18T22:16:52Z"
   },
   "32272215514131": {
     "hash": "c00611197c6250d2a229773fb36729d152c3e6efa166d696c560f0bc9007c47b",
@@ -617,17 +599,59 @@
     "title": "ProPlayer",
     "updated_at": "2026-03-30T17:22:38Z"
   },
-  "4403332894867": {
-    "hash": "8a1f3c2c557a8b98c512b87c5e643d895852f583ff6b84cc94fe76ac81968157",
-    "slug": "how-to-set-up-audit-log-for-your-account",
-    "title": "How to set up Audit Log for your account",
-    "updated_at": "2026-03-18T22:16:52Z"
+  "4406214738707": {
+    "hash": "9b22aa81ae24520b7a459f0b90475c338e7ca9869a2c24949635993820f44370",
+    "slug": "how-to-use-the-microsoft-meeting-room-app",
+    "title": "How to Use the Microsoft Meeting Room App",
+    "updated_at": "2026-03-25T21:28:34Z"
   },
-  "4407252213395": {
-    "hash": "c8e9605fab15b022c784bc434b7dde68c4186e0f180d6f53079bf1ac9080bc82",
-    "slug": "how-to-set-up-saml-20-with-optisigns-and-ms-entra-id-formerly-azure-ad",
-    "title": "How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)",
-    "updated_at": "2026-02-05T20:23:47Z"
+  "27356288211859": {
+    "hash": "0801ad60f56f21ec8eecad4e4d28034f30fb42d77e962da17b86207e1d21d759",
+    "slug": "how-to-use-icloud-calendar-with-optisigns",
+    "title": "How to use iCloud Calendar with OptiSigns",
+    "updated_at": "2026-03-26T16:45:12Z"
+  },
+  "47616485609491": {
+    "hash": "05016ce24d3d4e274c02c7fa372655307108aebc2e34dc54f39edec3b2c89b45",
+    "slug": "how-to-use-the-optidev-app",
+    "title": "How to Use the OptiDev App",
+    "updated_at": "2026-02-11T23:03:49Z"
+  },
+  "360036250853": {
+    "hash": "1b7fed221556bf11a76c04c22ee7c9037a2d1d8018d32fe9d203d9a5b4b824aa",
+    "slug": "how-to-use-microsoft-outlook-calendar-with-optisigns",
+    "title": "How to Use Microsoft Outlook Calendar with OptiSigns",
+    "updated_at": "2026-03-25T21:28:19Z"
+  },
+  "25273043501587": {
+    "hash": "8ce6f1dbe1d6a7ff2beec98049cd8e230739b73509d8d38713e3c46e44f8027c",
+    "slug": "how-to-lockdown-ipadsingle-app-with-guided-accessibility",
+    "title": "How to Lockdown iPad/Single App with Guided Accessibility",
+    "updated_at": "2026-02-10T16:54:02Z"
+  },
+  "360058936513": {
+    "hash": "c06b61775859b9824af3a1077daccc8f563b7e6b9eec8a0b42d7883ee3986142",
+    "slug": "advanced-proof-of-play-or-playback-report",
+    "title": "Advanced: Proof of Play (or Playback report)",
+    "updated_at": "2026-02-26T18:04:23Z"
+  },
+  "360024859713": {
+    "hash": "5cc06c09c572a63a3366c2217b3b47ce69f0c5fb276e6f627ce91f7624d83fa5",
+    "slug": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns",
+    "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
+    "updated_at": "2026-03-25T21:24:00Z"
+  },
+  "8098889840531": {
+    "hash": "559c50edc958b7100f7df34b6b4fc17d83288dd77a040b341d932dd10e13b4bd",
+    "slug": "how-to-use-rtsp-streams-on-optisigns-devices",
+    "title": "How to use RTSP Streams on OptiSigns Devices",
+    "updated_at": "2026-03-16T15:03:03Z"
+  },
+  "32860569148819": {
+    "hash": "69c8957e319b66853db7c5007d9ff9a163be8f62f8d108e0955af3ed4f0b6f75",
+    "slug": "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns",
+    "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
+    "updated_at": "2026-03-17T22:32:17Z"
   },
   "4407128433299": {
     "hash": "e7ed7e84acd1dbe5eb7ae0b7bd46a3c71a5cf3547f274d4c6ac8957a208ba3ed",
@@ -641,23 +665,11 @@
     "title": "How to Use Microsoft PowerPoint with OptiSigns",
     "updated_at": "2026-02-05T17:57:12Z"
   },
-  "32129032857875": {
-    "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
-    "slug": "where-to-buy-optisigns-devices",
-    "title": "Where to Buy OptiSigns Devices",
-    "updated_at": "2026-03-30T17:22:38Z"
-  },
-  "360036250853": {
-    "hash": "1b7fed221556bf11a76c04c22ee7c9037a2d1d8018d32fe9d203d9a5b4b824aa",
-    "slug": "how-to-use-microsoft-outlook-calendar-with-optisigns",
-    "title": "How to Use Microsoft Outlook Calendar with OptiSigns",
-    "updated_at": "2026-03-25T21:28:19Z"
-  },
-  "47616485609491": {
-    "hash": "05016ce24d3d4e274c02c7fa372655307108aebc2e34dc54f39edec3b2c89b45",
-    "slug": "how-to-use-the-optidev-app",
-    "title": "How to Use the OptiDev App",
-    "updated_at": "2026-02-11T23:03:49Z"
+  "360058259834": {
+    "hash": "041bb168b3790e767519b9a1dfd76f3953d4415d1df76642cf8b620dbf56add4",
+    "slug": "audience-intelligence-ai-camera-faqs",
+    "title": "Audience Intelligence (AI Camera) FAQs",
+    "updated_at": "2026-02-04T16:18:32Z"
   },
   "360016382473": {
     "hash": "397db087a355f83dd27e2a769b25a642f827936a6696b1d317bc5338b2947196",
@@ -665,23 +677,11 @@
     "title": "How to Use the Website App and Display URLs on OptiSigns",
     "updated_at": "2026-02-03T18:12:07Z"
   },
-  "48626115821459": {
-    "hash": "e8a95e87e1de244d8db32d15b93ed08b9b4f715045cf1e8c92873939f675d5cd",
-    "slug": "how-to-use-the-youtube-dashboard-app",
-    "title": "How to Use the YouTube Dashboard App",
-    "updated_at": "2026-02-02T15:32:55Z"
-  },
-  "360024859713": {
-    "hash": "5cc06c09c572a63a3366c2217b3b47ce69f0c5fb276e6f627ce91f7624d83fa5",
-    "slug": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns",
-    "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
-    "updated_at": "2026-03-25T21:24:00Z"
-  },
-  "360023848334": {
-    "hash": "2f95f18d8c46ffa5a072cecfaeae3df88ff8d92bca56b902bec1462a2ba95fd5",
-    "slug": "how-to-use-the-facebook-page-app",
-    "title": "How to Use the Facebook Page App",
-    "updated_at": "2026-02-02T17:17:28Z"
+  "4407252213395": {
+    "hash": "c8e9605fab15b022c784bc434b7dde68c4186e0f180d6f53079bf1ac9080bc82",
+    "slug": "how-to-set-up-saml-20-with-optisigns-and-ms-entra-id-formerly-azure-ad",
+    "title": "How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)",
+    "updated_at": "2026-02-05T20:23:47Z"
   },
   "48656950622227": {
     "hash": "fc2169d151ab777a49a27e25c39528aec756bf2b4814fdf84919ae5dca212cf7",
@@ -689,17 +689,41 @@
     "title": "How to Use the Google Search Console App",
     "updated_at": "2026-02-02T17:56:42Z"
   },
+  "360044619014": {
+    "hash": "d032ec149b98e1dc9973e39cf972540a8d1ad4043f129c28f3a13e7be2df2d7f",
+    "slug": "how-to-use-the-facebook-counter-app",
+    "title": "How to use the Facebook Counter App",
+    "updated_at": "2026-02-02T15:31:45Z"
+  },
+  "360046356113": {
+    "hash": "9a62cf0dc1ea2fda0b8dfdfb334e608ff534420507cc2dc918991c64a41a86be",
+    "slug": "advanced-security-managing-user-roles",
+    "title": "Advanced Security: Managing User Roles",
+    "updated_at": "2026-02-04T16:01:54Z"
+  },
+  "48626115821459": {
+    "hash": "e8a95e87e1de244d8db32d15b93ed08b9b4f715045cf1e8c92873939f675d5cd",
+    "slug": "how-to-use-the-youtube-dashboard-app",
+    "title": "How to Use the YouTube Dashboard App",
+    "updated_at": "2026-02-02T15:32:55Z"
+  },
   "48751096814995": {
     "hash": "47e5161ecd0f0e611bc05aab3260c329608488cab0d80a42723f1c074241bc49",
     "slug": "how-to-use-the-google-ads-dashboard-app",
     "title": "How to Use the Google Ads Dashboard App",
     "updated_at": "2026-02-02T17:54:16Z"
   },
-  "360044619014": {
-    "hash": "d032ec149b98e1dc9973e39cf972540a8d1ad4043f129c28f3a13e7be2df2d7f",
-    "slug": "how-to-use-the-facebook-counter-app",
-    "title": "How to use the Facebook Counter App",
-    "updated_at": "2026-02-02T15:31:45Z"
+  "360023848334": {
+    "hash": "2f95f18d8c46ffa5a072cecfaeae3df88ff8d92bca56b902bec1462a2ba95fd5",
+    "slug": "how-to-use-the-facebook-page-app",
+    "title": "How to Use the Facebook Page App",
+    "updated_at": "2026-02-02T17:17:28Z"
+  },
+  "360050642833": {
+    "hash": "95003e99e98204edaa477b7c5577d14867d37e5caff1fa74d7a7fa9ad1dfc5af",
+    "slug": "how-to-use-google-slides-with-optisigns",
+    "title": "How to Use Google Slides with OptiSigns",
+    "updated_at": "2026-01-31T15:45:41Z"
   },
   "360050665253": {
     "hash": "f742d1467103a4b956637002eb11f5a83bc581966a11b2b77380515ad72dbaf1",
@@ -713,35 +737,17 @@
     "title": "How to add a Microsoft 365 Excel Spreadsheet as a DataSource for OptiSync",
     "updated_at": "2026-01-29T16:01:49Z"
   },
-  "360042950593": {
-    "hash": "a738da1c87daf37c9e19d63ef89a0c42b2c87129f1212c79693aeda80df4d180",
-    "slug": "how-to-use-the-simple-clock-app",
-    "title": "How to Use the Simple Clock App",
-    "updated_at": "2026-01-23T15:20:46Z"
+  "360044115513": {
+    "hash": "190e53942e1ce4c99784228f2a4f2bb811d7287765db2e8a895df75d8c030a45",
+    "slug": "how-to-use-the-stock-app",
+    "title": "How to Use the Stock App",
+    "updated_at": "2026-01-26T17:43:31Z"
   },
-  "360058259834": {
-    "hash": "041bb168b3790e767519b9a1dfd76f3953d4415d1df76642cf8b620dbf56add4",
-    "slug": "audience-intelligence-ai-camera-faqs",
-    "title": "Audience Intelligence (AI Camera) FAQs",
-    "updated_at": "2026-02-04T16:18:32Z"
-  },
-  "360046356113": {
-    "hash": "9a62cf0dc1ea2fda0b8dfdfb334e608ff534420507cc2dc918991c64a41a86be",
-    "slug": "advanced-security-managing-user-roles",
-    "title": "Advanced Security: Managing User Roles",
-    "updated_at": "2026-02-04T16:01:54Z"
-  },
-  "360050642833": {
-    "hash": "95003e99e98204edaa477b7c5577d14867d37e5caff1fa74d7a7fa9ad1dfc5af",
-    "slug": "how-to-use-google-slides-with-optisigns",
-    "title": "How to Use Google Slides with OptiSigns",
-    "updated_at": "2026-01-31T15:45:41Z"
-  },
-  "40736654972563": {
-    "hash": "ffd0c73c7cbb345886dfc430e31403f0828d86c255d5dbf65ef70d17969e1082",
-    "slug": "optisigns-propromax-player-troubleshooting-guide",
-    "title": "OptiSigns Pro/ProMax Player Troubleshooting Guide",
-    "updated_at": "2026-01-13T21:20:16Z"
+  "360060284174": {
+    "hash": "161c84d65b2cbe59583422cb16811bea5f268a790a713c953c31cc8751685110",
+    "slug": "how-to-use-youtube-live-schedule-with-optisigns",
+    "title": "How to use YouTube Live Schedule with OptiSigns",
+    "updated_at": "2026-01-22T15:44:40Z"
   },
   "6605515731603": {
     "hash": "ddfb15c76a4a1bafec0766a3a560a9dbd1890ca7ca8f520958c805e61bc4d71d",
@@ -755,53 +761,11 @@
     "title": "Samsung Tizen TVs Troubleshooting Guide",
     "updated_at": "2026-01-12T16:10:54Z"
   },
-  "360060284174": {
-    "hash": "161c84d65b2cbe59583422cb16811bea5f268a790a713c953c31cc8751685110",
-    "slug": "how-to-use-youtube-live-schedule-with-optisigns",
-    "title": "How to use YouTube Live Schedule with OptiSigns",
-    "updated_at": "2026-01-22T15:44:40Z"
-  },
-  "360044115513": {
-    "hash": "190e53942e1ce4c99784228f2a4f2bb811d7287765db2e8a895df75d8c030a45",
-    "slug": "how-to-use-the-stock-app",
-    "title": "How to Use the Stock App",
-    "updated_at": "2026-01-26T17:43:31Z"
-  },
-  "29979283289235": {
-    "hash": "c1b170b452a35cafea93f6ccf27261185338ce712444249b858485270f06e30a",
-    "slug": "how-to-display-birthday-lists-with-optisync-data-mapping-and-google-sheets",
-    "title": "How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets",
-    "updated_at": "2026-01-09T02:22:54Z"
-  },
-  "4409673381011": {
-    "hash": "aa71b050baad518eec974767aaed3eccb4174dc89621d4e8930fce761a4c2bd7",
-    "slug": "how-to-use-the-emergency-feed-app",
-    "title": "How to Use the Emergency Feed App",
-    "updated_at": "2025-12-29T21:30:40Z"
-  },
-  "360051495193": {
-    "hash": "15c95de821e982412ec0cad111a5eb30143dc03c1734f990788fd7003efc246d",
-    "slug": "how-to-use-instagram-business-app",
-    "title": "How to use Instagram Business App",
-    "updated_at": "2025-12-12T20:56:01Z"
-  },
-  "11412877112595": {
-    "hash": "2b55e44381db02a391453cd996ceeaeae5e54b49ba6755d90e51b0627e3fd450",
-    "slug": "what-if-the-optisigns-app-does-not-auto-start-on-an-android-tv",
-    "title": "What if the OptiSigns app does not auto-start on an Android TV?",
-    "updated_at": "2025-11-19T11:39:39Z"
-  },
-  "4407335862931": {
-    "hash": "9f4a8a3e17795810c83e1510a82409c4dbcd8cbaecd02aec0fbad5ef45f1ebc7",
-    "slug": "how-to-use-slack-app",
-    "title": "How to use Slack App",
-    "updated_at": "2025-12-22T15:34:06Z"
-  },
-  "360050728934": {
-    "hash": "aa7a83d6933b1d8112ec7468ac28d106eec445311ad961e39b2973757ee0c44c",
-    "slug": "difference-between-instagram-instagram-business-app",
-    "title": "Difference between Instagram & Instagram Business App",
-    "updated_at": "2025-12-12T20:55:05Z"
+  "40736654972563": {
+    "hash": "ffd0c73c7cbb345886dfc430e31403f0828d86c255d5dbf65ef70d17969e1082",
+    "slug": "optisigns-propromax-player-troubleshooting-guide",
+    "title": "OptiSigns Pro/ProMax Player Troubleshooting Guide",
+    "updated_at": "2026-01-13T21:20:16Z"
   },
   "39250660729747": {
     "hash": "45f1ca2effc45eea7946e6818c74e1399995a98d4d86cd654c012cefa2014d9b",
@@ -809,23 +773,41 @@
     "title": "How to Use the Tableau App",
     "updated_at": "2026-01-06T22:36:49Z"
   },
-  "360019517953": {
-    "hash": "6562018d4a08cad1b3eb2645848bafe3775fe84177416fb26dc0022703c16291",
-    "slug": "how-to-use-google-calendar-with-optisigns",
-    "title": "How to use Google Calendar with OptiSigns",
-    "updated_at": "2025-11-21T01:13:20Z"
-  },
   "360056977214": {
     "hash": "d9d6f86d7fc2f75ac3f74a3d39d722177dc380b2d708542c8edaef4c8a79da14",
     "slug": "how-to-use-google-sheets-with-optisigns",
     "title": "How to use Google Sheets with OptiSigns",
     "updated_at": "2025-12-12T21:10:43Z"
   },
-  "360040991534": {
-    "hash": "ec1119b6c7490eeaf90e35b84fc4f71cf00c5a8217fe51c6f2caf5a39b9c7fca",
-    "slug": "how-to-use-the-techcrunch-news-app",
-    "title": "How to use the TechCrunch News App",
-    "updated_at": "2025-10-10T19:57:42Z"
+  "360042950593": {
+    "hash": "a738da1c87daf37c9e19d63ef89a0c42b2c87129f1212c79693aeda80df4d180",
+    "slug": "how-to-use-the-simple-clock-app",
+    "title": "How to Use the Simple Clock App",
+    "updated_at": "2026-01-23T15:20:46Z"
+  },
+  "360050728934": {
+    "hash": "aa7a83d6933b1d8112ec7468ac28d106eec445311ad961e39b2973757ee0c44c",
+    "slug": "difference-between-instagram-instagram-business-app",
+    "title": "Difference between Instagram & Instagram Business App",
+    "updated_at": "2025-12-12T20:55:05Z"
+  },
+  "4409673381011": {
+    "hash": "aa71b050baad518eec974767aaed3eccb4174dc89621d4e8930fce761a4c2bd7",
+    "slug": "how-to-use-the-emergency-feed-app",
+    "title": "How to Use the Emergency Feed App",
+    "updated_at": "2025-12-29T21:30:40Z"
+  },
+  "4407335862931": {
+    "hash": "9f4a8a3e17795810c83e1510a82409c4dbcd8cbaecd02aec0fbad5ef45f1ebc7",
+    "slug": "how-to-use-slack-app",
+    "title": "How to use Slack App",
+    "updated_at": "2025-12-22T15:34:06Z"
+  },
+  "360019517953": {
+    "hash": "6562018d4a08cad1b3eb2645848bafe3775fe84177416fb26dc0022703c16291",
+    "slug": "how-to-use-google-calendar-with-optisigns",
+    "title": "How to use Google Calendar with OptiSigns",
+    "updated_at": "2025-11-21T01:13:20Z"
   },
   "4414539282067": {
     "hash": "bb6db711e8b03e798ad94a34c6d8da689b0db844e8798b38be6c9672d1bcbbed",
@@ -833,11 +815,11 @@
     "title": "Displaying SharePoint Sites on OptiSigns",
     "updated_at": "2025-11-10T15:11:25Z"
   },
-  "1500005467601": {
-    "hash": "19c00c2fa4bbda74cc6302fe6ad902bbacc176c0b8e6663cbc5a507b5abeea4a",
-    "slug": "clean-install-of-optisigns-player-on-windows",
-    "title": "Clean install of OptiSigns Player on Windows",
-    "updated_at": "2025-10-23T21:18:17Z"
+  "29979283289235": {
+    "hash": "c1b170b452a35cafea93f6ccf27261185338ce712444249b858485270f06e30a",
+    "slug": "how-to-display-birthday-lists-with-optisync-data-mapping-and-google-sheets",
+    "title": "How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets",
+    "updated_at": "2026-01-09T02:22:54Z"
   },
   "4414563863827": {
     "hash": "148e05552b23b569398fd139a3271fc9918d56e5459733e979abd34304aaf213",
@@ -845,17 +827,17 @@
     "title": "Get Started with OptiSigns API",
     "updated_at": "2025-11-06T16:52:11Z"
   },
-  "360045120133": {
-    "hash": "2faea7301a211deb7230c091fd14c2501a9d00a77062aa6a407ae66a001153ed",
-    "slug": "how-to-use-the-wall-street-journal-app",
-    "title": "How to use the Wall Street Journal App",
-    "updated_at": "2025-10-10T19:56:12Z"
+  "11412877112595": {
+    "hash": "2b55e44381db02a391453cd996ceeaeae5e54b49ba6755d90e51b0627e3fd450",
+    "slug": "what-if-the-optisigns-app-does-not-auto-start-on-an-android-tv",
+    "title": "What if the OptiSigns app does not auto-start on an Android TV?",
+    "updated_at": "2025-11-19T11:39:39Z"
   },
-  "45619214182803": {
-    "hash": "db2c81e62724258837238bbb5a17d40bcbf88020ded88d242a480d73902694b3",
-    "slug": "how-to-set-up-an-outlook-calendar-app-with-shared-permissions",
-    "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
-    "updated_at": "2025-10-17T16:01:18Z"
+  "1500005467601": {
+    "hash": "19c00c2fa4bbda74cc6302fe6ad902bbacc176c0b8e6663cbc5a507b5abeea4a",
+    "slug": "clean-install-of-optisigns-player-on-windows",
+    "title": "Clean install of OptiSigns Player on Windows",
+    "updated_at": "2025-10-23T21:18:17Z"
   },
   "360052827713": {
     "hash": "e7c6dbba9659a22ad77ca1d206e98fad9a38648d5af0dd87df694f23a688fc6e",
@@ -863,23 +845,11 @@
     "title": "How to Use the Flash Message App",
     "updated_at": "2025-12-23T21:35:47Z"
   },
-  "360040991474": {
-    "hash": "933406c39f4d2e20921f8d3d7145e725f507134bc33313d8ca423111f6291ae3",
-    "slug": "how-to-use-the-espn-news-app",
-    "title": "How to use the ESPN News App",
-    "updated_at": "2025-10-10T18:54:38Z"
-  },
-  "1500011611322": {
-    "hash": "d21565f9b2ba05ac2663541002c270eea449175b92cf959fc984911566604d54",
-    "slug": "how-to-use-the-cbc-news-app",
-    "title": "How to use the CBC News App",
-    "updated_at": "2025-10-10T18:50:47Z"
-  },
-  "360044613874": {
-    "hash": "2f95a3cb6752345b76b6e73ef6b1830a4092d3650b0f54dd04cd1f4280daabf8",
-    "slug": "how-to-use-the-guardian-app",
-    "title": "How to use the Guardian App",
-    "updated_at": "2025-10-10T19:42:20Z"
+  "360051495193": {
+    "hash": "15c95de821e982412ec0cad111a5eb30143dc03c1734f990788fd7003efc246d",
+    "slug": "how-to-use-instagram-business-app",
+    "title": "How to use Instagram Business App",
+    "updated_at": "2025-12-12T20:56:01Z"
   },
   "31449657955347": {
     "hash": "1854adab6ed38892dbee90bf725f661593de5341bcc3056049c384ce04215600",
@@ -887,23 +857,53 @@
     "title": "Getting Started with Touch Screen Kiosks",
     "updated_at": "2025-10-29T18:57:43Z"
   },
+  "360040991474": {
+    "hash": "933406c39f4d2e20921f8d3d7145e725f507134bc33313d8ca423111f6291ae3",
+    "slug": "how-to-use-the-espn-news-app",
+    "title": "How to use the ESPN News App",
+    "updated_at": "2025-10-10T18:54:38Z"
+  },
+  "45619214182803": {
+    "hash": "db2c81e62724258837238bbb5a17d40bcbf88020ded88d242a480d73902694b3",
+    "slug": "how-to-set-up-an-outlook-calendar-app-with-shared-permissions",
+    "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
+    "updated_at": "2025-10-17T16:01:18Z"
+  },
+  "360045120133": {
+    "hash": "2faea7301a211deb7230c091fd14c2501a9d00a77062aa6a407ae66a001153ed",
+    "slug": "how-to-use-the-wall-street-journal-app",
+    "title": "How to use the Wall Street Journal App",
+    "updated_at": "2025-10-10T19:56:12Z"
+  },
   "360045121233": {
     "hash": "2c3749f7316c004ed06d1aef996e8b3ebdfb6a84f07a927f73e672e6f61f0924",
     "slug": "how-to-use-the-new-york-times-app",
     "title": "How to use the New York Times app",
     "updated_at": "2025-10-10T19:47:31Z"
   },
-  "360022393473": {
-    "hash": "57200ee0d75fb552a1bf6e63d2a50db3a5bc6bf4dcbf553d483c7d6dbbd12155",
-    "slug": "how-to-use-the-news-app",
-    "title": "How to use the News App",
-    "updated_at": "2025-09-30T20:42:39Z"
+  "360040991534": {
+    "hash": "ec1119b6c7490eeaf90e35b84fc4f71cf00c5a8217fe51c6f2caf5a39b9c7fca",
+    "slug": "how-to-use-the-techcrunch-news-app",
+    "title": "How to use the TechCrunch News App",
+    "updated_at": "2025-10-10T19:57:42Z"
   },
-  "360041476213": {
-    "hash": "d1060c5327365d2d47eefeb1b9cc51d76279524b7a81d8d779e3922f32c452b3",
-    "slug": "how-to-use-the-cnn-news-app",
-    "title": "How to use the CNN News App",
-    "updated_at": "2025-09-30T20:41:34Z"
+  "360034379693": {
+    "hash": "83b758c4c3f5b09c9933fd1a9126d03e4b1561863f8bb011040e1aa3b672b62d",
+    "slug": "raspberry-pi",
+    "title": "Raspberry Pi",
+    "updated_at": "2025-10-07T15:03:02Z"
+  },
+  "360044613874": {
+    "hash": "2f95a3cb6752345b76b6e73ef6b1830a4092d3650b0f54dd04cd1f4280daabf8",
+    "slug": "how-to-use-the-guardian-app",
+    "title": "How to use the Guardian App",
+    "updated_at": "2025-10-10T19:42:20Z"
+  },
+  "1500011611322": {
+    "hash": "d21565f9b2ba05ac2663541002c270eea449175b92cf959fc984911566604d54",
+    "slug": "how-to-use-the-cbc-news-app",
+    "title": "How to use the CBC News App",
+    "updated_at": "2025-10-10T18:50:47Z"
   },
   "22474034993043": {
     "hash": "38ae0c4a7d899af64370d488a1e9f152b6d8156b4da0276bf8f9897ee52cf264",
@@ -923,11 +923,11 @@
     "title": "Making a Video Wall with OptiSigns (Video Wall App)",
     "updated_at": "2025-12-11T15:16:23Z"
   },
-  "35337746613139": {
-    "hash": "030f3c8cecd646ac239c05bf4b8a6cc4a187dedda93785ed2286501255a2edce",
-    "slug": "how-to-create-custom-news-feeds-with-optisync",
-    "title": "How to Create Custom News Feeds with  OptiSync",
-    "updated_at": "2025-10-01T19:04:05Z"
+  "360022393473": {
+    "hash": "57200ee0d75fb552a1bf6e63d2a50db3a5bc6bf4dcbf553d483c7d6dbbd12155",
+    "slug": "how-to-use-the-news-app",
+    "title": "How to use the News App",
+    "updated_at": "2025-09-30T20:42:39Z"
   },
   "4414564078995": {
     "hash": "d905b43ac0c72dfe53367c7ef3a24ef838c034ce787cb748befcbc89af2323d8",
@@ -935,23 +935,17 @@
     "title": "Error Handling",
     "updated_at": "2025-09-11T14:10:24Z"
   },
-  "360034379693": {
-    "hash": "83b758c4c3f5b09c9933fd1a9126d03e4b1561863f8bb011040e1aa3b672b62d",
-    "slug": "raspberry-pi",
-    "title": "Raspberry Pi",
-    "updated_at": "2025-10-07T15:03:02Z"
+  "360055486554": {
+    "hash": "52ce49b557fadf30221e2999c444cb7e39640042bf3e19488678e32c48ea24b3",
+    "slug": "remotely-control-and-command-optisigns-devices",
+    "title": "Remotely Control and Command OptiSigns Devices",
+    "updated_at": "2025-09-24T18:58:23Z"
   },
-  "4414558392339": {
-    "hash": "8955f943d9b51cc039d94a5cd19a07df944855539d661968db76e6d24f0e8706",
-    "slug": "api-reference",
-    "title": "API Reference",
-    "updated_at": "2025-09-05T15:04:56Z"
-  },
-  "7865572050195": {
-    "hash": "51a7b63710e87f737bcc1e492c75081da94e0b1a3a272db5899e7428ee9ccf95",
-    "slug": "how-to-hide-certain-templates-categories-in-designers",
-    "title": "How to hide certain templates categories in Designers",
-    "updated_at": "2025-09-05T15:04:32Z"
+  "360041476213": {
+    "hash": "d1060c5327365d2d47eefeb1b9cc51d76279524b7a81d8d779e3922f32c452b3",
+    "slug": "how-to-use-the-cnn-news-app",
+    "title": "How to use the CNN News App",
+    "updated_at": "2025-09-30T20:41:34Z"
   },
   "360042424294": {
     "hash": "9d5fd81e1c74acab188136d5e74d49f6f1c0b356f7414e5fcc2df024de2c3396",
@@ -959,41 +953,23 @@
     "title": "How far back or how many posts will be fetched for my Social Walls?",
     "updated_at": "2025-09-05T15:04:21Z"
   },
+  "35337746613139": {
+    "hash": "030f3c8cecd646ac239c05bf4b8a6cc4a187dedda93785ed2286501255a2edce",
+    "slug": "how-to-create-custom-news-feeds-with-optisync",
+    "title": "How to Create Custom News Feeds with  OptiSync",
+    "updated_at": "2025-10-01T19:04:05Z"
+  },
+  "4414558392339": {
+    "hash": "8955f943d9b51cc039d94a5cd19a07df944855539d661968db76e6d24f0e8706",
+    "slug": "api-reference",
+    "title": "API Reference",
+    "updated_at": "2025-09-05T15:04:56Z"
+  },
   "9061950942995": {
     "hash": "570d8b0870f2e7e78dc8649f53985262a4c8220f8ee243c05768006f353d34e7",
     "slug": "using-rs-232-to-schedule-tv-power-onoff-or-other-commands",
     "title": "Using RS-232 to Schedule TV Power On/Off or other commands",
     "updated_at": "2025-09-19T18:38:49Z"
-  },
-  "360016342373": {
-    "hash": "b25973dd234ba95c3235d4a02675496e11272d4b8f190b6e1e605da32afb8e48",
-    "slug": "what-types-of-files-are-supported",
-    "title": "What types of files are supported?",
-    "updated_at": "2025-09-08T14:04:57Z"
-  },
-  "360016380053": {
-    "hash": "e259436b455e69e975c7f512583aff3a7b5e3f9a6e0c8aa2ece2596fc2091cba",
-    "slug": "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick",
-    "title": "How to Check WiFi Signal Strength on the Amazon Fire TV Stick",
-    "updated_at": "2025-09-05T15:00:49Z"
-  },
-  "42526907045651": {
-    "hash": "9186328c7b9fa72e07c275d5c7f01786fd08c357b0113873c7ee94acb2feaa00",
-    "slug": "photos-gifs-and-qr-codes-in-designer",
-    "title": "Photos, GIFs, and QR Codes in Designer",
-    "updated_at": "2025-09-26T20:04:17Z"
-  },
-  "38062664690195": {
-    "hash": "45a39a90403963b06dea01d9f66022775630587534cbdef0dc91a31365fcb5e3",
-    "slug": "tagging-in-optisigns",
-    "title": "Tagging in OptiSigns",
-    "updated_at": "2025-09-09T19:34:07Z"
-  },
-  "4404879296403": {
-    "hash": "62105ac224f611961713ef3cd6f1f858e37647267053125a9aab7a7a4b70cc66",
-    "slug": "how-to-clean-data-on-the-optisigns-android-stick",
-    "title": "How to Clean Data on the OptiSigns Android Stick",
-    "updated_at": "2025-09-05T15:00:38Z"
   },
   "360044600474": {
     "hash": "b15b6358389fa60d05d0ad9ff69d0454d6154bfa8307d32491264e24a6b0f37e",
@@ -1001,59 +977,17 @@
     "title": "Folder Level Permissions",
     "updated_at": "2025-09-10T15:02:26Z"
   },
-  "360055486554": {
-    "hash": "52ce49b557fadf30221e2999c444cb7e39640042bf3e19488678e32c48ea24b3",
-    "slug": "remotely-control-and-command-optisigns-devices",
-    "title": "Remotely Control and Command OptiSigns Devices",
-    "updated_at": "2025-09-24T18:58:23Z"
+  "360016342373": {
+    "hash": "b25973dd234ba95c3235d4a02675496e11272d4b8f190b6e1e605da32afb8e48",
+    "slug": "what-types-of-files-are-supported",
+    "title": "What types of files are supported?",
+    "updated_at": "2025-09-08T14:04:57Z"
   },
-  "6086986017299": {
-    "hash": "1ebcbb19a3f131bf4dd33c4ef25ec6fd092fc98e2160d83e13fe67febf3a19d9",
-    "slug": "how-to-use-optisigns-screen-capture-app",
-    "title": "How to use OptiSigns Screen Capture app",
-    "updated_at": "2025-09-05T14:51:05Z"
-  },
-  "360050244454": {
-    "hash": "9792a887971056776dab98c09fba8ff8b8e4d15152591bb7945b13e048e7a6a5",
-    "slug": "how-to-use-trello-app",
-    "title": "How to use Trello App",
-    "updated_at": "2025-09-05T14:35:39Z"
-  },
-  "360049872414": {
-    "hash": "1dc2701fcefe9808c6a54daaa13af6e1287ba62df6ccd6f2f34e98c73c091c55",
-    "slug": "how-to-use-facebook-video-app",
-    "title": "How to use Facebook Video App",
-    "updated_at": "2025-09-05T14:55:21Z"
-  },
-  "360058855273": {
-    "hash": "8eb343e1248521dcc4e83146a0a2fe23df3d3465aa17cb231eb945f3ce7c3501",
-    "slug": "how-to-use-google-docs-with-optisigns",
-    "title": "How to use Google Docs with OptiSigns",
-    "updated_at": "2025-09-05T14:48:20Z"
-  },
-  "1500002383502": {
-    "hash": "ce1bca1190f2f1cccedc93ea2d791b07dadd60f79ba088ec0c8501e1b3e9a887",
-    "slug": "how-to-install-optisigns-as-screensaver-on-roku",
-    "title": "How to install OptiSigns as Screensaver on Roku",
-    "updated_at": "2025-09-04T20:46:23Z"
-  },
-  "360046859534": {
-    "hash": "76a5a3c37abff53b79596a05f8a07fb4301b93d863de1511982e4d2c8ed3f7e8",
-    "slug": "how-to-use-twitch-app",
-    "title": "How to use Twitch App",
-    "updated_at": "2025-09-05T14:57:13Z"
-  },
-  "18988049363859": {
-    "hash": "fe3f8a5bb32b6f69d375f17b84ad46fe1b45b3d3e09070f192aa3dc3c34592dd",
-    "slug": "push-contents-to-your-screens",
-    "title": "Push Contents to your Screens",
-    "updated_at": "2025-09-04T20:22:58Z"
-  },
-  "360043621953": {
-    "hash": "89ca9970cee7e0e0dde6b8f7d8bf1e503904e6e9b55d779e2bf208919cd1ed46",
-    "slug": "how-to-create-and-use-nested-playlists",
-    "title": "How to Create and Use Nested Playlists",
-    "updated_at": "2025-09-04T20:17:22Z"
+  "4404879296403": {
+    "hash": "62105ac224f611961713ef3cd6f1f858e37647267053125a9aab7a7a4b70cc66",
+    "slug": "how-to-clean-data-on-the-optisigns-android-stick",
+    "title": "How to Clean Data on the OptiSigns Android Stick",
+    "updated_at": "2025-09-05T15:00:38Z"
   },
   "42087942047379": {
     "hash": "578bb7ac2e6d4e31af083b4cbbc77c114491745e83979366e75ff89efe5ab7c2",
@@ -1061,11 +995,41 @@
     "title": "Getting Started with Designer",
     "updated_at": "2025-10-07T17:18:32Z"
   },
+  "360016380053": {
+    "hash": "e259436b455e69e975c7f512583aff3a7b5e3f9a6e0c8aa2ece2596fc2091cba",
+    "slug": "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick",
+    "title": "How to Check WiFi Signal Strength on the Amazon Fire TV Stick",
+    "updated_at": "2025-09-05T15:00:49Z"
+  },
+  "360049872414": {
+    "hash": "1dc2701fcefe9808c6a54daaa13af6e1287ba62df6ccd6f2f34e98c73c091c55",
+    "slug": "how-to-use-facebook-video-app",
+    "title": "How to use Facebook Video App",
+    "updated_at": "2025-09-05T14:55:21Z"
+  },
+  "38062664690195": {
+    "hash": "45a39a90403963b06dea01d9f66022775630587534cbdef0dc91a31365fcb5e3",
+    "slug": "tagging-in-optisigns",
+    "title": "Tagging in OptiSigns",
+    "updated_at": "2025-09-09T19:34:07Z"
+  },
   "4408658251027": {
     "hash": "f1ffcb8d2139421154b9e31a7837fdec8d4f164bf7df46d62a286642dbb249d5",
     "slug": "how-to-use-remote-command-execution-windowslinux",
     "title": "How to use Remote Command Execution - Windows/Linux",
     "updated_at": "2025-09-05T14:59:20Z"
+  },
+  "6086986017299": {
+    "hash": "1ebcbb19a3f131bf4dd33c4ef25ec6fd092fc98e2160d83e13fe67febf3a19d9",
+    "slug": "how-to-use-optisigns-screen-capture-app",
+    "title": "How to use OptiSigns Screen Capture app",
+    "updated_at": "2025-09-05T14:51:05Z"
+  },
+  "7865572050195": {
+    "hash": "51a7b63710e87f737bcc1e492c75081da94e0b1a3a272db5899e7428ee9ccf95",
+    "slug": "how-to-hide-certain-templates-categories-in-designers",
+    "title": "How to hide certain templates categories in Designers",
+    "updated_at": "2025-09-05T15:04:32Z"
   },
   "360021856013": {
     "hash": "7bb01a41dd3d1d1b2b9e2e7a8e5af55d4377abb29c6f8f69781ece740f896e91",
@@ -1073,11 +1037,41 @@
     "title": "Use Your Mac/Windows Device as a Test Screen",
     "updated_at": "2025-09-04T20:39:46Z"
   },
-  "20879903340947": {
-    "hash": "4e4c5700f36a2edd345eb7f5401fb42650d63f4cb75bc0d49724f42c35b9f2aa",
-    "slug": "how-to-use-content-tags-in-the-playlist",
-    "title": "How to Use Content Tags in The Playlist",
-    "updated_at": "2025-09-04T19:48:57Z"
+  "1500002131621": {
+    "hash": "f1994f4feaeea188243ad374e695cb89b5d547e6a03a33d71f4eb80f569ac234",
+    "slug": "how-to-use-youtube-live-with-optisigns",
+    "title": "How to use YouTube Live with OptiSigns",
+    "updated_at": "2025-09-05T14:35:18Z"
+  },
+  "360046859534": {
+    "hash": "76a5a3c37abff53b79596a05f8a07fb4301b93d863de1511982e4d2c8ed3f7e8",
+    "slug": "how-to-use-twitch-app",
+    "title": "How to use Twitch App",
+    "updated_at": "2025-09-05T14:57:13Z"
+  },
+  "360050244454": {
+    "hash": "9792a887971056776dab98c09fba8ff8b8e4d15152591bb7945b13e048e7a6a5",
+    "slug": "how-to-use-trello-app",
+    "title": "How to use Trello App",
+    "updated_at": "2025-09-05T14:35:39Z"
+  },
+  "1500002383502": {
+    "hash": "ce1bca1190f2f1cccedc93ea2d791b07dadd60f79ba088ec0c8501e1b3e9a887",
+    "slug": "how-to-install-optisigns-as-screensaver-on-roku",
+    "title": "How to install OptiSigns as Screensaver on Roku",
+    "updated_at": "2025-09-04T20:46:23Z"
+  },
+  "360058855273": {
+    "hash": "8eb343e1248521dcc4e83146a0a2fe23df3d3465aa17cb231eb945f3ce7c3501",
+    "slug": "how-to-use-google-docs-with-optisigns",
+    "title": "How to use Google Docs with OptiSigns",
+    "updated_at": "2025-09-05T14:48:20Z"
+  },
+  "42526907045651": {
+    "hash": "9186328c7b9fa72e07c275d5c7f01786fd08c357b0113873c7ee94acb2feaa00",
+    "slug": "photos-gifs-and-qr-codes-in-designer",
+    "title": "Photos, GIFs, and QR Codes in Designer",
+    "updated_at": "2025-09-26T20:04:17Z"
   },
   "22875592994195": {
     "hash": "fe50c97ccdecf7f5c0d68f728feda62b1b44b6ad61c5808c516f43de7fdb5a9d",
@@ -1085,35 +1079,11 @@
     "title": "How to Integrate API and Publish API Data via OptiSync",
     "updated_at": "2025-09-04T21:00:02Z"
   },
-  "1500002131621": {
-    "hash": "f1994f4feaeea188243ad374e695cb89b5d547e6a03a33d71f4eb80f569ac234",
-    "slug": "how-to-use-youtube-live-with-optisigns",
-    "title": "How to use YouTube Live with OptiSigns",
-    "updated_at": "2025-09-05T14:35:18Z"
-  },
-  "360049159814": {
-    "hash": "d5853f34c8e33df6fdd03388a8c4fc9a4fc5310ee998474e2c6d518ca076dd2b",
-    "slug": "how-to-use-wallsio-app",
-    "title": "How to use Walls.io App",
-    "updated_at": "2025-09-04T20:16:07Z"
-  },
-  "36562094987795": {
-    "hash": "0226a7a45ef0c58ce3c215d8e18c842ab95acf1ecb7693643cf021f02b959425",
-    "slug": "tutorial-creating-or-updating-website-assets-using-graphql",
-    "title": "Tutorial: Creating or Updating Website Assets Using GraphQL",
-    "updated_at": "2025-09-04T18:54:21Z"
-  },
-  "360052513253": {
-    "hash": "416cbdce37b8adbf436bf55ab6364f8e0b1e16ae59dd19606047cd1d74d47ad1",
-    "slug": "how-to-use-emergency-messagealert-app",
-    "title": "How to use Emergency Message/Alert App",
-    "updated_at": "2025-09-04T20:02:00Z"
-  },
-  "360034379573": {
-    "hash": "7e25cc2a65e9403cdf64abf4d03f528cbb3d0fc065a73931d1a81654d492b96e",
-    "slug": "linux",
-    "title": "Linux",
-    "updated_at": "2025-09-04T19:26:34Z"
+  "18988049363859": {
+    "hash": "fe3f8a5bb32b6f69d375f17b84ad46fe1b45b3d3e09070f192aa3dc3c34592dd",
+    "slug": "push-contents-to-your-screens",
+    "title": "Push Contents to your Screens",
+    "updated_at": "2025-09-04T20:22:58Z"
   },
   "30304278652563": {
     "hash": "3eb8e689a4c6447547dc21c0396c949257a9f469e36c4599cdae9677caf90ea0",
@@ -1121,11 +1091,17 @@
     "title": "How to Use the Mobile App for Remote Control",
     "updated_at": "2025-09-04T20:14:54Z"
   },
-  "31860170199955": {
-    "hash": "bf6a6593a88bf1aab50cb398d4af6baffd8eb0dc176fd3467cf24d2b8483fce6",
-    "slug": "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync",
-    "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
-    "updated_at": "2025-09-04T20:31:25Z"
+  "360043621953": {
+    "hash": "89ca9970cee7e0e0dde6b8f7d8bf1e503904e6e9b55d779e2bf208919cd1ed46",
+    "slug": "how-to-create-and-use-nested-playlists",
+    "title": "How to Create and Use Nested Playlists",
+    "updated_at": "2025-09-04T20:17:22Z"
+  },
+  "360049159814": {
+    "hash": "d5853f34c8e33df6fdd03388a8c4fc9a4fc5310ee998474e2c6d518ca076dd2b",
+    "slug": "how-to-use-wallsio-app",
+    "title": "How to use Walls.io App",
+    "updated_at": "2025-09-04T20:16:07Z"
   },
   "360034379293": {
     "hash": "33d07d205de235737fedd23fd04eeb586967d2e9ba5886e8e7f61b1d2ed0d155",
@@ -1133,11 +1109,17 @@
     "title": "Windows",
     "updated_at": "2025-09-04T19:17:16Z"
   },
-  "4404053129619": {
-    "hash": "be6e9cd3a638e5e7cdec8c2df064254a94c865e0d7eed9a701791251d4918d6b",
-    "slug": "how-to-use-microsoft-teams-meeting-app-with-optisigns",
-    "title": "How to use Microsoft Teams Meeting app with OptiSigns",
-    "updated_at": "2025-09-04T18:53:44Z"
+  "360037463934": {
+    "hash": "3ad8c7f0e5f6a84484599e9ce99a19b4ca05e778a5cd00ce7590dcc5772c4c67",
+    "slug": "how-to-create-and-use-google-reviews-wall",
+    "title": "How to create and use Google Reviews Wall",
+    "updated_at": "2025-09-04T20:21:45Z"
+  },
+  "360052513253": {
+    "hash": "416cbdce37b8adbf436bf55ab6364f8e0b1e16ae59dd19606047cd1d74d47ad1",
+    "slug": "how-to-use-emergency-messagealert-app",
+    "title": "How to use Emergency Message/Alert App",
+    "updated_at": "2025-09-04T20:02:00Z"
   },
   "1500001985341": {
     "hash": "8122757bef3418df031844d0e95d2478ecae9f732455213881ad5f5d5a3bbe1a",
@@ -1145,23 +1127,47 @@
     "title": "How to Use the Local Folder App in OptiSigns",
     "updated_at": "2025-09-04T19:36:02Z"
   },
-  "4414563797139": {
-    "hash": "176c459c386c4fe8d7767965644ed4f6221c8dbaec6f4ac76083cdd17cb05ad2",
-    "slug": "generate-manage-optisigns-api-key",
-    "title": "Generate & Manage OptiSigns API Key",
-    "updated_at": "2025-09-04T18:50:38Z"
+  "31860170199955": {
+    "hash": "bf6a6593a88bf1aab50cb398d4af6baffd8eb0dc176fd3467cf24d2b8483fce6",
+    "slug": "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync",
+    "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
+    "updated_at": "2025-09-04T20:31:25Z"
   },
-  "19171222981523": {
-    "hash": "1dc96d983a3bcbab2c2ec2465447e08a74fa1d5165976524583f049f6ae08a64",
-    "slug": "how-to-use-yammer-app-on-optisigns",
-    "title": "How to use Yammer app on OptiSigns",
-    "updated_at": "2025-09-04T18:49:13Z"
+  "36562094987795": {
+    "hash": "0226a7a45ef0c58ce3c215d8e18c842ab95acf1ecb7693643cf021f02b959425",
+    "slug": "tutorial-creating-or-updating-website-assets-using-graphql",
+    "title": "Tutorial: Creating or Updating Website Assets Using GraphQL",
+    "updated_at": "2025-09-04T18:54:21Z"
   },
   "4414558295955": {
     "hash": "8badeb55aa115151515e25e90ca1936a02bddbfd50dfc0b1ff9722a6773eb51f",
     "slug": "tutorial-create-update-add-remove-items-from-playlists",
     "title": "Tutorial: Create, Update, Add, Remove items from Playlists",
     "updated_at": "2025-09-04T19:02:46Z"
+  },
+  "4404053129619": {
+    "hash": "be6e9cd3a638e5e7cdec8c2df064254a94c865e0d7eed9a701791251d4918d6b",
+    "slug": "how-to-use-microsoft-teams-meeting-app-with-optisigns",
+    "title": "How to use Microsoft Teams Meeting app with OptiSigns",
+    "updated_at": "2025-09-04T18:53:44Z"
+  },
+  "360034379573": {
+    "hash": "7e25cc2a65e9403cdf64abf4d03f528cbb3d0fc065a73931d1a81654d492b96e",
+    "slug": "linux",
+    "title": "Linux",
+    "updated_at": "2025-09-04T19:26:34Z"
+  },
+  "20879903340947": {
+    "hash": "4e4c5700f36a2edd345eb7f5401fb42650d63f4cb75bc0d49724f42c35b9f2aa",
+    "slug": "how-to-use-content-tags-in-the-playlist",
+    "title": "How to Use Content Tags in The Playlist",
+    "updated_at": "2025-09-04T19:48:57Z"
+  },
+  "4414563797139": {
+    "hash": "176c459c386c4fe8d7767965644ed4f6221c8dbaec6f4ac76083cdd17cb05ad2",
+    "slug": "generate-manage-optisigns-api-key",
+    "title": "Generate & Manage OptiSigns API Key",
+    "updated_at": "2025-09-04T18:50:38Z"
   },
   "4414553099667": {
     "hash": "ac47197d995389b4f3166b72d0c1d260ddeffcca7b706d0e4427e7f1679daacc",
@@ -1175,35 +1181,17 @@
     "title": "How to display SmartSheet report on OptiSigns",
     "updated_at": "2025-09-04T18:50:22Z"
   },
-  "1500006130902": {
-    "hash": "24187f97005d1e36ea0960f453c59043b76759c1d24606bb77f1e0673febdfed",
-    "slug": "how-to-use-live-tv-with-ads-app",
-    "title": "How to use Live TV with Ads App",
-    "updated_at": "2025-09-04T18:40:28Z"
-  },
-  "360037463934": {
-    "hash": "3ad8c7f0e5f6a84484599e9ce99a19b4ca05e778a5cd00ce7590dcc5772c4c67",
-    "slug": "how-to-create-and-use-google-reviews-wall",
-    "title": "How to create and use Google Reviews Wall",
-    "updated_at": "2025-09-04T20:21:45Z"
-  },
-  "18399492388371": {
-    "hash": "7fa617c8dc37295bc9cbf165054b3ca41b3f8e7f9f3cb539605fd4fc26b5f83a",
-    "slug": "how-to-customize-the-thumbnail-of-files-assets-and-folders",
-    "title": "How to Customize the Thumbnail of Files, Assets, and Folders",
-    "updated_at": "2025-09-04T18:20:38Z"
-  },
-  "4403306341523": {
-    "hash": "8e958e1b5126534695b4808dffc33c59684acedce15cb8bedea6de0b571628fa",
-    "slug": "how-to-set-up-monitoring-alert-feature",
-    "title": "How to set up Monitoring Alert feature ",
-    "updated_at": "2025-09-04T18:20:07Z"
-  },
   "37966066335891": {
     "hash": "63f3ed39eb7498d4b6555767e54a8c6f69fdfa23012d4a56a12a267c0923505a",
     "slug": "getting-started-with-an-optisigns-free-trial",
     "title": "Getting Started with an OptiSigns Free Trial",
     "updated_at": "2025-09-04T18:44:24Z"
+  },
+  "1500006130902": {
+    "hash": "24187f97005d1e36ea0960f453c59043b76759c1d24606bb77f1e0673febdfed",
+    "slug": "how-to-use-live-tv-with-ads-app",
+    "title": "How to use Live TV with Ads App",
+    "updated_at": "2025-09-04T18:40:28Z"
   },
   "4417940565139": {
     "hash": "0426cc9feaf17e13d98854b34ab14628b29205cb7a4648672788f6523d31822d",
@@ -1211,71 +1199,11 @@
     "title": "How to display Microsoft Teams on OptiSigns",
     "updated_at": "2025-09-04T18:24:28Z"
   },
-  "360024310813": {
-    "hash": "d66da80ba9f15c9cbaea90aa1739429802fbde10a04541273be904b24670e6f5",
-    "slug": "how-to-use-a-pdf-with-optisigns",
-    "title": "How to use a PDF with OptiSigns",
-    "updated_at": "2025-09-04T18:06:19Z"
-  },
-  "360016254994": {
-    "hash": "fdd573f0bffade67db61b64215297c1361e223b2ca7a469cc63eb14898e42e7f",
-    "slug": "how-to-add-use-vimeo-video-with-optisigns",
-    "title": "How to add & use Vimeo video with OptiSigns",
-    "updated_at": "2025-09-04T18:00:23Z"
-  },
-  "35626165056787": {
-    "hash": "5e077752c186969ed7521cf2ee4ec4347df87d7c325f7602992587d2ad721dc2",
-    "slug": "how-to-contact-optisigns-support",
-    "title": "How to Contact OptiSigns Support",
-    "updated_at": "2025-09-04T17:13:59Z"
-  },
-  "360043670633": {
-    "hash": "91c635bc4ae559238af75d134ac60dd99e0b90693c99a58b3c6de25d3377398b",
-    "slug": "organizing-your-files-assets-playlists-and-schedules-by-using-folders",
-    "title": "Organizing your files, assets, playlists and schedules by using Folders",
-    "updated_at": "2025-09-04T17:06:53Z"
-  },
-  "20062273670163": {
-    "hash": "bc81844cbb9c82a26a079c86d3d831f1b0aae5e63495a0b7de187eb1aecb0fa6",
-    "slug": "how-to-control-and-schedule-playlist-items",
-    "title": "How to Control and Schedule Playlist Items",
-    "updated_at": "2025-09-04T17:26:34Z"
-  },
-  "360016990233": {
-    "hash": "6b532f733456b540d9243312cd4c79be82dd74f2aea158c47d01b43c9e993cf2",
-    "slug": "multi-users-invite-your-team-members-to-your-account",
-    "title": "Multi-users: Invite your team members to your account",
-    "updated_at": "2025-09-04T18:00:06Z"
-  },
-  "360056090593": {
-    "hash": "ebed077dd631b1822c1671e7af143a8219b2b46960aaf1732b2372bfe9c2a051",
-    "slug": "optisigns-side-menu-options",
-    "title": "OptiSigns Side Menu Options",
-    "updated_at": "2025-09-04T17:29:50Z"
-  },
-  "4406180781203": {
-    "hash": "5140ede66692abf42c9d98a2cc34c3181b4857492345650bd6e8a3f8f257ad31",
-    "slug": "how-to-use-linkedin-app",
-    "title": "How to use LinkedIn App",
-    "updated_at": "2025-09-04T18:05:53Z"
-  },
-  "28427819992979": {
-    "hash": "92347434a55bd98fa9cd96f6b66083f46dcb62d583253499a623f4b5654e363c",
-    "slug": "performancestability-issues-on-android-devices-and-best-practices",
-    "title": "Performance/Stability issues on Android devices and Best Practices",
-    "updated_at": "2025-09-04T16:21:18Z"
-  },
-  "23629657318547": {
-    "hash": "c7087ba88163d969562a2f1c44bc8574104b0f79166730bc981a5ba244fe5227",
-    "slug": "how-to-get-google-review-link",
-    "title": "How to get Google Review link",
-    "updated_at": "2025-09-04T16:54:55Z"
-  },
-  "23274673797139": {
-    "hash": "49d5c74e638351a9265cd51d37dd4775e0b222e88d4438a36dc8eef028dcc0b5",
-    "slug": "how-to-enable-auto-start-on-fireos-8-devices-like-amazon-fire-tv-stick-4k-gen-2-",
-    "title": "How to enable auto-start on FireOS 8 devices like Amazon Fire TV Stick 4K Gen 2 (2023 model)",
-    "updated_at": "2025-09-04T16:18:04Z"
+  "19171222981523": {
+    "hash": "1dc96d983a3bcbab2c2ec2465447e08a74fa1d5165976524583f049f6ae08a64",
+    "slug": "how-to-use-yammer-app-on-optisigns",
+    "title": "How to use Yammer app on OptiSigns",
+    "updated_at": "2025-09-04T18:49:13Z"
   },
   "36911639377683": {
     "hash": "deea093dd3a29797bad327dc16b584caa8cd8c8269560081ff904d368e08d6c2",
@@ -1283,35 +1211,35 @@
     "title": "How to Use OptiSigns with Microsoft Teams Rooms",
     "updated_at": "2025-09-04T18:42:32Z"
   },
-  "40212027797523": {
-    "hash": "31fcc48a7b4c97924be4ff16dbb0d02f834785a76950bb909648eeee8036bf91",
-    "slug": "disk-encryption",
-    "title": "Disk Encryption",
-    "updated_at": "2025-09-04T16:19:23Z"
+  "4403306341523": {
+    "hash": "8e958e1b5126534695b4808dffc33c59684acedce15cb8bedea6de0b571628fa",
+    "slug": "how-to-set-up-monitoring-alert-feature",
+    "title": "How to set up Monitoring Alert feature ",
+    "updated_at": "2025-09-04T18:20:07Z"
   },
-  "18381542133779": {
-    "hash": "7af39958211cea1177500dfbdd912af9db7ce0fad2306d2ad2bc2bf920c17d53",
-    "slug": "how-to-configure-multi-factor-authentication-with-your-optisigns-account",
-    "title": "How to Configure Multi-Factor Authentication with your OptiSigns account.",
-    "updated_at": "2025-09-04T16:20:40Z"
+  "360016254994": {
+    "hash": "fdd573f0bffade67db61b64215297c1361e223b2ca7a469cc63eb14898e42e7f",
+    "slug": "how-to-add-use-vimeo-video-with-optisigns",
+    "title": "How to add & use Vimeo video with OptiSigns",
+    "updated_at": "2025-09-04T18:00:23Z"
   },
-  "42915219118739": {
-    "hash": "cca07093981e4e8c355562f8a97aa9ea63354137b41e31ec7ea7de9698bbb5e2",
-    "slug": "legacy-datasources",
-    "title": "Legacy DataSources",
-    "updated_at": "2025-09-04T16:58:08Z"
+  "360016990233": {
+    "hash": "6b532f733456b540d9243312cd4c79be82dd74f2aea158c47d01b43c9e993cf2",
+    "slug": "multi-users-invite-your-team-members-to-your-account",
+    "title": "Multi-users: Invite your team members to your account",
+    "updated_at": "2025-09-04T18:00:06Z"
   },
-  "42313875427859": {
-    "hash": "673fac0634833ed03c9821845e42d95172d2fafb2496134795f73ff16ee64717",
-    "slug": "brand-kit-and-enforcing-brand-guidelines",
-    "title": "Brand Kit and Enforcing Brand Guidelines",
-    "updated_at": "2025-09-04T17:25:47Z"
+  "360024310813": {
+    "hash": "d66da80ba9f15c9cbaea90aa1739429802fbde10a04541273be904b24670e6f5",
+    "slug": "how-to-use-a-pdf-with-optisigns",
+    "title": "How to use a PDF with OptiSigns",
+    "updated_at": "2025-09-04T18:06:19Z"
   },
-  "360054557434": {
-    "hash": "f9985d0e631c9cf4acc390e6b582a225ff004a5d0da626bca694dfca30321e01",
-    "slug": "view-billing-history-and-download-receipts",
-    "title": "View Billing History and Download Receipts",
-    "updated_at": "2025-09-04T15:43:44Z"
+  "18399492388371": {
+    "hash": "7fa617c8dc37295bc9cbf165054b3ca41b3f8e7f9f3cb539605fd4fc26b5f83a",
+    "slug": "how-to-customize-the-thumbnail-of-files-assets-and-folders",
+    "title": "How to Customize the Thumbnail of Files, Assets, and Folders",
+    "updated_at": "2025-09-04T18:20:38Z"
   },
   "360055900513": {
     "hash": "3da844aa60c1576d11964dc7b3ee30fefd09d79905c3b46fa888968469b58094",
@@ -1319,41 +1247,29 @@
     "title": "How to create and use Virtual Screen App",
     "updated_at": "2025-09-04T17:02:05Z"
   },
-  "360019710493": {
-    "hash": "fd327327b9479af705de6c7b73f7ffb8f91d793c31a81c22326c37626b738239",
-    "slug": "how-to-display-google-slide-in-portrait-mode",
-    "title": "How to display Google Slide in Portrait Mode",
-    "updated_at": "2025-09-04T15:42:07Z"
+  "4406180781203": {
+    "hash": "5140ede66692abf42c9d98a2cc34c3181b4857492345650bd6e8a3f8f257ad31",
+    "slug": "how-to-use-linkedin-app",
+    "title": "How to use LinkedIn App",
+    "updated_at": "2025-09-04T18:05:53Z"
   },
-  "4414558369811": {
-    "hash": "bda1c272012b0fad529c6273eb9177be0ec04b012b74e4905bc53e31f25a9b38",
-    "slug": "pagination",
-    "title": "Pagination",
-    "updated_at": "2025-09-04T16:16:44Z"
+  "42915219118739": {
+    "hash": "cca07093981e4e8c355562f8a97aa9ea63354137b41e31ec7ea7de9698bbb5e2",
+    "slug": "legacy-datasources",
+    "title": "Legacy DataSources",
+    "updated_at": "2025-09-04T16:58:08Z"
   },
-  "360036465673": {
-    "hash": "e471f8e655a8edd1de968091e13a79248cb39eaf502b01a64e6c953fbb06facc",
-    "slug": "adjusting-social-news-wall-speeds",
-    "title": "Adjusting social, news wall speeds",
-    "updated_at": "2025-09-04T16:12:31Z"
+  "23629657318547": {
+    "hash": "c7087ba88163d969562a2f1c44bc8574104b0f79166730bc981a5ba244fe5227",
+    "slug": "how-to-get-google-review-link",
+    "title": "How to get Google Review link",
+    "updated_at": "2025-09-04T16:54:55Z"
   },
-  "1500008008981": {
-    "hash": "5cfeaf75260563949b2cd14c2075d17da322f15a9688c8cac21d74f701445dd6",
-    "slug": "how-to-enable-ssh-for-your-raspberry-pi",
-    "title": "How to enable SSH for your Raspberry Pi",
-    "updated_at": "2025-09-04T15:36:00Z"
-  },
-  "25127398699667": {
-    "hash": "dc1b05f6591a839bf0d94bdf3011bf1d24bb60757f835561114a1063db33da47",
-    "slug": "how-to-add-a-qr-code-in-designs-using-optisigns-designer",
-    "title": "How to add a QR Code in designs using OptiSigns’ Designer",
-    "updated_at": "2025-09-04T15:43:33Z"
-  },
-  "360016374813": {
-    "hash": "ef660ea42d1da06518ada327507915771f43a4a935501b2fd69b15a381ddcd9b",
-    "slug": "set-up-add-a-screen",
-    "title": "Set up & add a screen",
-    "updated_at": "2025-09-04T16:14:45Z"
+  "360043670633": {
+    "hash": "91c635bc4ae559238af75d134ac60dd99e0b90693c99a58b3c6de25d3377398b",
+    "slug": "organizing-your-files-assets-playlists-and-schedules-by-using-folders",
+    "title": "Organizing your files, assets, playlists and schedules by using Folders",
+    "updated_at": "2025-09-04T17:06:53Z"
   },
   "4414496579475": {
     "hash": "e24e3117e414cafdacdfc6aeb491f2f64f2821f42ac7373073e4854f8f037f0b",
@@ -1361,17 +1277,41 @@
     "title": "LG WebOS Signage (Commercial Grade)",
     "updated_at": "2025-09-04T18:03:17Z"
   },
-  "360016484393": {
-    "hash": "98d0b9815ea3fedea84597eadd6a4aaefa86765cfb64d6ef6f926fc71606be43",
-    "slug": "how-can-i-improve-stability-of-fire-tv-as-digital-signage-player",
-    "title": "How can I improve stability of Fire TV as Digital Signage player?",
-    "updated_at": "2025-09-04T15:33:49Z"
+  "35626165056787": {
+    "hash": "5e077752c186969ed7521cf2ee4ec4347df87d7c325f7602992587d2ad721dc2",
+    "slug": "how-to-contact-optisigns-support",
+    "title": "How to Contact OptiSigns Support",
+    "updated_at": "2025-09-04T17:13:59Z"
   },
-  "360052361293": {
-    "hash": "3d2774c2b175b2f375e7da3f0251dd77c193e897a3fc2d2823df136725f2af69",
-    "slug": "how-to-update-fire-tv-os-to-latest-version",
-    "title": "How to Update Fire TV OS to latest version",
-    "updated_at": "2025-09-04T15:35:37Z"
+  "42313875427859": {
+    "hash": "673fac0634833ed03c9821845e42d95172d2fafb2496134795f73ff16ee64717",
+    "slug": "brand-kit-and-enforcing-brand-guidelines",
+    "title": "Brand Kit and Enforcing Brand Guidelines",
+    "updated_at": "2025-09-04T17:25:47Z"
+  },
+  "20062273670163": {
+    "hash": "bc81844cbb9c82a26a079c86d3d831f1b0aae5e63495a0b7de187eb1aecb0fa6",
+    "slug": "how-to-control-and-schedule-playlist-items",
+    "title": "How to Control and Schedule Playlist Items",
+    "updated_at": "2025-09-04T17:26:34Z"
+  },
+  "360056090593": {
+    "hash": "ebed077dd631b1822c1671e7af143a8219b2b46960aaf1732b2372bfe9c2a051",
+    "slug": "optisigns-side-menu-options",
+    "title": "OptiSigns Side Menu Options",
+    "updated_at": "2025-09-04T17:29:50Z"
+  },
+  "28427819992979": {
+    "hash": "92347434a55bd98fa9cd96f6b66083f46dcb62d583253499a623f4b5654e363c",
+    "slug": "performancestability-issues-on-android-devices-and-best-practices",
+    "title": "Performance/Stability issues on Android devices and Best Practices",
+    "updated_at": "2025-09-04T16:21:18Z"
+  },
+  "23274673797139": {
+    "hash": "49d5c74e638351a9265cd51d37dd4775e0b222e88d4438a36dc8eef028dcc0b5",
+    "slug": "how-to-enable-auto-start-on-fireos-8-devices-like-amazon-fire-tv-stick-4k-gen-2-",
+    "title": "How to enable auto-start on FireOS 8 devices like Amazon Fire TV Stick 4K Gen 2 (2023 model)",
+    "updated_at": "2025-09-04T16:18:04Z"
   },
   "14502723487379": {
     "hash": "ee8396655eb032362dc70a83380a70d1fb5e01e4d6b93a75eed7d15448d51016",
@@ -1379,11 +1319,23 @@
     "title": "How to use AeriCast Add-on for Wireless Presentation and Video Conferencing",
     "updated_at": "2025-09-04T16:49:07Z"
   },
-  "28026588373139": {
-    "hash": "18bb5258e679b7ebfa53e9fe6ab69d7c157c199486fa23819af7dc359a873a1b",
-    "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3",
-    "title": "How to Fix The Scaling Issue on OptiSigns Android Device Gen 3",
-    "updated_at": "2025-09-04T15:34:19Z"
+  "4414558369811": {
+    "hash": "bda1c272012b0fad529c6273eb9177be0ec04b012b74e4905bc53e31f25a9b38",
+    "slug": "pagination",
+    "title": "Pagination",
+    "updated_at": "2025-09-04T16:16:44Z"
+  },
+  "360054557434": {
+    "hash": "f9985d0e631c9cf4acc390e6b582a225ff004a5d0da626bca694dfca30321e01",
+    "slug": "view-billing-history-and-download-receipts",
+    "title": "View Billing History and Download Receipts",
+    "updated_at": "2025-09-04T15:43:44Z"
+  },
+  "360036465673": {
+    "hash": "e471f8e655a8edd1de968091e13a79248cb39eaf502b01a64e6c953fbb06facc",
+    "slug": "adjusting-social-news-wall-speeds",
+    "title": "Adjusting social, news wall speeds",
+    "updated_at": "2025-09-04T16:12:31Z"
   },
   "360051317774": {
     "hash": "653df31748d55cc74b5e9327a141bf37962128f5acda48ec57950fd273b97511",
@@ -1391,29 +1343,41 @@
     "title": "How to use Facebook Recommendations App",
     "updated_at": "2025-09-04T16:16:13Z"
   },
-  "360056655633": {
-    "hash": "7399dd690a6775a098bc92cd91f19e8253624f044ce879e0b3e084575fc4ef1c",
-    "slug": "how-to-change-time-zone-on-your-raspberry-pi-device",
-    "title": "How to Change Time Zone on Your Raspberry Pi device",
-    "updated_at": "2025-09-04T15:35:11Z"
+  "40212027797523": {
+    "hash": "31fcc48a7b4c97924be4ff16dbb0d02f834785a76950bb909648eeee8036bf91",
+    "slug": "disk-encryption",
+    "title": "Disk Encryption",
+    "updated_at": "2025-09-04T16:19:23Z"
   },
-  "34379983350163": {
-    "hash": "0295afbb0361427abd06cb84e84ead8cf92afbff35753016013539e0a4a6cc60",
-    "slug": "accepted-payment-methods",
-    "title": "Accepted Payment Methods",
-    "updated_at": "2025-09-04T15:39:32Z"
+  "360016374813": {
+    "hash": "ef660ea42d1da06518ada327507915771f43a4a935501b2fd69b15a381ddcd9b",
+    "slug": "set-up-add-a-screen",
+    "title": "Set up & add a screen",
+    "updated_at": "2025-09-04T16:14:45Z"
   },
-  "12947300131731": {
-    "hash": "d825b306541907ba04e2cf3ea2b1fdc9ae9aa7cec4c239883a79c9a777ab37ba",
-    "slug": "showhide-downloading-status-on-your-player",
-    "title": "Show/Hide downloading status on your Player",
-    "updated_at": "2025-09-04T15:32:11Z"
+  "18381542133779": {
+    "hash": "7af39958211cea1177500dfbdd912af9db7ce0fad2306d2ad2bc2bf920c17d53",
+    "slug": "how-to-configure-multi-factor-authentication-with-your-optisigns-account",
+    "title": "How to Configure Multi-Factor Authentication with your OptiSigns account.",
+    "updated_at": "2025-09-04T16:20:40Z"
   },
-  "4411762539027": {
-    "hash": "b7af1c92c8c9c9a5568a49a76025d1efa1d85066cb2ee9de069be176d4b49701",
-    "slug": "multilingual-and-multi-currency",
-    "title": "Multilingual and multi-currency",
-    "updated_at": "2025-09-04T15:30:19Z"
+  "360019710493": {
+    "hash": "fd327327b9479af705de6c7b73f7ffb8f91d793c31a81c22326c37626b738239",
+    "slug": "how-to-display-google-slide-in-portrait-mode",
+    "title": "How to display Google Slide in Portrait Mode",
+    "updated_at": "2025-09-04T15:42:07Z"
+  },
+  "25127398699667": {
+    "hash": "dc1b05f6591a839bf0d94bdf3011bf1d24bb60757f835561114a1063db33da47",
+    "slug": "how-to-add-a-qr-code-in-designs-using-optisigns-designer",
+    "title": "How to add a QR Code in designs using OptiSigns’ Designer",
+    "updated_at": "2025-09-04T15:43:33Z"
+  },
+  "360052361293": {
+    "hash": "3d2774c2b175b2f375e7da3f0251dd77c193e897a3fc2d2823df136725f2af69",
+    "slug": "how-to-update-fire-tv-os-to-latest-version",
+    "title": "How to Update Fire TV OS to latest version",
+    "updated_at": "2025-09-04T15:35:37Z"
   },
   "35184720136595": {
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
@@ -1421,11 +1385,29 @@
     "title": "How to Install a Root Certificate and Display an Internal Website on Screens",
     "updated_at": "2025-09-04T16:54:34Z"
   },
-  "18470994953363": {
-    "hash": "b44c760b7acc6917025b64fe09cbc9fa903a9c9d0d0caa553ec79a15ddf5f90a",
-    "slug": "how-to-keep-optisigns-running-on-fire-stick",
-    "title": "How to keep OptiSigns running on Fire Stick",
-    "updated_at": "2025-09-04T15:31:51Z"
+  "34379983350163": {
+    "hash": "0295afbb0361427abd06cb84e84ead8cf92afbff35753016013539e0a4a6cc60",
+    "slug": "accepted-payment-methods",
+    "title": "Accepted Payment Methods",
+    "updated_at": "2025-09-04T15:39:32Z"
+  },
+  "1500008008981": {
+    "hash": "5cfeaf75260563949b2cd14c2075d17da322f15a9688c8cac21d74f701445dd6",
+    "slug": "how-to-enable-ssh-for-your-raspberry-pi",
+    "title": "How to enable SSH for your Raspberry Pi",
+    "updated_at": "2025-09-04T15:36:00Z"
+  },
+  "360056655633": {
+    "hash": "7399dd690a6775a098bc92cd91f19e8253624f044ce879e0b3e084575fc4ef1c",
+    "slug": "how-to-change-time-zone-on-your-raspberry-pi-device",
+    "title": "How to Change Time Zone on Your Raspberry Pi device",
+    "updated_at": "2025-09-04T15:35:11Z"
+  },
+  "28026588373139": {
+    "hash": "18bb5258e679b7ebfa53e9fe6ab69d7c157c199486fa23819af7dc359a873a1b",
+    "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3",
+    "title": "How to Fix The Scaling Issue on OptiSigns Android Device Gen 3",
+    "updated_at": "2025-09-04T15:34:19Z"
   },
   "360063098753": {
     "hash": "2c04627c09556632dcdcabd50b2541f4c1adfe2a31737d6c5f3d07bc0b3e8fdf",
@@ -1433,17 +1415,17 @@
     "title": "How to mass deploy OptiSigns on Raspberry Pi devices",
     "updated_at": "2025-09-04T15:34:40Z"
   },
-  "4411530012307": {
-    "hash": "71bcb76fafe79021ba94fd47eece41b8f48e297d7a25c42d9ab63b5a68960e87",
-    "slug": "how-to-use-microsoft-teams-live-app-with-optisigns",
-    "title": "How to use Microsoft Teams Live app with OptiSigns",
-    "updated_at": "2025-09-04T15:27:21Z"
+  "12947300131731": {
+    "hash": "d825b306541907ba04e2cf3ea2b1fdc9ae9aa7cec4c239883a79c9a777ab37ba",
+    "slug": "showhide-downloading-status-on-your-player",
+    "title": "Show/Hide downloading status on your Player",
+    "updated_at": "2025-09-04T15:32:11Z"
   },
-  "39488874989587": {
-    "hash": "43f81d0bf633bce87ebf9586b4b9fa9bbcf78bb3335bf8780cc60640d932ff20",
-    "slug": "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-s",
-    "title": "Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick",
-    "updated_at": "2025-09-04T15:25:54Z"
+  "18470994953363": {
+    "hash": "b44c760b7acc6917025b64fe09cbc9fa903a9c9d0d0caa553ec79a15ddf5f90a",
+    "slug": "how-to-keep-optisigns-running-on-fire-stick",
+    "title": "How to keep OptiSigns running on Fire Stick",
+    "updated_at": "2025-09-04T15:31:51Z"
   },
   "18500083191059": {
     "hash": "f34aae08843bf9bc9322a8f21532e77d34cbc1e1ad598aa4563fdd074d358ced",
@@ -1451,53 +1433,41 @@
     "title": "How to add captions to Vimeo videos",
     "updated_at": "2025-09-04T15:31:00Z"
   },
-  "4411743936147": {
-    "hash": "44f54523cbc977a0db17d5d3bff0498cb1fee6ae97d34d4a2e110a9d09421237",
-    "slug": "how-to-connect-to-8021x-enterprise-wifi-on-raspberry-pi",
-    "title": "How to Connect to 802.1x Enterprise WiFi on Raspberry Pi",
-    "updated_at": "2025-09-04T15:24:46Z"
-  },
-  "360049156234": {
-    "hash": "4e78a2f352deb03a2f4d49c0ae25fab6ca6b1c7d0d985edc917025c750306a69",
-    "slug": "how-to-use-currency-exchange-app",
-    "title": "How to use Currency Exchange App",
-    "updated_at": "2025-09-04T15:14:58Z"
-  },
   "11032964830227": {
     "hash": "06a985a12b14ff034845c4cc2e947aa2b71d1d4a4ce99b6a4a31c177f51d7eb2",
     "slug": "how-to-use-mondaycom-app",
     "title": "How to use Monday.com App",
     "updated_at": "2025-09-04T15:31:20Z"
   },
-  "15808407287315": {
-    "hash": "a074b65bc33e3cfc65ffeeae679d215d1a65792fd452de4aea888fc0bb99622e",
-    "slug": "the-optisigns-app-keeps-turning-on-the-tv-screen",
-    "title": "The OptiSigns app keeps turning on the TV screen",
-    "updated_at": "2025-09-04T15:11:52Z"
+  "39488874989587": {
+    "hash": "43f81d0bf633bce87ebf9586b4b9fa9bbcf78bb3335bf8780cc60640d932ff20",
+    "slug": "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-s",
+    "title": "Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick",
+    "updated_at": "2025-09-04T15:25:54Z"
   },
-  "1500002233221": {
-    "hash": "2cb2e4cb0910dbe0a2825eaf96569d9cef3602edfdff8cc5d55e9d6f1eda44f9",
-    "slug": "how-to-use-asana-app",
-    "title": "How to use Asana App",
-    "updated_at": "2025-09-04T15:11:27Z"
+  "360016484393": {
+    "hash": "98d0b9815ea3fedea84597eadd6a4aaefa86765cfb64d6ef6f926fc71606be43",
+    "slug": "how-can-i-improve-stability-of-fire-tv-as-digital-signage-player",
+    "title": "How can I improve stability of Fire TV as Digital Signage player?",
+    "updated_at": "2025-09-04T15:33:49Z"
   },
-  "360016833514": {
-    "hash": "edc3ef0fa67aa9fe74ee94b2853324ac181035ef677c42f527271c71248d6784",
-    "slug": "changing-screens-orientation-portrait-landscape",
-    "title": "Changing screen's orientation (portrait & landscape)",
-    "updated_at": "2025-09-04T15:18:11Z"
+  "4411762539027": {
+    "hash": "b7af1c92c8c9c9a5568a49a76025d1efa1d85066cb2ee9de069be176d4b49701",
+    "slug": "multilingual-and-multi-currency",
+    "title": "Multilingual and multi-currency",
+    "updated_at": "2025-09-04T15:30:19Z"
   },
-  "8369526604435": {
-    "hash": "0f1fb75e831078710c82e0e3a1c9286c64e2a68f1ecd4196b422cee076472bac",
-    "slug": "how-to-use-the-video-stream-app",
-    "title": "How to use the Video Stream app",
-    "updated_at": "2025-09-04T15:17:48Z"
+  "4411530012307": {
+    "hash": "71bcb76fafe79021ba94fd47eece41b8f48e297d7a25c42d9ab63b5a68960e87",
+    "slug": "how-to-use-microsoft-teams-live-app-with-optisigns",
+    "title": "How to use Microsoft Teams Live app with OptiSigns",
+    "updated_at": "2025-09-04T15:27:21Z"
   },
-  "1500003161182": {
-    "hash": "41718a9c84d2b4a1fcbd2685ba526c6db71c702025ea4d0d3a60b04c6e2dd8d2",
-    "slug": "how-to-move-screen-to-other-team",
-    "title": "How to move screen to other team",
-    "updated_at": "2025-09-04T15:11:08Z"
+  "4411743936147": {
+    "hash": "44f54523cbc977a0db17d5d3bff0498cb1fee6ae97d34d4a2e110a9d09421237",
+    "slug": "how-to-connect-to-8021x-enterprise-wifi-on-raspberry-pi",
+    "title": "How to Connect to 802.1x Enterprise WiFi on Raspberry Pi",
+    "updated_at": "2025-09-04T15:24:46Z"
   },
   "360055080914": {
     "hash": "0066aff9fac962bfba9e19663b56df6c0405c016c24dbb11f701b3cbd6ee80f7",
@@ -1511,11 +1481,35 @@
     "title": "How to use the Taggbox Display app with OptiSigns",
     "updated_at": "2025-09-04T15:16:41Z"
   },
-  "14557706459283": {
-    "hash": "1687120904cf861b1df988bcdca2e38e1ebec92adf553470823e38ef84c2bbd9",
-    "slug": "present-share-ios-android-phone-tablet-to-your-screen-with-optisigns-aericast-ad",
-    "title": "Present/ share iOS/ Android phone/ tablet to your screen with OptiSigns & AeriCast Add-on",
-    "updated_at": "2025-09-04T15:09:56Z"
+  "8369526604435": {
+    "hash": "0f1fb75e831078710c82e0e3a1c9286c64e2a68f1ecd4196b422cee076472bac",
+    "slug": "how-to-use-the-video-stream-app",
+    "title": "How to use the Video Stream app",
+    "updated_at": "2025-09-04T15:17:48Z"
+  },
+  "1500002233221": {
+    "hash": "2cb2e4cb0910dbe0a2825eaf96569d9cef3602edfdff8cc5d55e9d6f1eda44f9",
+    "slug": "how-to-use-asana-app",
+    "title": "How to use Asana App",
+    "updated_at": "2025-09-04T15:11:27Z"
+  },
+  "360016833514": {
+    "hash": "edc3ef0fa67aa9fe74ee94b2853324ac181035ef677c42f527271c71248d6784",
+    "slug": "changing-screens-orientation-portrait-landscape",
+    "title": "Changing screen's orientation (portrait & landscape)",
+    "updated_at": "2025-09-04T15:18:11Z"
+  },
+  "15808407287315": {
+    "hash": "a074b65bc33e3cfc65ffeeae679d215d1a65792fd452de4aea888fc0bb99622e",
+    "slug": "the-optisigns-app-keeps-turning-on-the-tv-screen",
+    "title": "The OptiSigns app keeps turning on the TV screen",
+    "updated_at": "2025-09-04T15:11:52Z"
+  },
+  "360049156234": {
+    "hash": "4e78a2f352deb03a2f4d49c0ae25fab6ca6b1c7d0d985edc917025c750306a69",
+    "slug": "how-to-use-currency-exchange-app",
+    "title": "How to use Currency Exchange App",
+    "updated_at": "2025-09-04T15:14:58Z"
   },
   "360035815114": {
     "hash": "a16784f825be98df3a4ecff150246e242a7dea3e058cfb3641ab19dbaff54047",
@@ -1528,6 +1522,24 @@
     "slug": "display-device-info-onscreen",
     "title": "Display Device Info Onscreen",
     "updated_at": "2025-09-04T15:08:40Z"
+  },
+  "14557706459283": {
+    "hash": "1687120904cf861b1df988bcdca2e38e1ebec92adf553470823e38ef84c2bbd9",
+    "slug": "present-share-ios-android-phone-tablet-to-your-screen-with-optisigns-aericast-ad",
+    "title": "Present/ share iOS/ Android phone/ tablet to your screen with OptiSigns & AeriCast Add-on",
+    "updated_at": "2025-09-04T15:09:56Z"
+  },
+  "36558469962643": {
+    "hash": "2d3d6814c3edc1317b69d1492d9692eda68df2ebfd7f9a4371a74584329f89fd",
+    "slug": "subscription-function-in-graphql",
+    "title": "Subscription Function in GraphQL",
+    "updated_at": "2025-09-04T15:00:36Z"
+  },
+  "1500003161182": {
+    "hash": "41718a9c84d2b4a1fcbd2685ba526c6db71c702025ea4d0d3a60b04c6e2dd8d2",
+    "slug": "how-to-move-screen-to-other-team",
+    "title": "How to move screen to other team",
+    "updated_at": "2025-09-04T15:11:08Z"
   },
   "4407493404307": {
     "hash": "c74f39c0cde40a3c9d2ba10782bc8e5cc25ecbb4b15ca6de0d04773c63a15e46",
@@ -1547,17 +1559,11 @@
     "title": "Samsung Smart Signage Platform (SSSP) Supported Model List",
     "updated_at": "2025-09-04T14:36:56Z"
   },
-  "36558469962643": {
-    "hash": "2d3d6814c3edc1317b69d1492d9692eda68df2ebfd7f9a4371a74584329f89fd",
-    "slug": "subscription-function-in-graphql",
-    "title": "Subscription Function in GraphQL",
-    "updated_at": "2025-09-04T15:00:36Z"
-  },
-  "4408052029587": {
-    "hash": "32d4c94ed83c6bfd0a8ecd1559908af204496615044258f199bd5390867e4511",
-    "slug": "how-to-use-weather-apps-based-on-device-location",
-    "title": "How to Use Weather Apps Based on Device Location",
-    "updated_at": "2025-09-04T14:07:59Z"
+  "23566927217939": {
+    "hash": "8810a60f7b8160657da2da3ed4697ff0f483fea43b275397b19ad926e7943d84",
+    "slug": "how-to-use-check-in-app-with-sms-follow-up",
+    "title": "How to use Check-in app with SMS follow up",
+    "updated_at": "2025-09-04T15:04:03Z"
   },
   "360053993934": {
     "hash": "a911d216e72b4a94f9b468e9d29f1a6a1e80f528e336c9b448a54cfa1a704ce9",
@@ -1565,29 +1571,11 @@
     "title": "How to use Kiosk Lite (formerly known as Interactive Kiosk app)",
     "updated_at": "2025-09-04T14:30:55Z"
   },
-  "29838866920211": {
-    "hash": "167ead00788b90ab9e2eda8fe74c141b8438386420bfbe29702b3b3ba8b0b80b",
-    "slug": "how-to-add-google-sheets-as-a-datasource-for-optisync",
-    "title": "How to add Google Sheets as a DataSource for OptiSync",
-    "updated_at": "2025-09-04T14:07:29Z"
-  },
-  "23566927217939": {
-    "hash": "8810a60f7b8160657da2da3ed4697ff0f483fea43b275397b19ad926e7943d84",
-    "slug": "how-to-use-check-in-app-with-sms-follow-up",
-    "title": "How to use Check-in app with SMS follow up",
-    "updated_at": "2025-09-04T15:04:03Z"
-  },
-  "36558834998291": {
-    "hash": "1afccf37a14d26ea30ee75f4efb46437a005d2c9a9ca68b8d11b922f72bb327b",
-    "slug": "tutorial-creating-schedules-and-adding-schedule-items-using-graphql",
-    "title": "Tutorial: Creating Schedules and Adding Schedule Items Using GraphQL",
-    "updated_at": "2025-09-04T14:03:45Z"
-  },
-  "33468569218067": {
-    "hash": "d49d83e41bfd920445e245ece1395bc79a9328445c1604b706e5cadc9279eed1",
-    "slug": "how-to-display-dynamic-event-schedules-using-optisync",
-    "title": "How to Display Dynamic Event Schedules Using OptiSync",
-    "updated_at": "2025-09-04T14:59:16Z"
+  "4408052029587": {
+    "hash": "32d4c94ed83c6bfd0a8ecd1559908af204496615044258f199bd5390867e4511",
+    "slug": "how-to-use-weather-apps-based-on-device-location",
+    "title": "How to Use Weather Apps Based on Device Location",
+    "updated_at": "2025-09-04T14:07:59Z"
   },
   "4408052949139": {
     "hash": "a93f0e84dd583f0e3399fa5b70a50b841b6faadefa019c554d0b7c11658ecda4",
@@ -1595,17 +1583,11 @@
     "title": "How to use Calendar Mix app",
     "updated_at": "2025-09-04T14:10:19Z"
   },
-  "1500011891542": {
-    "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
-    "slug": "how-to-install-optisigns-as-an-apk-file-on-android-devices",
-    "title": "How to Install OptiSigns as an APK File on Android Devices",
-    "updated_at": "2025-09-04T14:06:18Z"
-  },
-  "1500009042742": {
-    "hash": "a5ec7fba1ceef870ea35451ccf59dccd23685645e6303f37c887b541e8c390b3",
-    "slug": "fireos-tvs-amazon-insigna-toshiba-tcl",
-    "title": "FireOS TVs (Amazon, Insigna, Toshiba, TCL)",
-    "updated_at": "2025-09-02T20:43:39Z"
+  "29838866920211": {
+    "hash": "167ead00788b90ab9e2eda8fe74c141b8438386420bfbe29702b3b3ba8b0b80b",
+    "slug": "how-to-add-google-sheets-as-a-datasource-for-optisync",
+    "title": "How to add Google Sheets as a DataSource for OptiSync",
+    "updated_at": "2025-09-04T14:07:29Z"
   },
   "29232460955539": {
     "hash": "3a0b5ad68ed13fe3662ab801dbe4acf997772fd32a1ff5a1bd6946062a3c944a",
@@ -1613,23 +1595,23 @@
     "title": "How to Create an Attract Screen for Your Kiosk",
     "updated_at": "2025-09-04T14:01:30Z"
   },
+  "1500011891542": {
+    "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
+    "slug": "how-to-install-optisigns-as-an-apk-file-on-android-devices",
+    "title": "How to Install OptiSigns as an APK File on Android Devices",
+    "updated_at": "2025-09-04T14:06:18Z"
+  },
+  "36558834998291": {
+    "hash": "1afccf37a14d26ea30ee75f4efb46437a005d2c9a9ca68b8d11b922f72bb327b",
+    "slug": "tutorial-creating-schedules-and-adding-schedule-items-using-graphql",
+    "title": "Tutorial: Creating Schedules and Adding Schedule Items Using GraphQL",
+    "updated_at": "2025-09-04T14:03:45Z"
+  },
   "4409607912211": {
     "hash": "f88f4774a2518239d0748cc2678831cab48690a3258a6ddc16f2f6e8435a12ab",
     "slug": "how-to-setup-wifi-with-optisigns-admin-mobile-app-on-optisigns-pre-configured-an",
     "title": "How to setup WIFI with OptiSigns Admin mobile app on OptiSigns Pre-Configured Android Player",
     "updated_at": "2025-09-02T20:57:22Z"
-  },
-  "32839794222099": {
-    "hash": "b983ca4e1653c842e8d0cbd890b51830b8bd2e8b4ec620e0b7684ab744fc5271",
-    "slug": "display-salesforce-dashboards-with-mfa-using-web-scripting",
-    "title": "Display Salesforce Dashboards with MFA using Web Scripting",
-    "updated_at": "2025-09-02T20:45:08Z"
-  },
-  "4407476403859": {
-    "hash": "0eec50e776da09d135c2b69bd853da2c9fbf7da2e4b28911d1b764a694d77696",
-    "slug": "how-to-set-up-saml-20-with-optisigns-and-oneloginshibboleth",
-    "title": "How to set up SAML 2.0 with OptiSigns and OneLogin(Shibboleth)",
-    "updated_at": "2025-09-02T20:38:51Z"
   },
   "1500005888781": {
     "hash": "0db37c8b20518f06a8b1bc6936576d199a20e81da916e812ccedd6fa6b1c8c6e",
@@ -1637,17 +1619,53 @@
     "title": "How to Best Use Canva with OptiSigns",
     "updated_at": "2025-09-04T13:52:52Z"
   },
+  "4407476403859": {
+    "hash": "0eec50e776da09d135c2b69bd853da2c9fbf7da2e4b28911d1b764a694d77696",
+    "slug": "how-to-set-up-saml-20-with-optisigns-and-oneloginshibboleth",
+    "title": "How to set up SAML 2.0 with OptiSigns and OneLogin(Shibboleth)",
+    "updated_at": "2025-09-02T20:38:51Z"
+  },
   "4407386819731": {
     "hash": "d85daed12fffd2f237151c15880c8cade493cefeef372c62750860d54c93027f",
     "slug": "how-to-set-up-saml-20-with-optisigns-and-onelogin",
     "title": "How to set up SAML 2.0 with OptiSigns and OneLogin",
     "updated_at": "2025-09-04T13:48:07Z"
   },
+  "1500009042742": {
+    "hash": "a5ec7fba1ceef870ea35451ccf59dccd23685645e6303f37c887b541e8c390b3",
+    "slug": "fireos-tvs-amazon-insigna-toshiba-tcl",
+    "title": "FireOS TVs (Amazon, Insigna, Toshiba, TCL)",
+    "updated_at": "2025-09-02T20:43:39Z"
+  },
   "21449362442003": {
     "hash": "55768694c77c2c76ad35ffc6370240c7d75f43185e8afddba856cefe2ffb6c57",
     "slug": "update-optisigns-player-on-optisigns-pro-player-gen-2-via-script",
     "title": "Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script",
     "updated_at": "2025-09-02T20:33:55Z"
+  },
+  "32839794222099": {
+    "hash": "b983ca4e1653c842e8d0cbd890b51830b8bd2e8b4ec620e0b7684ab744fc5271",
+    "slug": "display-salesforce-dashboards-with-mfa-using-web-scripting",
+    "title": "Display Salesforce Dashboards with MFA using Web Scripting",
+    "updated_at": "2025-09-02T20:45:08Z"
+  },
+  "19589190970771": {
+    "hash": "dc9ddd98962e7686cb165815157e363e8a1caf1c82657dc3ecb5418c19e97542",
+    "slug": "how-to-use-secured-dashboard-app",
+    "title": "How to use Secured Dashboard App",
+    "updated_at": "2025-09-02T20:28:00Z"
+  },
+  "1500002042241": {
+    "hash": "38b7d2a15c5e62c90eff1d844149e41f68010960332de6a6882c1a8045ef813f",
+    "slug": "how-to-use-hdmi-other-video-input-sources-in-with-optisigns",
+    "title": "How to use HDMI & other video input sources in with OptiSigns",
+    "updated_at": "2025-09-02T20:19:01Z"
+  },
+  "33468569218067": {
+    "hash": "d49d83e41bfd920445e245ece1395bc79a9328445c1604b706e5cadc9279eed1",
+    "slug": "how-to-display-dynamic-event-schedules-using-optisync",
+    "title": "How to Display Dynamic Event Schedules Using OptiSync",
+    "updated_at": "2025-09-04T14:59:16Z"
   },
   "360041501494": {
     "hash": "79d67a4f473459abc295f32b2f08527ba5696b531e82af011f4a8b16c5f2119b",
@@ -1661,23 +1679,17 @@
     "title": "Introduction",
     "updated_at": "2025-09-02T20:25:47Z"
   },
-  "19589190970771": {
-    "hash": "dc9ddd98962e7686cb165815157e363e8a1caf1c82657dc3ecb5418c19e97542",
-    "slug": "how-to-use-secured-dashboard-app",
-    "title": "How to use Secured Dashboard App",
-    "updated_at": "2025-09-02T20:28:00Z"
+  "360060676993": {
+    "hash": "ff13a7c1e289b84ee230997e28fc7b2f660af499430f8c3d09f1aaab35af84a4",
+    "slug": "how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi",
+    "title": "How to manually install & activate OptiSigns AI Add-on on Linux or Raspberry Pi",
+    "updated_at": "2025-09-02T20:15:47Z"
   },
-  "360016388733": {
-    "hash": "ed705748383cf27a5840e607db8a83f74301a579d3bf85c4ad9a99f6be4559da",
-    "slug": "how-to-create-and-use-instagram-wall",
-    "title": "How to create and use Instagram Wall",
-    "updated_at": "2025-09-02T20:31:50Z"
-  },
-  "1500002042241": {
-    "hash": "38b7d2a15c5e62c90eff1d844149e41f68010960332de6a6882c1a8045ef813f",
-    "slug": "how-to-use-hdmi-other-video-input-sources-in-with-optisigns",
-    "title": "How to use HDMI & other video input sources in with OptiSigns",
-    "updated_at": "2025-09-02T20:19:01Z"
+  "10159088954387": {
+    "hash": "9e8ecf66bff863f829dee26f7d272e7028558060847c90cf7160893f4ca6e86e",
+    "slug": "how-to-put-live-tv-on-your-screens-with-optisigns",
+    "title": "How to put Live TV on your screens with OptiSigns",
+    "updated_at": "2025-09-02T20:01:30Z"
   },
   "31113088917907": {
     "hash": "479bcc566493a53076e12cdba43927d7e9ea577d8b6430b8435512fd28889255",
@@ -1685,23 +1697,11 @@
     "title": "How to use Toast API data with OptiSigns",
     "updated_at": "2025-09-02T20:24:12Z"
   },
-  "360038769394": {
-    "hash": "1616f32524bfa8f58c47df249096b92928d61b5f6a667f8e68d6bf3d56ee563a",
-    "slug": "how-to-create-and-use-yelp-reviews-wall",
-    "title": "How to create and use Yelp Reviews Wall",
-    "updated_at": "2025-09-02T20:21:49Z"
-  },
-  "360061576673": {
-    "hash": "e542de2cec9eae9efdd265eb0c9fa09e19d59d6633c64bdd65f03ac42c4afd1b",
-    "slug": "advanced-enforce-sso-login-for-your-account",
-    "title": "Advanced: Enforce SSO login for your account",
-    "updated_at": "2025-09-02T20:14:28Z"
-  },
-  "360060676993": {
-    "hash": "ff13a7c1e289b84ee230997e28fc7b2f660af499430f8c3d09f1aaab35af84a4",
-    "slug": "how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi",
-    "title": "How to manually install & activate OptiSigns AI Add-on on Linux or Raspberry Pi",
-    "updated_at": "2025-09-02T20:15:47Z"
+  "360057146573": {
+    "hash": "1ff22e9f57e12103d6d5b1abafdd993b40d89ea9a2d4858861eefba3e4731a02",
+    "slug": "advanced-how-to-manually-install-activate-optisigns-remote-agent-on-linux-or-ras",
+    "title": "Advanced: How to Manually Install & Activate OptiSigns Remote Agent on Linux or Raspberry Pi",
+    "updated_at": "2025-09-02T20:02:58Z"
   },
   "28421615261971": {
     "hash": "27d8e6a0ffc43e6f61c966df975b7532e787c7d6b633838ab06e7bf60be34fed",
@@ -1709,17 +1709,35 @@
     "title": "Roku Troubleshooting guide",
     "updated_at": "2025-09-02T20:10:19Z"
   },
-  "360057146573": {
-    "hash": "1ff22e9f57e12103d6d5b1abafdd993b40d89ea9a2d4858861eefba3e4731a02",
-    "slug": "advanced-how-to-manually-install-activate-optisigns-remote-agent-on-linux-or-ras",
-    "title": "Advanced: How to Manually Install & Activate OptiSigns Remote Agent on Linux or Raspberry Pi",
-    "updated_at": "2025-09-02T20:02:58Z"
+  "360038769394": {
+    "hash": "1616f32524bfa8f58c47df249096b92928d61b5f6a667f8e68d6bf3d56ee563a",
+    "slug": "how-to-create-and-use-yelp-reviews-wall",
+    "title": "How to create and use Yelp Reviews Wall",
+    "updated_at": "2025-09-02T20:21:49Z"
   },
-  "10159088954387": {
-    "hash": "9e8ecf66bff863f829dee26f7d272e7028558060847c90cf7160893f4ca6e86e",
-    "slug": "how-to-put-live-tv-on-your-screens-with-optisigns",
-    "title": "How to put Live TV on your screens with OptiSigns",
-    "updated_at": "2025-09-02T20:01:30Z"
+  "14502378549907": {
+    "hash": "4f9fbbe06cb092ca60ff7f6b1ec16279ca3e533563623c15af04a3188f4c507f",
+    "slug": "present-share-your-screen-with-optisigns-aericast-add-on",
+    "title": "Present / share your screen with OptiSigns & AeriCast Add-on",
+    "updated_at": "2025-09-02T20:12:05Z"
+  },
+  "360061576673": {
+    "hash": "e542de2cec9eae9efdd265eb0c9fa09e19d59d6633c64bdd65f03ac42c4afd1b",
+    "slug": "advanced-enforce-sso-login-for-your-account",
+    "title": "Advanced: Enforce SSO login for your account",
+    "updated_at": "2025-09-02T20:14:28Z"
+  },
+  "1500008112642": {
+    "hash": "7596acaff5ecbb9e0dde85b0a40683a6ad88c6b8cb251964ced23e805a658fa2",
+    "slug": "how-to-install-optisigns-player-on-android-boxes",
+    "title": "How to install OptiSigns Player on Android Boxes",
+    "updated_at": "2025-09-02T19:45:53Z"
+  },
+  "6636047009427": {
+    "hash": "4563733228a0cdfb9e2dc94dce207915f06a21a8201a6a260023874f2e0e68da",
+    "slug": "how-to-install-optisigns-player-on-apple-tv",
+    "title": "How to install OptiSigns Player on Apple TV",
+    "updated_at": "2025-09-02T19:59:56Z"
   },
   "1500004699122": {
     "hash": "685bb89f9cba44b9ef5b085972e838ef4846a43dcf39cfad182a4558d279bad6",
@@ -1733,23 +1751,47 @@
     "title": "How to access the Troubleshooting page of the OptiSigns Player",
     "updated_at": "2025-09-02T20:08:24Z"
   },
+  "4403015887763": {
+    "hash": "62a66ff8d317d4d0738f7a87786e79a7b4243807ea21921db973c04f700b43c7",
+    "slug": "moderate-your-social-media-feeds",
+    "title": "Moderate your social media feeds",
+    "updated_at": "2025-09-02T19:15:50Z"
+  },
+  "1500001561861": {
+    "hash": "a8cd14feb54ccf2a2109eb2ae95c11588230c86dce0a1009e68e826a8a798cf1",
+    "slug": "how-to-mix-playlists-and-maintain-screen-time-share-with-optisigns-content-rotat",
+    "title": "How to mix playlists and maintain screen time share with OptiSigns Content Rotation App",
+    "updated_at": "2025-09-02T19:32:41Z"
+  },
+  "360026559613": {
+    "hash": "f0ccb6fb7af0928ed4d833dce919808633fa2ab1182099846d1bf52be17d44f9",
+    "slug": "how-to-create-a-scrolling-strip-bars",
+    "title": "How to create a scrolling strip / bars",
+    "updated_at": "2025-09-02T19:11:51Z"
+  },
+  "360056627833": {
+    "hash": "1b53f84a17ec9f3cef2deaf20e78f785e47fe169fe10433123049d3fca195396",
+    "slug": "how-to-connect-to-wifi-for-raspberry-pi",
+    "title": "How To Connect To WiFi For Raspberry Pi",
+    "updated_at": "2025-09-02T19:22:01Z"
+  },
   "14726570281875": {
     "hash": "80c4b436842708355dc13c42a2e0910d0a77823d02b01d111cbdc47468ff3774",
     "slug": "how-to-install-optisigns-on-samsung-tizen-smart-tvs",
     "title": "How to install OptiSigns on Samsung Tizen Smart TVs",
     "updated_at": "2025-09-02T19:37:57Z"
   },
-  "1500008112642": {
-    "hash": "7596acaff5ecbb9e0dde85b0a40683a6ad88c6b8cb251964ced23e805a658fa2",
-    "slug": "how-to-install-optisigns-player-on-android-boxes",
-    "title": "How to install OptiSigns Player on Android Boxes",
-    "updated_at": "2025-09-02T19:45:53Z"
+  "8066591235603": {
+    "hash": "8d66a89d97131eb71bffd21f76d1981a8bea9b33c65ee3626a85287a79a0fc27",
+    "slug": "how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns",
+    "title": "How to use RTSP Stream on Windows or Raspberry Pi via OptiSigns ",
+    "updated_at": "2025-09-02T19:20:51Z"
   },
-  "14502378549907": {
-    "hash": "4f9fbbe06cb092ca60ff7f6b1ec16279ca3e533563623c15af04a3188f4c507f",
-    "slug": "present-share-your-screen-with-optisigns-aericast-add-on",
-    "title": "Present / share your screen with OptiSigns & AeriCast Add-on",
-    "updated_at": "2025-09-02T20:12:05Z"
+  "17342932920211": {
+    "hash": "1e2c1b9a1ede6abb3455f6d0e52eccec6c94ef92765b9523b963164e516604f6",
+    "slug": "event-logging-and-analytics-for-external-communicationrs-232",
+    "title": "Event logging and analytics for External Communication(RS-232)",
+    "updated_at": "2025-09-02T19:09:02Z"
   },
   "360050602413": {
     "hash": "2f72354cae837dcf835dffc894c012ac863f030ea9d694f89de51e7bc15a0746",
@@ -1763,101 +1805,11 @@
     "title": "Advanced: How to assign security for users to only edit certain zones of the screens",
     "updated_at": "2025-09-02T19:14:05Z"
   },
-  "4403015887763": {
-    "hash": "62a66ff8d317d4d0738f7a87786e79a7b4243807ea21921db973c04f700b43c7",
-    "slug": "moderate-your-social-media-feeds",
-    "title": "Moderate your social media feeds",
-    "updated_at": "2025-09-02T19:15:50Z"
-  },
   "360039566974": {
     "hash": "c0f3ee551255b82eab9d8538a6d569ee7e49e339c5ddf2d30dc83c17944b3cd0",
     "slug": "how-to-install-optisigns-as-channelapp-on-roku",
     "title": "How to install OptiSigns as channel/app on Roku",
     "updated_at": "2025-09-02T19:35:39Z"
-  },
-  "6636047009427": {
-    "hash": "4563733228a0cdfb9e2dc94dce207915f06a21a8201a6a260023874f2e0e68da",
-    "slug": "how-to-install-optisigns-player-on-apple-tv",
-    "title": "How to install OptiSigns Player on Apple TV",
-    "updated_at": "2025-09-02T19:59:56Z"
-  },
-  "360056627833": {
-    "hash": "1b53f84a17ec9f3cef2deaf20e78f785e47fe169fe10433123049d3fca195396",
-    "slug": "how-to-connect-to-wifi-for-raspberry-pi",
-    "title": "How To Connect To WiFi For Raspberry Pi",
-    "updated_at": "2025-09-02T19:22:01Z"
-  },
-  "42305104960147": {
-    "hash": "4029794012f52e7ae0725783c143314a09f5ca53e39e0941d053afca0e9efe46",
-    "slug": "animation",
-    "title": "Animation",
-    "updated_at": "2025-09-02T19:02:02Z"
-  },
-  "360017964153": {
-    "hash": "a0958b1d7dc015f41dcb3dfd7b41b48fe4232cf85c7a1ff0fd1d82bd6f34f541",
-    "slug": "how-to-use-weather-apps-in-optisigns",
-    "title": "How to Use Weather Apps in OptiSigns",
-    "updated_at": "2025-09-02T19:43:55Z"
-  },
-  "16364134190355": {
-    "hash": "78b12b6e88f016c3b5a50fbaef218215a309cedf8d547fa169c30897437102d8",
-    "slug": "how-to-use-streaming-app-with-optisigns",
-    "title": "How to use Streaming App with OptiSigns",
-    "updated_at": "2025-09-02T18:34:54Z"
-  },
-  "17342932920211": {
-    "hash": "1e2c1b9a1ede6abb3455f6d0e52eccec6c94ef92765b9523b963164e516604f6",
-    "slug": "event-logging-and-analytics-for-external-communicationrs-232",
-    "title": "Event logging and analytics for External Communication(RS-232)",
-    "updated_at": "2025-09-02T19:09:02Z"
-  },
-  "8066591235603": {
-    "hash": "8d66a89d97131eb71bffd21f76d1981a8bea9b33c65ee3626a85287a79a0fc27",
-    "slug": "how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns",
-    "title": "How to use RTSP Stream on Windows or Raspberry Pi via OptiSigns ",
-    "updated_at": "2025-09-02T19:20:51Z"
-  },
-  "360053198573": {
-    "hash": "9f916e0a2ca57b7b9c7f87177be12bde11ca243b8fdb38bafed32a21dcd75c59",
-    "slug": "how-to-uninstallreinstall-optisigns-app-from-your-fire-stick-device",
-    "title": "How to uninstall/reinstall OptiSigns app from your Fire Stick device",
-    "updated_at": "2025-09-02T19:06:34Z"
-  },
-  "360016375573": {
-    "hash": "88da683b58a8a0dc08ccc89aed86d08441a5d9ec15b280d3a0547d8409854dcd",
-    "slug": "how-to-use-published-google-slides-with-optisigns-old-way",
-    "title": "How to use published Google Slides with OptiSigns (old way)",
-    "updated_at": "2025-09-02T18:55:54Z"
-  },
-  "360026559613": {
-    "hash": "f0ccb6fb7af0928ed4d833dce919808633fa2ab1182099846d1bf52be17d44f9",
-    "slug": "how-to-create-a-scrolling-strip-bars",
-    "title": "How to create a scrolling strip / bars",
-    "updated_at": "2025-09-02T19:11:51Z"
-  },
-  "4403267825171": {
-    "hash": "884375705df3d764a1fca616cb6d75b0eb3f824cf20dd8b24785f3c7506d7625",
-    "slug": "how-to-use-the-social-mix-app",
-    "title": "How to use the Social Mix App",
-    "updated_at": "2025-09-02T18:26:51Z"
-  },
-  "1500001561861": {
-    "hash": "a8cd14feb54ccf2a2109eb2ae95c11588230c86dce0a1009e68e826a8a798cf1",
-    "slug": "how-to-mix-playlists-and-maintain-screen-time-share-with-optisigns-content-rotat",
-    "title": "How to mix playlists and maintain screen time share with OptiSigns Content Rotation App",
-    "updated_at": "2025-09-02T19:32:41Z"
-  },
-  "360042450514": {
-    "hash": "491371fd278f6d3ff549b19be240de99ded5364ecbcb183550fdf71486518081",
-    "slug": "how-to-use-world-clock-app",
-    "title": "How to use World Clock App",
-    "updated_at": "2025-08-29T21:54:59Z"
-  },
-  "360056356414": {
-    "hash": "b426d11dde7cfd466899ab82772ff834101ead644dd30f3c6d8c9f1a30ae94e0",
-    "slug": "how-to-use-scrolling-website-app",
-    "title": "How to use Scrolling Website App",
-    "updated_at": "2025-09-02T18:32:51Z"
   },
   "360060919453": {
     "hash": "806452b2f88585a064d06c0847f1f935871073127ed37ab446e31a41eefb62e5",
@@ -1871,17 +1823,11 @@
     "title": "Amazon Signage Stick",
     "updated_at": "2025-09-02T18:43:56Z"
   },
-  "6091289267475": {
-    "hash": "c8be2c991a8ff9a4dcb5746ba692376d8d150a8d0500ef30ebc73e6104f2e945",
-    "slug": "how-to-use-matterport-app",
-    "title": "How to use Matterport App",
-    "updated_at": "2025-08-29T21:50:33Z"
-  },
-  "5119724468371": {
-    "hash": "29aa0581bf149e4e0cb2d46922cee1d023e5bdd85ccd07281c62904e66ba92c1",
-    "slug": "how-to-use-notion-app",
-    "title": "How to use Notion App",
-    "updated_at": "2025-08-29T21:52:07Z"
+  "42305104960147": {
+    "hash": "4029794012f52e7ae0725783c143314a09f5ca53e39e0941d053afca0e9efe46",
+    "slug": "animation",
+    "title": "Animation",
+    "updated_at": "2025-09-02T19:02:02Z"
   },
   "360048660813": {
     "hash": "041ebe0bc590cf435a3467ecbb2891f95f6265aa44d8ceb6bba7d308f1f78d50",
@@ -1889,17 +1835,23 @@
     "title": "How to use Facebook Live Stream App",
     "updated_at": "2025-09-02T18:30:50Z"
   },
-  "360049919933": {
-    "hash": "94d18eeba1228f98a21181779acba5bfcbe61529d60b3939b87c9f551b796990",
-    "slug": "how-to-use-crypto-index-crypto-exchange-app",
-    "title": "How to use Crypto Index & Crypto Exchange App",
-    "updated_at": "2025-08-29T21:36:03Z"
+  "360016375573": {
+    "hash": "88da683b58a8a0dc08ccc89aed86d08441a5d9ec15b280d3a0547d8409854dcd",
+    "slug": "how-to-use-published-google-slides-with-optisigns-old-way",
+    "title": "How to use published Google Slides with OptiSigns (old way)",
+    "updated_at": "2025-09-02T18:55:54Z"
   },
-  "13097501958291": {
-    "hash": "628e5c3b35402a4ea670f162e29fd645397e51c1a4d071628d11dedca2f03763",
-    "slug": "optisigns-iot-sensor-add-on-quick-start",
-    "title": "OptiSigns IoT Sensor Add-on - Quick Start",
-    "updated_at": "2025-09-02T18:16:29Z"
+  "360053198573": {
+    "hash": "9f916e0a2ca57b7b9c7f87177be12bde11ca243b8fdb38bafed32a21dcd75c59",
+    "slug": "how-to-uninstallreinstall-optisigns-app-from-your-fire-stick-device",
+    "title": "How to uninstall/reinstall OptiSigns app from your Fire Stick device",
+    "updated_at": "2025-09-02T19:06:34Z"
+  },
+  "360017964153": {
+    "hash": "a0958b1d7dc015f41dcb3dfd7b41b48fe4232cf85c7a1ff0fd1d82bd6f34f541",
+    "slug": "how-to-use-weather-apps-in-optisigns",
+    "title": "How to Use Weather Apps in OptiSigns",
+    "updated_at": "2025-09-02T19:43:55Z"
   },
   "4408946045715": {
     "hash": "0c6e49a74bbae3763f03bde726964dca613c7e30c1c32bc2d38f1c199d226414",
@@ -1907,23 +1859,41 @@
     "title": "How to Integrate Bonusly Digital Signage with Optisigns",
     "updated_at": "2025-08-29T21:49:14Z"
   },
-  "12947820509971": {
-    "hash": "1d2d38886ccf82aae4661852f954f12118b35763ef5b18ad9ceadaca4bdf2659",
-    "slug": "showhide-offline-indicator-on-your-player",
-    "title": "Show/Hide Offline Indicator on your Player",
-    "updated_at": "2025-08-29T21:13:36Z"
+  "4403267825171": {
+    "hash": "884375705df3d764a1fca616cb6d75b0eb3f824cf20dd8b24785f3c7506d7625",
+    "slug": "how-to-use-the-social-mix-app",
+    "title": "How to use the Social Mix App",
+    "updated_at": "2025-09-02T18:26:51Z"
   },
-  "360049030453": {
-    "hash": "6b085eda3728ff9813a69f11d20234b93828487a54c9915edd452ef1146bc621",
-    "slug": "how-to-use-the-motivational-quote-app",
-    "title": "How to use the Motivational Quote App",
-    "updated_at": "2025-08-29T21:33:29Z"
+  "16364134190355": {
+    "hash": "78b12b6e88f016c3b5a50fbaef218215a309cedf8d547fa169c30897437102d8",
+    "slug": "how-to-use-streaming-app-with-optisigns",
+    "title": "How to use Streaming App with OptiSigns",
+    "updated_at": "2025-09-02T18:34:54Z"
   },
-  "1500009492202": {
-    "hash": "e106653073ca7edaa3e7d3b6b040850f7e2e219214d0d5be287145e1ec9f734b",
-    "slug": "how-to-use-on-this-day-app",
-    "title": "How to use On This Day app",
-    "updated_at": "2025-08-29T21:31:21Z"
+  "360042450514": {
+    "hash": "491371fd278f6d3ff549b19be240de99ded5364ecbcb183550fdf71486518081",
+    "slug": "how-to-use-world-clock-app",
+    "title": "How to use World Clock App",
+    "updated_at": "2025-08-29T21:54:59Z"
+  },
+  "360056356414": {
+    "hash": "b426d11dde7cfd466899ab82772ff834101ead644dd30f3c6d8c9f1a30ae94e0",
+    "slug": "how-to-use-scrolling-website-app",
+    "title": "How to use Scrolling Website App",
+    "updated_at": "2025-09-02T18:32:51Z"
+  },
+  "5119724468371": {
+    "hash": "29aa0581bf149e4e0cb2d46922cee1d023e5bdd85ccd07281c62904e66ba92c1",
+    "slug": "how-to-use-notion-app",
+    "title": "How to use Notion App",
+    "updated_at": "2025-08-29T21:52:07Z"
+  },
+  "6091289267475": {
+    "hash": "c8be2c991a8ff9a4dcb5746ba692376d8d150a8d0500ef30ebc73e6104f2e945",
+    "slug": "how-to-use-matterport-app",
+    "title": "How to use Matterport App",
+    "updated_at": "2025-08-29T21:50:33Z"
   },
   "360059386254": {
     "hash": "5d53ea6f1cb76db7eeb0a23c24b086ca5f8373d2bd774d6f7504bfa47da13882",
@@ -1931,11 +1901,11 @@
     "title": "How to use YouTube Playlist with OptiSigns",
     "updated_at": "2025-08-29T21:12:53Z"
   },
-  "360049155994": {
-    "hash": "9dbe8c63c9c1173a14b5c32d858cb0a346751d6d8000cdbbd2ac892ed9e32150",
-    "slug": "how-to-use-market-index-app",
-    "title": "How to use Market Index App",
-    "updated_at": "2025-08-29T21:28:36Z"
+  "13097501958291": {
+    "hash": "628e5c3b35402a4ea670f162e29fd645397e51c1a4d071628d11dedca2f03763",
+    "slug": "optisigns-iot-sensor-add-on-quick-start",
+    "title": "OptiSigns IoT Sensor Add-on - Quick Start",
+    "updated_at": "2025-09-02T18:16:29Z"
   },
   "360041570153": {
     "hash": "18cb1ebebb2a865ce908b8c3ef1e7704f626d8f4c221b627b6c8e489a5bb2a3e",
@@ -1943,17 +1913,11 @@
     "title": "My image, content are bleeding off the screens with Windows, Linux, Mac, Raspberry Pi app (need screen calibration)",
     "updated_at": "2025-08-29T21:06:45Z"
   },
-  "360033693534": {
-    "hash": "e12b92aad1ee1cc8dba1e488c7a41e4907090c8da28fde3464dbc093d1a7a222",
-    "slug": "powerpoint-resolution-size-for-use-with-digital-signage",
-    "title": "PowerPoint Resolution, Size for use with Digital Signage",
-    "updated_at": "2025-08-29T21:01:45Z"
-  },
-  "360060202914": {
-    "hash": "01a873ae07b0aa7230c04098a094acd953f33a0aa3216bb2a4d27552eafdb433",
-    "slug": "how-to-use-youtube-channel-with-optisigns",
-    "title": "How to use YouTube Channel with OptiSigns ",
-    "updated_at": "2025-08-29T20:51:56Z"
+  "360049030453": {
+    "hash": "6b085eda3728ff9813a69f11d20234b93828487a54c9915edd452ef1146bc621",
+    "slug": "how-to-use-the-motivational-quote-app",
+    "title": "How to use the Motivational Quote App",
+    "updated_at": "2025-08-29T21:33:29Z"
   },
   "360016375153": {
     "hash": "568fabe5ad76d26cd87e9bce431bec19d825e818a0463acfa998b0e57d948050",
@@ -1961,35 +1925,35 @@
     "title": "Assign content to your screens",
     "updated_at": "2025-08-29T21:09:05Z"
   },
+  "360049155994": {
+    "hash": "9dbe8c63c9c1173a14b5c32d858cb0a346751d6d8000cdbbd2ac892ed9e32150",
+    "slug": "how-to-use-market-index-app",
+    "title": "How to use Market Index App",
+    "updated_at": "2025-08-29T21:28:36Z"
+  },
+  "12947820509971": {
+    "hash": "1d2d38886ccf82aae4661852f954f12118b35763ef5b18ad9ceadaca4bdf2659",
+    "slug": "showhide-offline-indicator-on-your-player",
+    "title": "Show/Hide Offline Indicator on your Player",
+    "updated_at": "2025-08-29T21:13:36Z"
+  },
   "11784310183571": {
     "hash": "20cd335935d0e75f381962b151741b3e9111201e3346eadfc45497b8d982f93e",
     "slug": "how-to-use-waitwhile-app",
     "title": "How to use Waitwhile App",
     "updated_at": "2025-08-29T21:22:22Z"
   },
-  "1500000941981": {
-    "hash": "f12faad77a30ccc871d8822d6bb7e593cbcca60a41b0ec0b9539f93f410833b4",
-    "slug": "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick",
-    "title": "How to allow the OptiSigns app to access local storage on a Fire Stick",
-    "updated_at": "2025-08-29T20:30:23Z"
+  "1500009492202": {
+    "hash": "e106653073ca7edaa3e7d3b6b040850f7e2e219214d0d5be287145e1ec9f734b",
+    "slug": "how-to-use-on-this-day-app",
+    "title": "How to use On This Day app",
+    "updated_at": "2025-08-29T21:31:21Z"
   },
-  "360053211594": {
-    "hash": "138e9c70e7467b8c81c4e4bdd377bf1e6abe2c99aa8c849cfb21c85846fb5194",
-    "slug": "set-optisigns-as-screensaver-on-windows",
-    "title": "Set OptiSigns as ScreenSaver on Windows",
-    "updated_at": "2025-08-29T20:39:30Z"
-  },
-  "1500010436341": {
-    "hash": "b1f64df3207ad7025b4b17fae05b107c15f574aaf6f6bf7aa1be6b92625785f4",
-    "slug": "adjust-the-gpu-memory-on-the-raspberry-pi",
-    "title": "Adjust the GPU memory on the Raspberry Pi",
-    "updated_at": "2025-08-29T20:24:46Z"
-  },
-  "12454101966355": {
-    "hash": "da63bc1317e9d3ea7b9afffcf4eee5129905db196e87809acfaba0b23965daab",
-    "slug": "how-to-use-the-musthavemenus-app-with-optisigns",
-    "title": "How to use the MustHaveMenus  app with OptiSigns",
-    "updated_at": "2025-08-29T20:23:00Z"
+  "360049919933": {
+    "hash": "94d18eeba1228f98a21181779acba5bfcbe61529d60b3939b87c9f551b796990",
+    "slug": "how-to-use-crypto-index-crypto-exchange-app",
+    "title": "How to use Crypto Index & Crypto Exchange App",
+    "updated_at": "2025-08-29T21:36:03Z"
   },
   "7592123111699": {
     "hash": "fe355b24a85e7e06292aeabd28413b2904563b50e9a95297d2e35ba65ddceb10",
@@ -1997,29 +1961,23 @@
     "title": "Host your HTML/JS or Create your own Web App with Hosted Website",
     "updated_at": "2025-08-29T20:55:40Z"
   },
-  "8099928867475": {
-    "hash": "afb2ecf306004b4ca8db1276a0e02cf7de5b81751c19a1856ddc322ce9101a92",
-    "slug": "how-to-get-the-mac-address-on-your-media-player",
-    "title": "How to get the MAC Address on your media player",
-    "updated_at": "2025-08-29T20:29:34Z"
+  "360060202914": {
+    "hash": "01a873ae07b0aa7230c04098a094acd953f33a0aa3216bb2a4d27552eafdb433",
+    "slug": "how-to-use-youtube-channel-with-optisigns",
+    "title": "How to use YouTube Channel with OptiSigns ",
+    "updated_at": "2025-08-29T20:51:56Z"
   },
-  "6757989639827": {
-    "hash": "c1cb7fb45dfca429413d5cbb1c6e9651d687893497ce779cfc65eb9371e1ddca",
-    "slug": "how-to-use-the-weather-alert-app",
-    "title": "How to Use the Weather Alert App",
-    "updated_at": "2025-08-29T20:04:43Z"
+  "1500000941981": {
+    "hash": "f12faad77a30ccc871d8822d6bb7e593cbcca60a41b0ec0b9539f93f410833b4",
+    "slug": "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick",
+    "title": "How to allow the OptiSigns app to access local storage on a Fire Stick",
+    "updated_at": "2025-08-29T20:30:23Z"
   },
-  "9392587446675": {
-    "hash": "691e1f9bdeeff5bed1dfdcc7e76d4f3617258d1a14879c3893562f77beedfa81",
-    "slug": "how-to-use-airtable-with-optisigns",
-    "title": "How to use Airtable with OptiSigns",
-    "updated_at": "2025-08-29T20:20:28Z"
-  },
-  "28140190892307": {
-    "hash": "65dfe18ac475bac8d9980646c3c6cacd90a11f851215604f5c9594f640cb3e09",
-    "slug": "how-to-use-qr-overlay-app-in-engage",
-    "title": "How to Use QR Overlay App in Engage",
-    "updated_at": "2025-08-29T20:47:28Z"
+  "1500010436341": {
+    "hash": "b1f64df3207ad7025b4b17fae05b107c15f574aaf6f6bf7aa1be6b92625785f4",
+    "slug": "adjust-the-gpu-memory-on-the-raspberry-pi",
+    "title": "Adjust the GPU memory on the Raspberry Pi",
+    "updated_at": "2025-08-29T20:24:46Z"
   },
   "360047501233": {
     "hash": "8a4a77cc3753c2837f3b24b2f329fc33451b46b3ecb2be3947dbdb5d10883da5",
@@ -2027,23 +1985,41 @@
     "title": "How to use Instagram Counter App",
     "updated_at": "2025-08-29T20:18:47Z"
   },
-  "360049518313": {
-    "hash": "9f398afa4648e40f6aba45e64ce5f69e16e73ed2eb53aaa91ce5421ca854e033",
-    "slug": "how-to-use-google-drive-app",
-    "title": "How to use Google Drive App",
-    "updated_at": "2025-08-29T19:49:24Z"
+  "28140190892307": {
+    "hash": "65dfe18ac475bac8d9980646c3c6cacd90a11f851215604f5c9594f640cb3e09",
+    "slug": "how-to-use-qr-overlay-app-in-engage",
+    "title": "How to Use QR Overlay App in Engage",
+    "updated_at": "2025-08-29T20:47:28Z"
   },
-  "360038992973": {
-    "hash": "7efff985231b6bdd15f75bbb2a075a04c9cc38a2ae988c2f7a471e2530fd3da1",
-    "slug": "video-codec-or-video-playback-issues",
-    "title": "Video codec or video playback issues",
-    "updated_at": "2025-08-29T20:15:48Z"
+  "360033693534": {
+    "hash": "e12b92aad1ee1cc8dba1e488c7a41e4907090c8da28fde3464dbc093d1a7a222",
+    "slug": "powerpoint-resolution-size-for-use-with-digital-signage",
+    "title": "PowerPoint Resolution, Size for use with Digital Signage",
+    "updated_at": "2025-08-29T21:01:45Z"
   },
-  "1500003244381": {
-    "hash": "eb2207fe5c1cf294ce52033e974e927141d43a0b24b288b4ac3e85b98847faa0",
-    "slug": "about-the-onhold-devices-folder",
-    "title": "About the OnHold Devices Folder",
-    "updated_at": "2025-08-29T20:02:46Z"
+  "12454101966355": {
+    "hash": "da63bc1317e9d3ea7b9afffcf4eee5129905db196e87809acfaba0b23965daab",
+    "slug": "how-to-use-the-musthavemenus-app-with-optisigns",
+    "title": "How to use the MustHaveMenus  app with OptiSigns",
+    "updated_at": "2025-08-29T20:23:00Z"
+  },
+  "9392587446675": {
+    "hash": "691e1f9bdeeff5bed1dfdcc7e76d4f3617258d1a14879c3893562f77beedfa81",
+    "slug": "how-to-use-airtable-with-optisigns",
+    "title": "How to use Airtable with OptiSigns",
+    "updated_at": "2025-08-29T20:20:28Z"
+  },
+  "360053211594": {
+    "hash": "138e9c70e7467b8c81c4e4bdd377bf1e6abe2c99aa8c849cfb21c85846fb5194",
+    "slug": "set-optisigns-as-screensaver-on-windows",
+    "title": "Set OptiSigns as ScreenSaver on Windows",
+    "updated_at": "2025-08-29T20:39:30Z"
+  },
+  "8099928867475": {
+    "hash": "afb2ecf306004b4ca8db1276a0e02cf7de5b81751c19a1856ddc322ce9101a92",
+    "slug": "how-to-get-the-mac-address-on-your-media-player",
+    "title": "How to get the MAC Address on your media player",
+    "updated_at": "2025-08-29T20:29:34Z"
   },
   "4529298306963": {
     "hash": "bc0dec49715507d4a7a3ab4576e03770434d18193f9abf5f8aca0100aa85162e",
@@ -2051,29 +2027,23 @@
     "title": "How to use Microsoft Excel Online with OptiSigns",
     "updated_at": "2025-08-29T19:58:56Z"
   },
-  "4410655948563": {
-    "hash": "8cec63d07db9606971d17fc669cfab53bedbde6270a77ad847afa687775f7fd0",
-    "slug": "how-to-use-livestreamcom-app",
-    "title": "How to use livestream.com app",
-    "updated_at": "2025-08-29T19:33:32Z"
+  "1500003244381": {
+    "hash": "eb2207fe5c1cf294ce52033e974e927141d43a0b24b288b4ac3e85b98847faa0",
+    "slug": "about-the-onhold-devices-folder",
+    "title": "About the OnHold Devices Folder",
+    "updated_at": "2025-08-29T20:02:46Z"
   },
-  "4409448788499": {
-    "hash": "60def0b716aa5c06a4e6e815bf76cc6356a0df8a5dffd07ed7f7dd970d42f65a",
-    "slug": "how-to-use-mrss-feeds-with-optisigns",
-    "title": "How to use MRSS feeds with OptiSigns",
-    "updated_at": "2025-08-29T19:30:31Z"
+  "6757989639827": {
+    "hash": "c1cb7fb45dfca429413d5cbb1c6e9651d687893497ce779cfc65eb9371e1ddca",
+    "slug": "how-to-use-the-weather-alert-app",
+    "title": "How to Use the Weather Alert App",
+    "updated_at": "2025-08-29T20:04:43Z"
   },
-  "1500006056101": {
-    "hash": "5ff05cc031eabb0e227fb8a0e3a9d8a2eaf610c6520cc05a9dbfed9153b3f045",
-    "slug": "multi-select-assets-in-filesassets-view",
-    "title": "Multi-select assets in Files/Assets view",
-    "updated_at": "2025-08-29T19:08:26Z"
-  },
-  "5149077938835": {
-    "hash": "54a5dbf1351923ba71c3a5e3b3d3cc5617e8de7057f4049af02edb14d4a057aa",
-    "slug": "how-to-use-advanced-website-app",
-    "title": "How to use Advanced Website App",
-    "updated_at": "2025-08-29T19:27:36Z"
+  "360038992973": {
+    "hash": "7efff985231b6bdd15f75bbb2a075a04c9cc38a2ae988c2f7a471e2530fd3da1",
+    "slug": "video-codec-or-video-playback-issues",
+    "title": "Video codec or video playback issues",
+    "updated_at": "2025-08-29T20:15:48Z"
   },
   "1500009498782": {
     "hash": "a1545ca2b441360d8df56e293bbc1da16bdba02838be364931a73540301b61da",
@@ -2081,11 +2051,11 @@
     "title": "How to replace/update an existing asset (image, video, documents)",
     "updated_at": "2025-08-29T19:08:59Z"
   },
-  "17604055961747": {
-    "hash": "2c161c4b49d965e51171b5fcd95a2286eb29d7067f6fe0175f6843a09e83544a",
-    "slug": "how-to-create-a-content-library-kiosk",
-    "title": "How to Create a Content Library Kiosk",
-    "updated_at": "2025-08-29T19:38:25Z"
+  "4409448788499": {
+    "hash": "60def0b716aa5c06a4e6e815bf76cc6356a0df8a5dffd07ed7f7dd970d42f65a",
+    "slug": "how-to-use-mrss-feeds-with-optisigns",
+    "title": "How to use MRSS feeds with OptiSigns",
+    "updated_at": "2025-08-29T19:30:31Z"
   },
   "360058345334": {
     "hash": "a7dcc72e5760e0cc500becac6bd522de996f4adad099fff13605ba81ea151306",
@@ -2093,23 +2063,23 @@
     "title": "How to run OptiSigns AI Add-on on start up in Windows",
     "updated_at": "2025-08-29T19:07:49Z"
   },
-  "4472060158355": {
-    "hash": "9415505e44b6da81a1a0c6a229a550b4d8dd09701151f6c33471b4b16f214ef6",
-    "slug": "how-to-get-the-list-of-playlists-where-the-asset-is-used",
-    "title": "How to get the list of playlists where the asset is used ",
-    "updated_at": "2025-08-29T19:04:36Z"
-  },
   "17112492659475": {
     "hash": "945173658b5979217b8c6d133cff148cb2402443706f73bb12dcde1dfd19dd35",
     "slug": "display-powerpointgoogle-slides-in-whole-screen-when-casting-from-macbook-pro",
     "title": "Display PowerPoint/Google Slides in whole screen when casting from MacBook Pro",
     "updated_at": "2025-08-29T18:58:05Z"
   },
-  "360016494933": {
-    "hash": "46be9b38e85d2e58225db5043327ca4a08d5de21f893bbea4d3acd24d3b9dd94",
-    "slug": "how-to-use-imovie-content-with-optisigns",
-    "title": "How to use iMovie content with OptiSigns?",
-    "updated_at": "2025-08-29T18:55:22Z"
+  "4472060158355": {
+    "hash": "9415505e44b6da81a1a0c6a229a550b4d8dd09701151f6c33471b4b16f214ef6",
+    "slug": "how-to-get-the-list-of-playlists-where-the-asset-is-used",
+    "title": "How to get the list of playlists where the asset is used ",
+    "updated_at": "2025-08-29T19:04:36Z"
+  },
+  "360049518313": {
+    "hash": "9f398afa4648e40f6aba45e64ce5f69e16e73ed2eb53aaa91ce5421ca854e033",
+    "slug": "how-to-use-google-drive-app",
+    "title": "How to use Google Drive App",
+    "updated_at": "2025-08-29T19:49:24Z"
   },
   "360041481553": {
     "hash": "91b7f1eb2c8efe37a45e393a93e61aee3248dcfe9c81582cf0eca681fea6c20c",
@@ -2117,23 +2087,23 @@
     "title": "How to use Simple Calendar App",
     "updated_at": "2025-08-29T18:57:26Z"
   },
-  "360019588654": {
-    "hash": "c0aff736ae8e40fb83c5d1a42e2f469404d6ad7a5d50272cceb6003b2cfa41a3",
-    "slug": "how-to-tell-which-dropbox-account-that-i-linked-to-optisigns",
-    "title": "How to tell which Dropbox account that I linked to OptiSigns?",
-    "updated_at": "2025-08-29T18:51:46Z"
+  "5149077938835": {
+    "hash": "54a5dbf1351923ba71c3a5e3b3d3cc5617e8de7057f4049af02edb14d4a057aa",
+    "slug": "how-to-use-advanced-website-app",
+    "title": "How to use Advanced Website App",
+    "updated_at": "2025-08-29T19:27:36Z"
   },
-  "4404827608467": {
-    "hash": "9f5b8154cf694eb1a2bff6b995549fceef8c63a9b05359cd0bdc3a78148bab98",
-    "slug": "how-to-unpin-optisigns-app-on-your-managed-android-stick-player",
-    "title": "How to \"unpin\" OptiSigns app on your Managed Android Stick Player",
-    "updated_at": "2025-08-29T18:52:14Z"
+  "1500006056101": {
+    "hash": "5ff05cc031eabb0e227fb8a0e3a9d8a2eaf610c6520cc05a9dbfed9153b3f045",
+    "slug": "multi-select-assets-in-filesassets-view",
+    "title": "Multi-select assets in Files/Assets view",
+    "updated_at": "2025-08-29T19:08:26Z"
   },
-  "360039264133": {
-    "hash": "be3dffc15ebd8dd195610b2c1d646850d23a61f13b1bc41e1e9eab0343c104b8",
-    "slug": "how-to-create-and-use-qr-code-call-to-action-app",
-    "title": "How to create and use QR Code, Call To Action app",
-    "updated_at": "2025-08-29T18:55:06Z"
+  "360016494933": {
+    "hash": "46be9b38e85d2e58225db5043327ca4a08d5de21f893bbea4d3acd24d3b9dd94",
+    "slug": "how-to-use-imovie-content-with-optisigns",
+    "title": "How to use iMovie content with OptiSigns?",
+    "updated_at": "2025-08-29T18:55:22Z"
   },
   "1500009937122": {
     "hash": "a49a0d5037a8d5630c4b80c99d19ce24a7b7c833da8ea3c8980a528334b1cda1",
@@ -2141,23 +2111,17 @@
     "title": "Resolve Autostart issues on your Android TV devices",
     "updated_at": "2025-08-29T18:50:41Z"
   },
-  "15861880059283": {
-    "hash": "4237040689e72ceb2da239e37bde6a74ffe3376330c4d8efdbeab7f68ffb0ebb",
-    "slug": "silent-installation-process-for-optisigns-player-on-windows",
-    "title": "Silent Installation process for OptiSigns Player on Windows",
-    "updated_at": "2025-08-29T18:51:22Z"
+  "4404827608467": {
+    "hash": "9f5b8154cf694eb1a2bff6b995549fceef8c63a9b05359cd0bdc3a78148bab98",
+    "slug": "how-to-unpin-optisigns-app-on-your-managed-android-stick-player",
+    "title": "How to \"unpin\" OptiSigns app on your Managed Android Stick Player",
+    "updated_at": "2025-08-29T18:52:14Z"
   },
-  "360016485633": {
-    "hash": "a6788076d6cc7fcf25b1de3bb56f487495ac37c3bee7a47e5de58512ec4418ed",
-    "slug": "how-can-i-remotely-startrestart-optisigns-app-on-fire-tv",
-    "title": "How can I remotely start/restart OptiSigns app on Fire TV?",
-    "updated_at": "2025-08-29T18:49:22Z"
-  },
-  "360055546594": {
-    "hash": "b8e3310dcd9eb40406df00cb26cead4f374d8c45d63c03c9c42845b24ad602a2",
-    "slug": "how-does-pre-configured-devices-labeled-in-shipping-package",
-    "title": "How does pre-configured devices labeled in shipping package?",
-    "updated_at": "2025-08-29T18:41:08Z"
+  "4410655948563": {
+    "hash": "8cec63d07db9606971d17fc669cfab53bedbde6270a77ad847afa687775f7fd0",
+    "slug": "how-to-use-livestreamcom-app",
+    "title": "How to use livestream.com app",
+    "updated_at": "2025-08-29T19:33:32Z"
   },
   "360026610194": {
     "hash": "a6a7f900f32a0d7b3d447ea0bf0cc91669fd342f697708cb4773bbf520556de5",
@@ -2165,17 +2129,11 @@
     "title": "Stretch your images, document - Stretch vs Fit vs Zoom your content",
     "updated_at": "2025-08-29T18:50:02Z"
   },
-  "31695220475283": {
-    "hash": "908f7ea81030dced46c4843253ffeb652773de5c83a7ff92d640ae49b92f08e8",
-    "slug": "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices",
-    "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
-    "updated_at": "2025-08-29T17:04:07Z"
-  },
-  "360063693093": {
-    "hash": "0b4394f666dd515fc86156fbb7353b8c750ce82b9e5f876e8bebdf575f628fa2",
-    "slug": "how-to-use-approval-workflow-feature",
-    "title": "How to use Approval Workflow feature",
-    "updated_at": "2025-08-29T18:47:00Z"
+  "17604055961747": {
+    "hash": "2c161c4b49d965e51171b5fcd95a2286eb29d7067f6fe0175f6843a09e83544a",
+    "slug": "how-to-create-a-content-library-kiosk",
+    "title": "How to Create a Content Library Kiosk",
+    "updated_at": "2025-08-29T19:38:25Z"
   },
   "4416704273811": {
     "hash": "0e1e2c8f00561ad3186a9f8e81ff9721d836fecf3db0caf2bce0e412a25871e8",
@@ -2183,11 +2141,35 @@
     "title": "Manually control playlist playback with OptiSigns",
     "updated_at": "2025-08-29T18:48:01Z"
   },
-  "4404608957075": {
-    "hash": "c2addecaa1103ee9a278f63185e43f7d2be4c2ab50df6ffd6af14111ba4226fd",
-    "slug": "how-to-delete-your-account-from-optisigns",
-    "title": "How to Delete Your Account from OptiSigns",
-    "updated_at": "2025-08-29T17:02:02Z"
+  "360055546594": {
+    "hash": "b8e3310dcd9eb40406df00cb26cead4f374d8c45d63c03c9c42845b24ad602a2",
+    "slug": "how-does-pre-configured-devices-labeled-in-shipping-package",
+    "title": "How does pre-configured devices labeled in shipping package?",
+    "updated_at": "2025-08-29T18:41:08Z"
+  },
+  "360019588654": {
+    "hash": "c0aff736ae8e40fb83c5d1a42e2f469404d6ad7a5d50272cceb6003b2cfa41a3",
+    "slug": "how-to-tell-which-dropbox-account-that-i-linked-to-optisigns",
+    "title": "How to tell which Dropbox account that I linked to OptiSigns?",
+    "updated_at": "2025-08-29T18:51:46Z"
+  },
+  "15861880059283": {
+    "hash": "4237040689e72ceb2da239e37bde6a74ffe3376330c4d8efdbeab7f68ffb0ebb",
+    "slug": "silent-installation-process-for-optisigns-player-on-windows",
+    "title": "Silent Installation process for OptiSigns Player on Windows",
+    "updated_at": "2025-08-29T18:51:22Z"
+  },
+  "360039264133": {
+    "hash": "be3dffc15ebd8dd195610b2c1d646850d23a61f13b1bc41e1e9eab0343c104b8",
+    "slug": "how-to-create-and-use-qr-code-call-to-action-app",
+    "title": "How to create and use QR Code, Call To Action app",
+    "updated_at": "2025-08-29T18:55:06Z"
+  },
+  "360016485633": {
+    "hash": "a6788076d6cc7fcf25b1de3bb56f487495ac37c3bee7a47e5de58512ec4418ed",
+    "slug": "how-can-i-remotely-startrestart-optisigns-app-on-fire-tv",
+    "title": "How can I remotely start/restart OptiSigns app on Fire TV?",
+    "updated_at": "2025-08-29T18:49:22Z"
   },
   "360020931734": {
     "hash": "68e557fb3573edb2d25a4c55f67263d1d824a4db5d70d12dbe821829fc89c5f3",
@@ -2201,23 +2183,11 @@
     "title": "Install/Update OptiSigns player on RPi via script",
     "updated_at": "2025-08-29T16:56:37Z"
   },
-  "27458261258387": {
-    "hash": "2e20889c2c00bc1a7cdbe1e90be8168941bd16edfb83fe75e5239b337a534a94",
-    "slug": "move-screens-or-devices-from-one-account-to-another",
-    "title": "Move Screens or Devices from One Account to Another",
-    "updated_at": "2025-08-29T17:03:07Z"
-  },
   "35749502945555": {
     "hash": "8ff5b63b7e7a2e5f6437415479f7f5a06bc808332be9bce4626331fd5b4ef0d0",
     "slug": "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments",
     "title": "How to Using SEPA and iDEAL for EUR Currency Subscription Payments",
     "updated_at": "2025-08-29T16:58:30Z"
-  },
-  "23030445716883": {
-    "hash": "d670585baa3706c13d69d995b3e55da6f28af01e2a1190a79bc1bf058d053a93",
-    "slug": "how-to-setup-aericast-meet-wireless-video-conferencing",
-    "title": "How to setup AeriCast Meet (Wireless Video Conferencing)",
-    "updated_at": "2025-08-29T16:59:17Z"
   },
   "360047232054": {
     "hash": "dfa806241a439095976ce541178abd74bbd27872e1f906fd3d2d65a2f01e54f3",
@@ -2225,11 +2195,41 @@
     "title": "Amazon Fire Stick and security considerations",
     "updated_at": "2025-08-29T17:00:38Z"
   },
+  "7589195635219": {
+    "hash": "18fb1111c9b0658504f54009600af4b18f13050e27a00bbf0ee8570868da231d",
+    "slug": "using-eyedrop-feature-to-select-color-in-designer-app",
+    "title": "Using eyedrop feature to select color in Designer app",
+    "updated_at": "2025-08-28T20:14:46Z"
+  },
   "360057327693": {
     "hash": "fcd7a9e953179d178eb804be725154ba2dfdc8df51e5ef21c6eb86f49231a427",
     "slug": "advanced-how-to-install-activate-optisigns-remote-agent-on-windows",
     "title": "Advanced: How to Install & Activate OptiSigns Remote Agent on Windows",
     "updated_at": "2025-08-29T16:57:45Z"
+  },
+  "4404608957075": {
+    "hash": "c2addecaa1103ee9a278f63185e43f7d2be4c2ab50df6ffd6af14111ba4226fd",
+    "slug": "how-to-delete-your-account-from-optisigns",
+    "title": "How to Delete Your Account from OptiSigns",
+    "updated_at": "2025-08-29T17:02:02Z"
+  },
+  "31695220475283": {
+    "hash": "908f7ea81030dced46c4843253ffeb652773de5c83a7ff92d640ae49b92f08e8",
+    "slug": "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices",
+    "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
+    "updated_at": "2025-08-29T17:04:07Z"
+  },
+  "360063693093": {
+    "hash": "0b4394f666dd515fc86156fbb7353b8c750ce82b9e5f876e8bebdf575f628fa2",
+    "slug": "how-to-use-approval-workflow-feature",
+    "title": "How to use Approval Workflow feature",
+    "updated_at": "2025-08-29T18:47:00Z"
+  },
+  "27458261258387": {
+    "hash": "2e20889c2c00bc1a7cdbe1e90be8168941bd16edfb83fe75e5239b337a534a94",
+    "slug": "move-screens-or-devices-from-one-account-to-another",
+    "title": "Move Screens or Devices from One Account to Another",
+    "updated_at": "2025-08-29T17:03:07Z"
   },
   "13320135306515": {
     "hash": "d2e07942d4cfc7c319ab49ff3cef8c1704398e947ee718a75ee0a3184094acdd",
@@ -2237,17 +2237,17 @@
     "title": "Build Integration Using OptiSigns Enterprise App",
     "updated_at": "2025-08-28T20:24:19Z"
   },
-  "7589195635219": {
-    "hash": "18fb1111c9b0658504f54009600af4b18f13050e27a00bbf0ee8570868da231d",
-    "slug": "using-eyedrop-feature-to-select-color-in-designer-app",
-    "title": "Using eyedrop feature to select color in Designer app",
-    "updated_at": "2025-08-28T20:14:46Z"
-  },
   "27607906766483": {
     "hash": "8e614aa13fc32b7837e6721242a98ca53a57d52afb6eec5395ff434f01af0292",
     "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-device",
     "title": "How to Fix The Scaling Issue on OptiSigns Android Device",
     "updated_at": "2025-08-29T16:56:22Z"
+  },
+  "23030445716883": {
+    "hash": "d670585baa3706c13d69d995b3e55da6f28af01e2a1190a79bc1bf058d053a93",
+    "slug": "how-to-setup-aericast-meet-wireless-video-conferencing",
+    "title": "How to setup AeriCast Meet (Wireless Video Conferencing)",
+    "updated_at": "2025-08-29T16:59:17Z"
   },
   "360050664913": {
     "hash": "b8d73184dcd0c8f06fb98b61637be922e6141f9b553dea5d99264dea228fddb6",
@@ -2255,11 +2255,11 @@
     "title": "How to use Google Trends App",
     "updated_at": "2025-08-28T20:18:21Z"
   },
-  "4404616139411": {
-    "hash": "f05daec0a7cee9c2de7886190351e1ee97e1d8f3a92eb16003f96d0820d1a29d",
-    "slug": "add-1-or-multiple-assets-to-many-playlists-at-the-same-time",
-    "title": "Add 1 or multiple assets to many playlists at the same time",
-    "updated_at": "2025-08-28T20:13:04Z"
+  "4411956075027": {
+    "hash": "8985b4e6ac77801aa2437987f02320d83e1cacc5554c47b885ae91210c95b7d5",
+    "slug": "clean-install-optisigns-on-raspberry-pilinux",
+    "title": "Clean install OptiSigns on Raspberry Pi/Linux",
+    "updated_at": "2025-08-28T20:09:01Z"
   },
   "360044614514": {
     "hash": "71dc1bd2779cc2b563f4ed7a0611e5b5712afa56200169f686e222c7cfa7b697",
@@ -2267,29 +2267,23 @@
     "title": "There's no sounds output for my Raspberry Pi",
     "updated_at": "2025-08-28T20:14:25Z"
   },
-  "4411956075027": {
-    "hash": "8985b4e6ac77801aa2437987f02320d83e1cacc5554c47b885ae91210c95b7d5",
-    "slug": "clean-install-optisigns-on-raspberry-pilinux",
-    "title": "Clean install OptiSigns on Raspberry Pi/Linux",
-    "updated_at": "2025-08-28T20:09:01Z"
+  "20428606424723": {
+    "hash": "c73021baaf3f3d51bf77e9e1f95582e9704e6e5b6160871069cafe2e98698a41",
+    "slug": "how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-desi",
+    "title": "How to Use Coordinate-Based Positioning and Sizing of Elements in OptiSigns' Designer",
+    "updated_at": "2025-08-28T20:10:45Z"
+  },
+  "4404616139411": {
+    "hash": "f05daec0a7cee9c2de7886190351e1ee97e1d8f3a92eb16003f96d0820d1a29d",
+    "slug": "add-1-or-multiple-assets-to-many-playlists-at-the-same-time",
+    "title": "Add 1 or multiple assets to many playlists at the same time",
+    "updated_at": "2025-08-28T20:13:04Z"
   },
   "360037416494": {
     "hash": "005ba6985143bd12300db84e6e0ea6e367c3b78359f251ef6f3667ffef8f5efa",
     "slug": "how-to-use-the-atlassian-jira-app",
     "title": "How to use the Atlassian JIRA app",
     "updated_at": "2025-08-28T20:12:13Z"
-  },
-  "360058700673": {
-    "hash": "207e0babbcc9da457a6481203a26ea2fb8958afa2711c5231b3638d30ea178bd",
-    "slug": "how-to-unpair-a-device-screen",
-    "title": "How to unpair a device, screen?",
-    "updated_at": "2025-08-28T20:07:13Z"
-  },
-  "20428606424723": {
-    "hash": "c73021baaf3f3d51bf77e9e1f95582e9704e6e5b6160871069cafe2e98698a41",
-    "slug": "how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-desi",
-    "title": "How to Use Coordinate-Based Positioning and Sizing of Elements in OptiSigns' Designer",
-    "updated_at": "2025-08-28T20:10:45Z"
   },
   "1500005889381": {
     "hash": "570702e3c2d05bc995605687cf4e38ec4d1cba5d38038bb365256ea47991e557",
@@ -2303,35 +2297,11 @@
     "title": "How to change Billing information",
     "updated_at": "2025-08-28T20:03:48Z"
   },
-  "360047499893": {
-    "hash": "5a56ee368436b016834a9fd59a43e6d77fea7b0e40954dec37cc3e75c28e5794",
-    "slug": "how-to-use-google-traffic-app",
-    "title": "How to use Google Traffic App",
-    "updated_at": "2025-08-28T19:56:05Z"
-  },
-  "27676133574547": {
-    "hash": "2a9e7e51268da4b1472817db4842e8358dd2d25491a5b93092d05c397b53b25d",
-    "slug": "i-received-the-optisigns-device-but-its-onhold-and-cannot-assign-content",
-    "title": "I received the OptiSigns device but it's OnHold and cannot assign content",
-    "updated_at": "2025-08-28T19:48:56Z"
-  },
-  "4428997257491": {
-    "hash": "d3ed60901ff055f5b72d477884d01b9a2dc3ce580dc5f61910e0c8389878a57b",
-    "slug": "how-to-organize-templates-and-share-across-teams",
-    "title": "How to organize templates and share across teams ",
-    "updated_at": "2025-08-28T19:56:40Z"
-  },
-  "12498801963027": {
-    "hash": "00ba6ef4590b1034ad3ac6579ccb88b1d7543e98aef528ef803e1dd6caabf8ba",
-    "slug": "show-offline-indicator-feature",
-    "title": "Show Offline Indicator feature",
-    "updated_at": "2025-08-28T19:46:51Z"
-  },
-  "360034219593": {
-    "hash": "7a9cfff89435dcf3c50bb338f5dc3962fd15184e49de3d4a5ba87f1d820e4ea7",
-    "slug": "powerpoint-transition-and-animation-effect",
-    "title": "PowerPoint Transition and Animation effect",
-    "updated_at": "2025-08-28T19:47:16Z"
+  "360058700673": {
+    "hash": "207e0babbcc9da457a6481203a26ea2fb8958afa2711c5231b3638d30ea178bd",
+    "slug": "how-to-unpair-a-device-screen",
+    "title": "How to unpair a device, screen?",
+    "updated_at": "2025-08-28T20:07:13Z"
   },
   "360016219114": {
     "hash": "3d6c2bd3b9f9cd0cef5dcdb97a54dc05c11153dc853dbddbc418edacc688e98f",
@@ -2339,29 +2309,29 @@
     "title": "What if I want to increase, decrease number of screens during the month?",
     "updated_at": "2025-08-28T19:48:02Z"
   },
-  "360016253574": {
-    "hash": "b09391e65b219fdfb199534b1ca0ff0caefde360da751b62693901b38476cb24",
-    "slug": "how-do-i-suggest-new-features-improvement",
-    "title": "How do I suggest new features, improvement?",
-    "updated_at": "2025-08-28T19:44:58Z"
+  "4428997257491": {
+    "hash": "d3ed60901ff055f5b72d477884d01b9a2dc3ce580dc5f61910e0c8389878a57b",
+    "slug": "how-to-organize-templates-and-share-across-teams",
+    "title": "How to organize templates and share across teams ",
+    "updated_at": "2025-08-28T19:56:40Z"
   },
-  "4407068788883": {
-    "hash": "d3b73b1187702e79d03ba90e5928aff64afd677d94467b9000e4997b7a22ce8c",
-    "slug": "map-view-screen-location-settings",
-    "title": "Map View & Screen Location settings",
-    "updated_at": "2025-08-28T19:29:32Z"
+  "360034219593": {
+    "hash": "7a9cfff89435dcf3c50bb338f5dc3962fd15184e49de3d4a5ba87f1d820e4ea7",
+    "slug": "powerpoint-transition-and-animation-effect",
+    "title": "PowerPoint Transition and Animation effect",
+    "updated_at": "2025-08-28T19:47:16Z"
   },
-  "360016375793": {
-    "hash": "f769e58caed433244fa711263795dfea880ad191ddcc9065bf09c18663775ac0",
-    "slug": "can-i-have-my-invoices-receipts-sent-to-a-different-email-address",
-    "title": "Can I have my invoices, receipts sent to a different email address?",
-    "updated_at": "2025-08-28T19:44:46Z"
+  "27676133574547": {
+    "hash": "2a9e7e51268da4b1472817db4842e8358dd2d25491a5b93092d05c397b53b25d",
+    "slug": "i-received-the-optisigns-device-but-its-onhold-and-cannot-assign-content",
+    "title": "I received the OptiSigns device but it's OnHold and cannot assign content",
+    "updated_at": "2025-08-28T19:48:56Z"
   },
-  "360016252394": {
-    "hash": "7a80e61e8a0018f755837efbfcf6e24c048ff3364e0b8bf4b0f8f8741d513052",
-    "slug": "web-browser-as-optisigns-player",
-    "title": "Web browser as OptiSigns player",
-    "updated_at": "2025-08-28T19:05:36Z"
+  "12498801963027": {
+    "hash": "00ba6ef4590b1034ad3ac6579ccb88b1d7543e98aef528ef803e1dd6caabf8ba",
+    "slug": "show-offline-indicator-feature",
+    "title": "Show Offline Indicator feature",
+    "updated_at": "2025-08-28T19:46:51Z"
   },
   "360060049534": {
     "hash": "c73e5737a0cd6d6a97ebfbf80ebeec9cc667230ab81baf5f7d4b3b9b9210a340",
@@ -2369,23 +2339,11 @@
     "title": "How to export high resolution canvas, template designs",
     "updated_at": "2025-08-28T19:46:15Z"
   },
-  "24338756617747": {
-    "hash": "c454489bb31acefafb8ca5c25214aa7321a9cff76b2e75fb9deff46c104cc10b",
-    "slug": "what-are-feeds-and-how-to-use-it",
-    "title": "What Are Feeds and How to Use It",
-    "updated_at": "2025-08-28T18:46:57Z"
-  },
-  "29238381023123": {
-    "hash": "485da40f1aa6e4334f581e3565958c396d121b96999b086ac2d9a2442ee27eba",
-    "slug": "how-to-clear-cache-on-a-brightsign-player",
-    "title": "How to Clear Cache on a BrightSign Player",
-    "updated_at": "2025-08-28T19:03:16Z"
-  },
-  "360050855313": {
-    "hash": "7e2c0bd0a197ed1d7676ac91aee52d8393810906fee9dcd3eb4624830255cd84",
-    "slug": "how-to-link-instagram-business-or-creator-account-to-facebook-account",
-    "title": "How to link Instagram Business or Creator Account to Facebook Account",
-    "updated_at": "2025-08-28T18:44:34Z"
+  "360016375793": {
+    "hash": "f769e58caed433244fa711263795dfea880ad191ddcc9065bf09c18663775ac0",
+    "slug": "can-i-have-my-invoices-receipts-sent-to-a-different-email-address",
+    "title": "Can I have my invoices, receipts sent to a different email address?",
+    "updated_at": "2025-08-28T19:44:46Z"
   },
   "28115946505107": {
     "hash": "e161685ac103166460ced2231bb81ff783d08ae699102336cccbe196d28f5edf",
@@ -2393,11 +2351,29 @@
     "title": "How to Change Close & Nav Bar Styler Preferences",
     "updated_at": "2025-08-28T19:27:02Z"
   },
-  "360051014773": {
-    "hash": "94ea86d3f0f7cefe9ff1680f11b40637e19c9d0b2b5861314cbcc81b71702265",
-    "slug": "show-youtube-videos-subtitleclosed-caption",
-    "title": "Show YouTube video's subtitle/closed caption",
-    "updated_at": "2025-07-31T18:59:55Z"
+  "360016252394": {
+    "hash": "7a80e61e8a0018f755837efbfcf6e24c048ff3364e0b8bf4b0f8f8741d513052",
+    "slug": "web-browser-as-optisigns-player",
+    "title": "Web browser as OptiSigns player",
+    "updated_at": "2025-08-28T19:05:36Z"
+  },
+  "360047499893": {
+    "hash": "5a56ee368436b016834a9fd59a43e6d77fea7b0e40954dec37cc3e75c28e5794",
+    "slug": "how-to-use-google-traffic-app",
+    "title": "How to use Google Traffic App",
+    "updated_at": "2025-08-28T19:56:05Z"
+  },
+  "4407068788883": {
+    "hash": "d3b73b1187702e79d03ba90e5928aff64afd677d94467b9000e4997b7a22ce8c",
+    "slug": "map-view-screen-location-settings",
+    "title": "Map View & Screen Location settings",
+    "updated_at": "2025-08-28T19:29:32Z"
+  },
+  "360016253574": {
+    "hash": "b09391e65b219fdfb199534b1ca0ff0caefde360da751b62693901b38476cb24",
+    "slug": "how-do-i-suggest-new-features-improvement",
+    "title": "How do I suggest new features, improvement?",
+    "updated_at": "2025-08-28T19:44:58Z"
   },
   "39080869746067": {
     "hash": "1b841a5851225755ebbe5747761fbe928f6e6ce075b55bf7c1025189a60e097e",
@@ -2411,17 +2387,41 @@
     "title": "How to Set up an Instagram Business/Creator account",
     "updated_at": "2025-08-28T18:43:19Z"
   },
-  "43657735780627": {
-    "hash": "2fd5a10bf741a320ff214e764a47d116414aeece68a051f949deef81f25ff8b8",
-    "slug": "user-management-example-chain-restaurant-or-retail-store-with-multiple-locations",
-    "title": "User Management Example - Chain Restaurant or Retail Store with Multiple Locations",
-    "updated_at": "2025-08-28T19:28:55Z"
+  "29238381023123": {
+    "hash": "485da40f1aa6e4334f581e3565958c396d121b96999b086ac2d9a2442ee27eba",
+    "slug": "how-to-clear-cache-on-a-brightsign-player",
+    "title": "How to Clear Cache on a BrightSign Player",
+    "updated_at": "2025-08-28T19:03:16Z"
+  },
+  "24338756617747": {
+    "hash": "c454489bb31acefafb8ca5c25214aa7321a9cff76b2e75fb9deff46c104cc10b",
+    "slug": "what-are-feeds-and-how-to-use-it",
+    "title": "What Are Feeds and How to Use It",
+    "updated_at": "2025-08-28T18:46:57Z"
+  },
+  "360050855313": {
+    "hash": "7e2c0bd0a197ed1d7676ac91aee52d8393810906fee9dcd3eb4624830255cd84",
+    "slug": "how-to-link-instagram-business-or-creator-account-to-facebook-account",
+    "title": "How to link Instagram Business or Creator Account to Facebook Account",
+    "updated_at": "2025-08-28T18:44:34Z"
   },
   "360016253694": {
     "hash": "1a852892f0d5ad7247b348df8fee84d02d1d093afd6d33e5f389c96805cd8fc7",
     "slug": "is-there-storage-limit-for-my-account",
     "title": "Is there storage limit for my account?",
     "updated_at": "2025-07-30T06:36:27Z"
+  },
+  "360051014773": {
+    "hash": "94ea86d3f0f7cefe9ff1680f11b40637e19c9d0b2b5861314cbcc81b71702265",
+    "slug": "show-youtube-videos-subtitleclosed-caption",
+    "title": "Show YouTube video's subtitle/closed caption",
+    "updated_at": "2025-07-31T18:59:55Z"
+  },
+  "43657735780627": {
+    "hash": "2fd5a10bf741a320ff214e764a47d116414aeece68a051f949deef81f25ff8b8",
+    "slug": "user-management-example-chain-restaurant-or-retail-store-with-multiple-locations",
+    "title": "User Management Example - Chain Restaurant or Retail Store with Multiple Locations",
+    "updated_at": "2025-08-28T19:28:55Z"
   },
   "8899727608083": {
     "hash": "bd7fd02d72428dfc545a36f578cf4c063a6092baa1ca092a2ed43c0bd2f06839",
