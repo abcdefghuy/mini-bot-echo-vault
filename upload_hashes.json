@@ -419,6 +419,10 @@
     "hash": "3ad8c7f0e5f6a84484599e9ce99a19b4ca05e778a5cd00ce7590dcc5772c4c67",
     "doc_name": "uploaded:how-to-create-and-use-google-reviews-wall.md"
   },
+  "how-to-create-and-use-instagram-wall.md": {
+    "hash": "4a3374f15883b35e150ccf589980eb3562e60bcec7b623c66bd1c5165e782c1b",
+    "doc_name": "uploaded:how-to-create-and-use-instagram-wall.md"
+  },
   "how-to-create-and-use-nested-playlists.md": {
     "hash": "89ca9970cee7e0e0dde6b8f7d8bf1e503904e6e9b55d779e2bf208919cd1ed46",
     "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
@@ -1591,10 +1595,6 @@
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "fd945b0356653691faa61f0064da8a3acfba8417f1c203b8c7e4f6f214a926b4",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
-  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1619,8 +1619,12 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-create-and-use-instagram-wall.md": {
-    "hash": "4a3374f15883b35e150ccf589980eb3562e60bcec7b623c66bd1c5165e782c1b",
-    "doc_name": "uploaded:how-to-create-and-use-instagram-wall.md"
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "035c390f92e125f56a5d080978a42d171df7de301cf4c91917f3c7bf7569c7ab",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  },
+  "device-management-and-mass-provisioning.md": {
+    "hash": "a75e1874ca5753c7bbce52494d9ce3151ef724446ed7cba5aaba3aec90df7539",
+    "doc_name": "uploaded:device-management-and-mass-provisioning.md"
   }
 }
