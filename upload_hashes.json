@@ -183,6 +183,10 @@
     "hash": "bb5c22d2c87fcfcfff1d90d497a29a64eb0d6cde6a6ef3cd1d1e98b7ba1a75cb",
     "doc_name": "uploaded:designer-20-new-features.md"
   },
+  "device-management-and-mass-provisioning.md": {
+    "hash": "a75e1874ca5753c7bbce52494d9ce3151ef724446ed7cba5aaba3aec90df7539",
+    "doc_name": "uploaded:device-management-and-mass-provisioning.md"
+  },
   "difference-between-instagram-instagram-business-app.md": {
     "hash": "aa7a83d6933b1d8112ec7468ac28d106eec445311ad961e39b2973757ee0c44c",
     "doc_name": "uploaded:difference-between-instagram-instagram-business-app.md"
@@ -1279,10 +1283,6 @@
     "hash": "79d67a4f473459abc295f32b2f08527ba5696b531e82af011f4a8b16c5f2119b",
     "doc_name": "uploaded:macos.md"
   },
-  "making-a-video-wall-with-optisigns-video-wall-app.md": {
-    "hash": "671d4603de37c2c01656c65ea92b23837cb4bd6a05671b11471f89eccaab57d0",
-    "doc_name": "uploaded:making-a-video-wall-with-optisigns-video-wall-app.md"
-  },
   "manually-control-playlist-playback-with-optisigns.md": {
     "hash": "0e1e2c8f00561ad3186a9f8e81ff9721d836fecf3db0caf2bce0e412a25871e8",
     "doc_name": "uploaded:manually-control-playlist-playback-with-optisigns.md"
@@ -1447,10 +1447,6 @@
     "hash": "5a10ff29336b3cf0d77e0fbf77603f141320827de061314ef3c781071b9cad54",
     "doc_name": "uploaded:samsung-tizen-tvs-troubleshooting-guide.md"
   },
-  "set-optisigns-as-screensaver-on-windows.md": {
-    "hash": "138e9c70e7467b8c81c4e4bdd377bf1e6abe2c99aa8c849cfb21c85846fb5194",
-    "doc_name": "uploaded:set-optisigns-as-screensaver-on-windows.md"
-  },
   "set-up-add-a-screen.md": {
     "hash": "ef660ea42d1da06518ada327507915771f43a4a935501b2fd69b15a381ddcd9b",
     "doc_name": "uploaded:set-up-add-a-screen.md"
@@ -1595,6 +1591,10 @@
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "035c390f92e125f56a5d080978a42d171df7de301cf4c91917f3c7bf7569c7ab",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1619,12 +1619,12 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "035c390f92e125f56a5d080978a42d171df7de301cf4c91917f3c7bf7569c7ab",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  "set-optisigns-as-screensaver-on-windows.md": {
+    "hash": "b9c08b43e0bc834a7439c1bf5035ee6f77f970e2d8a93c0c25a6793f9e7bb92e",
+    "doc_name": "uploaded:set-optisigns-as-screensaver-on-windows.md"
   },
-  "device-management-and-mass-provisioning.md": {
-    "hash": "a75e1874ca5753c7bbce52494d9ce3151ef724446ed7cba5aaba3aec90df7539",
-    "doc_name": "uploaded:device-management-and-mass-provisioning.md"
+  "making-a-video-wall-with-optisigns-video-wall-app.md": {
+    "hash": "b0e41dafbc7fd7c65fdadf751cb4070b89c82457cf398dc808dc52aef187d8b4",
+    "doc_name": "uploaded:making-a-video-wall-with-optisigns-video-wall-app.md"
   }
 }
