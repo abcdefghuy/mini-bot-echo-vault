@@ -159,10 +159,6 @@
     "hash": "96978664e1bd19ce4f62122a30ede5ee88f4cbe32bc82a736c5263da896f3b1f",
     "doc_name": "uploaded:connect-microsoft-teams-rooms-to-optisigns-digital-signage.md"
   },
-  "connect-zoom-rooms-to-optisigns-digital-signage.md": {
-    "hash": "564b987eeea04f8e28d52a0ad9f460ed60d32a6467b8a27eebdfbbec74b27f30",
-    "doc_name": "uploaded:connect-zoom-rooms-to-optisigns-digital-signage.md"
-  },
   "creating-and-using-schedules-with-optisigns.md": {
     "hash": "108461fa4c0a8e84a0c71a6a2695070316b9c75522e72ab3e0cd51aef1073101",
     "doc_name": "uploaded:creating-and-using-schedules-with-optisigns.md"
@@ -751,10 +747,6 @@
     "hash": "9f5b8154cf694eb1a2bff6b995549fceef8c63a9b05359cd0bdc3a78148bab98",
     "doc_name": "uploaded:how-to-unpin-optisigns-app-on-your-managed-android-stick-player.md"
   },
-  "how-to-update-fire-tv-os-to-latest-version.md": {
-    "hash": "3d2774c2b175b2f375e7da3f0251dd77c193e897a3fc2d2823df136725f2af69",
-    "doc_name": "uploaded:how-to-update-fire-tv-os-to-latest-version.md"
-  },
   "how-to-upload-manage-your-files-assets.md": {
     "hash": "02f2c378a8cd7e4dee96dc2a10e9ff9f1219c58f3db4862354eff564f2db9d23",
     "doc_name": "uploaded:how-to-upload-manage-your-files-assets.md"
@@ -1283,6 +1275,10 @@
     "hash": "79d67a4f473459abc295f32b2f08527ba5696b531e82af011f4a8b16c5f2119b",
     "doc_name": "uploaded:macos.md"
   },
+  "making-a-video-wall-with-optisigns-video-wall-app.md": {
+    "hash": "b0e41dafbc7fd7c65fdadf751cb4070b89c82457cf398dc808dc52aef187d8b4",
+    "doc_name": "uploaded:making-a-video-wall-with-optisigns-video-wall-app.md"
+  },
   "manually-control-playlist-playback-with-optisigns.md": {
     "hash": "0e1e2c8f00561ad3186a9f8e81ff9721d836fecf3db0caf2bce0e412a25871e8",
     "doc_name": "uploaded:manually-control-playlist-playback-with-optisigns.md"
@@ -1446,6 +1442,10 @@
   "samsung-tizen-tvs-troubleshooting-guide.md": {
     "hash": "5a10ff29336b3cf0d77e0fbf77603f141320827de061314ef3c781071b9cad54",
     "doc_name": "uploaded:samsung-tizen-tvs-troubleshooting-guide.md"
+  },
+  "set-optisigns-as-screensaver-on-windows.md": {
+    "hash": "b9c08b43e0bc834a7439c1bf5035ee6f77f970e2d8a93c0c25a6793f9e7bb92e",
+    "doc_name": "uploaded:set-optisigns-as-screensaver-on-windows.md"
   },
   "set-up-add-a-screen.md": {
     "hash": "ef660ea42d1da06518ada327507915771f43a4a935501b2fd69b15a381ddcd9b",
@@ -1619,12 +1619,12 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "set-optisigns-as-screensaver-on-windows.md": {
-    "hash": "b9c08b43e0bc834a7439c1bf5035ee6f77f970e2d8a93c0c25a6793f9e7bb92e",
-    "doc_name": "uploaded:set-optisigns-as-screensaver-on-windows.md"
+  "connect-zoom-rooms-to-optisigns-digital-signage.md": {
+    "hash": "9b250084d0402c56ecf9eafe41793b71b65b071d1609c68dda682d4e0a7a272e",
+    "doc_name": "uploaded:connect-zoom-rooms-to-optisigns-digital-signage.md"
   },
-  "making-a-video-wall-with-optisigns-video-wall-app.md": {
-    "hash": "b0e41dafbc7fd7c65fdadf751cb4070b89c82457cf398dc808dc52aef187d8b4",
-    "doc_name": "uploaded:making-a-video-wall-with-optisigns-video-wall-app.md"
+  "how-to-update-fire-tv-os-to-latest-version.md": {
+    "hash": "0f99fd5535a39019547e17be7831b9b7ce438e5b51b1e31e55f056736e0d6744",
+    "doc_name": "uploaded:how-to-update-fire-tv-os-to-latest-version.md"
   }
 }
