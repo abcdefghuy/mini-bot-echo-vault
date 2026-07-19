@@ -159,6 +159,10 @@
     "hash": "96978664e1bd19ce4f62122a30ede5ee88f4cbe32bc82a736c5263da896f3b1f",
     "doc_name": "uploaded:connect-microsoft-teams-rooms-to-optisigns-digital-signage.md"
   },
+  "connect-zoom-rooms-to-optisigns-digital-signage.md": {
+    "hash": "9b250084d0402c56ecf9eafe41793b71b65b071d1609c68dda682d4e0a7a272e",
+    "doc_name": "uploaded:connect-zoom-rooms-to-optisigns-digital-signage.md"
+  },
   "creating-and-using-schedules-with-optisigns.md": {
     "hash": "108461fa4c0a8e84a0c71a6a2695070316b9c75522e72ab3e0cd51aef1073101",
     "doc_name": "uploaded:creating-and-using-schedules-with-optisigns.md"
@@ -366,10 +370,6 @@
   "how-to-change-time-zone-on-your-raspberry-pi-device.md": {
     "hash": "7399dd690a6775a098bc92cd91f19e8253624f044ce879e0b3e084575fc4ef1c",
     "doc_name": "uploaded:how-to-change-time-zone-on-your-raspberry-pi-device.md"
-  },
-  "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md": {
-    "hash": "e259436b455e69e975c7f512583aff3a7b5e3f9a6e0c8aa2ece2596fc2091cba",
-    "doc_name": "uploaded:how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md"
   },
   "how-to-clean-data-on-the-optisigns-android-stick.md": {
     "hash": "62105ac224f611961713ef3cd6f1f858e37647267053125a9aab7a7a4b70cc66",
@@ -746,6 +746,10 @@
   "how-to-unpin-optisigns-app-on-your-managed-android-stick-player.md": {
     "hash": "9f5b8154cf694eb1a2bff6b995549fceef8c63a9b05359cd0bdc3a78148bab98",
     "doc_name": "uploaded:how-to-unpin-optisigns-app-on-your-managed-android-stick-player.md"
+  },
+  "how-to-update-fire-tv-os-to-latest-version.md": {
+    "hash": "0f99fd5535a39019547e17be7831b9b7ce438e5b51b1e31e55f056736e0d6744",
+    "doc_name": "uploaded:how-to-update-fire-tv-os-to-latest-version.md"
   },
   "how-to-upload-manage-your-files-assets.md": {
     "hash": "02f2c378a8cd7e4dee96dc2a10e9ff9f1219c58f3db4862354eff564f2db9d23",
@@ -1351,10 +1355,6 @@
     "hash": "006874e2126d855ed2f2831cfb0a5e14ecaab71b0b20a82ce594596825882a25",
     "doc_name": "uploaded:optistick-troubleshooting-guide.md"
   },
-  "optistick.md": {
-    "hash": "5c7e6f3417fdb67c53af652be6c5ba439e715edb7e0170a8d1d047f96376aa07",
-    "doc_name": "uploaded:optistick.md"
-  },
   "organizing-your-files-assets-playlists-and-schedules-by-using-folders.md": {
     "hash": "91c635bc4ae559238af75d134ac60dd99e0b90693c99a58b3c6de25d3377398b",
     "doc_name": "uploaded:organizing-your-files-assets-playlists-and-schedules-by-using-folders.md"
@@ -1619,12 +1619,12 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "connect-zoom-rooms-to-optisigns-digital-signage.md": {
-    "hash": "9b250084d0402c56ecf9eafe41793b71b65b071d1609c68dda682d4e0a7a272e",
-    "doc_name": "uploaded:connect-zoom-rooms-to-optisigns-digital-signage.md"
+  "optistick.md": {
+    "hash": "7b63e13b67cc70315bae5d03ed113de9bdfbf37ae2a2b27a0349dce160610b19",
+    "doc_name": "uploaded:optistick.md"
   },
-  "how-to-update-fire-tv-os-to-latest-version.md": {
-    "hash": "0f99fd5535a39019547e17be7831b9b7ce438e5b51b1e31e55f056736e0d6744",
-    "doc_name": "uploaded:how-to-update-fire-tv-os-to-latest-version.md"
+  "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md": {
+    "hash": "3bb538646f638cfa90bec4dee493648ad84fa991fb67f05b886ce475f13dfa17",
+    "doc_name": "uploaded:how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md"
   }
 }
