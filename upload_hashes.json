@@ -303,10 +303,6 @@
     "hash": "b09391e65b219fdfb199534b1ca0ff0caefde360da751b62693901b38476cb24",
     "doc_name": "uploaded:how-do-i-suggest-new-features-improvement.md"
   },
-  "how-does-pre-configured-devices-labeled-in-shipping-package.md": {
-    "hash": "b8e3310dcd9eb40406df00cb26cead4f374d8c45d63c03c9c42845b24ad602a2",
-    "doc_name": "uploaded:how-does-pre-configured-devices-labeled-in-shipping-package.md"
-  },
   "how-far-back-or-how-many-posts-will-be-fetched-for-my-social-walls.md": {
     "hash": "9d5fd81e1c74acab188136d5e74d49f6f1c0b356f7414e5fcc2df024de2c3396",
     "doc_name": "uploaded:how-far-back-or-how-many-posts-will-be-fetched-for-my-social-walls.md"
@@ -370,6 +366,10 @@
   "how-to-change-time-zone-on-your-raspberry-pi-device.md": {
     "hash": "7399dd690a6775a098bc92cd91f19e8253624f044ce879e0b3e084575fc4ef1c",
     "doc_name": "uploaded:how-to-change-time-zone-on-your-raspberry-pi-device.md"
+  },
+  "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md": {
+    "hash": "3bb538646f638cfa90bec4dee493648ad84fa991fb67f05b886ce475f13dfa17",
+    "doc_name": "uploaded:how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md"
   },
   "how-to-clean-data-on-the-optisigns-android-stick.md": {
     "hash": "62105ac224f611961713ef3cd6f1f858e37647267053125a9aab7a7a4b70cc66",
@@ -1355,6 +1355,10 @@
     "hash": "006874e2126d855ed2f2831cfb0a5e14ecaab71b0b20a82ce594596825882a25",
     "doc_name": "uploaded:optistick-troubleshooting-guide.md"
   },
+  "optistick.md": {
+    "hash": "7b63e13b67cc70315bae5d03ed113de9bdfbf37ae2a2b27a0349dce160610b19",
+    "doc_name": "uploaded:optistick.md"
+  },
   "organizing-your-files-assets-playlists-and-schedules-by-using-folders.md": {
     "hash": "91c635bc4ae559238af75d134ac60dd99e0b90693c99a58b3c6de25d3377398b",
     "doc_name": "uploaded:organizing-your-files-assets-playlists-and-schedules-by-using-folders.md"
@@ -1619,12 +1623,8 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "optistick.md": {
-    "hash": "7b63e13b67cc70315bae5d03ed113de9bdfbf37ae2a2b27a0349dce160610b19",
-    "doc_name": "uploaded:optistick.md"
-  },
-  "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md": {
-    "hash": "3bb538646f638cfa90bec4dee493648ad84fa991fb67f05b886ce475f13dfa17",
-    "doc_name": "uploaded:how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md"
+  "how-does-pre-configured-devices-labeled-in-shipping-package.md": {
+    "hash": "d7248f04d4f33234de1e62cda24f0b4abf1a8ad4e3172dd63ad504bcd04af9c3",
+    "doc_name": "uploaded:how-does-pre-configured-devices-labeled-in-shipping-package.md"
   }
 }
