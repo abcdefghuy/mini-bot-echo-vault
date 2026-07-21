@@ -303,6 +303,10 @@
     "hash": "b09391e65b219fdfb199534b1ca0ff0caefde360da751b62693901b38476cb24",
     "doc_name": "uploaded:how-do-i-suggest-new-features-improvement.md"
   },
+  "how-does-pre-configured-devices-labeled-in-shipping-package.md": {
+    "hash": "d7248f04d4f33234de1e62cda24f0b4abf1a8ad4e3172dd63ad504bcd04af9c3",
+    "doc_name": "uploaded:how-does-pre-configured-devices-labeled-in-shipping-package.md"
+  },
   "how-far-back-or-how-many-posts-will-be-fetched-for-my-social-walls.md": {
     "hash": "9d5fd81e1c74acab188136d5e74d49f6f1c0b356f7414e5fcc2df024de2c3396",
     "doc_name": "uploaded:how-far-back-or-how-many-posts-will-be-fetched-for-my-social-walls.md"
@@ -506,10 +510,6 @@
   "how-to-enable-ssh-for-your-raspberry-pi.md": {
     "hash": "5cfeaf75260563949b2cd14c2075d17da322f15a9688c8cac21d74f701445dd6",
     "doc_name": "uploaded:how-to-enable-ssh-for-your-raspberry-pi.md"
-  },
-  "how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md": {
-    "hash": "c352d304db5abd24a1d41ecb31a4efc3eafb6042e603ff0e77b5c94c92009e22",
-    "doc_name": "uploaded:how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md"
   },
   "how-to-export-high-resolution-canvas-template-designs.md": {
     "hash": "c73e5737a0cd6d6a97ebfbf80ebeec9cc667230ab81baf5f7d4b3b9b9210a340",
@@ -878,10 +878,6 @@
   "how-to-use-instagram-counter-app.md": {
     "hash": "8a4a77cc3753c2837f3b24b2f329fc33451b46b3ecb2be3947dbdb5d10883da5",
     "doc_name": "uploaded:how-to-use-instagram-counter-app.md"
-  },
-  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md": {
-    "hash": "a911d216e72b4a94f9b468e9d29f1a6a1e80f528e336c9b448a54cfa1a704ce9",
-    "doc_name": "uploaded:how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md"
   },
   "how-to-use-linkedin-app.md": {
     "hash": "5140ede66692abf42c9d98a2cc34c3181b4857492345650bd6e8a3f8f257ad31",
@@ -1623,8 +1619,12 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-does-pre-configured-devices-labeled-in-shipping-package.md": {
-    "hash": "d7248f04d4f33234de1e62cda24f0b4abf1a8ad4e3172dd63ad504bcd04af9c3",
-    "doc_name": "uploaded:how-does-pre-configured-devices-labeled-in-shipping-package.md"
+  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md": {
+    "hash": "095e4bf15b45dd23f19f0b6c292576e9b9356563e25564cdcb352a062aff0e7b",
+    "doc_name": "uploaded:how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md"
+  },
+  "how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md": {
+    "hash": "355de2ed68b656f5503d1fec92e944a1f7d7e18c9897a369eee2557d3faa5fb5",
+    "doc_name": "uploaded:how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md"
   }
 }
