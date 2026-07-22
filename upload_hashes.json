@@ -511,6 +511,10 @@
     "hash": "5cfeaf75260563949b2cd14c2075d17da322f15a9688c8cac21d74f701445dd6",
     "doc_name": "uploaded:how-to-enable-ssh-for-your-raspberry-pi.md"
   },
+  "how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md": {
+    "hash": "355de2ed68b656f5503d1fec92e944a1f7d7e18c9897a369eee2557d3faa5fb5",
+    "doc_name": "uploaded:how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md"
+  },
   "how-to-export-high-resolution-canvas-template-designs.md": {
     "hash": "c73e5737a0cd6d6a97ebfbf80ebeec9cc667230ab81baf5f7d4b3b9b9210a340",
     "doc_name": "uploaded:how-to-export-high-resolution-canvas-template-designs.md"
@@ -878,6 +882,10 @@
   "how-to-use-instagram-counter-app.md": {
     "hash": "8a4a77cc3753c2837f3b24b2f329fc33451b46b3ecb2be3947dbdb5d10883da5",
     "doc_name": "uploaded:how-to-use-instagram-counter-app.md"
+  },
+  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md": {
+    "hash": "095e4bf15b45dd23f19f0b6c292576e9b9356563e25564cdcb352a062aff0e7b",
+    "doc_name": "uploaded:how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md"
   },
   "how-to-use-linkedin-app.md": {
     "hash": "5140ede66692abf42c9d98a2cc34c3181b4857492345650bd6e8a3f8f257ad31",
@@ -1591,10 +1599,6 @@
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "035c390f92e125f56a5d080978a42d171df7de301cf4c91917f3c7bf7569c7ab",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
-  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1619,12 +1623,8 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md": {
-    "hash": "095e4bf15b45dd23f19f0b6c292576e9b9356563e25564cdcb352a062aff0e7b",
-    "doc_name": "uploaded:how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md"
-  },
-  "how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md": {
-    "hash": "355de2ed68b656f5503d1fec92e944a1f7d7e18c9897a369eee2557d3faa5fb5",
-    "doc_name": "uploaded:how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md"
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "b27c092c3bf0a869767f66339d3f00de2025028a72c6a8cf490fa1fc5f8dc6d0",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
   }
 }
