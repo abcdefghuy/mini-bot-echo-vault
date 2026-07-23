@@ -635,10 +635,6 @@
     "hash": "d3ed60901ff055f5b72d477884d01b9a2dc3ce580dc5f61910e0c8389878a57b",
     "doc_name": "uploaded:how-to-organize-templates-and-share-across-teams.md"
   },
-  "how-to-perform-mass-provisioning-with-optisigns.md": {
-    "hash": "5df8206f120edf70819f001c889330a59cad0ae1057434690a49a5e3f4bddd41",
-    "doc_name": "uploaded:how-to-perform-mass-provisioning-with-optisigns.md"
-  },
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": {
     "hash": "eafe107ae8def2fa7f2b0bca0456752dbbb2d2491bab2166129d31a1b0836cba",
     "doc_name": "uploaded:how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
@@ -1599,6 +1595,10 @@
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "b27c092c3bf0a869767f66339d3f00de2025028a72c6a8cf490fa1fc5f8dc6d0",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1623,8 +1623,8 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "b27c092c3bf0a869767f66339d3f00de2025028a72c6a8cf490fa1fc5f8dc6d0",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  "how-to-perform-mass-provisioning-with-optisigns.md": {
+    "hash": "f75b20dbf3573b95d1e3efab5511f5658768ff673697899cc9bb726d3a50e7d3",
+    "doc_name": "uploaded:how-to-perform-mass-provisioning-with-optisigns.md"
   }
 }
