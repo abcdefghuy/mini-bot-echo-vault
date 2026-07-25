@@ -1615,6 +1615,10 @@
     "hash": "33d07d205de235737fedd23fd04eeb586967d2e9ba5886e8e7f61b1d2ed0d155",
     "doc_name": "uploaded:windows.md"
   },
+  "working-with-teams-and-security-levels.md": {
+    "hash": "4fa85ff431337342e3c135fca222fe2132da183eb43845d68504ce8c64d9e478",
+    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
+  },
   "your-facebook-page-doesnt-show-in-the-dropdown-list.md": {
     "hash": "635f864cd3abad6342dc2db427d5d0ef8eaf085e0aa8d427c63c9bd3b3242f22",
     "doc_name": "uploaded:your-facebook-page-doesnt-show-in-the-dropdown-list.md"
@@ -1622,9 +1626,5 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
-  },
-  "working-with-teams-and-security-levels.md": {
-    "hash": "4fa85ff431337342e3c135fca222fe2132da183eb43845d68504ce8c64d9e478",
-    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
   }
 }
