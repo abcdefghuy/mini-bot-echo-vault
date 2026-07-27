@@ -67,10 +67,6 @@
     "hash": "ce6767461f285fe4df092cb60adbe73f07ef2fe64b615ace242b74de851dedcc",
     "doc_name": "uploaded:amazon-signage-stick.md"
   },
-  "amazon-tv-firestick-troubleshooting-guide.md": {
-    "hash": "a48ec0bda471ff26cae3b89a50cba8e185ed5ddc3c8d3a7ea4c2733622d1a44d",
-    "doc_name": "uploaded:amazon-tv-firestick-troubleshooting-guide.md"
-  },
   "android-tv-chromecast.md": {
     "hash": "685bb89f9cba44b9ef5b085972e838ef4846a43dcf39cfad182a4558d279bad6",
     "doc_name": "uploaded:android-tv-chromecast.md"
@@ -418,10 +414,6 @@
   "how-to-create-an-attract-screen-for-your-kiosk.md": {
     "hash": "3a0b5ad68ed13fe3662ab801dbe4acf997772fd32a1ff5a1bd6946062a3c944a",
     "doc_name": "uploaded:how-to-create-an-attract-screen-for-your-kiosk.md"
-  },
-  "how-to-create-and-use-google-reviews-wall.md": {
-    "hash": "3ad8c7f0e5f6a84484599e9ce99a19b4ca05e778a5cd00ce7590dcc5772c4c67",
-    "doc_name": "uploaded:how-to-create-and-use-google-reviews-wall.md"
   },
   "how-to-create-and-use-instagram-wall.md": {
     "hash": "4a3374f15883b35e150ccf589980eb3562e60bcec7b623c66bd1c5165e782c1b",
@@ -1267,10 +1259,6 @@
     "hash": "cca07093981e4e8c355562f8a97aa9ea63354137b41e31ec7ea7de9698bbb5e2",
     "doc_name": "uploaded:legacy-datasources.md"
   },
-  "lg-webos-signage-commercial-grade.md": {
-    "hash": "e24e3117e414cafdacdfc6aeb491f2f64f2821f42ac7373073e4854f8f037f0b",
-    "doc_name": "uploaded:lg-webos-signage-commercial-grade.md"
-  },
   "linux.md": {
     "hash": "7e25cc2a65e9403cdf64abf4d03f528cbb3d0fc065a73931d1a81654d492b96e",
     "doc_name": "uploaded:linux.md"
@@ -1315,10 +1303,6 @@
     "hash": "b7af1c92c8c9c9a5568a49a76025d1efa1d85066cb2ee9de069be176d4b49701",
     "doc_name": "uploaded:multilingual-and-multi-currency.md"
   },
-  "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md": {
-    "hash": "fe954950af9a570e3edcf1e740a6b3534d33209531a220a03a12ba534c79963a",
-    "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md"
-  },
   "my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-p.md": {
     "hash": "18cb1ebebb2a865ce908b8c3ef1e7704f626d8f4c221b627b6c8e489a5bb2a3e",
     "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-p.md"
@@ -1358,10 +1342,6 @@
   "optistick-troubleshooting-guide.md": {
     "hash": "006874e2126d855ed2f2831cfb0a5e14ecaab71b0b20a82ce594596825882a25",
     "doc_name": "uploaded:optistick-troubleshooting-guide.md"
-  },
-  "optistick.md": {
-    "hash": "7b63e13b67cc70315bae5d03ed113de9bdfbf37ae2a2b27a0349dce160610b19",
-    "doc_name": "uploaded:optistick.md"
   },
   "organizing-your-files-assets-playlists-and-schedules-by-using-folders.md": {
     "hash": "91c635bc4ae559238af75d134ac60dd99e0b90693c99a58b3c6de25d3377398b",
@@ -1626,5 +1606,25 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md": {
+    "hash": "81b75fdc8aa2cf048cc640ff494f7d9ce1b27d7c99e54984a435c234eec58952",
+    "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md"
+  },
+  "optistick.md": {
+    "hash": "9bfd27475d97b2c1bd0688abd66285ea010c503de6533fb522bcff897a154dda",
+    "doc_name": "uploaded:optistick.md"
+  },
+  "lg-webos-signage-commercial-grade.md": {
+    "hash": "f5673552ab4bb6cbe5b9c06fedea56e98e750baca4d62a25b777474feb41eed9",
+    "doc_name": "uploaded:lg-webos-signage-commercial-grade.md"
+  },
+  "how-to-create-and-use-google-reviews-wall.md": {
+    "hash": "fb01b4ab781474960699fba8e76f1be8e25e9b6e2008090945d0de83e0adb6c3",
+    "doc_name": "uploaded:how-to-create-and-use-google-reviews-wall.md"
+  },
+  "amazon-tv-firestick-troubleshooting-guide.md": {
+    "hash": "e00ae46a4446657a6056f033adb83d2a8f912bf59e1598270e760ba9c4bbb146",
+    "doc_name": "uploaded:amazon-tv-firestick-troubleshooting-guide.md"
   }
 }
