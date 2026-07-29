@@ -279,10 +279,6 @@
     "hash": "fc38c72b911461f8095f811542effef51c4fe02bdcc87536969260f5725ada2d",
     "doc_name": "uploaded:guide-for-creating-content-with-optisigns.md"
   },
-  "handle-oauth-authentication-using-api-gateway-pre-request-configuration.md": {
-    "hash": "1b841a5851225755ebbe5747761fbe928f6e6ce075b55bf7c1025189a60e097e",
-    "doc_name": "uploaded:handle-oauth-authentication-using-api-gateway-pre-request-configuration.md"
-  },
   "host-your-htmljs-or-create-your-own-web-app-with-hosted-website.md": {
     "hash": "fe355b24a85e7e06292aeabd28413b2904563b50e9a95297d2e35ba65ddceb10",
     "doc_name": "uploaded:host-your-htmljs-or-create-your-own-web-app-with-hosted-website.md"
@@ -398,6 +394,10 @@
   "how-to-connect-to-wifi-for-raspberry-pi.md": {
     "hash": "1b53f84a17ec9f3cef2deaf20e78f785e47fe169fe10433123049d3fca195396",
     "doc_name": "uploaded:how-to-connect-to-wifi-for-raspberry-pi.md"
+  },
+  "how-to-contact-optisigns-support.md": {
+    "hash": "074d8fc56a0ee18d1ecba9ff74e36a60000d8c9d13563423c73f683022ef571f",
+    "doc_name": "uploaded:how-to-contact-optisigns-support.md"
   },
   "how-to-control-and-schedule-playlist-items.md": {
     "hash": "bc81844cbb9c82a26a079c86d3d831f1b0aae5e63495a0b7de187eb1aecb0fa6",
@@ -551,10 +551,6 @@
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
   },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "0341b6d00a3480920849c2fb14bad5fedbbf0e538773ff918c4ab366680b3734",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
-  },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
     "doc_name": "uploaded:how-to-install-optisigns-as-an-apk-file-on-android-devices.md"
@@ -662,10 +658,6 @@
   "how-to-run-optisigns-ai-add-on-on-start-up-in-windows.md": {
     "hash": "a7dcc72e5760e0cc500becac6bd522de996f4adad099fff13605ba81ea151306",
     "doc_name": "uploaded:how-to-run-optisigns-ai-add-on-on-start-up-in-windows.md"
-  },
-  "how-to-set-an-asset-to-live-or-expire-at-specific-time.md": {
-    "hash": "9ac3b0ef45f5c4dae624b896a8f16a99cdfa5cac462960a6bf120dc81668066a",
-    "doc_name": "uploaded:how-to-set-an-asset-to-live-or-expire-at-specific-time.md"
   },
   "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md": {
     "hash": "69c8957e319b66853db7c5007d9ff9a163be8f62f8d108e0955af3ed4f0b6f75",
@@ -1623,8 +1615,16 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-contact-optisigns-support.md": {
-    "hash": "074d8fc56a0ee18d1ecba9ff74e36a60000d8c9d13563423c73f683022ef571f",
-    "doc_name": "uploaded:how-to-contact-optisigns-support.md"
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "e0709c57cd95bb4cbb394600088706abac03e073a78b2d833466276c28d1cc6e",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
+  },
+  "handle-oauth-authentication-using-api-gateway-pre-request-configuration.md": {
+    "hash": "f6a9c1e7d47b5880820d738865ec7f1ef5f6342d8ae983f8ba0f001e6dc8124a",
+    "doc_name": "uploaded:handle-oauth-authentication-using-api-gateway-pre-request-configuration.md"
+  },
+  "how-to-set-an-asset-to-live-or-expire-at-specific-time.md": {
+    "hash": "328b9e3b577f6c770c70b7a6b4c0d674698a96534690c3ea294bd45c87de8322",
+    "doc_name": "uploaded:how-to-set-an-asset-to-live-or-expire-at-specific-time.md"
   }
 }
