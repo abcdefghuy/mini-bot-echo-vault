@@ -207,10 +207,6 @@
     "hash": "b983ca4e1653c842e8d0cbd890b51830b8bd2e8b4ec620e0b7684ab744fc5271",
     "doc_name": "uploaded:display-salesforce-dashboards-with-mfa-using-web-scripting.md"
   },
-  "displaying-sharepoint-sites-on-optisigns.md": {
-    "hash": "bb6db711e8b03e798ad94a34c6d8da689b0db844e8798b38be6c9672d1bcbbed",
-    "doc_name": "uploaded:displaying-sharepoint-sites-on-optisigns.md"
-  },
   "does-optisigns-offer-non-profiteducation-discount.md": {
     "hash": "443df29c418e6af99522168fb70640893d9d7a561c7750345223c3d250881c91",
     "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
@@ -278,6 +274,10 @@
   "guide-for-creating-content-with-optisigns.md": {
     "hash": "fc38c72b911461f8095f811542effef51c4fe02bdcc87536969260f5725ada2d",
     "doc_name": "uploaded:guide-for-creating-content-with-optisigns.md"
+  },
+  "handle-oauth-authentication-using-api-gateway-pre-request-configuration.md": {
+    "hash": "f6a9c1e7d47b5880820d738865ec7f1ef5f6342d8ae983f8ba0f001e6dc8124a",
+    "doc_name": "uploaded:handle-oauth-authentication-using-api-gateway-pre-request-configuration.md"
   },
   "host-your-htmljs-or-create-your-own-web-app-with-hosted-website.md": {
     "hash": "fe355b24a85e7e06292aeabd28413b2904563b50e9a95297d2e35ba65ddceb10",
@@ -427,10 +427,6 @@
     "hash": "89ca9970cee7e0e0dde6b8f7d8bf1e503904e6e9b55d779e2bf208919cd1ed46",
     "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
   },
-  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
-    "hash": "b44e84052edb293f2212940c753bc01f6a47d74cb43ebb8c9b3eea131ff60dd8",
-    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
-  },
   "how-to-create-and-use-qr-code-call-to-action-app.md": {
     "hash": "be3dffc15ebd8dd195610b2c1d646850d23a61f13b1bc41e1e9eab0343c104b8",
     "doc_name": "uploaded:how-to-create-and-use-qr-code-call-to-action-app.md"
@@ -551,6 +547,10 @@
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
   },
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "e0709c57cd95bb4cbb394600088706abac03e073a78b2d833466276c28d1cc6e",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
+  },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
     "doc_name": "uploaded:how-to-install-optisigns-as-an-apk-file-on-android-devices.md"
@@ -658,6 +658,10 @@
   "how-to-run-optisigns-ai-add-on-on-start-up-in-windows.md": {
     "hash": "a7dcc72e5760e0cc500becac6bd522de996f4adad099fff13605ba81ea151306",
     "doc_name": "uploaded:how-to-run-optisigns-ai-add-on-on-start-up-in-windows.md"
+  },
+  "how-to-set-an-asset-to-live-or-expire-at-specific-time.md": {
+    "hash": "328b9e3b577f6c770c70b7a6b4c0d674698a96534690c3ea294bd45c87de8322",
+    "doc_name": "uploaded:how-to-set-an-asset-to-live-or-expire-at-specific-time.md"
   },
   "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md": {
     "hash": "69c8957e319b66853db7c5007d9ff9a163be8f62f8d108e0955af3ed4f0b6f75",
@@ -1415,10 +1419,6 @@
     "hash": "a49a0d5037a8d5630c4b80c99d19ce24a7b7c833da8ea3c8980a528334b1cda1",
     "doc_name": "uploaded:resolve-autostart-issues-on-your-android-tv-devices.md"
   },
-  "roku-release-notes-limitation.md": {
-    "hash": "33dcbee32529ac2d02e1f46c9f6cbc9a413c20d0ff8d4ed4e15e1df6cf4929ca",
-    "doc_name": "uploaded:roku-release-notes-limitation.md"
-  },
   "roku-troubleshooting-guide.md": {
     "hash": "27d8e6a0ffc43e6f61c966df975b7532e787c7d6b633838ab06e7bf60be34fed",
     "doc_name": "uploaded:roku-troubleshooting-guide.md"
@@ -1615,16 +1615,16 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "e0709c57cd95bb4cbb394600088706abac03e073a78b2d833466276c28d1cc6e",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
+  "roku-release-notes-limitation.md": {
+    "hash": "5eec39ddb9c81bd46243eb503ef4f5cebbdd604bdde0a2188ae1a11ed83248a3",
+    "doc_name": "uploaded:roku-release-notes-limitation.md"
   },
-  "handle-oauth-authentication-using-api-gateway-pre-request-configuration.md": {
-    "hash": "f6a9c1e7d47b5880820d738865ec7f1ef5f6342d8ae983f8ba0f001e6dc8124a",
-    "doc_name": "uploaded:handle-oauth-authentication-using-api-gateway-pre-request-configuration.md"
+  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
+    "hash": "bf1234837b7490c6d9a1f111fd6587d0e1a0bc568321a3019d21b92696a89080",
+    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
   },
-  "how-to-set-an-asset-to-live-or-expire-at-specific-time.md": {
-    "hash": "328b9e3b577f6c770c70b7a6b4c0d674698a96534690c3ea294bd45c87de8322",
-    "doc_name": "uploaded:how-to-set-an-asset-to-live-or-expire-at-specific-time.md"
+  "displaying-sharepoint-sites-on-optisigns.md": {
+    "hash": "e2ab1371e8b9c91b1ecdec7666d435787f9dd783e7e7192e5f643b5e92ad0528",
+    "doc_name": "uploaded:displaying-sharepoint-sites-on-optisigns.md"
   }
 }
