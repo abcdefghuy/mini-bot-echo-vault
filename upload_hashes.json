@@ -207,6 +207,10 @@
     "hash": "b983ca4e1653c842e8d0cbd890b51830b8bd2e8b4ec620e0b7684ab744fc5271",
     "doc_name": "uploaded:display-salesforce-dashboards-with-mfa-using-web-scripting.md"
   },
+  "displaying-sharepoint-sites-on-optisigns.md": {
+    "hash": "e2ab1371e8b9c91b1ecdec7666d435787f9dd783e7e7192e5f643b5e92ad0528",
+    "doc_name": "uploaded:displaying-sharepoint-sites-on-optisigns.md"
+  },
   "does-optisigns-offer-non-profiteducation-discount.md": {
     "hash": "443df29c418e6af99522168fb70640893d9d7a561c7750345223c3d250881c91",
     "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
@@ -426,6 +430,10 @@
   "how-to-create-and-use-nested-playlists.md": {
     "hash": "89ca9970cee7e0e0dde6b8f7d8bf1e503904e6e9b55d779e2bf208919cd1ed46",
     "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
+  },
+  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
+    "hash": "bf1234837b7490c6d9a1f111fd6587d0e1a0bc568321a3019d21b92696a89080",
+    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
   },
   "how-to-create-and-use-qr-code-call-to-action-app.md": {
     "hash": "be3dffc15ebd8dd195610b2c1d646850d23a61f13b1bc41e1e9eab0343c104b8",
@@ -1139,10 +1147,6 @@
     "hash": "c1cb7fb45dfca429413d5cbb1c6e9651d687893497ce779cfc65eb9371e1ddca",
     "doc_name": "uploaded:how-to-use-the-weather-alert-app.md"
   },
-  "how-to-use-the-web-scripting-app.md": {
-    "hash": "5096749d0c8ac5a986db7636031070986931d0d908f41b80e77dfe0aa14a1ea5",
-    "doc_name": "uploaded:how-to-use-the-web-scripting-app.md"
-  },
   "how-to-use-the-website-app-and-display-urls-on-optisigns.md": {
     "hash": "397db087a355f83dd27e2a769b25a642f827936a6696b1d317bc5338b2947196",
     "doc_name": "uploaded:how-to-use-the-website-app-and-display-urls-on-optisigns.md"
@@ -1419,6 +1423,10 @@
     "hash": "a49a0d5037a8d5630c4b80c99d19ce24a7b7c833da8ea3c8980a528334b1cda1",
     "doc_name": "uploaded:resolve-autostart-issues-on-your-android-tv-devices.md"
   },
+  "roku-release-notes-limitation.md": {
+    "hash": "5eec39ddb9c81bd46243eb503ef4f5cebbdd604bdde0a2188ae1a11ed83248a3",
+    "doc_name": "uploaded:roku-release-notes-limitation.md"
+  },
   "roku-troubleshooting-guide.md": {
     "hash": "27d8e6a0ffc43e6f61c966df975b7532e787c7d6b633838ab06e7bf60be34fed",
     "doc_name": "uploaded:roku-troubleshooting-guide.md"
@@ -1615,16 +1623,8 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "roku-release-notes-limitation.md": {
-    "hash": "5eec39ddb9c81bd46243eb503ef4f5cebbdd604bdde0a2188ae1a11ed83248a3",
-    "doc_name": "uploaded:roku-release-notes-limitation.md"
-  },
-  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
-    "hash": "bf1234837b7490c6d9a1f111fd6587d0e1a0bc568321a3019d21b92696a89080",
-    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
-  },
-  "displaying-sharepoint-sites-on-optisigns.md": {
-    "hash": "e2ab1371e8b9c91b1ecdec7666d435787f9dd783e7e7192e5f643b5e92ad0528",
-    "doc_name": "uploaded:displaying-sharepoint-sites-on-optisigns.md"
+  "how-to-use-the-web-scripting-app.md": {
+    "hash": "d85d827a3f6e38f801368b3073c38a132b5b854b9886662cd238a2a598d311b8",
+    "doc_name": "uploaded:how-to-use-the-web-scripting-app.md"
   }
 }
