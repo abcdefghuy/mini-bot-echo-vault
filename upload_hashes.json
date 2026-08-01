@@ -1147,6 +1147,10 @@
     "hash": "c1cb7fb45dfca429413d5cbb1c6e9651d687893497ce779cfc65eb9371e1ddca",
     "doc_name": "uploaded:how-to-use-the-weather-alert-app.md"
   },
+  "how-to-use-the-web-scripting-app.md": {
+    "hash": "d85d827a3f6e38f801368b3073c38a132b5b854b9886662cd238a2a598d311b8",
+    "doc_name": "uploaded:how-to-use-the-web-scripting-app.md"
+  },
   "how-to-use-the-website-app-and-display-urls-on-optisigns.md": {
     "hash": "397db087a355f83dd27e2a769b25a642f827936a6696b1d317bc5338b2947196",
     "doc_name": "uploaded:how-to-use-the-website-app-and-display-urls-on-optisigns.md"
@@ -1622,9 +1626,5 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
-  },
-  "how-to-use-the-web-scripting-app.md": {
-    "hash": "d85d827a3f6e38f801368b3073c38a132b5b854b9886662cd238a2a598d311b8",
-    "doc_name": "uploaded:how-to-use-the-web-scripting-app.md"
   }
 }
