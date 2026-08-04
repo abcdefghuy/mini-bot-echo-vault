@@ -519,10 +519,6 @@
     "hash": "c73e5737a0cd6d6a97ebfbf80ebeec9cc667230ab81baf5f7d4b3b9b9210a340",
     "doc_name": "uploaded:how-to-export-high-resolution-canvas-template-designs.md"
   },
-  "how-to-factory-reset-your-fire-stick-device.md": {
-    "hash": "7faeaca8896e41b0eb45eacbc288c4b38955038095c6bad13a9ba93f03e95030",
-    "doc_name": "uploaded:how-to-factory-reset-your-fire-stick-device.md"
-  },
   "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3.md": {
     "hash": "18bb5258e679b7ebfa53e9fe6ab69d7c157c199486fa23819af7dc359a873a1b",
     "doc_name": "uploaded:how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3.md"
@@ -1615,10 +1611,6 @@
     "hash": "33d07d205de235737fedd23fd04eeb586967d2e9ba5886e8e7f61b1d2ed0d155",
     "doc_name": "uploaded:windows.md"
   },
-  "working-with-teams-and-security-levels.md": {
-    "hash": "4fa85ff431337342e3c135fca222fe2132da183eb43845d68504ce8c64d9e478",
-    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
-  },
   "your-facebook-page-doesnt-show-in-the-dropdown-list.md": {
     "hash": "635f864cd3abad6342dc2db427d5d0ef8eaf085e0aa8d427c63c9bd3b3242f22",
     "doc_name": "uploaded:your-facebook-page-doesnt-show-in-the-dropdown-list.md"
@@ -1626,5 +1618,17 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "working-with-teams-and-security-levels.md": {
+    "hash": "63044de945efe06012f3e78530c684e03b6e7f22fed22a6ddfaffbbe999c571e",
+    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
+  },
+  "how-to-display-databricks-dashboards-on-optisigns.md": {
+    "hash": "353922efa6c8abfbb883aa4b01388c2110a5b06b93abe4504b07d67924cd2f29",
+    "doc_name": "uploaded:how-to-display-databricks-dashboards-on-optisigns.md"
+  },
+  "how-to-factory-reset-your-fire-stick-device.md": {
+    "hash": "ecc8e5fddb16a5c800e7d7a2c823fdd5a84529cb685e443bea242d53183464e6",
+    "doc_name": "uploaded:how-to-factory-reset-your-fire-stick-device.md"
   }
 }
