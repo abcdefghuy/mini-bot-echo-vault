@@ -483,6 +483,10 @@
     "hash": "6956708936eea9fb1f3add428576cf3671453918f0f012ce72e6e6cd32929c2b",
     "doc_name": "uploaded:how-to-display-content-inside-websites-that-require-login.md"
   },
+  "how-to-display-databricks-dashboards-on-optisigns.md": {
+    "hash": "3ebe93e247c832d15890a18bfd4b31c88734ad43278efa84a085848576a6c8b8",
+    "doc_name": "uploaded:how-to-display-databricks-dashboards-on-optisigns.md"
+  },
   "how-to-display-dynamic-event-schedules-using-optisync.md": {
     "hash": "d49d83e41bfd920445e245ece1395bc79a9328445c1604b706e5cadc9279eed1",
     "doc_name": "uploaded:how-to-display-dynamic-event-schedules-using-optisync.md"
@@ -1327,6 +1331,10 @@
     "hash": "cf2d8e49b776b06b2fde1375e640db54f8036dace099b031d788079f74ff32ae",
     "doc_name": "uploaded:operational-schedule-troubleshooting.md"
   },
+  "optidev-add-on-free-trial-and-pricing.md": {
+    "hash": "75d515b75e6ff2931591e32145b9c9cd04b01780570a1bff787a4b0aba3f0d74",
+    "doc_name": "uploaded:optidev-add-on-free-trial-and-pricing.md"
+  },
   "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md": {
     "hash": "2a3afb88449dfe284373dbcda5ee0f130dfbf0e3524ecb0b174b544fe5a688c5",
     "doc_name": "uploaded:optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md"
@@ -1622,13 +1630,5 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
-  },
-  "how-to-display-databricks-dashboards-on-optisigns.md": {
-    "hash": "3ebe93e247c832d15890a18bfd4b31c88734ad43278efa84a085848576a6c8b8",
-    "doc_name": "uploaded:how-to-display-databricks-dashboards-on-optisigns.md"
-  },
-  "optidev-add-on-free-trial-and-pricing.md": {
-    "hash": "75d515b75e6ff2931591e32145b9c9cd04b01780570a1bff787a4b0aba3f0d74",
-    "doc_name": "uploaded:optidev-add-on-free-trial-and-pricing.md"
   }
 }
