@@ -463,10 +463,6 @@
     "hash": "7fa617c8dc37295bc9cbf165054b3ca41b3f8e7f9f3cb539605fd4fc26b5f83a",
     "doc_name": "uploaded:how-to-customize-the-thumbnail-of-files-assets-and-folders.md"
   },
-  "how-to-delete-your-account-from-optisigns.md": {
-    "hash": "c2addecaa1103ee9a278f63185e43f7d2be4c2ab50df6ffd6af14111ba4226fd",
-    "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
-  },
   "how-to-design-kiosk-apps-using-kiosk-designer-pro.md": {
     "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
     "doc_name": "uploaded:how-to-design-kiosk-apps-using-kiosk-designer-pro.md"
@@ -1630,5 +1626,9 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "how-to-delete-your-account-from-optisigns.md": {
+    "hash": "937d62c723f981a00564482e50851f22d49ef37d6a050733bcd4147a873d8def",
+    "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
   }
 }
