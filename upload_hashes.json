@@ -463,6 +463,10 @@
     "hash": "7fa617c8dc37295bc9cbf165054b3ca41b3f8e7f9f3cb539605fd4fc26b5f83a",
     "doc_name": "uploaded:how-to-customize-the-thumbnail-of-files-assets-and-folders.md"
   },
+  "how-to-delete-your-account-from-optisigns.md": {
+    "hash": "937d62c723f981a00564482e50851f22d49ef37d6a050733bcd4147a873d8def",
+    "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
+  },
   "how-to-design-kiosk-apps-using-kiosk-designer-pro.md": {
     "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
     "doc_name": "uploaded:how-to-design-kiosk-apps-using-kiosk-designer-pro.md"
@@ -478,10 +482,6 @@
   "how-to-display-content-inside-websites-that-require-login.md": {
     "hash": "6956708936eea9fb1f3add428576cf3671453918f0f012ce72e6e6cd32929c2b",
     "doc_name": "uploaded:how-to-display-content-inside-websites-that-require-login.md"
-  },
-  "how-to-display-databricks-dashboards-on-optisigns.md": {
-    "hash": "3ebe93e247c832d15890a18bfd4b31c88734ad43278efa84a085848576a6c8b8",
-    "doc_name": "uploaded:how-to-display-databricks-dashboards-on-optisigns.md"
   },
   "how-to-display-dynamic-event-schedules-using-optisync.md": {
     "hash": "d49d83e41bfd920445e245ece1395bc79a9328445c1604b706e5cadc9279eed1",
@@ -1443,10 +1443,6 @@
     "hash": "e7ed7e84acd1dbe5eb7ae0b7bd46a3c71a5cf3547f274d4c6ac8957a208ba3ed",
     "doc_name": "uploaded:saml-integration-strategies-best-practices.md"
   },
-  "samsung-smart-signage-platform-sssp-supported-model-list.md": {
-    "hash": "1c85fc262b2aa7a9d6b82b668e051a4b41da5b0b7e1e47a2d856e07829cedeb8",
-    "doc_name": "uploaded:samsung-smart-signage-platform-sssp-supported-model-list.md"
-  },
   "samsung-tizen-tvs-troubleshooting-guide.md": {
     "hash": "5a10ff29336b3cf0d77e0fbf77603f141320827de061314ef3c781071b9cad54",
     "doc_name": "uploaded:samsung-tizen-tvs-troubleshooting-guide.md"
@@ -1627,8 +1623,12 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-delete-your-account-from-optisigns.md": {
-    "hash": "937d62c723f981a00564482e50851f22d49ef37d6a050733bcd4147a873d8def",
-    "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
+  "samsung-smart-signage-platform-sssp-supported-model-list.md": {
+    "hash": "ab3b8e1224652e25334f1ac1f0980977279cfaa885145e889a79d3ce74688c8d",
+    "doc_name": "uploaded:samsung-smart-signage-platform-sssp-supported-model-list.md"
+  },
+  "how-to-display-databricks-dashboards-on-optisigns.md": {
+    "hash": "c2afeb6e1be21e544a19d18edd6314ab5f0b893fd816a3bff256599c773be2df",
+    "doc_name": "uploaded:how-to-display-databricks-dashboards-on-optisigns.md"
   }
 }
