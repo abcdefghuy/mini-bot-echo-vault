@@ -1,8 +1,4 @@
 {
-  "about-the-onhold-devices-folder.md": {
-    "hash": "eb2207fe5c1cf294ce52033e974e927141d43a0b24b288b4ac3e85b98847faa0",
-    "doc_name": "uploaded:about-the-onhold-devices-folder.md"
-  },
   "accepted-payment-methods.md": {
     "hash": "0295afbb0361427abd06cb84e84ead8cf92afbff35753016013539e0a4a6cc60",
     "doc_name": "uploaded:accepted-payment-methods.md"
@@ -483,6 +479,10 @@
     "hash": "6956708936eea9fb1f3add428576cf3671453918f0f012ce72e6e6cd32929c2b",
     "doc_name": "uploaded:how-to-display-content-inside-websites-that-require-login.md"
   },
+  "how-to-display-databricks-dashboards-on-optisigns.md": {
+    "hash": "c2afeb6e1be21e544a19d18edd6314ab5f0b893fd816a3bff256599c773be2df",
+    "doc_name": "uploaded:how-to-display-databricks-dashboards-on-optisigns.md"
+  },
   "how-to-display-dynamic-event-schedules-using-optisync.md": {
     "hash": "d49d83e41bfd920445e245ece1395bc79a9328445c1604b706e5cadc9279eed1",
     "doc_name": "uploaded:how-to-display-dynamic-event-schedules-using-optisync.md"
@@ -562,10 +562,6 @@
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
     "doc_name": "uploaded:how-to-install-optisigns-as-an-apk-file-on-android-devices.md"
-  },
-  "how-to-install-optisigns-as-channelapp-on-roku.md": {
-    "hash": "c0f3ee551255b82eab9d8538a6d569ee7e49e339c5ddf2d30dc83c17944b3cd0",
-    "doc_name": "uploaded:how-to-install-optisigns-as-channelapp-on-roku.md"
   },
   "how-to-install-optisigns-as-screensaver-on-roku.md": {
     "hash": "ce1bca1190f2f1cccedc93ea2d791b07dadd60f79ba088ec0c8501e1b3e9a887",
@@ -850,10 +846,6 @@
   "how-to-use-google-sheets-with-optisigns.md": {
     "hash": "d9d6f86d7fc2f75ac3f74a3d39d722177dc380b2d708542c8edaef4c8a79da14",
     "doc_name": "uploaded:how-to-use-google-sheets-with-optisigns.md"
-  },
-  "how-to-use-google-slides-with-optisigns.md": {
-    "hash": "95003e99e98204edaa477b7c5577d14867d37e5caff1fa74d7a7fa9ad1dfc5af",
-    "doc_name": "uploaded:how-to-use-google-slides-with-optisigns.md"
   },
   "how-to-use-google-traffic-app.md": {
     "hash": "5a56ee368436b016834a9fd59a43e6d77fea7b0e40954dec37cc3e75c28e5794",
@@ -1375,10 +1367,6 @@
     "hash": "92347434a55bd98fa9cd96f6b66083f46dcb62d583253499a623f4b5654e363c",
     "doc_name": "uploaded:performancestability-issues-on-android-devices-and-best-practices.md"
   },
-  "photos-gifs-and-qr-codes-in-designer.md": {
-    "hash": "9186328c7b9fa72e07c275d5c7f01786fd08c357b0113873c7ee94acb2feaa00",
-    "doc_name": "uploaded:photos-gifs-and-qr-codes-in-designer.md"
-  },
   "powerpoint-resolution-size-for-use-with-digital-signage.md": {
     "hash": "e12b92aad1ee1cc8dba1e488c7a41e4907090c8da28fde3464dbc093d1a7a222",
     "doc_name": "uploaded:powerpoint-resolution-size-for-use-with-digital-signage.md"
@@ -1442,6 +1430,10 @@
   "saml-integration-strategies-best-practices.md": {
     "hash": "e7ed7e84acd1dbe5eb7ae0b7bd46a3c71a5cf3547f274d4c6ac8957a208ba3ed",
     "doc_name": "uploaded:saml-integration-strategies-best-practices.md"
+  },
+  "samsung-smart-signage-platform-sssp-supported-model-list.md": {
+    "hash": "ab3b8e1224652e25334f1ac1f0980977279cfaa885145e889a79d3ce74688c8d",
+    "doc_name": "uploaded:samsung-smart-signage-platform-sssp-supported-model-list.md"
   },
   "samsung-tizen-tvs-troubleshooting-guide.md": {
     "hash": "5a10ff29336b3cf0d77e0fbf77603f141320827de061314ef3c781071b9cad54",
@@ -1543,10 +1535,6 @@
     "hash": "570d8b0870f2e7e78dc8649f53985262a4c8220f8ee243c05768006f353d34e7",
     "doc_name": "uploaded:using-rs-232-to-schedule-tv-power-onoff-or-other-commands.md"
   },
-  "using-the-japan-earthquake-app.md": {
-    "hash": "52319d0935ee2a29298424c7c21ebf324ae071280dd1fa5d33577d603d4a02a7",
-    "doc_name": "uploaded:using-the-japan-earthquake-app.md"
-  },
   "video-codec-or-video-playback-issues.md": {
     "hash": "7efff985231b6bdd15f75bbb2a075a04c9cc38a2ae988c2f7a471e2530fd3da1",
     "doc_name": "uploaded:video-codec-or-video-playback-issues.md"
@@ -1623,12 +1611,24 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "samsung-smart-signage-platform-sssp-supported-model-list.md": {
-    "hash": "ab3b8e1224652e25334f1ac1f0980977279cfaa885145e889a79d3ce74688c8d",
-    "doc_name": "uploaded:samsung-smart-signage-platform-sssp-supported-model-list.md"
+  "how-to-use-google-slides-with-optisigns.md": {
+    "hash": "b350aee62a8e7990b41c33bece7fd1ab8983d8e04a624dc3287d07901c2fad79",
+    "doc_name": "uploaded:how-to-use-google-slides-with-optisigns.md"
   },
-  "how-to-display-databricks-dashboards-on-optisigns.md": {
-    "hash": "c2afeb6e1be21e544a19d18edd6314ab5f0b893fd816a3bff256599c773be2df",
-    "doc_name": "uploaded:how-to-display-databricks-dashboards-on-optisigns.md"
+  "photos-gifs-and-qr-codes-in-designer.md": {
+    "hash": "4568346d49fce56b4971e5b30a65379011b65dd9b3e60d2b44397d84435041cd",
+    "doc_name": "uploaded:photos-gifs-and-qr-codes-in-designer.md"
+  },
+  "about-the-onhold-devices-folder.md": {
+    "hash": "36b3a42778e6142551a0af8ab4d8acf228533cc2b59d2037f9fb674f8df86262",
+    "doc_name": "uploaded:about-the-onhold-devices-folder.md"
+  },
+  "how-to-install-optisigns-as-channelapp-on-roku.md": {
+    "hash": "81d7827f683a0526b47b7ec2a2d92f1a243b20d5c7dd61902018aa1f5bdcd918",
+    "doc_name": "uploaded:how-to-install-optisigns-as-channelapp-on-roku.md"
+  },
+  "using-the-japan-earthquake-app.md": {
+    "hash": "d4c6e6740a56e74c386c4b53786004802ce7aaf5f25d6eeba0d9cc3ab3b6aa20",
+    "doc_name": "uploaded:using-the-japan-earthquake-app.md"
   }
 }
