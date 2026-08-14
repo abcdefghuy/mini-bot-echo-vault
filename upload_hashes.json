@@ -495,6 +495,10 @@
     "hash": "fd327327b9479af705de6c7b73f7ffb8f91d793c31a81c22326c37626b738239",
     "doc_name": "uploaded:how-to-display-google-slide-in-portrait-mode.md"
   },
+  "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
+    "hash": "9d8fc5bab77c8579c770846a35daa86a1c3d2211f1f7b11b76a710c6a999866d",
+    "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
+  },
   "how-to-display-microsoft-teams-on-optisigns.md": {
     "hash": "0426cc9feaf17e13d98854b34ab14628b29205cb7a4648672788f6523d31822d",
     "doc_name": "uploaded:how-to-display-microsoft-teams-on-optisigns.md"
@@ -554,6 +558,10 @@
   "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md": {
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
+  },
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "d06377c1f11ae752c63b2bda007c93e1f947cc2ea1d3a410151f3299068dbaca",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
@@ -1103,10 +1111,6 @@
     "hash": "bd7fd02d72428dfc545a36f578cf4c063a6092baa1ca092a2ed43c0bd2f06839",
     "doc_name": "uploaded:how-to-use-the-qr-scan-to-interact-touchless-qr-app.md"
   },
-  "how-to-use-the-simple-clock-app.md": {
-    "hash": "a738da1c87daf37c9e19d63ef89a0c42b2c87129f1212c79693aeda80df4d180",
-    "doc_name": "uploaded:how-to-use-the-simple-clock-app.md"
-  },
   "how-to-use-the-social-mix-app.md": {
     "hash": "884375705df3d764a1fca616cb6d75b0eb3f824cf20dd8b24785f3c7506d7625",
     "doc_name": "uploaded:how-to-use-the-social-mix-app.md"
@@ -1623,12 +1627,8 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "d06377c1f11ae752c63b2bda007c93e1f947cc2ea1d3a410151f3299068dbaca",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
-  },
-  "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
-    "hash": "9d8fc5bab77c8579c770846a35daa86a1c3d2211f1f7b11b76a710c6a999866d",
-    "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
+  "how-to-use-the-simple-clock-app.md": {
+    "hash": "dabb25c023b8194144e6780e10b92c8870f3d7e09f048ffb88081a554c50fec0",
+    "doc_name": "uploaded:how-to-use-the-simple-clock-app.md"
   }
 }
