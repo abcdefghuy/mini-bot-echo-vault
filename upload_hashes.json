@@ -1111,6 +1111,10 @@
     "hash": "bd7fd02d72428dfc545a36f578cf4c063a6092baa1ca092a2ed43c0bd2f06839",
     "doc_name": "uploaded:how-to-use-the-qr-scan-to-interact-touchless-qr-app.md"
   },
+  "how-to-use-the-simple-clock-app.md": {
+    "hash": "512ad58e0b3cb98f481ff16cb4c3b873738122ff3c96500c0b9dd04c73882318",
+    "doc_name": "uploaded:how-to-use-the-simple-clock-app.md"
+  },
   "how-to-use-the-social-mix-app.md": {
     "hash": "884375705df3d764a1fca616cb6d75b0eb3f824cf20dd8b24785f3c7506d7625",
     "doc_name": "uploaded:how-to-use-the-social-mix-app.md"
@@ -1615,10 +1619,6 @@
     "hash": "33d07d205de235737fedd23fd04eeb586967d2e9ba5886e8e7f61b1d2ed0d155",
     "doc_name": "uploaded:windows.md"
   },
-  "working-with-teams-and-security-levels.md": {
-    "hash": "63044de945efe06012f3e78530c684e03b6e7f22fed22a6ddfaffbbe999c571e",
-    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
-  },
   "your-facebook-page-doesnt-show-in-the-dropdown-list.md": {
     "hash": "635f864cd3abad6342dc2db427d5d0ef8eaf085e0aa8d427c63c9bd3b3242f22",
     "doc_name": "uploaded:your-facebook-page-doesnt-show-in-the-dropdown-list.md"
@@ -1627,8 +1627,8 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-use-the-simple-clock-app.md": {
-    "hash": "512ad58e0b3cb98f481ff16cb4c3b873738122ff3c96500c0b9dd04c73882318",
-    "doc_name": "uploaded:how-to-use-the-simple-clock-app.md"
+  "working-with-teams-and-security-levels.md": {
+    "hash": "9b66c834d283a0fa638f1006d205606c390382c7c3938313b0be247a62819001",
+    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
   }
 }
