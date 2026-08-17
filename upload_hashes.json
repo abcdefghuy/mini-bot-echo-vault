@@ -587,10 +587,6 @@
     "hash": "4563733228a0cdfb9e2dc94dce207915f06a21a8201a6a260023874f2e0e68da",
     "doc_name": "uploaded:how-to-install-optisigns-player-on-apple-tv.md"
   },
-  "how-to-integrate-api-and-publish-api-data-via-optisync.md": {
-    "hash": "fe50c97ccdecf7f5c0d68f728feda62b1b44b6ad61c5808c516f43de7fdb5a9d",
-    "doc_name": "uploaded:how-to-integrate-api-and-publish-api-data-via-optisync.md"
-  },
   "how-to-integrate-bonusly-digital-signage-with-optisigns.md": {
     "hash": "0c6e49a74bbae3763f03bde726964dca613c7e30c1c32bc2d38f1c199d226414",
     "doc_name": "uploaded:how-to-integrate-bonusly-digital-signage-with-optisigns.md"
@@ -690,10 +686,6 @@
   "how-to-set-up-audit-log-for-your-account.md": {
     "hash": "8a1f3c2c557a8b98c512b87c5e643d895852f583ff6b84cc94fe76ac81968157",
     "doc_name": "uploaded:how-to-set-up-audit-log-for-your-account.md"
-  },
-  "how-to-set-up-dynamic-data-mapping-with-optisync.md": {
-    "hash": "858091eaa1e73efbe8dd0db7052b2f942a04579dddc845983bba8d31f932e49f",
-    "doc_name": "uploaded:how-to-set-up-dynamic-data-mapping-with-optisync.md"
   },
   "how-to-set-up-monitoring-alert-feature.md": {
     "hash": "8e958e1b5126534695b4808dffc33c59684acedce15cb8bedea6de0b571628fa",
@@ -1255,10 +1247,6 @@
     "hash": "f5751ec8f7c56fc103fd814a3a22faa7ea645fdc9afe5f8789a640eaac6e97c7",
     "doc_name": "uploaded:kiosk10.md"
   },
-  "kiosk32.md": {
-    "hash": "69b9c07509931baeb6cd3295ee239f5fabbfb0bec150a2b2586c9a6f8521a6f1",
-    "doc_name": "uploaded:kiosk32.md"
-  },
   "kiosk50.md": {
     "hash": "45ee5ef8804b0a9c9ccfb912b6573fffadb4ade0ba5f913214b78ea8091f1786",
     "doc_name": "uploaded:kiosk50.md"
@@ -1603,10 +1591,6 @@
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "b27c092c3bf0a869767f66339d3f00de2025028a72c6a8cf490fa1fc5f8dc6d0",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
-  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1619,6 +1603,10 @@
     "hash": "33d07d205de235737fedd23fd04eeb586967d2e9ba5886e8e7f61b1d2ed0d155",
     "doc_name": "uploaded:windows.md"
   },
+  "working-with-teams-and-security-levels.md": {
+    "hash": "9b66c834d283a0fa638f1006d205606c390382c7c3938313b0be247a62819001",
+    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
+  },
   "your-facebook-page-doesnt-show-in-the-dropdown-list.md": {
     "hash": "635f864cd3abad6342dc2db427d5d0ef8eaf085e0aa8d427c63c9bd3b3242f22",
     "doc_name": "uploaded:your-facebook-page-doesnt-show-in-the-dropdown-list.md"
@@ -1627,8 +1615,20 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "working-with-teams-and-security-levels.md": {
-    "hash": "9b66c834d283a0fa638f1006d205606c390382c7c3938313b0be247a62819001",
-    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "a5fa0b9d323961384092403613c48e0ce9e9681d6a40c23afa98218315a8bd09",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  },
+  "kiosk32.md": {
+    "hash": "dda4adcc9dec8a517bb49af6d15e4c696d5802537caab24e560a5a335ab9661d",
+    "doc_name": "uploaded:kiosk32.md"
+  },
+  "how-to-set-up-dynamic-data-mapping-with-optisync.md": {
+    "hash": "e000396a7eb702696b5cbd42f32b5283d2496e1f3aae207ed5ad1d3eae4043a7",
+    "doc_name": "uploaded:how-to-set-up-dynamic-data-mapping-with-optisync.md"
+  },
+  "how-to-integrate-api-and-publish-api-data-via-optisync.md": {
+    "hash": "e1f33d6f8ae32c8e5e847870e0a1284a44d29ed00f7b9a2dfde4de9c26eee880",
+    "doc_name": "uploaded:how-to-integrate-api-and-publish-api-data-via-optisync.md"
   }
 }
