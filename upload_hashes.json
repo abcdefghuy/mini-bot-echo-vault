@@ -559,10 +559,6 @@
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
   },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "d06377c1f11ae752c63b2bda007c93e1f947cc2ea1d3a410151f3299068dbaca",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
-  },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
     "doc_name": "uploaded:how-to-install-optisigns-as-an-apk-file-on-android-devices.md"
@@ -586,6 +582,10 @@
   "how-to-install-optisigns-player-on-apple-tv.md": {
     "hash": "4563733228a0cdfb9e2dc94dce207915f06a21a8201a6a260023874f2e0e68da",
     "doc_name": "uploaded:how-to-install-optisigns-player-on-apple-tv.md"
+  },
+  "how-to-integrate-api-and-publish-api-data-via-optisync.md": {
+    "hash": "e1f33d6f8ae32c8e5e847870e0a1284a44d29ed00f7b9a2dfde4de9c26eee880",
+    "doc_name": "uploaded:how-to-integrate-api-and-publish-api-data-via-optisync.md"
   },
   "how-to-integrate-bonusly-digital-signage-with-optisigns.md": {
     "hash": "0c6e49a74bbae3763f03bde726964dca613c7e30c1c32bc2d38f1c199d226414",
@@ -686,6 +686,10 @@
   "how-to-set-up-audit-log-for-your-account.md": {
     "hash": "8a1f3c2c557a8b98c512b87c5e643d895852f583ff6b84cc94fe76ac81968157",
     "doc_name": "uploaded:how-to-set-up-audit-log-for-your-account.md"
+  },
+  "how-to-set-up-dynamic-data-mapping-with-optisync.md": {
+    "hash": "e000396a7eb702696b5cbd42f32b5283d2496e1f3aae207ed5ad1d3eae4043a7",
+    "doc_name": "uploaded:how-to-set-up-dynamic-data-mapping-with-optisync.md"
   },
   "how-to-set-up-monitoring-alert-feature.md": {
     "hash": "8e958e1b5126534695b4808dffc33c59684acedce15cb8bedea6de0b571628fa",
@@ -962,10 +966,6 @@
   "how-to-use-qr-overlay-app-in-engage.md": {
     "hash": "65dfe18ac475bac8d9980646c3c6cacd90a11f851215604f5c9594f640cb3e09",
     "doc_name": "uploaded:how-to-use-qr-overlay-app-in-engage.md"
-  },
-  "how-to-use-remote-command-execution-windowslinux.md": {
-    "hash": "f1ffcb8d2139421154b9e31a7837fdec8d4f164bf7df46d62a286642dbb249d5",
-    "doc_name": "uploaded:how-to-use-remote-command-execution-windowslinux.md"
   },
   "how-to-use-rss-feeds-with-optisigns.md": {
     "hash": "43f8beb33787da1cc21591fbe315517d0348c4dbf6b9b1d750d106e87257ddf4",
@@ -1246,6 +1246,10 @@
   "kiosk10.md": {
     "hash": "f5751ec8f7c56fc103fd814a3a22faa7ea645fdc9afe5f8789a640eaac6e97c7",
     "doc_name": "uploaded:kiosk10.md"
+  },
+  "kiosk32.md": {
+    "hash": "dda4adcc9dec8a517bb49af6d15e4c696d5802537caab24e560a5a335ab9661d",
+    "doc_name": "uploaded:kiosk32.md"
   },
   "kiosk50.md": {
     "hash": "45ee5ef8804b0a9c9ccfb912b6573fffadb4ade0ba5f913214b78ea8091f1786",
@@ -1591,6 +1595,10 @@
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "a5fa0b9d323961384092403613c48e0ce9e9681d6a40c23afa98218315a8bd09",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1615,20 +1623,12 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "a5fa0b9d323961384092403613c48e0ce9e9681d6a40c23afa98218315a8bd09",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  "how-to-use-remote-command-execution-windowslinux.md": {
+    "hash": "19d5a6a9cf244f91ee6aee0df05795806378118de4b26fc9ab6d8dbb2e8adf1d",
+    "doc_name": "uploaded:how-to-use-remote-command-execution-windowslinux.md"
   },
-  "kiosk32.md": {
-    "hash": "dda4adcc9dec8a517bb49af6d15e4c696d5802537caab24e560a5a335ab9661d",
-    "doc_name": "uploaded:kiosk32.md"
-  },
-  "how-to-set-up-dynamic-data-mapping-with-optisync.md": {
-    "hash": "e000396a7eb702696b5cbd42f32b5283d2496e1f3aae207ed5ad1d3eae4043a7",
-    "doc_name": "uploaded:how-to-set-up-dynamic-data-mapping-with-optisync.md"
-  },
-  "how-to-integrate-api-and-publish-api-data-via-optisync.md": {
-    "hash": "e1f33d6f8ae32c8e5e847870e0a1284a44d29ed00f7b9a2dfde4de9c26eee880",
-    "doc_name": "uploaded:how-to-integrate-api-and-publish-api-data-via-optisync.md"
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "7eca91804a77e313de4425b0dc60b24bb89c00bb02b78246dd31e561ac029a53",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   }
 }
