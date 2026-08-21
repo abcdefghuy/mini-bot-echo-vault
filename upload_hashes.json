@@ -559,6 +559,10 @@
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
   },
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "ad7096543eccd08892a258624981b4d3be63c26c6ef93642c3972b8f11586aae",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
+  },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
     "doc_name": "uploaded:how-to-install-optisigns-as-an-apk-file-on-android-devices.md"
@@ -1059,6 +1063,10 @@
     "hash": "2f95a3cb6752345b76b6e73ef6b1830a4092d3650b0f54dd04cd1f4280daabf8",
     "doc_name": "uploaded:how-to-use-the-guardian-app.md"
   },
+  "how-to-use-the-jira-formerly-atlassian-jira-app.md": {
+    "hash": "4fb71761996cc5df04c6cd3121b32e45d8a28abe1425032d7cc9ac579fe24fce",
+    "doc_name": "uploaded:how-to-use-the-jira-formerly-atlassian-jira-app.md"
+  },
   "how-to-use-the-local-folder-app-in-optisigns.md": {
     "hash": "8122757bef3418df031844d0e95d2478ecae9f732455213881ad5f5d5a3bbe1a",
     "doc_name": "uploaded:how-to-use-the-local-folder-app-in-optisigns.md"
@@ -1142,6 +1150,10 @@
   "how-to-use-the-web-scripting-app.md": {
     "hash": "d85d827a3f6e38f801368b3073c38a132b5b854b9886662cd238a2a598d311b8",
     "doc_name": "uploaded:how-to-use-the-web-scripting-app.md"
+  },
+  "how-to-use-the-website-app-and-display-urls-on-optisigns.md": {
+    "hash": "99546f46c0a8c4f41a475638b8f4100141f3036575f440910b9cb5433b84469c",
+    "doc_name": "uploaded:how-to-use-the-website-app-and-display-urls-on-optisigns.md"
   },
   "how-to-use-the-youtube-dashboard-app.md": {
     "hash": "e8a95e87e1de244d8db32d15b93ed08b9b4f715045cf1e8c92873939f675d5cd",
@@ -1322,10 +1334,6 @@
   "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md": {
     "hash": "2a3afb88449dfe284373dbcda5ee0f130dfbf0e3524ecb0b174b544fe5a688c5",
     "doc_name": "uploaded:optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md"
-  },
-  "optisigns-getting-started-guide.md": {
-    "hash": "c5f7baa831e9c7bd99001bde8700be3db9d64e95afa427f671e873ca85cba02a",
-    "doc_name": "uploaded:optisigns-getting-started-guide.md"
   },
   "optisigns-iot-sensor-add-on-quick-start.md": {
     "hash": "628e5c3b35402a4ea670f162e29fd645397e51c1a4d071628d11dedca2f03763",
@@ -1615,20 +1623,12 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
+  "optisigns-getting-started-guide.md": {
+    "hash": "addcc8da2246b1cb8458f0109ac79d8d2c3a44e447818185af7b7622877955ba",
+    "doc_name": "uploaded:optisigns-getting-started-guide.md"
+  },
   "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md": {
-    "hash": "c794514816cead12a0dc861d92ea1f117fab6616eb3a050462c47efb4c87909f",
+    "hash": "8708db7666682b8abfcdbbb0f0bbb835359092462160bd0b81a6f391f2e169f9",
     "doc_name": "uploaded:how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md"
-  },
-  "how-to-use-the-website-app-and-display-urls-on-optisigns.md": {
-    "hash": "99546f46c0a8c4f41a475638b8f4100141f3036575f440910b9cb5433b84469c",
-    "doc_name": "uploaded:how-to-use-the-website-app-and-display-urls-on-optisigns.md"
-  },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "ad7096543eccd08892a258624981b4d3be63c26c6ef93642c3972b8f11586aae",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
-  },
-  "how-to-use-the-jira-formerly-atlassian-jira-app.md": {
-    "hash": "4fb71761996cc5df04c6cd3121b32e45d8a28abe1425032d7cc9ac579fe24fce",
-    "doc_name": "uploaded:how-to-use-the-jira-formerly-atlassian-jira-app.md"
   }
 }
