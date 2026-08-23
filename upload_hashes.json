@@ -383,6 +383,10 @@
     "hash": "485da40f1aa6e4334f581e3565958c396d121b96999b086ac2d9a2442ee27eba",
     "doc_name": "uploaded:how-to-clear-cache-on-a-brightsign-player.md"
   },
+  "how-to-clear-cache-on-your-fire-stick-device.md": {
+    "hash": "24cab866efe0d249e935b1ff739461c6c94cf71810e6e60f7fdd2df542e6488a",
+    "doc_name": "uploaded:how-to-clear-cache-on-your-fire-stick-device.md"
+  },
   "how-to-configure-multi-factor-authentication-with-your-optisigns-account.md": {
     "hash": "7af39958211cea1177500dfbdd912af9db7ce0fad2306d2ad2bc2bf920c17d53",
     "doc_name": "uploaded:how-to-configure-multi-factor-authentication-with-your-optisigns-account.md"
@@ -1107,6 +1111,10 @@
     "hash": "bd7fd02d72428dfc545a36f578cf4c063a6092baa1ca092a2ed43c0bd2f06839",
     "doc_name": "uploaded:how-to-use-the-qr-scan-to-interact-touchless-qr-app.md"
   },
+  "how-to-use-the-simple-clock-app.md": {
+    "hash": "d5e26dfcbf0c2d4e0ec3ab96410a51ffcacf04ef7f774058957d8dbbf041297f",
+    "doc_name": "uploaded:how-to-use-the-simple-clock-app.md"
+  },
   "how-to-use-the-social-mix-app.md": {
     "hash": "884375705df3d764a1fca616cb6d75b0eb3f824cf20dd8b24785f3c7506d7625",
     "doc_name": "uploaded:how-to-use-the-social-mix-app.md"
@@ -1622,13 +1630,5 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
-  },
-  "how-to-clear-cache-on-your-fire-stick-device.md": {
-    "hash": "24cab866efe0d249e935b1ff739461c6c94cf71810e6e60f7fdd2df542e6488a",
-    "doc_name": "uploaded:how-to-clear-cache-on-your-fire-stick-device.md"
-  },
-  "how-to-use-the-simple-clock-app.md": {
-    "hash": "d5e26dfcbf0c2d4e0ec3ab96410a51ffcacf04ef7f774058957d8dbbf041297f",
-    "doc_name": "uploaded:how-to-use-the-simple-clock-app.md"
   }
 }
