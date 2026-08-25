@@ -1427,10 +1427,6 @@
     "hash": "52ce49b557fadf30221e2999c444cb7e39640042bf3e19488678e32c48ea24b3",
     "doc_name": "uploaded:remotely-control-and-command-optisigns-devices.md"
   },
-  "resolve-autostart-issues-on-your-android-tv-devices.md": {
-    "hash": "a49a0d5037a8d5630c4b80c99d19ce24a7b7c833da8ea3c8980a528334b1cda1",
-    "doc_name": "uploaded:resolve-autostart-issues-on-your-android-tv-devices.md"
-  },
   "roku-release-notes-limitation.md": {
     "hash": "5eec39ddb9c81bd46243eb503ef4f5cebbdd604bdde0a2188ae1a11ed83248a3",
     "doc_name": "uploaded:roku-release-notes-limitation.md"
@@ -1630,5 +1626,9 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "resolve-autostart-issues-on-your-android-tv-devices.md": {
+    "hash": "19331b7ec668553209e19cc721a0d13ceb814581be6edbdecc17156bde609e32",
+    "doc_name": "uploaded:resolve-autostart-issues-on-your-android-tv-devices.md"
   }
 }
