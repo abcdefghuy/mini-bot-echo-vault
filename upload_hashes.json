@@ -59,10 +59,6 @@
     "hash": "dfa806241a439095976ce541178abd74bbd27872e1f906fd3d2d65a2f01e54f3",
     "doc_name": "uploaded:amazon-fire-stick-and-security-considerations.md"
   },
-  "amazon-firestick.md": {
-    "hash": "9db22176f43e3c612e13148f68b6958a9c199f8675f03d0ff23bd64faeb9cee7",
-    "doc_name": "uploaded:amazon-firestick.md"
-  },
   "amazon-signage-stick.md": {
     "hash": "ce6767461f285fe4df092cb60adbe73f07ef2fe64b615ace242b74de851dedcc",
     "doc_name": "uploaded:amazon-signage-stick.md"
@@ -479,10 +475,6 @@
     "hash": "c1b170b452a35cafea93f6ccf27261185338ce712444249b858485270f06e30a",
     "doc_name": "uploaded:how-to-display-birthday-lists-with-optisync-data-mapping-and-google-sheets.md"
   },
-  "how-to-display-content-inside-websites-that-require-login.md": {
-    "hash": "6956708936eea9fb1f3add428576cf3671453918f0f012ce72e6e6cd32929c2b",
-    "doc_name": "uploaded:how-to-display-content-inside-websites-that-require-login.md"
-  },
   "how-to-display-databricks-dashboards-on-optisigns.md": {
     "hash": "c2afeb6e1be21e544a19d18edd6314ab5f0b893fd816a3bff256599c773be2df",
     "doc_name": "uploaded:how-to-display-databricks-dashboards-on-optisigns.md"
@@ -630,10 +622,6 @@
   "how-to-move-screen-to-other-team.md": {
     "hash": "41718a9c84d2b4a1fcbd2685ba526c6db71c702025ea4d0d3a60b04c6e2dd8d2",
     "doc_name": "uploaded:how-to-move-screen-to-other-team.md"
-  },
-  "how-to-order-a-preconfigured-optisigns-android-player-device.md": {
-    "hash": "2d0f291829408e044820e0b88549a46e2ad5c52958e783f363a77d868b8bfcd4",
-    "doc_name": "uploaded:how-to-order-a-preconfigured-optisigns-android-player-device.md"
   },
   "how-to-organize-templates-and-share-across-teams.md": {
     "hash": "d3ed60901ff055f5b72d477884d01b9a2dc3ce580dc5f61910e0c8389878a57b",
@@ -1427,6 +1415,10 @@
     "hash": "52ce49b557fadf30221e2999c444cb7e39640042bf3e19488678e32c48ea24b3",
     "doc_name": "uploaded:remotely-control-and-command-optisigns-devices.md"
   },
+  "resolve-autostart-issues-on-your-android-tv-devices.md": {
+    "hash": "19331b7ec668553209e19cc721a0d13ceb814581be6edbdecc17156bde609e32",
+    "doc_name": "uploaded:resolve-autostart-issues-on-your-android-tv-devices.md"
+  },
   "roku-release-notes-limitation.md": {
     "hash": "5eec39ddb9c81bd46243eb503ef4f5cebbdd604bdde0a2188ae1a11ed83248a3",
     "doc_name": "uploaded:roku-release-notes-limitation.md"
@@ -1627,8 +1619,16 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "resolve-autostart-issues-on-your-android-tv-devices.md": {
-    "hash": "19331b7ec668553209e19cc721a0d13ceb814581be6edbdecc17156bde609e32",
-    "doc_name": "uploaded:resolve-autostart-issues-on-your-android-tv-devices.md"
+  "how-to-order-a-preconfigured-optisigns-android-stick.md": {
+    "hash": "dd409b9fe4c2881b61f2527a6d7b847cb45c43f5ae3699f7df65906011ccfaef",
+    "doc_name": "uploaded:how-to-order-a-preconfigured-optisigns-android-stick.md"
+  },
+  "amazon-firestick.md": {
+    "hash": "195d998702d0b1abb37dc6774e810371ef72b0a8ee8383db202eb004e73a4212",
+    "doc_name": "uploaded:amazon-firestick.md"
+  },
+  "how-to-display-content-inside-websites-that-require-login.md": {
+    "hash": "f01a2bd81f719b2c25cc6ed454cdc0700fd5ddb7a9b29a14d478ca708909f02e",
+    "doc_name": "uploaded:how-to-display-content-inside-websites-that-require-login.md"
   }
 }
