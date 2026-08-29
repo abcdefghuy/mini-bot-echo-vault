@@ -155,6 +155,10 @@
     "hash": "3224301bc8b24fde10547d855ba8dfba39ef7e551651d723b17fc329160a9048",
     "doc_name": "uploaded:connect-google-meet-hardware-to-optisigns-digital-signage.md"
   },
+  "connect-microsoft-teams-rooms-to-optisigns-digital-signage.md": {
+    "hash": "310224ebe955368a2253fb9160a272f7d65176e287fe52d578823c82de598313",
+    "doc_name": "uploaded:connect-microsoft-teams-rooms-to-optisigns-digital-signage.md"
+  },
   "connect-zoom-rooms-to-optisigns-digital-signage.md": {
     "hash": "9b250084d0402c56ecf9eafe41793b71b65b071d1609c68dda682d4e0a7a272e",
     "doc_name": "uploaded:connect-zoom-rooms-to-optisigns-digital-signage.md"
@@ -218,6 +222,10 @@
   "enabling-lock-down-mode-on-touch-screen-devices.md": {
     "hash": "76826305251a793685ea0f4e0ded455ab6ed764d24fd19193914b24112273891",
     "doc_name": "uploaded:enabling-lock-down-mode-on-touch-screen-devices.md"
+  },
+  "engage-plan-faqs.md": {
+    "hash": "ffe14c47daef929ab92e1fc209a760c4f14382966e7fcb2e857e29cc2b1eb92f",
+    "doc_name": "uploaded:engage-plan-faqs.md"
   },
   "error-handling.md": {
     "hash": "d905b43ac0c72dfe53367c7ef3a24ef838c034ce787cb748befcbc89af2323d8",
@@ -455,6 +463,10 @@
     "hash": "7fa617c8dc37295bc9cbf165054b3ca41b3f8e7f9f3cb539605fd4fc26b5f83a",
     "doc_name": "uploaded:how-to-customize-the-thumbnail-of-files-assets-and-folders.md"
   },
+  "how-to-delete-your-account-from-optisigns.md": {
+    "hash": "89f3a26d4c6c93aa1cee67cdc4db9602cf341bf290c4f6c2adec51d58dc91ecd",
+    "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
+  },
   "how-to-design-kiosk-apps-using-kiosk-designer-pro.md": {
     "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
     "doc_name": "uploaded:how-to-design-kiosk-apps-using-kiosk-designer-pro.md"
@@ -510,6 +522,10 @@
   "how-to-export-high-resolution-canvas-template-designs.md": {
     "hash": "c73e5737a0cd6d6a97ebfbf80ebeec9cc667230ab81baf5f7d4b3b9b9210a340",
     "doc_name": "uploaded:how-to-export-high-resolution-canvas-template-designs.md"
+  },
+  "how-to-factory-reset-your-fire-stick-device.md": {
+    "hash": "43a1fc0dd1d34bf2b118ea77fad7e147a56010715169d69a94c77e07bd31d8a8",
+    "doc_name": "uploaded:how-to-factory-reset-your-fire-stick-device.md"
   },
   "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3.md": {
     "hash": "18bb5258e679b7ebfa53e9fe6ab69d7c157c199486fa23819af7dc359a873a1b",
@@ -1614,21 +1630,5 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
-  },
-  "engage-plan-faqs.md": {
-    "hash": "ffe14c47daef929ab92e1fc209a760c4f14382966e7fcb2e857e29cc2b1eb92f",
-    "doc_name": "uploaded:engage-plan-faqs.md"
-  },
-  "how-to-factory-reset-your-fire-stick-device.md": {
-    "hash": "43a1fc0dd1d34bf2b118ea77fad7e147a56010715169d69a94c77e07bd31d8a8",
-    "doc_name": "uploaded:how-to-factory-reset-your-fire-stick-device.md"
-  },
-  "connect-microsoft-teams-rooms-to-optisigns-digital-signage.md": {
-    "hash": "310224ebe955368a2253fb9160a272f7d65176e287fe52d578823c82de598313",
-    "doc_name": "uploaded:connect-microsoft-teams-rooms-to-optisigns-digital-signage.md"
-  },
-  "how-to-delete-your-account-from-optisigns.md": {
-    "hash": "89f3a26d4c6c93aa1cee67cdc4db9602cf341bf290c4f6c2adec51d58dc91ecd",
-    "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
   }
 }
