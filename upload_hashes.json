@@ -295,6 +295,10 @@
     "hash": "a6788076d6cc7fcf25b1de3bb56f487495ac37c3bee7a47e5de58512ec4418ed",
     "doc_name": "uploaded:how-can-i-remotely-startrestart-optisigns-app-on-fire-tv.md"
   },
+  "how-can-i-removedelete-uploaded-files-or-assets.md": {
+    "hash": "876c4d75b18ea60c5bb48690ce9fed7b6296eef56dd40bbc1198134fbd957840",
+    "doc_name": "uploaded:how-can-i-removedelete-uploaded-files-or-assets.md"
+  },
   "how-do-i-suggest-new-features-improvement.md": {
     "hash": "b09391e65b219fdfb199534b1ca0ff0caefde360da751b62693901b38476cb24",
     "doc_name": "uploaded:how-do-i-suggest-new-features-improvement.md"
@@ -534,6 +538,10 @@
   "how-to-get-google-review-link.md": {
     "hash": "c7087ba88163d969562a2f1c44bc8574104b0f79166730bc981a5ba244fe5227",
     "doc_name": "uploaded:how-to-get-google-review-link.md"
+  },
+  "how-to-get-the-list-of-playlists-where-the-asset-is-used.md": {
+    "hash": "2117b9b13b288b7bb6d68971c625e10767557ab3a25b5697d7de40923edcb837",
+    "doc_name": "uploaded:how-to-get-the-list-of-playlists-where-the-asset-is-used.md"
   },
   "how-to-get-the-mac-address-on-your-media-player.md": {
     "hash": "afb2ecf306004b4ca8db1276a0e02cf7de5b81751c19a1856ddc322ce9101a92",
@@ -1622,13 +1630,5 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
-  },
-  "how-can-i-removedelete-uploaded-files-or-assets.md": {
-    "hash": "876c4d75b18ea60c5bb48690ce9fed7b6296eef56dd40bbc1198134fbd957840",
-    "doc_name": "uploaded:how-can-i-removedelete-uploaded-files-or-assets.md"
-  },
-  "how-to-get-the-list-of-playlists-where-the-asset-is-used.md": {
-    "hash": "2117b9b13b288b7bb6d68971c625e10767557ab3a25b5697d7de40923edcb837",
-    "doc_name": "uploaded:how-to-get-the-list-of-playlists-where-the-asset-is-used.md"
   }
 }
