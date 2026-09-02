@@ -87,10 +87,6 @@
     "hash": "ddfb15c76a4a1bafec0766a3a560a9dbd1890ca7ca8f520958c805e61bc4d71d",
     "doc_name": "uploaded:apple-tv-player-release-notes-limitations.md"
   },
-  "assign-content-to-your-screens.md": {
-    "hash": "568fabe5ad76d26cd87e9bce431bec19d825e818a0463acfa998b0e57d948050",
-    "doc_name": "uploaded:assign-content-to-your-screens.md"
-  },
   "assign-default-content-for-schedules.md": {
     "hash": "910b506ff87005a0d3bc527dc0ef34e035e7aeb4b4211541904783800597be1f",
     "doc_name": "uploaded:assign-default-content-for-schedules.md"
@@ -214,10 +210,6 @@
   "does-optisigns-offer-non-profiteducation-discount.md": {
     "hash": "443df29c418e6af99522168fb70640893d9d7a561c7750345223c3d250881c91",
     "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
-  },
-  "edit-screen-what-does-each-option-do.md": {
-    "hash": "f0dfff7823e393e7bb70f263f60c605e72397d4a7a8be8ce0fc4774d1c6bc50b",
-    "doc_name": "uploaded:edit-screen-what-does-each-option-do.md"
   },
   "enabling-lock-down-mode-on-touch-screen-devices.md": {
     "hash": "76826305251a793685ea0f4e0ded455ab6ed764d24fd19193914b24112273891",
@@ -1079,10 +1071,6 @@
     "hash": "570702e3c2d05bc995605687cf4e38ec4d1cba5d38038bb365256ea47991e557",
     "doc_name": "uploaded:how-to-use-the-mindmeister-app.md"
   },
-  "how-to-use-the-mobile-app-for-remote-control.md": {
-    "hash": "3eb8e689a4c6447547dc21c0396c949257a9f469e36c4599cdae9677caf90ea0",
-    "doc_name": "uploaded:how-to-use-the-mobile-app-for-remote-control.md"
-  },
   "how-to-use-the-motivational-quote-app.md": {
     "hash": "6b085eda3728ff9813a69f11d20234b93828487a54c9915edd452ef1146bc621",
     "doc_name": "uploaded:how-to-use-the-motivational-quote-app.md"
@@ -1471,10 +1459,6 @@
     "hash": "6826c898df539b69a04205968e47c56575b15a1911e8f68aa5060fa3aba41f81",
     "doc_name": "uploaded:shapes-and-elements.md"
   },
-  "show-offline-indicator-feature.md": {
-    "hash": "00ba6ef4590b1034ad3ac6579ccb88b1d7543e98aef528ef803e1dd6caabf8ba",
-    "doc_name": "uploaded:show-offline-indicator-feature.md"
-  },
   "show-youtube-videos-subtitleclosed-caption.md": {
     "hash": "94ea86d3f0f7cefe9ff1680f11b40637e19c9d0b2b5861314cbcc81b71702265",
     "doc_name": "uploaded:show-youtube-videos-subtitleclosed-caption.md"
@@ -1603,10 +1587,6 @@
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "a5fa0b9d323961384092403613c48e0ce9e9681d6a40c23afa98218315a8bd09",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
-  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1630,5 +1610,25 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "af0d811e66ac134d415de8a52ca6521001e4f3312e2b698bc16fc07d1153355c",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  },
+  "how-to-use-the-mobile-app-for-remote-control.md": {
+    "hash": "0e25e5babc7695d7045f7f1c536c06a0be59974201cabfad9d7cdfbf2e955c10",
+    "doc_name": "uploaded:how-to-use-the-mobile-app-for-remote-control.md"
+  },
+  "show-offline-indicator-feature.md": {
+    "hash": "9981b9ad041e85bd2f0fc40eb34c972321fea52c858f69d1d0cf802637ca348b",
+    "doc_name": "uploaded:show-offline-indicator-feature.md"
+  },
+  "assign-content-to-your-screens.md": {
+    "hash": "7edcdcb36885e6d5e177a4207a6015fe6253171f9a16b65b01413b1c84b6ef3e",
+    "doc_name": "uploaded:assign-content-to-your-screens.md"
+  },
+  "edit-screen-what-does-each-option-do.md": {
+    "hash": "cd2f0625820e113ec0ab917487538669fb2fa00d7a599776b2d2fedb9f0f554e",
+    "doc_name": "uploaded:edit-screen-what-does-each-option-do.md"
   }
 }
