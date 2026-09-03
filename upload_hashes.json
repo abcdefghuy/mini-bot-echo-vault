@@ -87,6 +87,10 @@
     "hash": "ddfb15c76a4a1bafec0766a3a560a9dbd1890ca7ca8f520958c805e61bc4d71d",
     "doc_name": "uploaded:apple-tv-player-release-notes-limitations.md"
   },
+  "assign-content-to-your-screens.md": {
+    "hash": "7edcdcb36885e6d5e177a4207a6015fe6253171f9a16b65b01413b1c84b6ef3e",
+    "doc_name": "uploaded:assign-content-to-your-screens.md"
+  },
   "assign-default-content-for-schedules.md": {
     "hash": "910b506ff87005a0d3bc527dc0ef34e035e7aeb4b4211541904783800597be1f",
     "doc_name": "uploaded:assign-default-content-for-schedules.md"
@@ -171,10 +175,6 @@
     "hash": "0402e1d07b1b300f24045f8729d5dfde23d5369f374228f206e02a5dc798d86a",
     "doc_name": "uploaded:customize-text.md"
   },
-  "data-residency-and-optisigns.md": {
-    "hash": "05a11da0d19348ae958893132d39646475e4844a427d8c4ce06dfebc5257c00d",
-    "doc_name": "uploaded:data-residency-and-optisigns.md"
-  },
   "designer-20-new-features.md": {
     "hash": "bb5c22d2c87fcfcfff1d90d497a29a64eb0d6cde6a6ef3cd1d1e98b7ba1a75cb",
     "doc_name": "uploaded:designer-20-new-features.md"
@@ -211,13 +211,13 @@
     "hash": "443df29c418e6af99522168fb70640893d9d7a561c7750345223c3d250881c91",
     "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
   },
+  "edit-screen-what-does-each-option-do.md": {
+    "hash": "cd2f0625820e113ec0ab917487538669fb2fa00d7a599776b2d2fedb9f0f554e",
+    "doc_name": "uploaded:edit-screen-what-does-each-option-do.md"
+  },
   "enabling-lock-down-mode-on-touch-screen-devices.md": {
     "hash": "76826305251a793685ea0f4e0ded455ab6ed764d24fd19193914b24112273891",
     "doc_name": "uploaded:enabling-lock-down-mode-on-touch-screen-devices.md"
-  },
-  "engage-plan-faqs.md": {
-    "hash": "ffe14c47daef929ab92e1fc209a760c4f14382966e7fcb2e857e29cc2b1eb92f",
-    "doc_name": "uploaded:engage-plan-faqs.md"
   },
   "error-handling.md": {
     "hash": "d905b43ac0c72dfe53367c7ef3a24ef838c034ce787cb748befcbc89af2323d8",
@@ -551,10 +551,6 @@
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
   },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "ad7096543eccd08892a258624981b4d3be63c26c6ef93642c3972b8f11586aae",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
-  },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
     "doc_name": "uploaded:how-to-install-optisigns-as-an-apk-file-on-android-devices.md"
@@ -638,10 +634,6 @@
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": {
     "hash": "eafe107ae8def2fa7f2b0bca0456752dbbb2d2491bab2166129d31a1b0836cba",
     "doc_name": "uploaded:how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
-  },
-  "how-to-preview-a-screen.md": {
-    "hash": "399a92d2cf7690676b14e2745cf4d9136725d3db4c7eb80699c07e449ff211f6",
-    "doc_name": "uploaded:how-to-preview-a-screen.md"
   },
   "how-to-put-live-tv-on-your-screens-with-optisigns.md": {
     "hash": "9e8ecf66bff863f829dee26f7d272e7028558060847c90cf7160893f4ca6e86e",
@@ -879,10 +871,6 @@
     "hash": "8a4a77cc3753c2837f3b24b2f329fc33451b46b3ecb2be3947dbdb5d10883da5",
     "doc_name": "uploaded:how-to-use-instagram-counter-app.md"
   },
-  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md": {
-    "hash": "095e4bf15b45dd23f19f0b6c292576e9b9356563e25564cdcb352a062aff0e7b",
-    "doc_name": "uploaded:how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md"
-  },
   "how-to-use-linkedin-app.md": {
     "hash": "5140ede66692abf42c9d98a2cc34c3181b4857492345650bd6e8a3f8f257ad31",
     "doc_name": "uploaded:how-to-use-linkedin-app.md"
@@ -1070,6 +1058,10 @@
   "how-to-use-the-mindmeister-app.md": {
     "hash": "570702e3c2d05bc995605687cf4e38ec4d1cba5d38038bb365256ea47991e557",
     "doc_name": "uploaded:how-to-use-the-mindmeister-app.md"
+  },
+  "how-to-use-the-mobile-app-for-remote-control.md": {
+    "hash": "0e25e5babc7695d7045f7f1c536c06a0be59974201cabfad9d7cdfbf2e955c10",
+    "doc_name": "uploaded:how-to-use-the-mobile-app-for-remote-control.md"
   },
   "how-to-use-the-motivational-quote-app.md": {
     "hash": "6b085eda3728ff9813a69f11d20234b93828487a54c9915edd452ef1146bc621",
@@ -1263,10 +1255,6 @@
     "hash": "7e25cc2a65e9403cdf64abf4d03f528cbb3d0fc065a73931d1a81654d492b96e",
     "doc_name": "uploaded:linux.md"
   },
-  "list-of-supported-cities-for-weather-wall-city-themes.md": {
-    "hash": "cdec6ed0aa9e1828a5f8fec17267be29b7a1847c0dd30b1a2cccdd1080a9aaf0",
-    "doc_name": "uploaded:list-of-supported-cities-for-weather-wall-city-themes.md"
-  },
   "macos.md": {
     "hash": "79d67a4f473459abc295f32b2f08527ba5696b531e82af011f4a8b16c5f2119b",
     "doc_name": "uploaded:macos.md"
@@ -1459,6 +1447,10 @@
     "hash": "6826c898df539b69a04205968e47c56575b15a1911e8f68aa5060fa3aba41f81",
     "doc_name": "uploaded:shapes-and-elements.md"
   },
+  "show-offline-indicator-feature.md": {
+    "hash": "9981b9ad041e85bd2f0fc40eb34c972321fea52c858f69d1d0cf802637ca348b",
+    "doc_name": "uploaded:show-offline-indicator-feature.md"
+  },
   "show-youtube-videos-subtitleclosed-caption.md": {
     "hash": "94ea86d3f0f7cefe9ff1680f11b40637e19c9d0b2b5861314cbcc81b71702265",
     "doc_name": "uploaded:show-youtube-videos-subtitleclosed-caption.md"
@@ -1559,10 +1551,6 @@
     "hash": "c454489bb31acefafb8ca5c25214aa7321a9cff76b2e75fb9deff46c104cc10b",
     "doc_name": "uploaded:what-are-feeds-and-how-to-use-it.md"
   },
-  "what-do-i-get-with-an-optisigns-free-plan.md": {
-    "hash": "9887a77ba549ff1ffb78111b7899369d9dfa64e0b826b1fcbf6fd7f61ed09caf",
-    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
-  },
   "what-happen-if-internet-connection-is-lost.md": {
     "hash": "853653387dbdbb7058b75ce33713576b887ea219c5e3e9da2f5e4774069de280",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
@@ -1611,24 +1599,36 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
+  "data-residency-and-optisigns.md": {
+    "hash": "50b18d94cd7ddf97cdf437bdcc754f1a8b7b75b529f90792069a9fb368f4259e",
+    "doc_name": "uploaded:data-residency-and-optisigns.md"
+  },
+  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md": {
+    "hash": "62152d9885c7f2b18c76024abb98b4e96c0d629d0852c90a7c7e344d05915ed6",
+    "doc_name": "uploaded:how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md"
+  },
+  "how-to-preview-a-screen.md": {
+    "hash": "bfcafd38c56446527082bcd6f341551232863e817a0cb94116a126730c089e4c",
+    "doc_name": "uploaded:how-to-preview-a-screen.md"
+  },
+  "list-of-supported-cities-for-weather-wall-city-themes.md": {
+    "hash": "4a04ba2a424a5e25623a9fa5850dda7c27674f9f664c3b597779f9879162004e",
+    "doc_name": "uploaded:list-of-supported-cities-for-weather-wall-city-themes.md"
+  },
   "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "af0d811e66ac134d415de8a52ca6521001e4f3312e2b698bc16fc07d1153355c",
+    "hash": "1906fb1f81abcc70f5babfa381d08e8b335767662db7a0d8e2caee3e6797d786",
     "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
   },
-  "how-to-use-the-mobile-app-for-remote-control.md": {
-    "hash": "0e25e5babc7695d7045f7f1c536c06a0be59974201cabfad9d7cdfbf2e955c10",
-    "doc_name": "uploaded:how-to-use-the-mobile-app-for-remote-control.md"
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "a269edbed93ee2ac18c1f3601e9363ae42ef2198cef7dd73d47d93c632cd1644",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   },
-  "show-offline-indicator-feature.md": {
-    "hash": "9981b9ad041e85bd2f0fc40eb34c972321fea52c858f69d1d0cf802637ca348b",
-    "doc_name": "uploaded:show-offline-indicator-feature.md"
+  "what-do-i-get-with-an-optisigns-free-plan.md": {
+    "hash": "4de829e77a0eee50357b5c7e6d16011801d9c9f04a708e0d2de2190326f5e109",
+    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
   },
-  "assign-content-to-your-screens.md": {
-    "hash": "7edcdcb36885e6d5e177a4207a6015fe6253171f9a16b65b01413b1c84b6ef3e",
-    "doc_name": "uploaded:assign-content-to-your-screens.md"
-  },
-  "edit-screen-what-does-each-option-do.md": {
-    "hash": "cd2f0625820e113ec0ab917487538669fb2fa00d7a599776b2d2fedb9f0f554e",
-    "doc_name": "uploaded:edit-screen-what-does-each-option-do.md"
+  "engage-plan-faqs.md": {
+    "hash": "a697789494b6829d8047fefe9b517118c0b73a74d281519f11f5ea50ee6f34c1",
+    "doc_name": "uploaded:engage-plan-faqs.md"
   }
 }
