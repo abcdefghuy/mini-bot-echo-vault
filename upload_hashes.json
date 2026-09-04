@@ -1,8 +1,4 @@
 {
-  "about-the-onhold-devices-folder.md": {
-    "hash": "36b3a42778e6142551a0af8ab4d8acf228533cc2b59d2037f9fb674f8df86262",
-    "doc_name": "uploaded:about-the-onhold-devices-folder.md"
-  },
   "accepted-payment-methods.md": {
     "hash": "0295afbb0361427abd06cb84e84ead8cf92afbff35753016013539e0a4a6cc60",
     "doc_name": "uploaded:accepted-payment-methods.md"
@@ -175,6 +171,10 @@
     "hash": "0402e1d07b1b300f24045f8729d5dfde23d5369f374228f206e02a5dc798d86a",
     "doc_name": "uploaded:customize-text.md"
   },
+  "data-residency-and-optisigns.md": {
+    "hash": "50b18d94cd7ddf97cdf437bdcc754f1a8b7b75b529f90792069a9fb368f4259e",
+    "doc_name": "uploaded:data-residency-and-optisigns.md"
+  },
   "designer-20-new-features.md": {
     "hash": "bb5c22d2c87fcfcfff1d90d497a29a64eb0d6cde6a6ef3cd1d1e98b7ba1a75cb",
     "doc_name": "uploaded:designer-20-new-features.md"
@@ -218,6 +218,10 @@
   "enabling-lock-down-mode-on-touch-screen-devices.md": {
     "hash": "76826305251a793685ea0f4e0ded455ab6ed764d24fd19193914b24112273891",
     "doc_name": "uploaded:enabling-lock-down-mode-on-touch-screen-devices.md"
+  },
+  "engage-plan-faqs.md": {
+    "hash": "a697789494b6829d8047fefe9b517118c0b73a74d281519f11f5ea50ee6f34c1",
+    "doc_name": "uploaded:engage-plan-faqs.md"
   },
   "error-handling.md": {
     "hash": "d905b43ac0c72dfe53367c7ef3a24ef838c034ce787cb748befcbc89af2323d8",
@@ -286,10 +290,6 @@
   "how-can-i-remotely-startrestart-optisigns-app-on-fire-tv.md": {
     "hash": "a6788076d6cc7fcf25b1de3bb56f487495ac37c3bee7a47e5de58512ec4418ed",
     "doc_name": "uploaded:how-can-i-remotely-startrestart-optisigns-app-on-fire-tv.md"
-  },
-  "how-can-i-removedelete-uploaded-files-or-assets.md": {
-    "hash": "876c4d75b18ea60c5bb48690ce9fed7b6296eef56dd40bbc1198134fbd957840",
-    "doc_name": "uploaded:how-can-i-removedelete-uploaded-files-or-assets.md"
   },
   "how-do-i-suggest-new-features-improvement.md": {
     "hash": "b09391e65b219fdfb199534b1ca0ff0caefde360da751b62693901b38476cb24",
@@ -531,10 +531,6 @@
     "hash": "c7087ba88163d969562a2f1c44bc8574104b0f79166730bc981a5ba244fe5227",
     "doc_name": "uploaded:how-to-get-google-review-link.md"
   },
-  "how-to-get-the-list-of-playlists-where-the-asset-is-used.md": {
-    "hash": "2117b9b13b288b7bb6d68971c625e10767557ab3a25b5697d7de40923edcb837",
-    "doc_name": "uploaded:how-to-get-the-list-of-playlists-where-the-asset-is-used.md"
-  },
   "how-to-get-the-mac-address-on-your-media-player.md": {
     "hash": "afb2ecf306004b4ca8db1276a0e02cf7de5b81751c19a1856ddc322ce9101a92",
     "doc_name": "uploaded:how-to-get-the-mac-address-on-your-media-player.md"
@@ -550,6 +546,10 @@
   "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md": {
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
+  },
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "a269edbed93ee2ac18c1f3601e9363ae42ef2198cef7dd73d47d93c632cd1644",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
@@ -634,6 +634,10 @@
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": {
     "hash": "eafe107ae8def2fa7f2b0bca0456752dbbb2d2491bab2166129d31a1b0836cba",
     "doc_name": "uploaded:how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
+  },
+  "how-to-preview-a-screen.md": {
+    "hash": "bfcafd38c56446527082bcd6f341551232863e817a0cb94116a126730c089e4c",
+    "doc_name": "uploaded:how-to-preview-a-screen.md"
   },
   "how-to-put-live-tv-on-your-screens-with-optisigns.md": {
     "hash": "9e8ecf66bff863f829dee26f7d272e7028558060847c90cf7160893f4ca6e86e",
@@ -871,13 +875,13 @@
     "hash": "8a4a77cc3753c2837f3b24b2f329fc33451b46b3ecb2be3947dbdb5d10883da5",
     "doc_name": "uploaded:how-to-use-instagram-counter-app.md"
   },
+  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md": {
+    "hash": "62152d9885c7f2b18c76024abb98b4e96c0d629d0852c90a7c7e344d05915ed6",
+    "doc_name": "uploaded:how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md"
+  },
   "how-to-use-linkedin-app.md": {
     "hash": "5140ede66692abf42c9d98a2cc34c3181b4857492345650bd6e8a3f8f257ad31",
     "doc_name": "uploaded:how-to-use-linkedin-app.md"
-  },
-  "how-to-use-live-tv-with-ads-app.md": {
-    "hash": "24187f97005d1e36ea0960f453c59043b76759c1d24606bb77f1e0673febdfed",
-    "doc_name": "uploaded:how-to-use-live-tv-with-ads-app.md"
   },
   "how-to-use-livestreamcom-app.md": {
     "hash": "8cec63d07db9606971d17fc669cfab53bedbde6270a77ad847afa687775f7fd0",
@@ -1199,10 +1203,6 @@
     "hash": "5d53ea6f1cb76db7eeb0a23c24b086ca5f8373d2bd774d6f7504bfa47da13882",
     "doc_name": "uploaded:how-to-use-youtube-playlist-with-optisigns.md"
   },
-  "how-to-use-youtube-with-optisigns.md": {
-    "hash": "b78617f72f446f099ed5c587b28a914a64439be75aa194bd74b6efeff956e32c",
-    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
-  },
   "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md": {
     "hash": "8ff5b63b7e7a2e5f6437415479f7f5a06bc808332be9bce4626331fd5b4ef0d0",
     "doc_name": "uploaded:how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md"
@@ -1255,13 +1255,13 @@
     "hash": "7e25cc2a65e9403cdf64abf4d03f528cbb3d0fc065a73931d1a81654d492b96e",
     "doc_name": "uploaded:linux.md"
   },
+  "list-of-supported-cities-for-weather-wall-city-themes.md": {
+    "hash": "4a04ba2a424a5e25623a9fa5850dda7c27674f9f664c3b597779f9879162004e",
+    "doc_name": "uploaded:list-of-supported-cities-for-weather-wall-city-themes.md"
+  },
   "macos.md": {
     "hash": "79d67a4f473459abc295f32b2f08527ba5696b531e82af011f4a8b16c5f2119b",
     "doc_name": "uploaded:macos.md"
-  },
-  "making-a-video-wall-with-optisigns-video-wall-app.md": {
-    "hash": "b0e41dafbc7fd7c65fdadf751cb4070b89c82457cf398dc808dc52aef187d8b4",
-    "doc_name": "uploaded:making-a-video-wall-with-optisigns-video-wall-app.md"
   },
   "manually-control-playlist-playback-with-optisigns.md": {
     "hash": "0e1e2c8f00561ad3186a9f8e81ff9721d836fecf3db0caf2bce0e412a25871e8",
@@ -1298,10 +1298,6 @@
   "my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-p.md": {
     "hash": "18cb1ebebb2a865ce908b8c3ef1e7704f626d8f4c221b627b6c8e489a5bb2a3e",
     "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-p.md"
-  },
-  "navigating-through-optisigns-template-library.md": {
-    "hash": "c677110144a886ab5eb75519c144f7837cc90091d58006d054e247aabf286436",
-    "doc_name": "uploaded:navigating-through-optisigns-template-library.md"
   },
   "operational-schedule-troubleshooting.md": {
     "hash": "cf2d8e49b776b06b2fde1375e640db54f8036dace099b031d788079f74ff32ae",
@@ -1378,14 +1374,6 @@
   "present-share-your-screen-with-optisigns-aericast-add-on.md": {
     "hash": "4f9fbbe06cb092ca60ff7f6b1ec16279ca3e533563623c15af04a3188f4c507f",
     "doc_name": "uploaded:present-share-your-screen-with-optisigns-aericast-add-on.md"
-  },
-  "promax.md": {
-    "hash": "9fdd1d9e79ba7242c931521196ef81766d2f62e7df69d096f4d85addce407dad",
-    "doc_name": "uploaded:promax.md"
-  },
-  "proplayer.md": {
-    "hash": "c00611197c6250d2a229773fb36729d152c3e6efa166d696c560f0bc9007c47b",
-    "doc_name": "uploaded:proplayer.md"
   },
   "push-contents-to-your-screens.md": {
     "hash": "fe3f8a5bb32b6f69d375f17b84ad46fe1b45b3d3e09070f192aa3dc3c34592dd",
@@ -1551,6 +1539,10 @@
     "hash": "c454489bb31acefafb8ca5c25214aa7321a9cff76b2e75fb9deff46c104cc10b",
     "doc_name": "uploaded:what-are-feeds-and-how-to-use-it.md"
   },
+  "what-do-i-get-with-an-optisigns-free-plan.md": {
+    "hash": "4de829e77a0eee50357b5c7e6d16011801d9c9f04a708e0d2de2190326f5e109",
+    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
+  },
   "what-happen-if-internet-connection-is-lost.md": {
     "hash": "853653387dbdbb7058b75ce33713576b887ea219c5e3e9da2f5e4774069de280",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
@@ -1574,6 +1566,10 @@
   "where-to-buy-optisigns-devices.md": {
     "hash": "7243686428da929b30b3b9759a04cd3bf0dc1dbceaf2b3d2edc025e4395bb379",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
+  },
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "1906fb1f81abcc70f5babfa381d08e8b335767662db7a0d8e2caee3e6797d786",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
   },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "c6df4ea808cea8f68a0864f58d754639025e3cc5c907936777373b3dc985a9ab",
@@ -1599,36 +1595,40 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "data-residency-and-optisigns.md": {
-    "hash": "50b18d94cd7ddf97cdf437bdcc754f1a8b7b75b529f90792069a9fb368f4259e",
-    "doc_name": "uploaded:data-residency-and-optisigns.md"
+  "how-can-i-removedelete-uploaded-files-or-assets.md": {
+    "hash": "71867422b61dff8827d6b8a17172ca19eb6ff5e5c5ff1960bc5ac050f6f62fbe",
+    "doc_name": "uploaded:how-can-i-removedelete-uploaded-files-or-assets.md"
   },
-  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md": {
-    "hash": "62152d9885c7f2b18c76024abb98b4e96c0d629d0852c90a7c7e344d05915ed6",
-    "doc_name": "uploaded:how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md"
+  "about-the-onhold-devices-folder.md": {
+    "hash": "5d388f82aeec98eba08a9543c5296c390f3d79189d85263c9a6755b56f90a598",
+    "doc_name": "uploaded:about-the-onhold-devices-folder.md"
   },
-  "how-to-preview-a-screen.md": {
-    "hash": "bfcafd38c56446527082bcd6f341551232863e817a0cb94116a126730c089e4c",
-    "doc_name": "uploaded:how-to-preview-a-screen.md"
+  "promax.md": {
+    "hash": "28210d96b0a8eb5ac7dfd9788fa380f5ec459b7306112f9fc9cc23dfc63a9778",
+    "doc_name": "uploaded:promax.md"
   },
-  "list-of-supported-cities-for-weather-wall-city-themes.md": {
-    "hash": "4a04ba2a424a5e25623a9fa5850dda7c27674f9f664c3b597779f9879162004e",
-    "doc_name": "uploaded:list-of-supported-cities-for-weather-wall-city-themes.md"
+  "how-to-get-the-list-of-playlists-where-the-asset-is-used.md": {
+    "hash": "d1ebe4f0f58b18590523c74abed9b205b8a04e620a9157d3f7c0f595d5f28473",
+    "doc_name": "uploaded:how-to-get-the-list-of-playlists-where-the-asset-is-used.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "1906fb1f81abcc70f5babfa381d08e8b335767662db7a0d8e2caee3e6797d786",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  "how-to-use-youtube-with-optisigns.md": {
+    "hash": "3e2adf3d25ec33c3fde3d6ef2b9953f630ff403178da09db352806af6153d61a",
+    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
   },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "a269edbed93ee2ac18c1f3601e9363ae42ef2198cef7dd73d47d93c632cd1644",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
+  "how-to-use-the-live-tv-with-ads-app.md": {
+    "hash": "92e1e552317848e60efcd2e26a4a090453e3c7087da6a2471778bd614d62fc3a",
+    "doc_name": "uploaded:how-to-use-the-live-tv-with-ads-app.md"
   },
-  "what-do-i-get-with-an-optisigns-free-plan.md": {
-    "hash": "4de829e77a0eee50357b5c7e6d16011801d9c9f04a708e0d2de2190326f5e109",
-    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
+  "making-a-video-wall-with-optisigns-video-wall-app.md": {
+    "hash": "f26b1d82e30e1a66873e9c35234de163c6d63967ffe78af648022c1e10a4ec98",
+    "doc_name": "uploaded:making-a-video-wall-with-optisigns-video-wall-app.md"
   },
-  "engage-plan-faqs.md": {
-    "hash": "a697789494b6829d8047fefe9b517118c0b73a74d281519f11f5ea50ee6f34c1",
-    "doc_name": "uploaded:engage-plan-faqs.md"
+  "navigating-through-optisigns-template-library.md": {
+    "hash": "38bb43e56db1601fa508370b9108d46a8404a87ae3f3c212d6a91507f9b1fde9",
+    "doc_name": "uploaded:navigating-through-optisigns-template-library.md"
+  },
+  "proplayer.md": {
+    "hash": "584d2b1c172eb8147de835413bf2ebff7ce7ade64d5d9f8d99931390980a7cff",
+    "doc_name": "uploaded:proplayer.md"
   }
 }
