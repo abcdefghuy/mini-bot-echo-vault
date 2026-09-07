@@ -1,8 +1,4 @@
 {
-  "about-the-onhold-devices-folder.md": {
-    "hash": "5d388f82aeec98eba08a9543c5296c390f3d79189d85263c9a6755b56f90a598",
-    "doc_name": "uploaded:about-the-onhold-devices-folder.md"
-  },
   "accepted-payment-methods.md": {
     "hash": "0295afbb0361427abd06cb84e84ead8cf92afbff35753016013539e0a4a6cc60",
     "doc_name": "uploaded:accepted-payment-methods.md"
@@ -351,10 +347,6 @@
     "hash": "645dc3f5007183784aab35e278b5822ecfec711f36a915f2ecdb00a6d0d81ee3",
     "doc_name": "uploaded:how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case.md"
   },
-  "how-to-change-account-owners.md": {
-    "hash": "dd5f7cbac9ed381f055eb2d1efa70b34107467fad7586ad0bd9c68938f09c176",
-    "doc_name": "uploaded:how-to-change-account-owners.md"
-  },
   "how-to-change-billing-information.md": {
     "hash": "4d6d47f9d2249c71a54de3f8aff9dd22ef7c1a361a759ac8bda523dcf375190f",
     "doc_name": "uploaded:how-to-change-billing-information.md"
@@ -463,10 +455,6 @@
     "hash": "7fa617c8dc37295bc9cbf165054b3ca41b3f8e7f9f3cb539605fd4fc26b5f83a",
     "doc_name": "uploaded:how-to-customize-the-thumbnail-of-files-assets-and-folders.md"
   },
-  "how-to-delete-your-account-from-optisigns.md": {
-    "hash": "89f3a26d4c6c93aa1cee67cdc4db9602cf341bf290c4f6c2adec51d58dc91ecd",
-    "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
-  },
   "how-to-design-kiosk-apps-using-kiosk-designer-pro.md": {
     "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
     "doc_name": "uploaded:how-to-design-kiosk-apps-using-kiosk-designer-pro.md"
@@ -498,10 +486,6 @@
   "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
     "hash": "9d8fc5bab77c8579c770846a35daa86a1c3d2211f1f7b11b76a710c6a999866d",
     "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
-  },
-  "how-to-display-microsoft-teams-on-optisigns.md": {
-    "hash": "0426cc9feaf17e13d98854b34ab14628b29205cb7a4648672788f6523d31822d",
-    "doc_name": "uploaded:how-to-display-microsoft-teams-on-optisigns.md"
   },
   "how-to-display-smartsheet-report-on-optisigns.md": {
     "hash": "e972c65b2d4a4d7b63eb6cff8b7316e97eb5065668c75722f34b3d98c7405e5f",
@@ -646,10 +630,6 @@
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": {
     "hash": "eafe107ae8def2fa7f2b0bca0456752dbbb2d2491bab2166129d31a1b0836cba",
     "doc_name": "uploaded:how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
-  },
-  "how-to-preview-a-screen.md": {
-    "hash": "bfcafd38c56446527082bcd6f341551232863e817a0cb94116a126730c089e4c",
-    "doc_name": "uploaded:how-to-preview-a-screen.md"
   },
   "how-to-put-live-tv-on-your-screens-with-optisigns.md": {
     "hash": "9e8ecf66bff863f829dee26f7d272e7028558060847c90cf7160893f4ca6e86e",
@@ -1063,10 +1043,6 @@
     "hash": "4fb71761996cc5df04c6cd3121b32e45d8a28abe1425032d7cc9ac579fe24fce",
     "doc_name": "uploaded:how-to-use-the-jira-formerly-atlassian-jira-app.md"
   },
-  "how-to-use-the-live-tv-with-ads-app.md": {
-    "hash": "92e1e552317848e60efcd2e26a4a090453e3c7087da6a2471778bd614d62fc3a",
-    "doc_name": "uploaded:how-to-use-the-live-tv-with-ads-app.md"
-  },
   "how-to-use-the-local-folder-app-in-optisigns.md": {
     "hash": "8122757bef3418df031844d0e95d2478ecae9f732455213881ad5f5d5a3bbe1a",
     "doc_name": "uploaded:how-to-use-the-local-folder-app-in-optisigns.md"
@@ -1234,10 +1210,6 @@
   "installupdate-optisigns-player-on-rpi-via-script.md": {
     "hash": "513f7c21c4f757ffa428544b47e2503ddaf38eda23462db2a3e4d27028b07399",
     "doc_name": "uploaded:installupdate-optisigns-player-on-rpi-via-script.md"
-  },
-  "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md": {
-    "hash": "bf6a6593a88bf1aab50cb398d4af6baffd8eb0dc176fd3467cf24d2b8483fce6",
-    "doc_name": "uploaded:integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md"
   },
   "introduction.md": {
     "hash": "442ec5e03fce55dbb897113ccb027d44809771b3d962618b3f4cc464ef9903af",
@@ -1471,10 +1443,6 @@
     "hash": "6826c898df539b69a04205968e47c56575b15a1911e8f68aa5060fa3aba41f81",
     "doc_name": "uploaded:shapes-and-elements.md"
   },
-  "show-offline-indicator-feature.md": {
-    "hash": "9981b9ad041e85bd2f0fc40eb34c972321fea52c858f69d1d0cf802637ca348b",
-    "doc_name": "uploaded:show-offline-indicator-feature.md"
-  },
   "show-youtube-videos-subtitleclosed-caption.md": {
     "hash": "94ea86d3f0f7cefe9ff1680f11b40637e19c9d0b2b5861314cbcc81b71702265",
     "doc_name": "uploaded:show-youtube-videos-subtitleclosed-caption.md"
@@ -1575,10 +1543,6 @@
     "hash": "c454489bb31acefafb8ca5c25214aa7321a9cff76b2e75fb9deff46c104cc10b",
     "doc_name": "uploaded:what-are-feeds-and-how-to-use-it.md"
   },
-  "what-do-i-get-with-an-optisigns-free-plan.md": {
-    "hash": "4de829e77a0eee50357b5c7e6d16011801d9c9f04a708e0d2de2190326f5e109",
-    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
-  },
   "what-happen-if-internet-connection-is-lost.md": {
     "hash": "853653387dbdbb7058b75ce33713576b887ea219c5e3e9da2f5e4774069de280",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
@@ -1630,5 +1594,41 @@
   "your-templates.md": {
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "show-offline-indicator-feature.md": {
+    "hash": "ca5bcbbce3470239aa1689d4856ab474bc741c4422f84c01dfc1b910da1b58c0",
+    "doc_name": "uploaded:show-offline-indicator-feature.md"
+  },
+  "how-to-preview-a-screen.md": {
+    "hash": "9f64e9fb1935d2d3fb47320e6b6f90c4569e98ca3de6a612d963e7e09e0cfbc2",
+    "doc_name": "uploaded:how-to-preview-a-screen.md"
+  },
+  "about-the-onhold-devices-folder.md": {
+    "hash": "cd640ff603b3d83a792a12b305bc3a2eb3e26e43e7ec47f5312f6dbbfc9cc345",
+    "doc_name": "uploaded:about-the-onhold-devices-folder.md"
+  },
+  "how-to-use-the-live-tv-with-ads-app.md": {
+    "hash": "83bfee4b19cc4d27c73d375a13dbb2c96131df7ee8baa1cebf580f5ac74a73b5",
+    "doc_name": "uploaded:how-to-use-the-live-tv-with-ads-app.md"
+  },
+  "how-to-change-account-owners.md": {
+    "hash": "7b7ddcd713e4f6c1cc59b4ce73f8545c4506419cc30bb9b78f5f5fd5bd9c49e5",
+    "doc_name": "uploaded:how-to-change-account-owners.md"
+  },
+  "how-to-display-microsoft-teams-on-optisigns.md": {
+    "hash": "664c9a555e8dc39e2f868f737f422283e44c48c41a975421e798c214f4971531",
+    "doc_name": "uploaded:how-to-display-microsoft-teams-on-optisigns.md"
+  },
+  "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md": {
+    "hash": "c826531ed2792b055b07ff8981741d81dd0c6d18af3f250fd5279b8732798595",
+    "doc_name": "uploaded:integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md"
+  },
+  "how-to-delete-your-account-from-optisigns.md": {
+    "hash": "3770d2c1e53c828170c037e45c9e50e113a622b6006bd6d7d38bdd19e37f2522",
+    "doc_name": "uploaded:how-to-delete-your-account-from-optisigns.md"
+  },
+  "what-do-i-get-with-an-optisigns-free-plan.md": {
+    "hash": "e98b7b2e9616359042981e1315b09d531ff78369ce1d90c6a63e1d46ca5eb283",
+    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
   }
 }
