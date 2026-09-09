@@ -15,10 +15,6 @@
     "hash": "b1f64df3207ad7025b4b17fae05b107c15f574aaf6f6bf7aa1be6b92625785f4",
     "doc_name": "uploaded:adjust-the-gpu-memory-on-the-raspberry-pi.md"
   },
-  "adjusting-social-news-wall-speeds.md": {
-    "hash": "e471f8e655a8edd1de968091e13a79248cb39eaf502b01a64e6c953fbb06facc",
-    "doc_name": "uploaded:adjusting-social-news-wall-speeds.md"
-  },
   "advanced-custom-domain-mapping.md": {
     "hash": "539edb901677b867ac77ca3900e1e4bf5b09767b63d328497db3e7ec69ad4cd9",
     "doc_name": "uploaded:advanced-custom-domain-mapping.md"
@@ -62,10 +58,6 @@
   "amazon-firestick.md": {
     "hash": "195d998702d0b1abb37dc6774e810371ef72b0a8ee8383db202eb004e73a4212",
     "doc_name": "uploaded:amazon-firestick.md"
-  },
-  "amazon-signage-stick.md": {
-    "hash": "ce6767461f285fe4df092cb60adbe73f07ef2fe64b615ace242b74de851dedcc",
-    "doc_name": "uploaded:amazon-signage-stick.md"
   },
   "amazon-tv-firestick-troubleshooting-guide.md": {
     "hash": "e00ae46a4446657a6056f033adb83d2a8f912bf59e1598270e760ba9c4bbb146",
@@ -223,6 +215,10 @@
     "hash": "76826305251a793685ea0f4e0ded455ab6ed764d24fd19193914b24112273891",
     "doc_name": "uploaded:enabling-lock-down-mode-on-touch-screen-devices.md"
   },
+  "engage-plan-faqs.md": {
+    "hash": "42f66b35856b05bea2c5377bccd84a1138ce028bfea09ed1f878a3e823e50599",
+    "doc_name": "uploaded:engage-plan-faqs.md"
+  },
   "error-handling.md": {
     "hash": "d905b43ac0c72dfe53367c7ef3a24ef838c034ce787cb748befcbc89af2323d8",
     "doc_name": "uploaded:error-handling.md"
@@ -231,9 +227,9 @@
     "hash": "1e2c1b9a1ede6abb3455f6d0e52eccec6c94ef92765b9523b963164e516604f6",
     "doc_name": "uploaded:event-logging-and-analytics-for-external-communicationrs-232.md"
   },
-  "external-storage-on-optisigns-devices.md": {
-    "hash": "edde3ee1530607cab807f426a16a90a77f6c9d4a68a2bc5b64e5cec98f5316c7",
-    "doc_name": "uploaded:external-storage-on-optisigns-devices.md"
+  "fireos-tvs-amazon-insigna-toshiba-tcl.md": {
+    "hash": "f90622791c84d11b0b508321e52a4a76df05096b2e0b998312fd61df286270da",
+    "doc_name": "uploaded:fireos-tvs-amazon-insigna-toshiba-tcl.md"
   },
   "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-s.md": {
     "hash": "43f81d0bf633bce87ebf9586b4b9fa9bbcf78bb3335bf8780cc60640d932ff20",
@@ -275,10 +271,6 @@
     "hash": "f6a9c1e7d47b5880820d738865ec7f1ef5f6342d8ae983f8ba0f001e6dc8124a",
     "doc_name": "uploaded:handle-oauth-authentication-using-api-gateway-pre-request-configuration.md"
   },
-  "host-your-htmljs-or-create-your-own-web-app-with-hosted-website.md": {
-    "hash": "fe355b24a85e7e06292aeabd28413b2904563b50e9a95297d2e35ba65ddceb10",
-    "doc_name": "uploaded:host-your-htmljs-or-create-your-own-web-app-with-hosted-website.md"
-  },
   "how-can-i-improve-stability-of-fire-tv-as-digital-signage-player.md": {
     "hash": "98d0b9815ea3fedea84597eadd6a4aaefa86765cfb64d6ef6f926fc71606be43",
     "doc_name": "uploaded:how-can-i-improve-stability-of-fire-tv-as-digital-signage-player.md"
@@ -286,6 +278,10 @@
   "how-can-i-remotely-startrestart-optisigns-app-on-fire-tv.md": {
     "hash": "a6788076d6cc7fcf25b1de3bb56f487495ac37c3bee7a47e5de58512ec4418ed",
     "doc_name": "uploaded:how-can-i-remotely-startrestart-optisigns-app-on-fire-tv.md"
+  },
+  "how-can-i-removedelete-uploaded-files-or-assets.md": {
+    "hash": "39845ddded3586ac9dbb0fc22a21c8a8faf3270d8646ed1b38855573af474e39",
+    "doc_name": "uploaded:how-can-i-removedelete-uploaded-files-or-assets.md"
   },
   "how-do-i-suggest-new-features-improvement.md": {
     "hash": "b09391e65b219fdfb199534b1ca0ff0caefde360da751b62693901b38476cb24",
@@ -399,6 +395,10 @@
     "hash": "2c161c4b49d965e51171b5fcd95a2286eb29d7067f6fe0175f6843a09e83544a",
     "doc_name": "uploaded:how-to-create-a-content-library-kiosk.md"
   },
+  "how-to-create-a-scrolling-strip-or-bar.md": {
+    "hash": "b0e903f533245926fca59b86349fa0bda47649174835a1e459dd782fb644f5aa",
+    "doc_name": "uploaded:how-to-create-a-scrolling-strip-or-bar.md"
+  },
   "how-to-create-an-attract-screen-for-your-kiosk.md": {
     "hash": "3a0b5ad68ed13fe3662ab801dbe4acf997772fd32a1ff5a1bd6946062a3c944a",
     "doc_name": "uploaded:how-to-create-an-attract-screen-for-your-kiosk.md"
@@ -411,6 +411,10 @@
     "hash": "4a3374f15883b35e150ccf589980eb3562e60bcec7b623c66bd1c5165e782c1b",
     "doc_name": "uploaded:how-to-create-and-use-instagram-wall.md"
   },
+  "how-to-create-and-use-nested-playlists.md": {
+    "hash": "33f218443c9aa540350d535dbbd899be3999cb9f39eeb85161af6109fac23114",
+    "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
+  },
   "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
     "hash": "bf1234837b7490c6d9a1f111fd6587d0e1a0bc568321a3019d21b92696a89080",
     "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
@@ -422,6 +426,10 @@
   "how-to-create-and-use-the-split-screen-app.md": {
     "hash": "2d1f9a55ccfdd182035cd470fe6b1334adc83c98326f5fa841154ed0637d8772",
     "doc_name": "uploaded:how-to-create-and-use-the-split-screen-app.md"
+  },
+  "how-to-create-and-use-the-yelp-app.md": {
+    "hash": "d82958927bb13f467c01f3d001c6b5a46a8453c677dc221e58ee9ec2b6c14c4b",
+    "doc_name": "uploaded:how-to-create-and-use-the-yelp-app.md"
   },
   "how-to-create-and-use-virtual-screen-app.md": {
     "hash": "3da844aa60c1576d11964dc7b3ee30fefd09d79905c3b46fa888968469b58094",
@@ -467,6 +475,10 @@
     "hash": "d49d83e41bfd920445e245ece1395bc79a9328445c1604b706e5cadc9279eed1",
     "doc_name": "uploaded:how-to-display-dynamic-event-schedules-using-optisync.md"
   },
+  "how-to-display-google-slide-in-portrait-mode.md": {
+    "hash": "7455ebb1a161747c433e876183748d987928e159363039cd5cf1638f5828c412",
+    "doc_name": "uploaded:how-to-display-google-slide-in-portrait-mode.md"
+  },
   "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
     "hash": "9d8fc5bab77c8579c770846a35daa86a1c3d2211f1f7b11b76a710c6a999866d",
     "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
@@ -490,6 +502,10 @@
   "how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md": {
     "hash": "355de2ed68b656f5503d1fec92e944a1f7d7e18c9897a369eee2557d3faa5fb5",
     "doc_name": "uploaded:how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md"
+  },
+  "how-to-export-high-resolution-canvas-template-designs.md": {
+    "hash": "b84a66bf8a64f803a8e8f7a9f51f14c43e86ba718d0d23f8b491a52d5a2c250b",
+    "doc_name": "uploaded:how-to-export-high-resolution-canvas-template-designs.md"
   },
   "how-to-factory-reset-your-fire-stick-device.md": {
     "hash": "43a1fc0dd1d34bf2b118ea77fad7e147a56010715169d69a94c77e07bd31d8a8",
@@ -755,10 +771,6 @@
     "hash": "2cb2e4cb0910dbe0a2825eaf96569d9cef3602edfdff8cc5d55e9d6f1eda44f9",
     "doc_name": "uploaded:how-to-use-asana-app.md"
   },
-  "how-to-use-calendar-mix-app.md": {
-    "hash": "a93f0e84dd583f0e3399fa5b70a50b841b6faadefa019c554d0b7c11658ecda4",
-    "doc_name": "uploaded:how-to-use-calendar-mix-app.md"
-  },
   "how-to-use-check-in-app-with-sms-follow-up.md": {
     "hash": "8810a60f7b8160657da2da3ed4697ff0f483fea43b275397b19ad926e7943d84",
     "doc_name": "uploaded:how-to-use-check-in-app-with-sms-follow-up.md"
@@ -790,10 +802,6 @@
   "how-to-use-facebook-recommendations-app.md": {
     "hash": "653df31748d55cc74b5e9327a141bf37962128f5acda48ec57950fd273b97511",
     "doc_name": "uploaded:how-to-use-facebook-recommendations-app.md"
-  },
-  "how-to-use-facebook-video-app.md": {
-    "hash": "1dc2701fcefe9808c6a54daaa13af6e1287ba62df6ccd6f2f34e98c73c091c55",
-    "doc_name": "uploaded:how-to-use-facebook-video-app.md"
   },
   "how-to-use-follow-us-app.md": {
     "hash": "202759a80f803acf4950a0db551523ff01a230d24282cabe71d8168f54e353d4",
@@ -963,14 +971,6 @@
     "hash": "2120636034c4cf1fe947bde5916fa6b05fcf9074ffb32b93b337ac7caafc7343",
     "doc_name": "uploaded:how-to-use-the-cap-alert-app.md"
   },
-  "how-to-use-the-cbc-news-app.md": {
-    "hash": "d21565f9b2ba05ac2663541002c270eea449175b92cf959fc984911566604d54",
-    "doc_name": "uploaded:how-to-use-the-cbc-news-app.md"
-  },
-  "how-to-use-the-cnn-news-app.md": {
-    "hash": "d1060c5327365d2d47eefeb1b9cc51d76279524b7a81d8d779e3922f32c452b3",
-    "doc_name": "uploaded:how-to-use-the-cnn-news-app.md"
-  },
   "how-to-use-the-countdown-app.md": {
     "hash": "c4bd3682c24ebf94da91bae7d8b988b4a89251d795092cd7a4bb9454bf7a1a1a",
     "doc_name": "uploaded:how-to-use-the-countdown-app.md"
@@ -978,6 +978,14 @@
   "how-to-use-the-countup-app.md": {
     "hash": "d8c58e1c67dfaece9931500499af6cf193e5ae8caa88dcc8df8a7add03290764",
     "doc_name": "uploaded:how-to-use-the-countup-app.md"
+  },
+  "how-to-use-the-crypto-index-crypto-exchange-app.md": {
+    "hash": "bbbc44f5cc4c546a9503aec5c2118c9672b514a62eab41c522ba0d2fa000a66a",
+    "doc_name": "uploaded:how-to-use-the-crypto-index-crypto-exchange-app.md"
+  },
+  "how-to-use-the-currency-exchange-app.md": {
+    "hash": "efc598711ebe6d8515fc56465a618f99d27dff2a8dba608d9992fcd06301bed9",
+    "doc_name": "uploaded:how-to-use-the-currency-exchange-app.md"
   },
   "how-to-use-the-data-studio-app.md": {
     "hash": "37a1a77e7633d3fd4ccbfeffa808d09aa9b02ef245e6d93862aaf0e30680d278",
@@ -990,14 +998,6 @@
   "how-to-use-the-espn-news-app.md": {
     "hash": "933406c39f4d2e20921f8d3d7145e725f507134bc33313d8ca423111f6291ae3",
     "doc_name": "uploaded:how-to-use-the-espn-news-app.md"
-  },
-  "how-to-use-the-facebook-counter-app.md": {
-    "hash": "d032ec149b98e1dc9973e39cf972540a8d1ad4043f129c28f3a13e7be2df2d7f",
-    "doc_name": "uploaded:how-to-use-the-facebook-counter-app.md"
-  },
-  "how-to-use-the-facebook-page-app.md": {
-    "hash": "2f95f18d8c46ffa5a072cecfaeae3df88ff8d92bca56b902bec1462a2ba95fd5",
-    "doc_name": "uploaded:how-to-use-the-facebook-page-app.md"
   },
   "how-to-use-the-flash-message-app.md": {
     "hash": "e7c6dbba9659a22ad77ca1d206e98fad9a38648d5af0dd87df694f23a688fc6e",
@@ -1039,10 +1039,6 @@
     "hash": "0e25e5babc7695d7045f7f1c536c06a0be59974201cabfad9d7cdfbf2e955c10",
     "doc_name": "uploaded:how-to-use-the-mobile-app-for-remote-control.md"
   },
-  "how-to-use-the-motivational-quote-app.md": {
-    "hash": "6b085eda3728ff9813a69f11d20234b93828487a54c9915edd452ef1146bc621",
-    "doc_name": "uploaded:how-to-use-the-motivational-quote-app.md"
-  },
   "how-to-use-the-musthavemenus-app-with-optisigns.md": {
     "hash": "da63bc1317e9d3ea7b9afffcf4eee5129905db196e87809acfaba0b23965daab",
     "doc_name": "uploaded:how-to-use-the-musthavemenus-app-with-optisigns.md"
@@ -1067,6 +1063,10 @@
     "hash": "bd7fd02d72428dfc545a36f578cf4c063a6092baa1ca092a2ed43c0bd2f06839",
     "doc_name": "uploaded:how-to-use-the-qr-scan-to-interact-touchless-qr-app.md"
   },
+  "how-to-use-the-simple-calendar-app.md": {
+    "hash": "3c3f3a8066979cb0431e6ef8fafbdc6c48f1c917b27beb995cc48dcbd40c04fb",
+    "doc_name": "uploaded:how-to-use-the-simple-calendar-app.md"
+  },
   "how-to-use-the-simple-clock-app.md": {
     "hash": "d5e26dfcbf0c2d4e0ec3ab96410a51ffcacf04ef7f774058957d8dbbf041297f",
     "doc_name": "uploaded:how-to-use-the-simple-clock-app.md"
@@ -1075,10 +1075,6 @@
     "hash": "884375705df3d764a1fca616cb6d75b0eb3f824cf20dd8b24785f3c7506d7625",
     "doc_name": "uploaded:how-to-use-the-social-mix-app.md"
   },
-  "how-to-use-the-stock-app.md": {
-    "hash": "190e53942e1ce4c99784228f2a4f2bb811d7287765db2e8a895df75d8c030a45",
-    "doc_name": "uploaded:how-to-use-the-stock-app.md"
-  },
   "how-to-use-the-tableau-app.md": {
     "hash": "45f1ca2effc45eea7946e6818c74e1399995a98d4d86cd654c012cefa2014d9b",
     "doc_name": "uploaded:how-to-use-the-tableau-app.md"
@@ -1086,10 +1082,6 @@
   "how-to-use-the-taggbox-display-app-with-optisigns.md": {
     "hash": "160d17ce5208224450aae9f56636e31572a3ffd59aef6de0f48e8bd8850ee7ff",
     "doc_name": "uploaded:how-to-use-the-taggbox-display-app-with-optisigns.md"
-  },
-  "how-to-use-the-techcrunch-news-app.md": {
-    "hash": "ec1119b6c7490eeaf90e35b84fc4f71cf00c5a8217fe51c6f2caf5a39b9c7fca",
-    "doc_name": "uploaded:how-to-use-the-techcrunch-news-app.md"
   },
   "how-to-use-the-video-stream-app.md": {
     "hash": "0f1fb75e831078710c82e0e3a1c9286c64e2a68f1ecd4196b422cee076472bac",
@@ -1146,14 +1138,6 @@
   "how-to-use-weather-apps-based-on-device-location.md": {
     "hash": "32d4c94ed83c6bfd0a8ecd1559908af204496615044258f199bd5390867e4511",
     "doc_name": "uploaded:how-to-use-weather-apps-based-on-device-location.md"
-  },
-  "how-to-use-weather-apps-in-optisigns.md": {
-    "hash": "a0958b1d7dc015f41dcb3dfd7b41b48fe4232cf85c7a1ff0fd1d82bd6f34f541",
-    "doc_name": "uploaded:how-to-use-weather-apps-in-optisigns.md"
-  },
-  "how-to-use-website-screenshot-app.md": {
-    "hash": "be513932b1371ce46763a6b48b883e6154de95f04373a63cb4f2b9c3210646ec",
-    "doc_name": "uploaded:how-to-use-website-screenshot-app.md"
   },
   "how-to-use-world-clock-app.md": {
     "hash": "491371fd278f6d3ff549b19be240de99ded5364ecbcb183550fdf71486518081",
@@ -1243,6 +1227,10 @@
     "hash": "f26b1d82e30e1a66873e9c35234de163c6d63967ffe78af648022c1e10a4ec98",
     "doc_name": "uploaded:making-a-video-wall-with-optisigns-video-wall-app.md"
   },
+  "manually-control-playlist-playback-with-optisigns.md": {
+    "hash": "bdae0eee8de26c282987f1d8b8e02c1f4c9166827d4a391ac666bfdf71426f8d",
+    "doc_name": "uploaded:manually-control-playlist-playback-with-optisigns.md"
+  },
   "map-view-screen-location-settings.md": {
     "hash": "d3b73b1187702e79d03ba90e5928aff64afd677d94467b9000e4997b7a22ce8c",
     "doc_name": "uploaded:map-view-screen-location-settings.md"
@@ -1322,6 +1310,10 @@
   "organizing-your-files-assets-playlists-and-schedules-by-using-folders.md": {
     "hash": "91c635bc4ae559238af75d134ac60dd99e0b90693c99a58b3c6de25d3377398b",
     "doc_name": "uploaded:organizing-your-files-assets-playlists-and-schedules-by-using-folders.md"
+  },
+  "pagination.md": {
+    "hash": "452e03338a4c939a76375d9c4aaf37a82d858527af72aa505ef80147419dff66",
+    "doc_name": "uploaded:pagination.md"
   },
   "performancestability-issues-on-android-devices-and-best-practices.md": {
     "hash": "92347434a55bd98fa9cd96f6b66083f46dcb62d583253499a623f4b5654e363c",
@@ -1427,6 +1419,10 @@
     "hash": "94ea86d3f0f7cefe9ff1680f11b40637e19c9d0b2b5861314cbcc81b71702265",
     "doc_name": "uploaded:show-youtube-videos-subtitleclosed-caption.md"
   },
+  "showhide-downloading-status-on-your-player.md": {
+    "hash": "8651ed2be8e244303778e50e3ed7753972e956a5361e7b34a553c9cc35910afb",
+    "doc_name": "uploaded:showhide-downloading-status-on-your-player.md"
+  },
   "showhide-offline-indicator-on-your-player.md": {
     "hash": "1d2d38886ccf82aae4661852f954f12118b35763ef5b18ad9ceadaca4bdf2659",
     "doc_name": "uploaded:showhide-offline-indicator-on-your-player.md"
@@ -1471,6 +1467,10 @@
     "hash": "1afccf37a14d26ea30ee75f4efb46437a005d2c9a9ca68b8d11b922f72bb327b",
     "doc_name": "uploaded:tutorial-creating-schedules-and-adding-schedule-items-using-graphql.md"
   },
+  "update-optisigns-player-on-optisigns-pro-player-gen-2-via-script.md": {
+    "hash": "4173966e479e7630398f09c1550b81c81b5ad125c9ce278f77b434e0b23dc705",
+    "doc_name": "uploaded:update-optisigns-player-on-optisigns-pro-player-gen-2-via-script.md"
+  },
   "use-your-macwindows-device-as-a-test-screen.md": {
     "hash": "7bb01a41dd3d1d1b2b9e2e7a8e5af55d4377abb29c6f8f69781ece740f896e91",
     "doc_name": "uploaded:use-your-macwindows-device-as-a-test-screen.md"
@@ -1499,6 +1499,10 @@
     "hash": "7efff985231b6bdd15f75bbb2a075a04c9cc38a2ae988c2f7a471e2530fd3da1",
     "doc_name": "uploaded:video-codec-or-video-playback-issues.md"
   },
+  "view-billing-history-and-download-receipts.md": {
+    "hash": "5510bb584c06427780a752dbf6d996638978e7a1441628c77f2195076a80a174",
+    "doc_name": "uploaded:view-billing-history-and-download-receipts.md"
+  },
   "web-browser-as-optisigns-player.md": {
     "hash": "7a80e61e8a0018f755837efbfcf6e24c048ff3364e0b8bf4b0f8f8741d513052",
     "doc_name": "uploaded:web-browser-as-optisigns-player.md"
@@ -1506,10 +1510,6 @@
   "what-access-does-optisigns-have-to-my-account-and-devices.md": {
     "hash": "b814d4ac0759e37b420c455001002a78f6334c648d6fdd9eddb46ebda7e1ce71",
     "doc_name": "uploaded:what-access-does-optisigns-have-to-my-account-and-devices.md"
-  },
-  "what-are-feeds-and-how-to-use-it.md": {
-    "hash": "c454489bb31acefafb8ca5c25214aa7321a9cff76b2e75fb9deff46c104cc10b",
-    "doc_name": "uploaded:what-are-feeds-and-how-to-use-it.md"
   },
   "what-do-i-get-with-an-optisigns-free-plan.md": {
     "hash": "e98b7b2e9616359042981e1315b09d531ff78369ce1d90c6a63e1d46ca5eb283",
@@ -1567,68 +1567,64 @@
     "hash": "6461a07938222693d9e481abfcca55e0dd98a1edcfdf9272a0b49c5de77ace3f",
     "doc_name": "uploaded:your-templates.md"
   },
-  "fireos-tvs-amazon-insigna-toshiba-tcl.md": {
-    "hash": "f90622791c84d11b0b508321e52a4a76df05096b2e0b998312fd61df286270da",
-    "doc_name": "uploaded:fireos-tvs-amazon-insigna-toshiba-tcl.md"
+  "how-to-use-the-calendar-mix-app.md": {
+    "hash": "25e9655dd6f81b60b5d5876f18e2bd46f3bf44999643d36a01fcdd810e2e66cd",
+    "doc_name": "uploaded:how-to-use-the-calendar-mix-app.md"
   },
-  "engage-plan-faqs.md": {
-    "hash": "42f66b35856b05bea2c5377bccd84a1138ce028bfea09ed1f878a3e823e50599",
-    "doc_name": "uploaded:engage-plan-faqs.md"
+  "amazon-signage-stick.md": {
+    "hash": "8643ed38d94a0020243fcba509a12f43043d1d4446c7deddb9e74c310912017d",
+    "doc_name": "uploaded:amazon-signage-stick.md"
   },
-  "how-to-use-the-currency-exchange-app.md": {
-    "hash": "efc598711ebe6d8515fc56465a618f99d27dff2a8dba608d9992fcd06301bed9",
-    "doc_name": "uploaded:how-to-use-the-currency-exchange-app.md"
+  "how-to-use-the-facebook-page-app.md": {
+    "hash": "0d278f3076c33e3a3951b193a0d6a0e8b6fcf81354ce50bc6a81e3fa7f769832",
+    "doc_name": "uploaded:how-to-use-the-facebook-page-app.md"
   },
-  "how-to-display-google-slide-in-portrait-mode.md": {
-    "hash": "7455ebb1a161747c433e876183748d987928e159363039cd5cf1638f5828c412",
-    "doc_name": "uploaded:how-to-display-google-slide-in-portrait-mode.md"
+  "how-to-use-the-facebook-counter-app.md": {
+    "hash": "03b9b5dfff897fc724496b80e6eb4a8df2ef3c1e6330c5324b432625f29e6b5d",
+    "doc_name": "uploaded:how-to-use-the-facebook-counter-app.md"
   },
-  "how-to-create-and-use-the-yelp-app.md": {
-    "hash": "d82958927bb13f467c01f3d001c6b5a46a8453c677dc221e58ee9ec2b6c14c4b",
-    "doc_name": "uploaded:how-to-create-and-use-the-yelp-app.md"
+  "feeds-and-how-to-use-them.md": {
+    "hash": "126f526424764534e5ebd333f5cf3212e94e16904545c0208e09e4a83a9b1455",
+    "doc_name": "uploaded:feeds-and-how-to-use-them.md"
   },
-  "how-to-use-the-simple-calendar-app.md": {
-    "hash": "3c3f3a8066979cb0431e6ef8fafbdc6c48f1c917b27beb995cc48dcbd40c04fb",
-    "doc_name": "uploaded:how-to-use-the-simple-calendar-app.md"
+  "how-to-use-the-cbc-news-app.md": {
+    "hash": "42847ee6962a1043f3e80f520b189871b36a017b2bf37fa30e989696319c0936",
+    "doc_name": "uploaded:how-to-use-the-cbc-news-app.md"
   },
-  "pagination.md": {
-    "hash": "452e03338a4c939a76375d9c4aaf37a82d858527af72aa505ef80147419dff66",
-    "doc_name": "uploaded:pagination.md"
+  "how-to-use-facebook-video-app.md": {
+    "hash": "7972114e614d0d9466a67d3b3d2bedddb1d5b35849da85453f938129fbdd694d",
+    "doc_name": "uploaded:how-to-use-facebook-video-app.md"
   },
-  "manually-control-playlist-playback-with-optisigns.md": {
-    "hash": "bdae0eee8de26c282987f1d8b8e02c1f4c9166827d4a391ac666bfdf71426f8d",
-    "doc_name": "uploaded:manually-control-playlist-playback-with-optisigns.md"
+  "host-your-htmljs-or-create-your-own-web-app-with-hosted-website.md": {
+    "hash": "bfb97552f7eee611c211949ab719b3c30b6de0eecdc7c64834f5d62689f68f39",
+    "doc_name": "uploaded:host-your-htmljs-or-create-your-own-web-app-with-hosted-website.md"
   },
-  "how-to-export-high-resolution-canvas-template-designs.md": {
-    "hash": "b84a66bf8a64f803a8e8f7a9f51f14c43e86ba718d0d23f8b491a52d5a2c250b",
-    "doc_name": "uploaded:how-to-export-high-resolution-canvas-template-designs.md"
+  "external-storage-on-optisigns-devices.md": {
+    "hash": "b24798da2f19d664ebc766af085c342cd2f3894fc9fc3bbd6ec46ee71d2b4e14",
+    "doc_name": "uploaded:external-storage-on-optisigns-devices.md"
   },
-  "how-to-create-and-use-nested-playlists.md": {
-    "hash": "33f218443c9aa540350d535dbbd899be3999cb9f39eeb85161af6109fac23114",
-    "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
+  "how-to-use-the-cnn-wall-app.md": {
+    "hash": "8e6070c6de1bc59328ddfec36da99ba0bed7753d452aad7bf36163e75a595f37",
+    "doc_name": "uploaded:how-to-use-the-cnn-wall-app.md"
   },
-  "how-to-create-a-scrolling-strip-or-bar.md": {
-    "hash": "b0e903f533245926fca59b86349fa0bda47649174835a1e459dd782fb644f5aa",
-    "doc_name": "uploaded:how-to-create-a-scrolling-strip-or-bar.md"
+  "how-to-use-the-techcrunch-news-app.md": {
+    "hash": "827de4632d8f78f9584655ff5e72d754a7033f07ab582cd973cf42fa6f50008f",
+    "doc_name": "uploaded:how-to-use-the-techcrunch-news-app.md"
   },
-  "how-can-i-removedelete-uploaded-files-or-assets.md": {
-    "hash": "39845ddded3586ac9dbb0fc22a21c8a8faf3270d8646ed1b38855573af474e39",
-    "doc_name": "uploaded:how-can-i-removedelete-uploaded-files-or-assets.md"
+  "how-to-use-the-stock-app.md": {
+    "hash": "bb64ce1e673bfba72dc4ae5471c0de2cc7bfd682cb9046dabb169ea83c97fe79",
+    "doc_name": "uploaded:how-to-use-the-stock-app.md"
   },
-  "update-optisigns-player-on-optisigns-pro-player-gen-2-via-script.md": {
-    "hash": "4173966e479e7630398f09c1550b81c81b5ad125c9ce278f77b434e0b23dc705",
-    "doc_name": "uploaded:update-optisigns-player-on-optisigns-pro-player-gen-2-via-script.md"
+  "how-to-use-the-motivational-quote-app.md": {
+    "hash": "015fa1add3cab6278fe6a9e05f8e51a3f7d730eacfbbadd77e6d865da51d5e1d",
+    "doc_name": "uploaded:how-to-use-the-motivational-quote-app.md"
   },
-  "showhide-downloading-status-on-your-player.md": {
-    "hash": "8651ed2be8e244303778e50e3ed7753972e956a5361e7b34a553c9cc35910afb",
-    "doc_name": "uploaded:showhide-downloading-status-on-your-player.md"
+  "how-to-use-weather-apps-in-optisigns.md": {
+    "hash": "45d5a62b8c9176e3abf36117efcd45195f3ec6a1b389ba00795f922d942e40b9",
+    "doc_name": "uploaded:how-to-use-weather-apps-in-optisigns.md"
   },
-  "how-to-use-the-crypto-index-crypto-exchange-app.md": {
-    "hash": "bbbc44f5cc4c546a9503aec5c2118c9672b514a62eab41c522ba0d2fa000a66a",
-    "doc_name": "uploaded:how-to-use-the-crypto-index-crypto-exchange-app.md"
-  },
-  "view-billing-history-and-download-receipts.md": {
-    "hash": "5510bb584c06427780a752dbf6d996638978e7a1441628c77f2195076a80a174",
-    "doc_name": "uploaded:view-billing-history-and-download-receipts.md"
+  "how-to-use-the-website-screenshot-app.md": {
+    "hash": "09713d223dcdc377b19eb760ff8b5b71a20e5d52c8741d683f501189ff12ff00",
+    "doc_name": "uploaded:how-to-use-the-website-screenshot-app.md"
   }
 }
