@@ -319,6 +319,10 @@
     "hash": "c3f13e78c6265e10eb609f22b8082893539ab7fe90374a6a991a486b9d85f7fd",
     "doc_name": "uploaded:how-to-add-a-microsoft-365-excel-spreadsheet-as-a-datasource-for-optisync.md"
   },
+  "how-to-add-a-qr-code-in-designs-using-optisigns-designer.md": {
+    "hash": "6346f98c584217137e14fa59b35a16e35fb8b08feb9ab59465c4e083a5df8011",
+    "doc_name": "uploaded:how-to-add-a-qr-code-in-designs-using-optisigns-designer.md"
+  },
   "how-to-add-captions-to-vimeo-videos.md": {
     "hash": "8def5708380c93a21863b4d4ec23fc1c903f8989c9454eb2543a4e02ecf77084",
     "doc_name": "uploaded:how-to-add-captions-to-vimeo-videos.md"
@@ -407,6 +411,10 @@
     "hash": "4972676aeb278bceb0bec08deb82d445a428fb6a47c3b8133a54992a48f5f164",
     "doc_name": "uploaded:how-to-create-a-content-library-kiosk.md"
   },
+  "how-to-create-a-scrolling-strip-or-bar.md": {
+    "hash": "3728d22e514706de6d89683b3877eb277b01c0d442cef2bb57935d24a85b578e",
+    "doc_name": "uploaded:how-to-create-a-scrolling-strip-or-bar.md"
+  },
   "how-to-create-an-attract-screen-for-your-kiosk.md": {
     "hash": "3a0b5ad68ed13fe3662ab801dbe4acf997772fd32a1ff5a1bd6946062a3c944a",
     "doc_name": "uploaded:how-to-create-an-attract-screen-for-your-kiosk.md"
@@ -418,6 +426,14 @@
   "how-to-create-and-use-instagram-wall.md": {
     "hash": "725e3dfd0865060922d558f4b911e4925b00d7c0c5745e3b3ab77c70096ad67a",
     "doc_name": "uploaded:how-to-create-and-use-instagram-wall.md"
+  },
+  "how-to-create-and-use-nested-playlists.md": {
+    "hash": "ab308edb82879d32fdab108281c609cd9242013ac094a42a0f94a7c81fb53513",
+    "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
+  },
+  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
+    "hash": "e71d1572a4b8f2c59fd82ad7372f5c9e3025e5bec84101766cece218e17dbca1",
+    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
   },
   "how-to-create-and-use-qr-code-call-to-action-app.md": {
     "hash": "d598cd0e1f0a0db8ac0a7508f7d81e652d3eac78b41ac972be2e32b2fe3132cc",
@@ -567,6 +583,10 @@
     "hash": "d961441da5bfd4cc4b52d3aee26edcfe7dfd07110d2d62da527d756f2334ae89",
     "doc_name": "uploaded:how-to-install-optisigns-player-on-android-boxes.md"
   },
+  "how-to-install-optisigns-player-on-apple-tv.md": {
+    "hash": "aea453ae47ca538a188719c544bbd2f69c5ae41fde90bcebc147ee541c7ddb6d",
+    "doc_name": "uploaded:how-to-install-optisigns-player-on-apple-tv.md"
+  },
   "how-to-integrate-api-and-publish-api-data-via-optisync.md": {
     "hash": "9e91896205160cdb86be4d84a0a689983da1bf996fc8c54cd39ee5411c34064f",
     "doc_name": "uploaded:how-to-integrate-api-and-publish-api-data-via-optisync.md"
@@ -651,6 +671,10 @@
     "hash": "13f0b0b62e672ff027ca6d65d2e72ee9debd786359eed9bd1b6ebd523c15f009",
     "doc_name": "uploaded:how-to-run-optisigns-ai-add-on-on-start-up-in-windows.md"
   },
+  "how-to-set-an-asset-to-live-or-expire-at-specific-time.md": {
+    "hash": "fb5b15c1760a4c1a6a8a3e28cd20f7b7dacff219641b378a30b3da03aec60a3d",
+    "doc_name": "uploaded:how-to-set-an-asset-to-live-or-expire-at-specific-time.md"
+  },
   "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md": {
     "hash": "9eb1a0b0fede88d229e74193e42a7f559384cca9b9e8060352391dbb2720fcbc",
     "doc_name": "uploaded:how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md"
@@ -694,6 +718,10 @@
   "how-to-set-up-saml-20-with-optisigns-and-oneloginshibboleth.md": {
     "hash": "e9c59f22baa1ec1d57ec242ae2e03d11cf1f88980475d30e30bc4f655bd963fb",
     "doc_name": "uploaded:how-to-set-up-saml-20-with-optisigns-and-oneloginshibboleth.md"
+  },
+  "how-to-setup-aericast-meet-wireless-video-conferencing.md": {
+    "hash": "2b90584cef7438f30121c0507f2cbd1e336b0e4276ad438106c38e77386d5f8f",
+    "doc_name": "uploaded:how-to-setup-aericast-meet-wireless-video-conferencing.md"
   },
   "how-to-setup-wifi-with-optisigns-admin-mobile-app-on-optisigns-pre-configured-an.md": {
     "hash": "2ee40f2541d3a91d2748101abbb1560b0dbdd41cea0b3499e3a151621b68146d",
@@ -758,6 +786,10 @@
   "how-to-use-check-in-app-with-sms-follow-up.md": {
     "hash": "e33fa3369b397e308f6f61ad3762c3af0515439767ef047aab7e297f432da389",
     "doc_name": "uploaded:how-to-use-check-in-app-with-sms-follow-up.md"
+  },
+  "how-to-use-content-tags-in-the-playlist.md": {
+    "hash": "b7d1170700d5cdba610373d703fde04dddb5fd8ad0dc71af270c1154290280d8",
+    "doc_name": "uploaded:how-to-use-content-tags-in-the-playlist.md"
   },
   "how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-desi.md": {
     "hash": "dd4c6f2ef37d3e6977c168c7a1fdc90361b84db5355c4a2797a4a50ade3f8de9",
@@ -907,13 +939,25 @@
     "hash": "96ad821615d71229a499b2c8ea0c30b082310428d9a5e5890a74411b89ba975a",
     "doc_name": "uploaded:how-to-use-optisigns-with-microsoft-teams-rooms.md"
   },
+  "how-to-use-overlay-layers-with-optisigns.md": {
+    "hash": "f3f9fb21611ac7cfa831f0806a65ca4dab5c4d4400cf0640f9324819f1bc2116",
+    "doc_name": "uploaded:how-to-use-overlay-layers-with-optisigns.md"
+  },
   "how-to-use-published-google-slides-with-optisigns-old-way.md": {
     "hash": "d1a25c69bb0e8cc742427f6d13ec080d0f8c33508ce86fd3e89df31bd9ee2b4e",
     "doc_name": "uploaded:how-to-use-published-google-slides-with-optisigns-old-way.md"
   },
+  "how-to-use-qr-overlay-app-in-engage.md": {
+    "hash": "237ec50fb0709ff8bf5d5fa53a3891bf120d3a10dd47af14edeb3f4b00a14963",
+    "doc_name": "uploaded:how-to-use-qr-overlay-app-in-engage.md"
+  },
   "how-to-use-remote-command-execution-windowslinux.md": {
     "hash": "19d5a6a9cf244f91ee6aee0df05795806378118de4b26fc9ab6d8dbb2e8adf1d",
     "doc_name": "uploaded:how-to-use-remote-command-execution-windowslinux.md"
+  },
+  "how-to-use-rss-feeds-with-optisigns.md": {
+    "hash": "59b10325af3e16cb53e8d3dd39daa9d5fccb74536ab4b55bd0f8fa314b52cfa3",
+    "doc_name": "uploaded:how-to-use-rss-feeds-with-optisigns.md"
   },
   "how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns.md": {
     "hash": "cf025b3123f83ce3491c31428eb9a53e24bb731dbd83fafa7aee334d521c49b5",
@@ -922,6 +966,10 @@
   "how-to-use-rtsp-streams-on-optisigns-devices.md": {
     "hash": "e27c7b26271756456c6d9c65ebfe4a5d9a8afebf7f4e93c63f1b6b96fe4758b1",
     "doc_name": "uploaded:how-to-use-rtsp-streams-on-optisigns-devices.md"
+  },
+  "how-to-use-scrolling-website-app.md": {
+    "hash": "bfd189533c7c5b312fe6cd7ffa72356a215474110f757e0951157cbe84fdba7c",
+    "doc_name": "uploaded:how-to-use-scrolling-website-app.md"
   },
   "how-to-use-secured-dashboard-app.md": {
     "hash": "4401a29f8558cbaf38dcd95a3e82e8b99903bf9e66ee9e8b0ccb46bf99b736dc",
@@ -950,6 +998,10 @@
   "how-to-use-the-cnn-wall-app.md": {
     "hash": "52204f4588d18bb3b5b250f37e7784181aa61f769932993b175963f350b37b45",
     "doc_name": "uploaded:how-to-use-the-cnn-wall-app.md"
+  },
+  "how-to-use-the-countdown-app.md": {
+    "hash": "742bf825e3db57642b941fe437b2f90ca16b952835ac04b98e957628d9511706",
+    "doc_name": "uploaded:how-to-use-the-countdown-app.md"
   },
   "how-to-use-the-countup-app.md": {
     "hash": "a65935e46effa36b1f55005cad5acd069c58c832bc418b3f112931c818b6ddc0",
@@ -1007,6 +1059,10 @@
     "hash": "83bfee4b19cc4d27c73d375a13dbb2c96131df7ee8baa1cebf580f5ac74a73b5",
     "doc_name": "uploaded:how-to-use-the-live-tv-with-ads-app.md"
   },
+  "how-to-use-the-local-folder-app-in-optisigns.md": {
+    "hash": "db3023ec2db7c5a297b581765b74db7684877aa98cd2912bebfcf0303bb71477",
+    "doc_name": "uploaded:how-to-use-the-local-folder-app-in-optisigns.md"
+  },
   "how-to-use-the-microsoft-meeting-room-app.md": {
     "hash": "9aadf0ceec7a30c6f22fb342cdf070a663eccda15f5a234e216cea04619afd16",
     "doc_name": "uploaded:how-to-use-the-microsoft-meeting-room-app.md"
@@ -1026,6 +1082,10 @@
   "how-to-use-the-musthavemenus-app-with-optisigns.md": {
     "hash": "d2511a076b063ceec0a632a5f8dab5d06536daade568180afc9c5f56ec842960",
     "doc_name": "uploaded:how-to-use-the-musthavemenus-app-with-optisigns.md"
+  },
+  "how-to-use-the-new-york-times-app.md": {
+    "hash": "9c9c94bae666d2db5ade2394f7ce3c11a1fa926ac3f2bd3604ec80e8f1b98f46",
+    "doc_name": "uploaded:how-to-use-the-new-york-times-app.md"
   },
   "how-to-use-the-news-app.md": {
     "hash": "e66ce5136a2dfb6354f9e854bf9c522dcf3bc01c71b9cb6ed8e447e5a2681aa9",
@@ -1239,6 +1299,10 @@
     "hash": "46a1a9563c7688f013a4e2fb7dc94581fdefce31e602d48fa7919c5eebd85090",
     "doc_name": "uploaded:move-screens-or-devices-from-one-account-to-another.md"
   },
+  "multi-select-assets-in-filesassets-view.md": {
+    "hash": "04bbd93b04ff305b556370d029134587b6175a43acf51af32992b535376fac1e",
+    "doc_name": "uploaded:multi-select-assets-in-filesassets-view.md"
+  },
   "multi-users-invite-your-team-members-to-your-account.md": {
     "hash": "6c7722360c9ef45b4161bb208953de11365693cc3fc942d0564b022e6b5c4c85",
     "doc_name": "uploaded:multi-users-invite-your-team-members-to-your-account.md"
@@ -1403,6 +1467,10 @@
     "hash": "6826c898df539b69a04205968e47c56575b15a1911e8f68aa5060fa3aba41f81",
     "doc_name": "uploaded:shapes-and-elements.md"
   },
+  "sharing-playlists-and-folders-with-external-users.md": {
+    "hash": "b32a5fb7274ba3d6ad0d3e066ed8e84f7c5cb5122713cc8491873793e6d55643",
+    "doc_name": "uploaded:sharing-playlists-and-folders-with-external-users.md"
+  },
   "show-offline-indicator-feature.md": {
     "hash": "ca5bcbbce3470239aa1689d4856ab474bc741c4422f84c01dfc1b910da1b58c0",
     "doc_name": "uploaded:show-offline-indicator-feature.md"
@@ -1446,6 +1514,10 @@
   "theres-no-sounds-output-for-my-raspberry-pi.md": {
     "hash": "f11ee2b6359470e8fda2a1d88f3393ac03159f8db38e9da0ca4830d871e62355",
     "doc_name": "uploaded:theres-no-sounds-output-for-my-raspberry-pi.md"
+  },
+  "tutorial-create-update-add-remove-items-from-playlists.md": {
+    "hash": "de9b8912e71bc25b794094f6eab56531bb5e8dc2ea8f3d6828a6e1fc750ff43f",
+    "doc_name": "uploaded:tutorial-create-update-add-remove-items-from-playlists.md"
   },
   "tutorial-creating-or-updating-website-assets-using-graphql.md": {
     "hash": "42cf98bf47a9b65f88e0ff50cabf6b29fd857a5d6d8ad3a1f92a4f0ccf721d98",
@@ -1550,77 +1622,5 @@
   "your-templates.md": {
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
-  },
-  "how-to-set-an-asset-to-live-or-expire-at-specific-time.md": {
-    "hash": "fb5b15c1760a4c1a6a8a3e28cd20f7b7dacff219641b378a30b3da03aec60a3d",
-    "doc_name": "uploaded:how-to-set-an-asset-to-live-or-expire-at-specific-time.md"
-  },
-  "how-to-setup-aericast-meet-wireless-video-conferencing.md": {
-    "hash": "2b90584cef7438f30121c0507f2cbd1e336b0e4276ad438106c38e77386d5f8f",
-    "doc_name": "uploaded:how-to-setup-aericast-meet-wireless-video-conferencing.md"
-  },
-  "how-to-add-a-qr-code-in-designs-using-optisigns-designer.md": {
-    "hash": "6346f98c584217137e14fa59b35a16e35fb8b08feb9ab59465c4e083a5df8011",
-    "doc_name": "uploaded:how-to-add-a-qr-code-in-designs-using-optisigns-designer.md"
-  },
-  "how-to-create-and-use-nested-playlists.md": {
-    "hash": "ab308edb82879d32fdab108281c609cd9242013ac094a42a0f94a7c81fb53513",
-    "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
-  },
-  "how-to-use-overlay-layers-with-optisigns.md": {
-    "hash": "f3f9fb21611ac7cfa831f0806a65ca4dab5c4d4400cf0640f9324819f1bc2116",
-    "doc_name": "uploaded:how-to-use-overlay-layers-with-optisigns.md"
-  },
-  "how-to-install-optisigns-player-on-apple-tv.md": {
-    "hash": "aea453ae47ca538a188719c544bbd2f69c5ae41fde90bcebc147ee541c7ddb6d",
-    "doc_name": "uploaded:how-to-install-optisigns-player-on-apple-tv.md"
-  },
-  "how-to-use-qr-overlay-app-in-engage.md": {
-    "hash": "237ec50fb0709ff8bf5d5fa53a3891bf120d3a10dd47af14edeb3f4b00a14963",
-    "doc_name": "uploaded:how-to-use-qr-overlay-app-in-engage.md"
-  },
-  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
-    "hash": "e71d1572a4b8f2c59fd82ad7372f5c9e3025e5bec84101766cece218e17dbca1",
-    "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
-  },
-  "how-to-use-content-tags-in-the-playlist.md": {
-    "hash": "b7d1170700d5cdba610373d703fde04dddb5fd8ad0dc71af270c1154290280d8",
-    "doc_name": "uploaded:how-to-use-content-tags-in-the-playlist.md"
-  },
-  "how-to-create-a-scrolling-strip-or-bar.md": {
-    "hash": "3728d22e514706de6d89683b3877eb277b01c0d442cef2bb57935d24a85b578e",
-    "doc_name": "uploaded:how-to-create-a-scrolling-strip-or-bar.md"
-  },
-  "how-to-use-scrolling-website-app.md": {
-    "hash": "bfd189533c7c5b312fe6cd7ffa72356a215474110f757e0951157cbe84fdba7c",
-    "doc_name": "uploaded:how-to-use-scrolling-website-app.md"
-  },
-  "how-to-use-rss-feeds-with-optisigns.md": {
-    "hash": "59b10325af3e16cb53e8d3dd39daa9d5fccb74536ab4b55bd0f8fa314b52cfa3",
-    "doc_name": "uploaded:how-to-use-rss-feeds-with-optisigns.md"
-  },
-  "how-to-use-the-new-york-times-app.md": {
-    "hash": "9c9c94bae666d2db5ade2394f7ce3c11a1fa926ac3f2bd3604ec80e8f1b98f46",
-    "doc_name": "uploaded:how-to-use-the-new-york-times-app.md"
-  },
-  "how-to-use-the-local-folder-app-in-optisigns.md": {
-    "hash": "db3023ec2db7c5a297b581765b74db7684877aa98cd2912bebfcf0303bb71477",
-    "doc_name": "uploaded:how-to-use-the-local-folder-app-in-optisigns.md"
-  },
-  "how-to-use-the-countdown-app.md": {
-    "hash": "742bf825e3db57642b941fe437b2f90ca16b952835ac04b98e957628d9511706",
-    "doc_name": "uploaded:how-to-use-the-countdown-app.md"
-  },
-  "sharing-playlists-and-folders-with-external-users.md": {
-    "hash": "b32a5fb7274ba3d6ad0d3e066ed8e84f7c5cb5122713cc8491873793e6d55643",
-    "doc_name": "uploaded:sharing-playlists-and-folders-with-external-users.md"
-  },
-  "tutorial-create-update-add-remove-items-from-playlists.md": {
-    "hash": "de9b8912e71bc25b794094f6eab56531bb5e8dc2ea8f3d6828a6e1fc750ff43f",
-    "doc_name": "uploaded:tutorial-create-update-add-remove-items-from-playlists.md"
-  },
-  "multi-select-assets-in-filesassets-view.md": {
-    "hash": "04bbd93b04ff305b556370d029134587b6175a43acf51af32992b535376fac1e",
-    "doc_name": "uploaded:multi-select-assets-in-filesassets-view.md"
   }
 }
