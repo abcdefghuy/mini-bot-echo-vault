@@ -559,10 +559,6 @@
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
   },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "c6a6e57ce6e6d8495954bbcebd6adf1a17da88d6cf734fe57d0d04d590001cc7",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
-  },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
     "doc_name": "uploaded:how-to-install-optisigns-as-an-apk-file-on-android-devices.md"
@@ -1359,10 +1355,6 @@
     "hash": "006874e2126d855ed2f2831cfb0a5e14ecaab71b0b20a82ce594596825882a25",
     "doc_name": "uploaded:optistick-troubleshooting-guide.md"
   },
-  "optistick.md": {
-    "hash": "9bfd27475d97b2c1bd0688abd66285ea010c503de6533fb522bcff897a154dda",
-    "doc_name": "uploaded:optistick.md"
-  },
   "organizing-your-files-assets-playlists-and-schedules-by-using-folders.md": {
     "hash": "aaca6995bdd6129ba189f217e24f2ef1ac2b729c18603f8c5761ea6e5b0c377b",
     "doc_name": "uploaded:organizing-your-files-assets-playlists-and-schedules-by-using-folders.md"
@@ -1622,5 +1614,13 @@
   "your-templates.md": {
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "472a4bc48ed3d833c08eaf0430b093762535e136a6aa1aa48af891bed1a01d79",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
+  },
+  "optistick.md": {
+    "hash": "7a8b368b52934030b88cf309e43923289125fbf75aa1bd890b85dcfb577f94ab",
+    "doc_name": "uploaded:optistick.md"
   }
 }
