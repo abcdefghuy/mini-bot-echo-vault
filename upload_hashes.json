@@ -107,6 +107,10 @@
     "hash": "c91c903d3c7385336ae10b6790e51cd73430f020805598298fae0a87c5ff2cc1",
     "doc_name": "uploaded:brightsign-players.md"
   },
+  "build-integrations-using-the-optisigns-enterprise-app.md": {
+    "hash": "53705bdf92078989314ba285180eb15c177b8ff3c3be8cfc66f5e501a084f806",
+    "doc_name": "uploaded:build-integrations-using-the-optisigns-enterprise-app.md"
+  },
   "can-i-disable-the-download-button-for-assets.md": {
     "hash": "6969a818e1df39677993ea5cfb607cb79ef5bba17ef0c2f2020fc26cd86e9945",
     "doc_name": "uploaded:can-i-disable-the-download-button-for-assets.md"
@@ -603,6 +607,10 @@
     "hash": "b7c09401d61068a6e168851101fc136b981211806d4fbbebc46778d2b6aefe35",
     "doc_name": "uploaded:how-to-lockdown-ipadsingle-app-with-guided-accessibility.md"
   },
+  "how-to-manage-and-edit-your-playlist-settings.md": {
+    "hash": "1296d8cbaf67daa01f765366cdfcfe688c15e4f07fb6238827a861930685cac1",
+    "doc_name": "uploaded:how-to-manage-and-edit-your-playlist-settings.md"
+  },
   "how-to-manage-sub-account-billing-with-optisigns.md": {
     "hash": "701d0b3a4153c1fdaa628fa2342209bf90cdf2137be85af970a067a7b84086c3",
     "doc_name": "uploaded:how-to-manage-sub-account-billing-with-optisigns.md"
@@ -779,6 +787,10 @@
     "hash": "e33fa3369b397e308f6f61ad3762c3af0515439767ef047aab7e297f432da389",
     "doc_name": "uploaded:how-to-use-check-in-app-with-sms-follow-up.md"
   },
+  "how-to-use-content-tags-in-the-playlist.md": {
+    "hash": "4eccf0a2b6bbacc40d67555a023d024ebb30d576fc2b2ee0f50d1235e2371465",
+    "doc_name": "uploaded:how-to-use-content-tags-in-the-playlist.md"
+  },
   "how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-desi.md": {
     "hash": "dd4c6f2ef37d3e6977c168c7a1fdc90361b84db5355c4a2797a4a50ade3f8de9",
     "doc_name": "uploaded:how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-desi.md"
@@ -823,17 +835,9 @@
     "hash": "049753bc573245a2498fa7a01693d211e41554ca8b005976a0f94378a38c487f",
     "doc_name": "uploaded:how-to-use-google-drive-app.md"
   },
-  "how-to-use-google-sheets-with-optisigns.md": {
-    "hash": "d9d6f86d7fc2f75ac3f74a3d39d722177dc380b2d708542c8edaef4c8a79da14",
-    "doc_name": "uploaded:how-to-use-google-sheets-with-optisigns.md"
-  },
   "how-to-use-google-slides-with-optisigns.md": {
     "hash": "bad6a8da461d0d0fc23569eb79ea48c39318c01740fb4fef334d9f6f47b5d87d",
     "doc_name": "uploaded:how-to-use-google-slides-with-optisigns.md"
-  },
-  "how-to-use-google-traffic-app.md": {
-    "hash": "589ccedb8786abddcfc3c6e4079d1d6e6b5f698088d1b1073d000a5bf348d344",
-    "doc_name": "uploaded:how-to-use-google-traffic-app.md"
   },
   "how-to-use-google-trends-app.md": {
     "hash": "380d949d45227d4503127e994d056047122481faa36d94725417d4dfebda74d9",
@@ -963,6 +967,10 @@
     "hash": "464cc0ea18e38ee5756d396dddf3b5b5f1b148f032fe973aa6586210dbee70dd",
     "doc_name": "uploaded:how-to-use-slack-app.md"
   },
+  "how-to-use-streaming-app-with-optisigns.md": {
+    "hash": "5871ad0953e0523223ccc630836996ad7c1714ec6e3afa38eeafe6ebf4ad7cbf",
+    "doc_name": "uploaded:how-to-use-streaming-app-with-optisigns.md"
+  },
   "how-to-use-the-calendar-mix-app.md": {
     "hash": "25e9655dd6f81b60b5d5876f18e2bd46f3bf44999643d36a01fcdd810e2e66cd",
     "doc_name": "uploaded:how-to-use-the-calendar-mix-app.md"
@@ -998,6 +1006,10 @@
   "how-to-use-the-data-studio-app.md": {
     "hash": "37a1a77e7633d3fd4ccbfeffa808d09aa9b02ef245e6d93862aaf0e30680d278",
     "doc_name": "uploaded:how-to-use-the-data-studio-app.md"
+  },
+  "how-to-use-the-emergency-feed-app.md": {
+    "hash": "452ff287103bb93df39f890f9345f107b4647889e460e1985be6f736238c36cc",
+    "doc_name": "uploaded:how-to-use-the-emergency-feed-app.md"
   },
   "how-to-use-the-espn-news-app.md": {
     "hash": "8bf863e68d74f2d9ab20473637a34cfee3363843687166e73fec98a42f1790ac",
@@ -1066,6 +1078,10 @@
   "how-to-use-the-news-app.md": {
     "hash": "e66ce5136a2dfb6354f9e854bf9c522dcf3bc01c71b9cb6ed8e447e5a2681aa9",
     "doc_name": "uploaded:how-to-use-the-news-app.md"
+  },
+  "how-to-use-the-on-this-day-app.md": {
+    "hash": "5dfce405af7430bb989b9a75e78325cb6cc02027e6cef42182f0e00fca1e80c1",
+    "doc_name": "uploaded:how-to-use-the-on-this-day-app.md"
   },
   "how-to-use-the-onedrive-app.md": {
     "hash": "81e4458803d4fbb03fe474fc2b9d30d33eb9cecee947e6ddbd62b66db10133b4",
@@ -1139,6 +1155,10 @@
     "hash": "e8a95e87e1de244d8db32d15b93ed08b9b4f715045cf1e8c92873939f675d5cd",
     "doc_name": "uploaded:how-to-use-the-youtube-dashboard-app.md"
   },
+  "how-to-use-the-youtube-playlist-app-with-optisigns.md": {
+    "hash": "046408a5bcc24aa931c51523650f2ca8672479fbf6a96349ebb76f3b12dee397",
+    "doc_name": "uploaded:how-to-use-the-youtube-playlist-app-with-optisigns.md"
+  },
   "how-to-use-toast-api-data-with-optisigns.md": {
     "hash": "479bcc566493a53076e12cdba43927d7e9ea577d8b6430b8435512fd28889255",
     "doc_name": "uploaded:how-to-use-toast-api-data-with-optisigns.md"
@@ -1186,10 +1206,6 @@
   "how-to-use-youtube-live-with-optisigns.md": {
     "hash": "f1994f4feaeea188243ad374e695cb89b5d547e6a03a33d71f4eb80f569ac234",
     "doc_name": "uploaded:how-to-use-youtube-live-with-optisigns.md"
-  },
-  "how-to-use-youtube-with-optisigns.md": {
-    "hash": "76e4846210d2f76a0cd860c7a01b9cf4202d8ad48fd7ce33011ba9373efb3208",
-    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
   },
   "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md": {
     "hash": "b6aee2d6a8b9dac15a75f4f8672c00a39536376c8a05eb7dbe60c46278d53606",
@@ -1310,6 +1326,10 @@
   "optisigns-getting-started-guide.md": {
     "hash": "addcc8da2246b1cb8458f0109ac79d8d2c3a44e447818185af7b7622877955ba",
     "doc_name": "uploaded:optisigns-getting-started-guide.md"
+  },
+  "optisigns-iot-sensor-add-on-quick-start.md": {
+    "hash": "cc66d6230f8699e5f9848377e5a74a9a38c713f8b25d1b642240b2cefa9dddec",
+    "doc_name": "uploaded:optisigns-iot-sensor-add-on-quick-start.md"
   },
   "optisigns-pro-player-advanced-features.md": {
     "hash": "a919156c1b435715e74375001ba8bc1d7f72c7747830c6c49ef831df0ea537a3",
@@ -1443,6 +1463,10 @@
     "hash": "ca5bcbbce3470239aa1689d4856ab474bc741c4422f84c01dfc1b910da1b58c0",
     "doc_name": "uploaded:show-offline-indicator-feature.md"
   },
+  "show-youtube-videos-subtitleclosed-caption.md": {
+    "hash": "b99cd84dca09b423d239f90c5e6c813f6e84a211b5d4792297143ca7c5608bc3",
+    "doc_name": "uploaded:show-youtube-videos-subtitleclosed-caption.md"
+  },
   "showhide-downloading-status-on-your-player.md": {
     "hash": "a672655a750101781639be7c9318aa7e829791bbe4808269839ff78d44e651e6",
     "doc_name": "uploaded:showhide-downloading-status-on-your-player.md"
@@ -1507,6 +1531,10 @@
     "hash": "a1524949c0964bbefa38cd0b3536c32370c8172d892d7e6a110d0e65418d6526",
     "doc_name": "uploaded:using-an-enterprise-network-8021x-with-optisigns.md"
   },
+  "using-rs232-to-schedule-tv-power-onoff-or-other-commands.md": {
+    "hash": "ddadc02508d3974d7daa7c673cd9f0654a9c2caca67e2a3b448fad1c1ea7c494",
+    "doc_name": "uploaded:using-rs232-to-schedule-tv-power-onoff-or-other-commands.md"
+  },
   "using-the-japan-earthquake-app.md": {
     "hash": "d4c6e6740a56e74c386c4b53786004802ce7aaf5f25d6eeba0d9cc3ab3b6aa20",
     "doc_name": "uploaded:using-the-japan-earthquake-app.md"
@@ -1534,6 +1562,10 @@
   "what-happen-if-internet-connection-is-lost.md": {
     "hash": "78606e402e8e1840aa7185ab041f73e113bbd2a27f9457b7b2749d357d88936a",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
+  },
+  "what-hardware-and-devices-are-supported.md": {
+    "hash": "8db93c2a4817398ef83b9ace9b6f8463ec93926b417d80c7c824cd9b7fa2d333",
+    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
   },
   "what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md": {
     "hash": "28e9802d5311e9ebfc6361793b9d1e977ede2576a5d0917370ce0bffea2d5ea8",
@@ -1579,48 +1611,28 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-use-the-youtube-playlist-app-with-optisigns.md": {
-    "hash": "046408a5bcc24aa931c51523650f2ca8672479fbf6a96349ebb76f3b12dee397",
-    "doc_name": "uploaded:how-to-use-the-youtube-playlist-app-with-optisigns.md"
+  "how-to-use-google-traffic-app.md": {
+    "hash": "b6d1249573c376385cab4a846b76bda13069c2a2c9b2225cce118d07895792ff",
+    "doc_name": "uploaded:how-to-use-google-traffic-app.md"
   },
-  "how-to-use-streaming-app-with-optisigns.md": {
-    "hash": "5871ad0953e0523223ccc630836996ad7c1714ec6e3afa38eeafe6ebf4ad7cbf",
-    "doc_name": "uploaded:how-to-use-streaming-app-with-optisigns.md"
+  "how-to-use-google-sheets-with-optisigns.md": {
+    "hash": "0363253fe066ed66f6da55e1c71182842c4ac5f61a75bd79ea369ffe2a9e52ef",
+    "doc_name": "uploaded:how-to-use-google-sheets-with-optisigns.md"
   },
-  "how-to-use-the-emergency-feed-app.md": {
-    "hash": "452ff287103bb93df39f890f9345f107b4647889e460e1985be6f736238c36cc",
-    "doc_name": "uploaded:how-to-use-the-emergency-feed-app.md"
+  "broadcast-send-scheduled-snapshots-of-your-dashboards.md": {
+    "hash": "8c2f5b83f00ec05f577a1883cc19558832e34a07bb48b92af835ca9aed28aafb",
+    "doc_name": "uploaded:broadcast-send-scheduled-snapshots-of-your-dashboards.md"
   },
-  "how-to-use-the-on-this-day-app.md": {
-    "hash": "5dfce405af7430bb989b9a75e78325cb6cc02027e6cef42182f0e00fca1e80c1",
-    "doc_name": "uploaded:how-to-use-the-on-this-day-app.md"
+  "connect-sharepoint-news-to-optisigns-digital-signage.md": {
+    "hash": "9f10db237778d7a7cd85617d717d8d407ad8f1493a80b271d1366e060a190458",
+    "doc_name": "uploaded:connect-sharepoint-news-to-optisigns-digital-signage.md"
   },
-  "using-rs232-to-schedule-tv-power-onoff-or-other-commands.md": {
-    "hash": "ddadc02508d3974d7daa7c673cd9f0654a9c2caca67e2a3b448fad1c1ea7c494",
-    "doc_name": "uploaded:using-rs232-to-schedule-tv-power-onoff-or-other-commands.md"
+  "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md": {
+    "hash": "6245d1e888ee30dfde9ad61a6fd0ef563c103139ec3d026b7912f350fed0c0c2",
+    "doc_name": "uploaded:how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md"
   },
-  "how-to-use-content-tags-in-the-playlist.md": {
-    "hash": "4eccf0a2b6bbacc40d67555a023d024ebb30d576fc2b2ee0f50d1235e2371465",
-    "doc_name": "uploaded:how-to-use-content-tags-in-the-playlist.md"
-  },
-  "build-integrations-using-the-optisigns-enterprise-app.md": {
-    "hash": "53705bdf92078989314ba285180eb15c177b8ff3c3be8cfc66f5e501a084f806",
-    "doc_name": "uploaded:build-integrations-using-the-optisigns-enterprise-app.md"
-  },
-  "show-youtube-videos-subtitleclosed-caption.md": {
-    "hash": "b99cd84dca09b423d239f90c5e6c813f6e84a211b5d4792297143ca7c5608bc3",
-    "doc_name": "uploaded:show-youtube-videos-subtitleclosed-caption.md"
-  },
-  "optisigns-iot-sensor-add-on-quick-start.md": {
-    "hash": "cc66d6230f8699e5f9848377e5a74a9a38c713f8b25d1b642240b2cefa9dddec",
-    "doc_name": "uploaded:optisigns-iot-sensor-add-on-quick-start.md"
-  },
-  "how-to-manage-and-edit-your-playlist-settings.md": {
-    "hash": "1296d8cbaf67daa01f765366cdfcfe688c15e4f07fb6238827a861930685cac1",
-    "doc_name": "uploaded:how-to-manage-and-edit-your-playlist-settings.md"
-  },
-  "what-hardware-and-devices-are-supported.md": {
-    "hash": "8db93c2a4817398ef83b9ace9b6f8463ec93926b417d80c7c824cd9b7fa2d333",
-    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
+  "how-to-use-youtube-with-optisigns.md": {
+    "hash": "1db17290f2204a608f598bf755846f11cc3a1baa264d9f4ce0c92e80465d67af",
+    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
   }
 }
