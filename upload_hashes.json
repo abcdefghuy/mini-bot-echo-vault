@@ -107,6 +107,10 @@
     "hash": "c91c903d3c7385336ae10b6790e51cd73430f020805598298fae0a87c5ff2cc1",
     "doc_name": "uploaded:brightsign-players.md"
   },
+  "broadcast-send-scheduled-snapshots-of-your-dashboards.md": {
+    "hash": "8c2f5b83f00ec05f577a1883cc19558832e34a07bb48b92af835ca9aed28aafb",
+    "doc_name": "uploaded:broadcast-send-scheduled-snapshots-of-your-dashboards.md"
+  },
   "build-integrations-using-the-optisigns-enterprise-app.md": {
     "hash": "53705bdf92078989314ba285180eb15c177b8ff3c3be8cfc66f5e501a084f806",
     "doc_name": "uploaded:build-integrations-using-the-optisigns-enterprise-app.md"
@@ -535,6 +539,10 @@
     "hash": "7f61f8ed81517b6e2a5544dd67c20aff7d1df56a8301f0033b9b2a2d7d7ca2c5",
     "doc_name": "uploaded:how-to-fix-the-scaling-issue-on-optisigns-android-device.md"
   },
+  "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md": {
+    "hash": "6245d1e888ee30dfde9ad61a6fd0ef563c103139ec3d026b7912f350fed0c0c2",
+    "doc_name": "uploaded:how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md"
+  },
   "how-to-get-google-review-link.md": {
     "hash": "c7087ba88163d969562a2f1c44bc8574104b0f79166730bc981a5ba244fe5227",
     "doc_name": "uploaded:how-to-get-google-review-link.md"
@@ -835,13 +843,17 @@
     "hash": "049753bc573245a2498fa7a01693d211e41554ca8b005976a0f94378a38c487f",
     "doc_name": "uploaded:how-to-use-google-drive-app.md"
   },
+  "how-to-use-google-sheets-with-optisigns.md": {
+    "hash": "0363253fe066ed66f6da55e1c71182842c4ac5f61a75bd79ea369ffe2a9e52ef",
+    "doc_name": "uploaded:how-to-use-google-sheets-with-optisigns.md"
+  },
   "how-to-use-google-slides-with-optisigns.md": {
     "hash": "bad6a8da461d0d0fc23569eb79ea48c39318c01740fb4fef334d9f6f47b5d87d",
     "doc_name": "uploaded:how-to-use-google-slides-with-optisigns.md"
   },
-  "how-to-use-google-trends-app.md": {
-    "hash": "380d949d45227d4503127e994d056047122481faa36d94725417d4dfebda74d9",
-    "doc_name": "uploaded:how-to-use-google-trends-app.md"
+  "how-to-use-google-traffic-app.md": {
+    "hash": "b6d1249573c376385cab4a846b76bda13069c2a2c9b2225cce118d07895792ff",
+    "doc_name": "uploaded:how-to-use-google-traffic-app.md"
   },
   "how-to-use-hdmi-other-video-input-sources-in-with-optisigns.md": {
     "hash": "0fb20edd21d0e9656a3b63766dc33f2d3388b722a48547cbbaa17f0c98518194",
@@ -1206,6 +1218,10 @@
   "how-to-use-youtube-live-with-optisigns.md": {
     "hash": "f1994f4feaeea188243ad374e695cb89b5d547e6a03a33d71f4eb80f569ac234",
     "doc_name": "uploaded:how-to-use-youtube-live-with-optisigns.md"
+  },
+  "how-to-use-youtube-with-optisigns.md": {
+    "hash": "1db17290f2204a608f598bf755846f11cc3a1baa264d9f4ce0c92e80465d67af",
+    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
   },
   "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md": {
     "hash": "b6aee2d6a8b9dac15a75f4f8672c00a39536376c8a05eb7dbe60c46278d53606",
@@ -1611,28 +1627,12 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-use-google-traffic-app.md": {
-    "hash": "b6d1249573c376385cab4a846b76bda13069c2a2c9b2225cce118d07895792ff",
-    "doc_name": "uploaded:how-to-use-google-traffic-app.md"
-  },
-  "how-to-use-google-sheets-with-optisigns.md": {
-    "hash": "0363253fe066ed66f6da55e1c71182842c4ac5f61a75bd79ea369ffe2a9e52ef",
-    "doc_name": "uploaded:how-to-use-google-sheets-with-optisigns.md"
-  },
-  "broadcast-send-scheduled-snapshots-of-your-dashboards.md": {
-    "hash": "8c2f5b83f00ec05f577a1883cc19558832e34a07bb48b92af835ca9aed28aafb",
-    "doc_name": "uploaded:broadcast-send-scheduled-snapshots-of-your-dashboards.md"
-  },
   "connect-sharepoint-news-to-optisigns-digital-signage.md": {
-    "hash": "9f10db237778d7a7cd85617d717d8d407ad8f1493a80b271d1366e060a190458",
+    "hash": "ab562d0cfda1f381c5fbc488b1b62d3ca41baf75070d18edbc5f5b4021a14a1b",
     "doc_name": "uploaded:connect-sharepoint-news-to-optisigns-digital-signage.md"
   },
-  "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md": {
-    "hash": "6245d1e888ee30dfde9ad61a6fd0ef563c103139ec3d026b7912f350fed0c0c2",
-    "doc_name": "uploaded:how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md"
-  },
-  "how-to-use-youtube-with-optisigns.md": {
-    "hash": "1db17290f2204a608f598bf755846f11cc3a1baa264d9f4ce0c92e80465d67af",
-    "doc_name": "uploaded:how-to-use-youtube-with-optisigns.md"
+  "how-to-use-google-trends-app.md": {
+    "hash": "b6957e5c40e40d713b42ac265404148331b7f4a4cc05e4cabceab9dd8f153c8d",
+    "doc_name": "uploaded:how-to-use-google-trends-app.md"
   }
 }
