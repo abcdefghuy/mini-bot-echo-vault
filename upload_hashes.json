@@ -83,10 +83,6 @@
     "hash": "b0f73582ae9569277e595849d74e690faf6d33c1f75eec7fbd5930c9cdf0f630",
     "doc_name": "uploaded:apple-tv-player-release-notes-limitations.md"
   },
-  "assign-content-to-your-screens.md": {
-    "hash": "4830e083e1a75785bdd6e95e980ad13f92c8063826628dad030c8f6cae32cbc2",
-    "doc_name": "uploaded:assign-content-to-your-screens.md"
-  },
   "assign-default-content-for-schedules.md": {
     "hash": "0ed04de5092a3edda5dd228fd9bf177603ea09c294480dd2c975c8c147c29512",
     "doc_name": "uploaded:assign-default-content-for-schedules.md"
@@ -127,10 +123,6 @@
     "hash": "d851940f980893fcf9bcf70734db4930e5e66f76ecbc3054e06d703a172287c0",
     "doc_name": "uploaded:cannot-find-the-optisigns-app-on-your-samsung-smart-tv.md"
   },
-  "changing-screens-orientation-portrait-landscape.md": {
-    "hash": "edc3ef0fa67aa9fe74ee94b2853324ac181035ef677c42f527271c71248d6784",
-    "doc_name": "uploaded:changing-screens-orientation-portrait-landscape.md"
-  },
   "chromeos-pwa-instructions.md": {
     "hash": "b39b73729dbd17f17b543c27edf4a487061f99830bb62bb2441d855583721f11",
     "doc_name": "uploaded:chromeos-pwa-instructions.md"
@@ -158,6 +150,10 @@
   "connect-microsoft-teams-rooms-to-optisigns-digital-signage.md": {
     "hash": "310224ebe955368a2253fb9160a272f7d65176e287fe52d578823c82de598313",
     "doc_name": "uploaded:connect-microsoft-teams-rooms-to-optisigns-digital-signage.md"
+  },
+  "connect-sharepoint-news-to-optisigns-digital-signage.md": {
+    "hash": "ab562d0cfda1f381c5fbc488b1b62d3ca41baf75070d18edbc5f5b4021a14a1b",
+    "doc_name": "uploaded:connect-sharepoint-news-to-optisigns-digital-signage.md"
   },
   "connect-zoom-rooms-to-optisigns-digital-signage.md": {
     "hash": "9b250084d0402c56ecf9eafe41793b71b65b071d1609c68dda682d4e0a7a272e",
@@ -659,10 +655,6 @@
     "hash": "9f64e9fb1935d2d3fb47320e6b6f90c4569e98ca3de6a612d963e7e09e0cfbc2",
     "doc_name": "uploaded:how-to-preview-a-screen.md"
   },
-  "how-to-put-live-tv-on-your-screens-with-optisigns.md": {
-    "hash": "2d5fc7c354a71ef18e8a6cd0503145a67eb5151b0e50b0ccc6aaa948962cc064",
-    "doc_name": "uploaded:how-to-put-live-tv-on-your-screens-with-optisigns.md"
-  },
   "how-to-put-zendesk-dashboard-on-your-signs.md": {
     "hash": "55a6dea9185d1e7ea90fe8e359378ac3421b6f9e2ae7bbaa764eabee06c16a87",
     "doc_name": "uploaded:how-to-put-zendesk-dashboard-on-your-signs.md"
@@ -854,6 +846,10 @@
   "how-to-use-google-traffic-app.md": {
     "hash": "b6d1249573c376385cab4a846b76bda13069c2a2c9b2225cce118d07895792ff",
     "doc_name": "uploaded:how-to-use-google-traffic-app.md"
+  },
+  "how-to-use-google-trends-app.md": {
+    "hash": "b6957e5c40e40d713b42ac265404148331b7f4a4cc05e4cabceab9dd8f153c8d",
+    "doc_name": "uploaded:how-to-use-google-trends-app.md"
   },
   "how-to-use-hdmi-other-video-input-sources-in-with-optisigns.md": {
     "hash": "0fb20edd21d0e9656a3b63766dc33f2d3388b722a48547cbbaa17f0c98518194",
@@ -1599,10 +1595,6 @@
     "hash": "429d7f88fc7691a445fcfa60eeb374bc29aa07e4c2346ce557d59a7baa439fcd",
     "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
-  "whitelist-optisigns-ip-addresses-ports.md": {
-    "hash": "ca5a9d766bb707de6216da0d3b1900ea0eaf7576ca09493b8959aba0bed0ed54",
-    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
-  },
   "why-does-my-screen-show-as-offline-on-the-web-portal.md": {
     "hash": "ab6dd80ed0a86160780791a781cdab485e123acd41de6536fd945809f083c8a8",
     "doc_name": "uploaded:why-does-my-screen-show-as-offline-on-the-web-portal.md"
@@ -1627,12 +1619,20 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "connect-sharepoint-news-to-optisigns-digital-signage.md": {
-    "hash": "ab562d0cfda1f381c5fbc488b1b62d3ca41baf75070d18edbc5f5b4021a14a1b",
-    "doc_name": "uploaded:connect-sharepoint-news-to-optisigns-digital-signage.md"
+  "assign-content-to-your-screens.md": {
+    "hash": "cd37b7a07d8632a7e7522c9b8416e9886ecca0bec140e40911975d800a9fb95f",
+    "doc_name": "uploaded:assign-content-to-your-screens.md"
   },
-  "how-to-use-google-trends-app.md": {
-    "hash": "b6957e5c40e40d713b42ac265404148331b7f4a4cc05e4cabceab9dd8f153c8d",
-    "doc_name": "uploaded:how-to-use-google-trends-app.md"
+  "whitelist-optisigns-ip-addresses-ports.md": {
+    "hash": "97940593dd4e654b396dfc86f620a75e6e08095dbce239845a1b3a2733ce2570",
+    "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
+  },
+  "changing-screens-orientation-portrait-landscape.md": {
+    "hash": "ec58a40dcb996310d3b9799a3a1f35b8b3094d293b4eb6ee905c0c4e475b14ac",
+    "doc_name": "uploaded:changing-screens-orientation-portrait-landscape.md"
+  },
+  "how-to-put-live-tv-on-your-screens-with-optisigns.md": {
+    "hash": "1305c95ae6031120ffb56fec315651989bca420a03432473883cf26ff2e498c9",
+    "doc_name": "uploaded:how-to-put-live-tv-on-your-screens-with-optisigns.md"
   }
 }
