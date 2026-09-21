@@ -143,10 +143,6 @@
     "hash": "cb1a4694ca975d8db85fbee81ac22da98bb29175571926b0eada3cc13057623b",
     "doc_name": "uploaded:clean-install-optisigns-on-raspberry-pilinux.md"
   },
-  "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md": {
-    "hash": "908f7ea81030dced46c4843253ffeb652773de5c83a7ff92d640ae49b92f08e8",
-    "doc_name": "uploaded:configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md"
-  },
   "connect-cisco-webex-rooms-to-optisigns-digital-signage.md": {
     "hash": "0cfeb60044f4175c2a3e25a65f2f164cfe3c588f339fe2f892d2aad1527ca4ed",
     "doc_name": "uploaded:connect-cisco-webex-rooms-to-optisigns-digital-signage.md"
@@ -698,10 +694,6 @@
   "how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md": {
     "hash": "db2c81e62724258837238bbb5a17d40bcbf88020ded88d242a480d73902694b3",
     "doc_name": "uploaded:how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md"
-  },
-  "how-to-set-up-audit-log-for-your-account.md": {
-    "hash": "2d90bb01ccca6cd26fc43734539fcf413a30bf740139061a0126b97f44b9aa5f",
-    "doc_name": "uploaded:how-to-set-up-audit-log-for-your-account.md"
   },
   "how-to-set-up-dynamic-data-mapping-with-optisync.md": {
     "hash": "5c23fa9862a591983404149906583ec2f232e15a180c963200274ed9a1e8e34e",
@@ -1319,10 +1311,6 @@
     "hash": "6c7722360c9ef45b4161bb208953de11365693cc3fc942d0564b022e6b5c4c85",
     "doc_name": "uploaded:multi-users-invite-your-team-members-to-your-account.md"
   },
-  "multilingual-and-multi-currency.md": {
-    "hash": "b7af1c92c8c9c9a5568a49a76025d1efa1d85066cb2ee9de069be176d4b49701",
-    "doc_name": "uploaded:multilingual-and-multi-currency.md"
-  },
   "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md": {
     "hash": "5b32768db277a77b2a56c9d717211e559bb5e08545f72579455ededb00a92a63",
     "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md"
@@ -1354,10 +1342,6 @@
   "optisigns-iot-sensor-add-on-quick-start.md": {
     "hash": "cc66d6230f8699e5f9848377e5a74a9a38c713f8b25d1b642240b2cefa9dddec",
     "doc_name": "uploaded:optisigns-iot-sensor-add-on-quick-start.md"
-  },
-  "optisigns-pro-player-advanced-features.md": {
-    "hash": "a919156c1b435715e74375001ba8bc1d7f72c7747830c6c49ef831df0ea537a3",
-    "doc_name": "uploaded:optisigns-pro-player-advanced-features.md"
   },
   "optisigns-propromax-player-troubleshooting-guide.md": {
     "hash": "ffd0c73c7cbb345886dfc430e31403f0828d86c255d5dbf65ef70d17969e1082",
@@ -1634,5 +1618,25 @@
   "your-templates.md": {
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md": {
+    "hash": "802bc28bb0b701adb33fb62c036bfb512d3afb5682d8e19184f1a6154b56671e",
+    "doc_name": "uploaded:configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md"
+  },
+  "setting-up-audit-logging.md": {
+    "hash": "12bba0afbd22ff15bb4c771bd21d9d9d17e4e8dd975a8ee71a586f2dde03146e",
+    "doc_name": "uploaded:setting-up-audit-logging.md"
+  },
+  "using-the-japan-transit-app.md": {
+    "hash": "9efed3fc3e322503729471207c8cc6cecf16ae38dee9a5daeeedafc9463ab85c",
+    "doc_name": "uploaded:using-the-japan-transit-app.md"
+  },
+  "multilingual-and-multi-currency-options.md": {
+    "hash": "96810accc048bb33de706dde2c3864ce58b0eee20809616f2c970354e4440236",
+    "doc_name": "uploaded:multilingual-and-multi-currency-options.md"
+  },
+  "optisigns-pro-player-advanced-features.md": {
+    "hash": "05660bed83207a47ce2bdd2f8c1fecbfb72bb362646e125edcffcc8ad6d595ca",
+    "doc_name": "uploaded:optisigns-pro-player-advanced-features.md"
   }
 }
