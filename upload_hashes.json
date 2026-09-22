@@ -143,6 +143,10 @@
     "hash": "cb1a4694ca975d8db85fbee81ac22da98bb29175571926b0eada3cc13057623b",
     "doc_name": "uploaded:clean-install-optisigns-on-raspberry-pilinux.md"
   },
+  "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md": {
+    "hash": "802bc28bb0b701adb33fb62c036bfb512d3afb5682d8e19184f1a6154b56671e",
+    "doc_name": "uploaded:configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md"
+  },
   "connect-cisco-webex-rooms-to-optisigns-digital-signage.md": {
     "hash": "0cfeb60044f4175c2a3e25a65f2f164cfe3c588f339fe2f892d2aad1527ca4ed",
     "doc_name": "uploaded:connect-cisco-webex-rooms-to-optisigns-digital-signage.md"
@@ -811,10 +815,6 @@
     "hash": "416cbdce37b8adbf436bf55ab6364f8e0b1e16ae59dd19606047cd1d74d47ad1",
     "doc_name": "uploaded:how-to-use-emergency-messagealert-app.md"
   },
-  "how-to-use-facebook-live-stream-app.md": {
-    "hash": "ce2e7598d0e93435fbb37e6f9e277f23e873f320ad02cd88d267b8fac0361357",
-    "doc_name": "uploaded:how-to-use-facebook-live-stream-app.md"
-  },
   "how-to-use-facebook-recommendations-app.md": {
     "hash": "d3c36b82551c6f1de617c43b0f451607fef734342d0bbeac5ce359930fc17d9a",
     "doc_name": "uploaded:how-to-use-facebook-recommendations-app.md"
@@ -1058,10 +1058,6 @@
   "how-to-use-the-live-tv-with-ads-app.md": {
     "hash": "83bfee4b19cc4d27c73d375a13dbb2c96131df7ee8baa1cebf580f5ac74a73b5",
     "doc_name": "uploaded:how-to-use-the-live-tv-with-ads-app.md"
-  },
-  "how-to-use-the-local-folder-app-in-optisigns.md": {
-    "hash": "db3023ec2db7c5a297b581765b74db7684877aa98cd2912bebfcf0303bb71477",
-    "doc_name": "uploaded:how-to-use-the-local-folder-app-in-optisigns.md"
   },
   "how-to-use-the-microsoft-meeting-room-app.md": {
     "hash": "9aadf0ceec7a30c6f22fb342cdf070a663eccda15f5a234e216cea04619afd16",
@@ -1311,6 +1307,10 @@
     "hash": "6c7722360c9ef45b4161bb208953de11365693cc3fc942d0564b022e6b5c4c85",
     "doc_name": "uploaded:multi-users-invite-your-team-members-to-your-account.md"
   },
+  "multilingual-and-multi-currency-options.md": {
+    "hash": "96810accc048bb33de706dde2c3864ce58b0eee20809616f2c970354e4440236",
+    "doc_name": "uploaded:multilingual-and-multi-currency-options.md"
+  },
   "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md": {
     "hash": "5b32768db277a77b2a56c9d717211e559bb5e08545f72579455ededb00a92a63",
     "doc_name": "uploaded:my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md"
@@ -1342,6 +1342,10 @@
   "optisigns-iot-sensor-add-on-quick-start.md": {
     "hash": "cc66d6230f8699e5f9848377e5a74a9a38c713f8b25d1b642240b2cefa9dddec",
     "doc_name": "uploaded:optisigns-iot-sensor-add-on-quick-start.md"
+  },
+  "optisigns-pro-player-advanced-features.md": {
+    "hash": "05660bed83207a47ce2bdd2f8c1fecbfb72bb362646e125edcffcc8ad6d595ca",
+    "doc_name": "uploaded:optisigns-pro-player-advanced-features.md"
   },
   "optisigns-propromax-player-troubleshooting-guide.md": {
     "hash": "ffd0c73c7cbb345886dfc430e31403f0828d86c255d5dbf65ef70d17969e1082",
@@ -1455,6 +1459,10 @@
     "hash": "ef660ea42d1da06518ada327507915771f43a4a935501b2fd69b15a381ddcd9b",
     "doc_name": "uploaded:set-up-add-a-screen.md"
   },
+  "setting-up-audit-logging.md": {
+    "hash": "12bba0afbd22ff15bb4c771bd21d9d9d17e4e8dd975a8ee71a586f2dde03146e",
+    "doc_name": "uploaded:setting-up-audit-logging.md"
+  },
   "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade.md": {
     "hash": "7d4d7f6408a29985537bc52fcec796091e743c825094645e362157f61030b9d4",
     "doc_name": "uploaded:setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade.md"
@@ -1547,6 +1555,10 @@
     "hash": "d4c6e6740a56e74c386c4b53786004802ce7aaf5f25d6eeba0d9cc3ab3b6aa20",
     "doc_name": "uploaded:using-the-japan-earthquake-app.md"
   },
+  "using-the-japan-transit-app.md": {
+    "hash": "9efed3fc3e322503729471207c8cc6cecf16ae38dee9a5daeeedafc9463ab85c",
+    "doc_name": "uploaded:using-the-japan-transit-app.md"
+  },
   "video-codec-or-video-playback-issues.md": {
     "hash": "e5816e930b2465cfcd62dbb205e262fef5a1221f687fe01bb284d9ab5048fdb2",
     "doc_name": "uploaded:video-codec-or-video-playback-issues.md"
@@ -1619,24 +1631,20 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md": {
-    "hash": "802bc28bb0b701adb33fb62c036bfb512d3afb5682d8e19184f1a6154b56671e",
-    "doc_name": "uploaded:configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md"
+  "how-to-use-the-local-folder-app-in-optisigns.md": {
+    "hash": "a8d96c3a4caebc3a49fec0896754044adca574ff00cbb8ae9738a80b8c4365d4",
+    "doc_name": "uploaded:how-to-use-the-local-folder-app-in-optisigns.md"
   },
-  "setting-up-audit-logging.md": {
-    "hash": "12bba0afbd22ff15bb4c771bd21d9d9d17e4e8dd975a8ee71a586f2dde03146e",
-    "doc_name": "uploaded:setting-up-audit-logging.md"
+  "how-to-use-facebook-live-stream-app.md": {
+    "hash": "a1afac0cb8a9740493f4630e32bbc0b9107f4ad2f3de6c061ec23a58308712cb",
+    "doc_name": "uploaded:how-to-use-facebook-live-stream-app.md"
   },
-  "using-the-japan-transit-app.md": {
-    "hash": "9efed3fc3e322503729471207c8cc6cecf16ae38dee9a5daeeedafc9463ab85c",
-    "doc_name": "uploaded:using-the-japan-transit-app.md"
+  "how-to-display-grafana-dashboards-on-optisigns.md": {
+    "hash": "8a4950646ed2b6918f7d110b1ae6152ba53f1608a8fb035984574dd844dcbc2c",
+    "doc_name": "uploaded:how-to-display-grafana-dashboards-on-optisigns.md"
   },
-  "multilingual-and-multi-currency-options.md": {
-    "hash": "96810accc048bb33de706dde2c3864ce58b0eee20809616f2c970354e4440236",
-    "doc_name": "uploaded:multilingual-and-multi-currency-options.md"
-  },
-  "optisigns-pro-player-advanced-features.md": {
-    "hash": "05660bed83207a47ce2bdd2f8c1fecbfb72bb362646e125edcffcc8ad6d595ca",
-    "doc_name": "uploaded:optisigns-pro-player-advanced-features.md"
+  "using-the-flight-schedule-app.md": {
+    "hash": "ec01c6285e7d110334bdfff1373513479a34e7dda34e1ae3313af2f7767184ee",
+    "doc_name": "uploaded:using-the-flight-schedule-app.md"
   }
 }
