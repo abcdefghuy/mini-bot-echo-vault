@@ -107,10 +107,6 @@
     "hash": "c91c903d3c7385336ae10b6790e51cd73430f020805598298fae0a87c5ff2cc1",
     "doc_name": "uploaded:brightsign-players.md"
   },
-  "broadcast-send-scheduled-snapshots-of-your-dashboards.md": {
-    "hash": "8c2f5b83f00ec05f577a1883cc19558832e34a07bb48b92af835ca9aed28aafb",
-    "doc_name": "uploaded:broadcast-send-scheduled-snapshots-of-your-dashboards.md"
-  },
   "build-integrations-using-the-optisigns-enterprise-app.md": {
     "hash": "53705bdf92078989314ba285180eb15c177b8ff3c3be8cfc66f5e501a084f806",
     "doc_name": "uploaded:build-integrations-using-the-optisigns-enterprise-app.md"
@@ -503,6 +499,10 @@
     "hash": "2f7e6d4b0b3b272c172b6c6b62eebf6ecfe796673e5fb30d82e0456de981abdd",
     "doc_name": "uploaded:how-to-display-google-slide-in-portrait-mode.md"
   },
+  "how-to-display-grafana-dashboards-on-optisigns.md": {
+    "hash": "8a4950646ed2b6918f7d110b1ae6152ba53f1608a8fb035984574dd844dcbc2c",
+    "doc_name": "uploaded:how-to-display-grafana-dashboards-on-optisigns.md"
+  },
   "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
     "hash": "9d8fc5bab77c8579c770846a35daa86a1c3d2211f1f7b11b76a710c6a999866d",
     "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
@@ -815,6 +815,10 @@
     "hash": "416cbdce37b8adbf436bf55ab6364f8e0b1e16ae59dd19606047cd1d74d47ad1",
     "doc_name": "uploaded:how-to-use-emergency-messagealert-app.md"
   },
+  "how-to-use-facebook-live-stream-app.md": {
+    "hash": "a1afac0cb8a9740493f4630e32bbc0b9107f4ad2f3de6c061ec23a58308712cb",
+    "doc_name": "uploaded:how-to-use-facebook-live-stream-app.md"
+  },
   "how-to-use-facebook-recommendations-app.md": {
     "hash": "d3c36b82551c6f1de617c43b0f451607fef734342d0bbeac5ce359930fc17d9a",
     "doc_name": "uploaded:how-to-use-facebook-recommendations-app.md"
@@ -1058,6 +1062,10 @@
   "how-to-use-the-live-tv-with-ads-app.md": {
     "hash": "83bfee4b19cc4d27c73d375a13dbb2c96131df7ee8baa1cebf580f5ac74a73b5",
     "doc_name": "uploaded:how-to-use-the-live-tv-with-ads-app.md"
+  },
+  "how-to-use-the-local-folder-app-in-optisigns.md": {
+    "hash": "a8d96c3a4caebc3a49fec0896754044adca574ff00cbb8ae9738a80b8c4365d4",
+    "doc_name": "uploaded:how-to-use-the-local-folder-app-in-optisigns.md"
   },
   "how-to-use-the-microsoft-meeting-room-app.md": {
     "hash": "9aadf0ceec7a30c6f22fb342cdf070a663eccda15f5a234e216cea04619afd16",
@@ -1551,6 +1559,10 @@
     "hash": "ddadc02508d3974d7daa7c673cd9f0654a9c2caca67e2a3b448fad1c1ea7c494",
     "doc_name": "uploaded:using-rs232-to-schedule-tv-power-onoff-or-other-commands.md"
   },
+  "using-the-flight-schedule-app.md": {
+    "hash": "ec01c6285e7d110334bdfff1373513479a34e7dda34e1ae3313af2f7767184ee",
+    "doc_name": "uploaded:using-the-flight-schedule-app.md"
+  },
   "using-the-japan-earthquake-app.md": {
     "hash": "d4c6e6740a56e74c386c4b53786004802ce7aaf5f25d6eeba0d9cc3ab3b6aa20",
     "doc_name": "uploaded:using-the-japan-earthquake-app.md"
@@ -1599,10 +1611,6 @@
     "hash": "b25973dd234ba95c3235d4a02675496e11272d4b8f190b6e1e605da32afb8e48",
     "doc_name": "uploaded:what-types-of-files-are-supported.md"
   },
-  "where-to-buy-optisigns-devices.md": {
-    "hash": "429d7f88fc7691a445fcfa60eeb374bc29aa07e4c2346ce557d59a7baa439fcd",
-    "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
-  },
   "whitelist-optisigns-ip-addresses-ports.md": {
     "hash": "97940593dd4e654b396dfc86f620a75e6e08095dbce239845a1b3a2733ce2570",
     "doc_name": "uploaded:whitelist-optisigns-ip-addresses-ports.md"
@@ -1619,10 +1627,6 @@
     "hash": "ef120a7c3f8df353aa7033dacec6b5766a0803f4e8e3d57af69474f2f8e10072",
     "doc_name": "uploaded:windows.md"
   },
-  "working-with-teams-and-security-levels.md": {
-    "hash": "2e26428ea10e02f9b27b7a59f1958a45b35067e393f43b19d9dd8b645fbee996",
-    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
-  },
   "your-facebook-page-doesnt-show-in-the-dropdown-list.md": {
     "hash": "36774b1c598cd306853c5fc47bb06937c59a3cf62f38b3405b04683108fd8e9f",
     "doc_name": "uploaded:your-facebook-page-doesnt-show-in-the-dropdown-list.md"
@@ -1631,20 +1635,20 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-use-the-local-folder-app-in-optisigns.md": {
-    "hash": "a8d96c3a4caebc3a49fec0896754044adca574ff00cbb8ae9738a80b8c4365d4",
-    "doc_name": "uploaded:how-to-use-the-local-folder-app-in-optisigns.md"
+  "working-with-teams-and-security-levels.md": {
+    "hash": "b01330fdd3fe27ef77ba9259d78b8d26a400db04415beb15bade405446eeee41",
+    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
   },
-  "how-to-use-facebook-live-stream-app.md": {
-    "hash": "a1afac0cb8a9740493f4630e32bbc0b9107f4ad2f3de6c061ec23a58308712cb",
-    "doc_name": "uploaded:how-to-use-facebook-live-stream-app.md"
+  "where-to-buy-optisigns-devices.md": {
+    "hash": "3439ab2795b47c45a666790a9ea29e5451db4e175767ce44d38068021b274b2c",
+    "doc_name": "uploaded:where-to-buy-optisigns-devices.md"
   },
-  "how-to-display-grafana-dashboards-on-optisigns.md": {
-    "hash": "8a4950646ed2b6918f7d110b1ae6152ba53f1608a8fb035984574dd844dcbc2c",
-    "doc_name": "uploaded:how-to-display-grafana-dashboards-on-optisigns.md"
+  "using-the-x-social-app-add-on.md": {
+    "hash": "2258ea74bd594f59510c32c20d77a5271607ac6f5d3eef1b38297aa6e687e831",
+    "doc_name": "uploaded:using-the-x-social-app-add-on.md"
   },
-  "using-the-flight-schedule-app.md": {
-    "hash": "ec01c6285e7d110334bdfff1373513479a34e7dda34e1ae3313af2f7767184ee",
-    "doc_name": "uploaded:using-the-flight-schedule-app.md"
+  "broadcast-send-scheduled-snapshots-of-your-dashboards.md": {
+    "hash": "6bbfe7b405884fbc9170fc4e49971d872953aae825a45f4e7d3cd0e812d00d55",
+    "doc_name": "uploaded:broadcast-send-scheduled-snapshots-of-your-dashboards.md"
   }
 }
