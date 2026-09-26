@@ -991,6 +991,10 @@
     "hash": "5871ad0953e0523223ccc630836996ad7c1714ec6e3afa38eeafe6ebf4ad7cbf",
     "doc_name": "uploaded:how-to-use-streaming-app-with-optisigns.md"
   },
+  "how-to-use-the-calendar-mix-app.md": {
+    "hash": "bd5846d3c25a850c2bbd6e06c5f20f6b6152c59e826f8bbda317e52c9d6c6ffa",
+    "doc_name": "uploaded:how-to-use-the-calendar-mix-app.md"
+  },
   "how-to-use-the-cap-alert-app.md": {
     "hash": "5f2097025b805fcd775225c424cbf52952b4246cd5dbb192504f3f7fbb1e72f4",
     "doc_name": "uploaded:how-to-use-the-cap-alert-app.md"
@@ -1639,6 +1643,10 @@
     "hash": "ef120a7c3f8df353aa7033dacec6b5766a0803f4e8e3d57af69474f2f8e10072",
     "doc_name": "uploaded:windows.md"
   },
+  "working-with-teams-and-security-levels.md": {
+    "hash": "189a21d4378096daf6c4a0c485abe5e8ac951a1b06167eeb1361cf2a5ae2f027",
+    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
+  },
   "your-facebook-page-doesnt-show-in-the-dropdown-list.md": {
     "hash": "36774b1c598cd306853c5fc47bb06937c59a3cf62f38b3405b04683108fd8e9f",
     "doc_name": "uploaded:your-facebook-page-doesnt-show-in-the-dropdown-list.md"
@@ -1646,13 +1654,5 @@
   "your-templates.md": {
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
-  },
-  "how-to-use-the-calendar-mix-app.md": {
-    "hash": "bd5846d3c25a850c2bbd6e06c5f20f6b6152c59e826f8bbda317e52c9d6c6ffa",
-    "doc_name": "uploaded:how-to-use-the-calendar-mix-app.md"
-  },
-  "working-with-teams-and-security-levels.md": {
-    "hash": "189a21d4378096daf6c4a0c485abe5e8ac951a1b06167eeb1361cf2a5ae2f027",
-    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
   }
 }
