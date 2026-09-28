@@ -11,17 +11,9 @@
     "hash": "6c0b5ed6ea2dd73bb55ff348cdb3e534df504c05afdc42a244fe7f64bb17dbc2",
     "doc_name": "uploaded:add-1-or-multiple-assets-to-many-playlists-at-the-same-time.md"
   },
-  "adjust-the-gpu-memory-on-the-raspberry-pi.md": {
-    "hash": "924dd674b52119f1367f4e0c1f0c3ffe3284289a23119b50234b177fcd261330",
-    "doc_name": "uploaded:adjust-the-gpu-memory-on-the-raspberry-pi.md"
-  },
   "advanced-custom-domain-mapping.md": {
     "hash": "37e7f217c4f97bdfff0f7609aaddaa01cdbea847ff03b8227ce459cbee43d7fd",
     "doc_name": "uploaded:advanced-custom-domain-mapping.md"
-  },
-  "advanced-enforce-sso-login-for-your-account.md": {
-    "hash": "229f5187b164ba37d0acb2da444dee7bd01bc853f410b1c8ef9fd452e31bc7f6",
-    "doc_name": "uploaded:advanced-enforce-sso-login-for-your-account.md"
   },
   "advanced-how-to-assign-security-for-users-to-only-edit-certain-zones-of-the-scre.md": {
     "hash": "46e5a923ea1be81161e20fd7f489fd73c9d37abd1bebf5697aa442d8c7d5dba9",
@@ -94,10 +86,6 @@
   "audience-intelligence-ai-camera-faqs.md": {
     "hash": "041bb168b3790e767519b9a1dfd76f3953d4415d1df76642cf8b620dbf56add4",
     "doc_name": "uploaded:audience-intelligence-ai-camera-faqs.md"
-  },
-  "billing-how-do-i-change-my-subscription-plan.md": {
-    "hash": "63758be8d987636f132623f92d64b9141af2ccb1c877982a565d0231c66dfe3d",
-    "doc_name": "uploaded:billing-how-do-i-change-my-subscription-plan.md"
   },
   "brand-kit-and-enforcing-brand-guidelines.md": {
     "hash": "673fac0634833ed03c9821845e42d95172d2fafb2496134795f73ff16ee64717",
@@ -335,10 +323,6 @@
     "hash": "8def5708380c93a21863b4d4ec23fc1c903f8989c9454eb2543a4e02ecf77084",
     "doc_name": "uploaded:how-to-add-captions-to-vimeo-videos.md"
   },
-  "how-to-add-google-sheets-as-a-datasource-for-optisync.md": {
-    "hash": "2cb08176fce743dc99d1a3935e667d554f59696e432977d676407cb7de2ca621",
-    "doc_name": "uploaded:how-to-add-google-sheets-as-a-datasource-for-optisync.md"
-  },
   "how-to-add-use-vimeo-video-with-optisigns.md": {
     "hash": "fdd573f0bffade67db61b64215297c1361e223b2ca7a469cc63eb14898e42e7f",
     "doc_name": "uploaded:how-to-add-use-vimeo-video-with-optisigns.md"
@@ -506,10 +490,6 @@
   "how-to-display-grafana-dashboards-on-optisigns.md": {
     "hash": "8a4950646ed2b6918f7d110b1ae6152ba53f1608a8fb035984574dd844dcbc2c",
     "doc_name": "uploaded:how-to-display-grafana-dashboards-on-optisigns.md"
-  },
-  "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
-    "hash": "9d8fc5bab77c8579c770846a35daa86a1c3d2211f1f7b11b76a710c6a999866d",
-    "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
   },
   "how-to-display-microsoft-teams-on-optisigns.md": {
     "hash": "46722f074c39d88a72355b2ba46265909fe1671c4a3ef622abd70a374b462b28",
@@ -691,10 +671,6 @@
     "hash": "fb5b15c1760a4c1a6a8a3e28cd20f7b7dacff219641b378a30b3da03aec60a3d",
     "doc_name": "uploaded:how-to-set-an-asset-to-live-or-expire-at-specific-time.md"
   },
-  "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md": {
-    "hash": "9eb1a0b0fede88d229e74193e42a7f559384cca9b9e8060352391dbb2720fcbc",
-    "doc_name": "uploaded:how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md"
-  },
   "how-to-set-up-an-instagram-businesscreator-account.md": {
     "hash": "721d24c5313c9ce10b7a7aae5a5625b8274b48c1aa99b7d917d727dad23ee7da",
     "doc_name": "uploaded:how-to-set-up-an-instagram-businesscreator-account.md"
@@ -794,10 +770,6 @@
   "how-to-use-asana-app.md": {
     "hash": "c3e6f553a6095b1cfb489b06557a78a37abc93db380849f65c76d574f7ba9178",
     "doc_name": "uploaded:how-to-use-asana-app.md"
-  },
-  "how-to-use-check-in-app-with-sms-follow-up.md": {
-    "hash": "e33fa3369b397e308f6f61ad3762c3af0515439767ef047aab7e297f432da389",
-    "doc_name": "uploaded:how-to-use-check-in-app-with-sms-follow-up.md"
   },
   "how-to-use-content-tags-in-the-playlist.md": {
     "hash": "4eccf0a2b6bbacc40d67555a023d024ebb30d576fc2b2ee0f50d1235e2371465",
@@ -1654,5 +1626,33 @@
   "your-templates.md": {
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md": {
+    "hash": "db455eca335ef68a1fe11be4cc4f5d1f1b6a32c8b1914c9e24b446129a55aa87",
+    "doc_name": "uploaded:how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md"
+  },
+  "billing-how-do-i-change-my-subscription-plan.md": {
+    "hash": "398130a23acb5967a1d3b671c649a487fa26fe38314a1654ca9a0b725d0af0dc",
+    "doc_name": "uploaded:billing-how-do-i-change-my-subscription-plan.md"
+  },
+  "how-to-add-google-sheets-as-a-datasource-for-optisync.md": {
+    "hash": "d58a6acf66aa0f292651f317aa1952caab34215de330d683f524c21e05486393",
+    "doc_name": "uploaded:how-to-add-google-sheets-as-a-datasource-for-optisync.md"
+  },
+  "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
+    "hash": "6dfc963e55b516c59a61a797bd041d9c722183b010e687a92e129cb174b5e9e9",
+    "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
+  },
+  "adjust-the-gpu-memory-on-the-raspberry-pi.md": {
+    "hash": "edba166779b6a104b3720c753e2f1d71352125b9e5b918e36258f6c28da06b39",
+    "doc_name": "uploaded:adjust-the-gpu-memory-on-the-raspberry-pi.md"
+  },
+  "advanced-enforce-sso-login-for-your-account.md": {
+    "hash": "53f72d952a5b12294bafd7e54680f67db0a0d67e2ed312e44f743409ebbac7c0",
+    "doc_name": "uploaded:advanced-enforce-sso-login-for-your-account.md"
+  },
+  "how-to-use-check-in-app-with-sms-follow-up.md": {
+    "hash": "6eff294af91a4eb7a05a91a2a8c0a70cacd8c0c89f970d2ddd0866c996120dad",
+    "doc_name": "uploaded:how-to-use-check-in-app-with-sms-follow-up.md"
   }
 }
