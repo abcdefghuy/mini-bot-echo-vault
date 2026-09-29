@@ -11,9 +11,17 @@
     "hash": "6c0b5ed6ea2dd73bb55ff348cdb3e534df504c05afdc42a244fe7f64bb17dbc2",
     "doc_name": "uploaded:add-1-or-multiple-assets-to-many-playlists-at-the-same-time.md"
   },
+  "adjust-the-gpu-memory-on-the-raspberry-pi.md": {
+    "hash": "edba166779b6a104b3720c753e2f1d71352125b9e5b918e36258f6c28da06b39",
+    "doc_name": "uploaded:adjust-the-gpu-memory-on-the-raspberry-pi.md"
+  },
   "advanced-custom-domain-mapping.md": {
     "hash": "37e7f217c4f97bdfff0f7609aaddaa01cdbea847ff03b8227ce459cbee43d7fd",
     "doc_name": "uploaded:advanced-custom-domain-mapping.md"
+  },
+  "advanced-enforce-sso-login-for-your-account.md": {
+    "hash": "53f72d952a5b12294bafd7e54680f67db0a0d67e2ed312e44f743409ebbac7c0",
+    "doc_name": "uploaded:advanced-enforce-sso-login-for-your-account.md"
   },
   "advanced-how-to-assign-security-for-users-to-only-edit-certain-zones-of-the-scre.md": {
     "hash": "46e5a923ea1be81161e20fd7f489fd73c9d37abd1bebf5697aa442d8c7d5dba9",
@@ -86,6 +94,10 @@
   "audience-intelligence-ai-camera-faqs.md": {
     "hash": "041bb168b3790e767519b9a1dfd76f3953d4415d1df76642cf8b620dbf56add4",
     "doc_name": "uploaded:audience-intelligence-ai-camera-faqs.md"
+  },
+  "billing-how-do-i-change-my-subscription-plan.md": {
+    "hash": "398130a23acb5967a1d3b671c649a487fa26fe38314a1654ca9a0b725d0af0dc",
+    "doc_name": "uploaded:billing-how-do-i-change-my-subscription-plan.md"
   },
   "brand-kit-and-enforcing-brand-guidelines.md": {
     "hash": "673fac0634833ed03c9821845e42d95172d2fafb2496134795f73ff16ee64717",
@@ -203,10 +215,6 @@
     "hash": "733dcde9998d934efee7cd0789345e3b23344499d9f17b27de60ddf5bf130dd2",
     "doc_name": "uploaded:displaying-sharepoint-sites-on-optisigns.md"
   },
-  "does-optisigns-offer-non-profiteducation-discount.md": {
-    "hash": "0e2cec224268ddbf93c84770b9e0b10f96bc771925d7105ea840f66fd8f3e4d3",
-    "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
-  },
   "edit-screen-what-does-each-option-do.md": {
     "hash": "924b68e457b233c774c10e6e8db346db39774670a5dcdb3181b518816dbfbdf0",
     "doc_name": "uploaded:edit-screen-what-does-each-option-do.md"
@@ -322,6 +330,10 @@
   "how-to-add-captions-to-vimeo-videos.md": {
     "hash": "8def5708380c93a21863b4d4ec23fc1c903f8989c9454eb2543a4e02ecf77084",
     "doc_name": "uploaded:how-to-add-captions-to-vimeo-videos.md"
+  },
+  "how-to-add-google-sheets-as-a-datasource-for-optisync.md": {
+    "hash": "d58a6acf66aa0f292651f317aa1952caab34215de330d683f524c21e05486393",
+    "doc_name": "uploaded:how-to-add-google-sheets-as-a-datasource-for-optisync.md"
   },
   "how-to-add-use-vimeo-video-with-optisigns.md": {
     "hash": "fdd573f0bffade67db61b64215297c1361e223b2ca7a469cc63eb14898e42e7f",
@@ -490,6 +502,10 @@
   "how-to-display-grafana-dashboards-on-optisigns.md": {
     "hash": "8a4950646ed2b6918f7d110b1ae6152ba53f1608a8fb035984574dd844dcbc2c",
     "doc_name": "uploaded:how-to-display-grafana-dashboards-on-optisigns.md"
+  },
+  "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
+    "hash": "6dfc963e55b516c59a61a797bd041d9c722183b010e687a92e129cb174b5e9e9",
+    "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
   },
   "how-to-display-microsoft-teams-on-optisigns.md": {
     "hash": "46722f074c39d88a72355b2ba46265909fe1671c4a3ef622abd70a374b462b28",
@@ -671,6 +687,10 @@
     "hash": "fb5b15c1760a4c1a6a8a3e28cd20f7b7dacff219641b378a30b3da03aec60a3d",
     "doc_name": "uploaded:how-to-set-an-asset-to-live-or-expire-at-specific-time.md"
   },
+  "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md": {
+    "hash": "db455eca335ef68a1fe11be4cc4f5d1f1b6a32c8b1914c9e24b446129a55aa87",
+    "doc_name": "uploaded:how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md"
+  },
   "how-to-set-up-an-instagram-businesscreator-account.md": {
     "hash": "721d24c5313c9ce10b7a7aae5a5625b8274b48c1aa99b7d917d727dad23ee7da",
     "doc_name": "uploaded:how-to-set-up-an-instagram-businesscreator-account.md"
@@ -770,6 +790,10 @@
   "how-to-use-asana-app.md": {
     "hash": "c3e6f553a6095b1cfb489b06557a78a37abc93db380849f65c76d574f7ba9178",
     "doc_name": "uploaded:how-to-use-asana-app.md"
+  },
+  "how-to-use-check-in-app-with-sms-follow-up.md": {
+    "hash": "6eff294af91a4eb7a05a91a2a8c0a70cacd8c0c89f970d2ddd0866c996120dad",
+    "doc_name": "uploaded:how-to-use-check-in-app-with-sms-follow-up.md"
   },
   "how-to-use-content-tags-in-the-playlist.md": {
     "hash": "4eccf0a2b6bbacc40d67555a023d024ebb30d576fc2b2ee0f50d1235e2371465",
@@ -1179,10 +1203,6 @@
     "hash": "655a075e881f4f533d5d2f13b560eaec0e6e4b2831409189260fc7115c3ded82",
     "doc_name": "uploaded:how-to-use-weather-apps-based-on-device-location.md"
   },
-  "how-to-use-weather-apps-in-optisigns.md": {
-    "hash": "18b27894862cf2b26750773ce3099ca5ec8744e5e96e305bbd632df40372a6cb",
-    "doc_name": "uploaded:how-to-use-weather-apps-in-optisigns.md"
-  },
   "how-to-use-world-clock-app.md": {
     "hash": "37ad334f5747ffe1423e50453b046de11759f5e0779075fa54c650b6363597e8",
     "doc_name": "uploaded:how-to-use-world-clock-app.md"
@@ -1230,10 +1250,6 @@
   "is-there-storage-limit-for-my-account.md": {
     "hash": "1a852892f0d5ad7247b348df8fee84d02d1d093afd6d33e5f389c96805cd8fc7",
     "doc_name": "uploaded:is-there-storage-limit-for-my-account.md"
-  },
-  "kiosk-setup-hub.md": {
-    "hash": "f0c2ed7b3ef5af57976677d6db50a4ff479209d1c193abaebb9537a416ac0959",
-    "doc_name": "uploaded:kiosk-setup-hub.md"
   },
   "kiosk10.md": {
     "hash": "39c4c27687215589892ff579e246a6c7c2ad2d0c0efb755c777ab058f211300c",
@@ -1627,32 +1643,24 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md": {
-    "hash": "db455eca335ef68a1fe11be4cc4f5d1f1b6a32c8b1914c9e24b446129a55aa87",
-    "doc_name": "uploaded:how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md"
+  "kiosk-setup-hub.md": {
+    "hash": "72d6d676ffb130e1cb0d3795b4e5c0c5000eab44ad90fdc21e046dd7f9a166ca",
+    "doc_name": "uploaded:kiosk-setup-hub.md"
   },
-  "billing-how-do-i-change-my-subscription-plan.md": {
-    "hash": "398130a23acb5967a1d3b671c649a487fa26fe38314a1654ca9a0b725d0af0dc",
-    "doc_name": "uploaded:billing-how-do-i-change-my-subscription-plan.md"
+  "does-optisigns-offer-non-profiteducation-discount.md": {
+    "hash": "afd49261c39bac2298de4b48c40c141c6bce323bb75875a289d46b823da47c48",
+    "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
   },
-  "how-to-add-google-sheets-as-a-datasource-for-optisync.md": {
-    "hash": "d58a6acf66aa0f292651f317aa1952caab34215de330d683f524c21e05486393",
-    "doc_name": "uploaded:how-to-add-google-sheets-as-a-datasource-for-optisync.md"
+  "how-to-use-weather-apps-in-optisigns.md": {
+    "hash": "360f6c94c20a35c928ef6782bb902a170bf5ae3a495afc3d03ab4cca43296d12",
+    "doc_name": "uploaded:how-to-use-weather-apps-in-optisigns.md"
   },
-  "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
-    "hash": "6dfc963e55b516c59a61a797bd041d9c722183b010e687a92e129cb174b5e9e9",
-    "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
+  "how-to-use-the-weather-radar-app.md": {
+    "hash": "d3ebfa1ac3e9669bb310c77ebeb589f3e5027a86cdce81200db040cfeb785015",
+    "doc_name": "uploaded:how-to-use-the-weather-radar-app.md"
   },
-  "adjust-the-gpu-memory-on-the-raspberry-pi.md": {
-    "hash": "edba166779b6a104b3720c753e2f1d71352125b9e5b918e36258f6c28da06b39",
-    "doc_name": "uploaded:adjust-the-gpu-memory-on-the-raspberry-pi.md"
-  },
-  "advanced-enforce-sso-login-for-your-account.md": {
-    "hash": "53f72d952a5b12294bafd7e54680f67db0a0d67e2ed312e44f743409ebbac7c0",
-    "doc_name": "uploaded:advanced-enforce-sso-login-for-your-account.md"
-  },
-  "how-to-use-check-in-app-with-sms-follow-up.md": {
-    "hash": "6eff294af91a4eb7a05a91a2a8c0a70cacd8c0c89f970d2ddd0866c996120dad",
-    "doc_name": "uploaded:how-to-use-check-in-app-with-sms-follow-up.md"
+  "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
+    "hash": "ddf97ea0a5d4888fbbcd2b15713d3c718763af1586563ee3030220e4b9d4358a",
+    "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
   }
 }
