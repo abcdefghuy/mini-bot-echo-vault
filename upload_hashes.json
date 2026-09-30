@@ -215,6 +215,10 @@
     "hash": "733dcde9998d934efee7cd0789345e3b23344499d9f17b27de60ddf5bf130dd2",
     "doc_name": "uploaded:displaying-sharepoint-sites-on-optisigns.md"
   },
+  "does-optisigns-offer-non-profiteducation-discount.md": {
+    "hash": "afd49261c39bac2298de4b48c40c141c6bce323bb75875a289d46b823da47c48",
+    "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
+  },
   "edit-screen-what-does-each-option-do.md": {
     "hash": "924b68e457b233c774c10e6e8db346db39774670a5dcdb3181b518816dbfbdf0",
     "doc_name": "uploaded:edit-screen-what-does-each-option-do.md"
@@ -510,6 +514,10 @@
   "how-to-display-microsoft-teams-on-optisigns.md": {
     "hash": "46722f074c39d88a72355b2ba46265909fe1671c4a3ef622abd70a374b462b28",
     "doc_name": "uploaded:how-to-display-microsoft-teams-on-optisigns.md"
+  },
+  "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
+    "hash": "ddf97ea0a5d4888fbbcd2b15713d3c718763af1586563ee3030220e4b9d4358a",
+    "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
   },
   "how-to-display-smartsheet-report-on-optisigns.md": {
     "hash": "e972c65b2d4a4d7b63eb6cff8b7316e97eb5065668c75722f34b3d98c7405e5f",
@@ -899,21 +907,9 @@
     "hash": "4d0b0575c967ffa8659846605b14f2c5ba9991be99b040cfcf8a1883b5eda663",
     "doc_name": "uploaded:how-to-use-matterport-app.md"
   },
-  "how-to-use-microsoft-excel-online-with-optisigns.md": {
-    "hash": "bc0dec49715507d4a7a3ab4576e03770434d18193f9abf5f8aca0100aa85162e",
-    "doc_name": "uploaded:how-to-use-microsoft-excel-online-with-optisigns.md"
-  },
   "how-to-use-microsoft-outlook-calendar-with-optisigns.md": {
     "hash": "1b7fed221556bf11a76c04c22ee7c9037a2d1d8018d32fe9d203d9a5b4b824aa",
     "doc_name": "uploaded:how-to-use-microsoft-outlook-calendar-with-optisigns.md"
-  },
-  "how-to-use-microsoft-powerpoint-with-optisigns.md": {
-    "hash": "51682cddc3c01bddc2f27620a63d6869457e23c6f028a3e3dcbd346dc0879b8f",
-    "doc_name": "uploaded:how-to-use-microsoft-powerpoint-with-optisigns.md"
-  },
-  "how-to-use-microsoft-teams-live-app-with-optisigns.md": {
-    "hash": "957e4a2eb5e88333f101d3ac0a38c1c422adb7e9354ebca6be4c59b4110c2de8",
-    "doc_name": "uploaded:how-to-use-microsoft-teams-live-app-with-optisigns.md"
   },
   "how-to-use-microsoft-teams-meeting-app-with-optisigns.md": {
     "hash": "4f952d2e210e84e625d4a56bfc2cf7f7a789881e0a87887fbc5959f518976b98",
@@ -938,10 +934,6 @@
   "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes.md": {
     "hash": "e493bd84fc47611e8c8612d410c211624634f8b7b59e637d5f1ed084798276d5",
     "doc_name": "uploaded:how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes.md"
-  },
-  "how-to-use-optisigns-with-microsoft-teams-rooms.md": {
-    "hash": "96ad821615d71229a499b2c8ea0c30b082310428d9a5e5890a74411b89ba975a",
-    "doc_name": "uploaded:how-to-use-optisigns-with-microsoft-teams-rooms.md"
   },
   "how-to-use-overlay-layers-with-optisigns.md": {
     "hash": "f3f9fb21611ac7cfa831f0806a65ca4dab5c4d4400cf0640f9324819f1bc2116",
@@ -1099,10 +1091,6 @@
     "hash": "5dfce405af7430bb989b9a75e78325cb6cc02027e6cef42182f0e00fca1e80c1",
     "doc_name": "uploaded:how-to-use-the-on-this-day-app.md"
   },
-  "how-to-use-the-onedrive-app.md": {
-    "hash": "81e4458803d4fbb03fe474fc2b9d30d33eb9cecee947e6ddbd62b66db10133b4",
-    "doc_name": "uploaded:how-to-use-the-onedrive-app.md"
-  },
   "how-to-use-the-optisigns-mobile-admin-app.md": {
     "hash": "de5632921889e1171c382c3fd0a6f427b4929bbf508702d313677395de59884e",
     "doc_name": "uploaded:how-to-use-the-optisigns-mobile-admin-app.md"
@@ -1155,6 +1143,10 @@
     "hash": "f61cf09245503c415d721b81d7c37cff9ae9316816425863810f7eee73162039",
     "doc_name": "uploaded:how-to-use-the-weather-alert-app.md"
   },
+  "how-to-use-the-weather-radar-app.md": {
+    "hash": "d3ebfa1ac3e9669bb310c77ebeb589f3e5027a86cdce81200db040cfeb785015",
+    "doc_name": "uploaded:how-to-use-the-weather-radar-app.md"
+  },
   "how-to-use-the-web-scripting-app.md": {
     "hash": "d85d827a3f6e38f801368b3073c38a132b5b854b9886662cd238a2a598d311b8",
     "doc_name": "uploaded:how-to-use-the-web-scripting-app.md"
@@ -1203,6 +1195,10 @@
     "hash": "655a075e881f4f533d5d2f13b560eaec0e6e4b2831409189260fc7115c3ded82",
     "doc_name": "uploaded:how-to-use-weather-apps-based-on-device-location.md"
   },
+  "how-to-use-weather-apps-in-optisigns.md": {
+    "hash": "360f6c94c20a35c928ef6782bb902a170bf5ae3a495afc3d03ab4cca43296d12",
+    "doc_name": "uploaded:how-to-use-weather-apps-in-optisigns.md"
+  },
   "how-to-use-world-clock-app.md": {
     "hash": "37ad334f5747ffe1423e50453b046de11759f5e0779075fa54c650b6363597e8",
     "doc_name": "uploaded:how-to-use-world-clock-app.md"
@@ -1250,6 +1246,10 @@
   "is-there-storage-limit-for-my-account.md": {
     "hash": "1a852892f0d5ad7247b348df8fee84d02d1d093afd6d33e5f389c96805cd8fc7",
     "doc_name": "uploaded:is-there-storage-limit-for-my-account.md"
+  },
+  "kiosk-setup-hub.md": {
+    "hash": "72d6d676ffb130e1cb0d3795b4e5c0c5000eab44ad90fdc21e046dd7f9a166ca",
+    "doc_name": "uploaded:kiosk-setup-hub.md"
   },
   "kiosk10.md": {
     "hash": "39c4c27687215589892ff579e246a6c7c2ad2d0c0efb755c777ab058f211300c",
@@ -1643,24 +1643,24 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "kiosk-setup-hub.md": {
-    "hash": "72d6d676ffb130e1cb0d3795b4e5c0c5000eab44ad90fdc21e046dd7f9a166ca",
-    "doc_name": "uploaded:kiosk-setup-hub.md"
+  "how-to-use-the-onedrive-app.md": {
+    "hash": "77c7eaf58dec72d1207b74a16db2ac7a6c864f3f8c2e0ac9a3e17d05068846fb",
+    "doc_name": "uploaded:how-to-use-the-onedrive-app.md"
   },
-  "does-optisigns-offer-non-profiteducation-discount.md": {
-    "hash": "afd49261c39bac2298de4b48c40c141c6bce323bb75875a289d46b823da47c48",
-    "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
+  "how-to-use-microsoft-powerpoint-with-optisigns.md": {
+    "hash": "3842d7e31290a632d166c546a0ae65e1f65a49ba9c60882209221cabe223a7f3",
+    "doc_name": "uploaded:how-to-use-microsoft-powerpoint-with-optisigns.md"
   },
-  "how-to-use-weather-apps-in-optisigns.md": {
-    "hash": "360f6c94c20a35c928ef6782bb902a170bf5ae3a495afc3d03ab4cca43296d12",
-    "doc_name": "uploaded:how-to-use-weather-apps-in-optisigns.md"
+  "how-to-use-microsoft-excel-online-with-optisigns.md": {
+    "hash": "ada05b4c3dce9fa4dbca26e3e6d0509ecdddbea0a008358ced904927c99c49ed",
+    "doc_name": "uploaded:how-to-use-microsoft-excel-online-with-optisigns.md"
   },
-  "how-to-use-the-weather-radar-app.md": {
-    "hash": "d3ebfa1ac3e9669bb310c77ebeb589f3e5027a86cdce81200db040cfeb785015",
-    "doc_name": "uploaded:how-to-use-the-weather-radar-app.md"
+  "how-to-use-microsoft-teams-live-app-with-optisigns.md": {
+    "hash": "81f77cdf0119731f466d6e7b6ff406c50131915a081b3f38e3da183049caa23a",
+    "doc_name": "uploaded:how-to-use-microsoft-teams-live-app-with-optisigns.md"
   },
-  "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
-    "hash": "ddf97ea0a5d4888fbbcd2b15713d3c718763af1586563ee3030220e4b9d4358a",
-    "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
+  "how-to-use-optisigns-with-microsoft-teams-rooms.md": {
+    "hash": "364c81ef82b5ecb74d098bc0fc96b5ac4c9d6bf67d8ba092e60dc8fa7b743c2e",
+    "doc_name": "uploaded:how-to-use-optisigns-with-microsoft-teams-rooms.md"
   }
 }
