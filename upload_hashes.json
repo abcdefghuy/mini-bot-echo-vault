@@ -211,10 +211,6 @@
     "hash": "2255a41764aacf552906053fe27fa7c57ae78efd408baec16eb0d8f316b72a23",
     "doc_name": "uploaded:display-salesforce-dashboards-with-mfa-using-web-scripting.md"
   },
-  "displaying-sharepoint-sites-on-optisigns.md": {
-    "hash": "733dcde9998d934efee7cd0789345e3b23344499d9f17b27de60ddf5bf130dd2",
-    "doc_name": "uploaded:displaying-sharepoint-sites-on-optisigns.md"
-  },
   "does-optisigns-offer-non-profiteducation-discount.md": {
     "hash": "afd49261c39bac2298de4b48c40c141c6bce323bb75875a289d46b823da47c48",
     "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
@@ -511,10 +507,6 @@
     "hash": "6dfc963e55b516c59a61a797bd041d9c722183b010e687a92e129cb174b5e9e9",
     "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
   },
-  "how-to-display-microsoft-teams-on-optisigns.md": {
-    "hash": "46722f074c39d88a72355b2ba46265909fe1671c4a3ef622abd70a374b462b28",
-    "doc_name": "uploaded:how-to-display-microsoft-teams-on-optisigns.md"
-  },
   "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
     "hash": "ddf97ea0a5d4888fbbcd2b15713d3c718763af1586563ee3030220e4b9d4358a",
     "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
@@ -610,10 +602,6 @@
   "how-to-integrate-api-and-publish-api-data-via-optisync.md": {
     "hash": "9e91896205160cdb86be4d84a0a689983da1bf996fc8c54cd39ee5411c34064f",
     "doc_name": "uploaded:how-to-integrate-api-and-publish-api-data-via-optisync.md"
-  },
-  "how-to-integrate-bonusly-digital-signage-with-optisigns.md": {
-    "hash": "1fb2ea7976da7db130e0749dbd5232c509b2efbd7f1896c7ce9b08795c54d5e5",
-    "doc_name": "uploaded:how-to-integrate-bonusly-digital-signage-with-optisigns.md"
   },
   "how-to-keep-optisigns-running-on-fire-stick.md": {
     "hash": "b8afc4edd643e85c38ac89756bff82649d147ee8b6c3d3c257866e292c4d3755",
@@ -811,10 +799,6 @@
     "hash": "dd4c6f2ef37d3e6977c168c7a1fdc90361b84db5355c4a2797a4a50ade3f8de9",
     "doc_name": "uploaded:how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-desi.md"
   },
-  "how-to-use-dropbox-app.md": {
-    "hash": "d014b4d418d26f620d4de5f51d9ca36e3c9cd1e617d2e7e5dbe4e70cd843956b",
-    "doc_name": "uploaded:how-to-use-dropbox-app.md"
-  },
   "how-to-use-embed-app.md": {
     "hash": "86314fb192949090789bc705285a202bac2cf8ec2ff993e7d61e825ccbf00a89",
     "doc_name": "uploaded:how-to-use-embed-app.md"
@@ -871,10 +855,6 @@
     "hash": "0fb20edd21d0e9656a3b63766dc33f2d3388b722a48547cbbaa17f0c98518194",
     "doc_name": "uploaded:how-to-use-hdmi-other-video-input-sources-in-with-optisigns.md"
   },
-  "how-to-use-icloud-calendar-with-optisigns.md": {
-    "hash": "0801ad60f56f21ec8eecad4e4d28034f30fb42d77e962da17b86207e1d21d759",
-    "doc_name": "uploaded:how-to-use-icloud-calendar-with-optisigns.md"
-  },
   "how-to-use-imovie-content-with-optisigns.md": {
     "hash": "ba784948273ea2e60d04ee064a14957d7555d31c6d310dcf3248cf9d4633fa77",
     "doc_name": "uploaded:how-to-use-imovie-content-with-optisigns.md"
@@ -907,13 +887,17 @@
     "hash": "4d0b0575c967ffa8659846605b14f2c5ba9991be99b040cfcf8a1883b5eda663",
     "doc_name": "uploaded:how-to-use-matterport-app.md"
   },
-  "how-to-use-microsoft-outlook-calendar-with-optisigns.md": {
-    "hash": "1b7fed221556bf11a76c04c22ee7c9037a2d1d8018d32fe9d203d9a5b4b824aa",
-    "doc_name": "uploaded:how-to-use-microsoft-outlook-calendar-with-optisigns.md"
+  "how-to-use-microsoft-excel-online-with-optisigns.md": {
+    "hash": "ada05b4c3dce9fa4dbca26e3e6d0509ecdddbea0a008358ced904927c99c49ed",
+    "doc_name": "uploaded:how-to-use-microsoft-excel-online-with-optisigns.md"
   },
-  "how-to-use-microsoft-teams-meeting-app-with-optisigns.md": {
-    "hash": "4f952d2e210e84e625d4a56bfc2cf7f7a789881e0a87887fbc5959f518976b98",
-    "doc_name": "uploaded:how-to-use-microsoft-teams-meeting-app-with-optisigns.md"
+  "how-to-use-microsoft-powerpoint-with-optisigns.md": {
+    "hash": "3842d7e31290a632d166c546a0ae65e1f65a49ba9c60882209221cabe223a7f3",
+    "doc_name": "uploaded:how-to-use-microsoft-powerpoint-with-optisigns.md"
+  },
+  "how-to-use-microsoft-teams-live-app-with-optisigns.md": {
+    "hash": "81f77cdf0119731f466d6e7b6ff406c50131915a081b3f38e3da183049caa23a",
+    "doc_name": "uploaded:how-to-use-microsoft-teams-live-app-with-optisigns.md"
   },
   "how-to-use-mondaycom-app.md": {
     "hash": "e023725bf52f21e2c6bcb13177c24c01b54d21c9a27ffc4e63dcfa82889f9d1c",
@@ -934,6 +918,10 @@
   "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes.md": {
     "hash": "e493bd84fc47611e8c8612d410c211624634f8b7b59e637d5f1ed084798276d5",
     "doc_name": "uploaded:how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes.md"
+  },
+  "how-to-use-optisigns-with-microsoft-teams-rooms.md": {
+    "hash": "364c81ef82b5ecb74d098bc0fc96b5ac4c9d6bf67d8ba092e60dc8fa7b743c2e",
+    "doc_name": "uploaded:how-to-use-optisigns-with-microsoft-teams-rooms.md"
   },
   "how-to-use-overlay-layers-with-optisigns.md": {
     "hash": "f3f9fb21611ac7cfa831f0806a65ca4dab5c4d4400cf0640f9324819f1bc2116",
@@ -971,10 +959,6 @@
     "hash": "4401a29f8558cbaf38dcd95a3e82e8b99903bf9e66ee9e8b0ccb46bf99b736dc",
     "doc_name": "uploaded:how-to-use-secured-dashboard-app.md"
   },
-  "how-to-use-slack-app.md": {
-    "hash": "464cc0ea18e38ee5756d396dddf3b5b5f1b148f032fe973aa6586210dbee70dd",
-    "doc_name": "uploaded:how-to-use-slack-app.md"
-  },
   "how-to-use-streaming-app-with-optisigns.md": {
     "hash": "5871ad0953e0523223ccc630836996ad7c1714ec6e3afa38eeafe6ebf4ad7cbf",
     "doc_name": "uploaded:how-to-use-streaming-app-with-optisigns.md"
@@ -998,10 +982,6 @@
   "how-to-use-the-countdown-app.md": {
     "hash": "742bf825e3db57642b941fe437b2f90ca16b952835ac04b98e957628d9511706",
     "doc_name": "uploaded:how-to-use-the-countdown-app.md"
-  },
-  "how-to-use-the-countup-app.md": {
-    "hash": "a65935e46effa36b1f55005cad5acd069c58c832bc418b3f112931c818b6ddc0",
-    "doc_name": "uploaded:how-to-use-the-countup-app.md"
   },
   "how-to-use-the-crypto-index-crypto-exchange-app.md": {
     "hash": "57dd483d7b8371212b3329d6f4c945f9fa4b7dda9198c8fe06d739215df298f8",
@@ -1090,6 +1070,10 @@
   "how-to-use-the-on-this-day-app.md": {
     "hash": "5dfce405af7430bb989b9a75e78325cb6cc02027e6cef42182f0e00fca1e80c1",
     "doc_name": "uploaded:how-to-use-the-on-this-day-app.md"
+  },
+  "how-to-use-the-onedrive-app.md": {
+    "hash": "77c7eaf58dec72d1207b74a16db2ac7a6c864f3f8c2e0ac9a3e17d05068846fb",
+    "doc_name": "uploaded:how-to-use-the-onedrive-app.md"
   },
   "how-to-use-the-optisigns-mobile-admin-app.md": {
     "hash": "de5632921889e1171c382c3fd0a6f427b4929bbf508702d313677395de59884e",
@@ -1643,24 +1627,40 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-use-the-onedrive-app.md": {
-    "hash": "77c7eaf58dec72d1207b74a16db2ac7a6c864f3f8c2e0ac9a3e17d05068846fb",
-    "doc_name": "uploaded:how-to-use-the-onedrive-app.md"
+  "displaying-sharepoint-sites-on-optisigns.md": {
+    "hash": "a05193f8e1d80c62b307199ca095c3d61370c626ba3764a7f76c6bb57e6d3fdb",
+    "doc_name": "uploaded:displaying-sharepoint-sites-on-optisigns.md"
   },
-  "how-to-use-microsoft-powerpoint-with-optisigns.md": {
-    "hash": "3842d7e31290a632d166c546a0ae65e1f65a49ba9c60882209221cabe223a7f3",
-    "doc_name": "uploaded:how-to-use-microsoft-powerpoint-with-optisigns.md"
+  "how-to-integrate-bonusly-digital-signage-with-optisigns.md": {
+    "hash": "7103844f7e161634297a5c87175f39a0746d8067e047bcc2cbc08c6962e57ad6",
+    "doc_name": "uploaded:how-to-integrate-bonusly-digital-signage-with-optisigns.md"
   },
-  "how-to-use-microsoft-excel-online-with-optisigns.md": {
-    "hash": "ada05b4c3dce9fa4dbca26e3e6d0509ecdddbea0a008358ced904927c99c49ed",
-    "doc_name": "uploaded:how-to-use-microsoft-excel-online-with-optisigns.md"
+  "how-to-use-microsoft-outlook-calendar-with-optisigns.md": {
+    "hash": "55fd2e247418eeabfae169747a7d7a6b6cd5725343a557bd9372800d9f02f028",
+    "doc_name": "uploaded:how-to-use-microsoft-outlook-calendar-with-optisigns.md"
   },
-  "how-to-use-microsoft-teams-live-app-with-optisigns.md": {
-    "hash": "81f77cdf0119731f466d6e7b6ff406c50131915a081b3f38e3da183049caa23a",
-    "doc_name": "uploaded:how-to-use-microsoft-teams-live-app-with-optisigns.md"
+  "how-to-use-the-dropbox-app.md": {
+    "hash": "5833a7091d1676d2540ea3b63d908515b6996d3fcd85cf7db84a7965d2f70c8c",
+    "doc_name": "uploaded:how-to-use-the-dropbox-app.md"
   },
-  "how-to-use-optisigns-with-microsoft-teams-rooms.md": {
-    "hash": "364c81ef82b5ecb74d098bc0fc96b5ac4c9d6bf67d8ba092e60dc8fa7b743c2e",
-    "doc_name": "uploaded:how-to-use-optisigns-with-microsoft-teams-rooms.md"
+  "how-to-display-microsoft-teams-chat-on-optisigns.md": {
+    "hash": "530c0aeb8838dba5abb51cb3d119cc99c7f9a40e70a40794c7451ee3397a30d2",
+    "doc_name": "uploaded:how-to-display-microsoft-teams-chat-on-optisigns.md"
+  },
+  "how-to-use-icloud-calendar-with-optisigns.md": {
+    "hash": "d78b4b012c28a625866cc6ef3825af85f0f308874ecf95f3eb291d510ff11ea8",
+    "doc_name": "uploaded:how-to-use-icloud-calendar-with-optisigns.md"
+  },
+  "how-to-use-the-countup-app.md": {
+    "hash": "6ca91c58ccafd28e1c165dd190b97a82e76edea06dea58d0ee8f5ee334eea69f",
+    "doc_name": "uploaded:how-to-use-the-countup-app.md"
+  },
+  "how-to-use-the-slack-app.md": {
+    "hash": "41a105b2dfe03d5bfa76b1370bacc8b83d367149b1769a4372f17a35cbb7409e",
+    "doc_name": "uploaded:how-to-use-the-slack-app.md"
+  },
+  "how-to-use-the-microsoft-teams-meeting-app.md": {
+    "hash": "5776c8ea4482f52212bc4afadec2412d4aa81381d7df6591ee95b6dbdc9fd2cc",
+    "doc_name": "uploaded:how-to-use-the-microsoft-teams-meeting-app.md"
   }
 }
