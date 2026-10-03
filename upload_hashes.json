@@ -63,6 +63,10 @@
     "hash": "8643ed38d94a0020243fcba509a12f43043d1d4446c7deddb9e74c310912017d",
     "doc_name": "uploaded:amazon-signage-stick.md"
   },
+  "amazon-tv-firestick-troubleshooting-guide.md": {
+    "hash": "ba19460c12c559ab5cb2e48cb079c2a784e46b1a42f8add9dba23f75d0694ca0",
+    "doc_name": "uploaded:amazon-tv-firestick-troubleshooting-guide.md"
+  },
   "android-tv-chromecast.md": {
     "hash": "685bb89f9cba44b9ef5b085972e838ef4846a43dcf39cfad182a4558d279bad6",
     "doc_name": "uploaded:android-tv-chromecast.md"
@@ -343,6 +347,10 @@
     "hash": "b9e13b06070bf1c4ace1b236215ea001a541d66ad96abe7e96bd2083d2c2b915",
     "doc_name": "uploaded:how-to-approve-optisigns-as-enterprise-app-on-microsoft-azure-for-power-bi-calen.md"
   },
+  "how-to-best-use-canva-with-optisigns.md": {
+    "hash": "fe006e42ae099ebb7d552fc38acea6e8c9610bc616a34ea6583a6039f39b712f",
+    "doc_name": "uploaded:how-to-best-use-canva-with-optisigns.md"
+  },
   "how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case.md": {
     "hash": "4698180ac7b2c91cf59293c443f45620b932ffa330118da12ec5e4d22447971f",
     "doc_name": "uploaded:how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case.md"
@@ -358,10 +366,6 @@
   "how-to-change-engagekiosk-style-preferences.md": {
     "hash": "b65c1226352b878810b1ff8386f3d69bea010aa73e8a22ac3e2556df9eb65a23",
     "doc_name": "uploaded:how-to-change-engagekiosk-style-preferences.md"
-  },
-  "how-to-change-time-zone-on-your-fire-stick-device.md": {
-    "hash": "a4e5909ac6fd2a8a3d87da08fd612de8a584ec0f2223e44eff1a91f26fa1107d",
-    "doc_name": "uploaded:how-to-change-time-zone-on-your-fire-stick-device.md"
   },
   "how-to-change-time-zone-on-your-raspberry-pi-device.md": {
     "hash": "864d8bdd03469dae61a433d8bb712aceba73785b3fbabec3c50fefeabf1fad22",
@@ -775,6 +779,10 @@
     "hash": "ee8396655eb032362dc70a83380a70d1fb5e01e4d6b93a75eed7d15448d51016",
     "doc_name": "uploaded:how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing.md"
   },
+  "how-to-use-airtable-with-optisigns.md": {
+    "hash": "d872133c697fc546801359fdcd0e02b9580f47434ada69a59bfa84b505e000af",
+    "doc_name": "uploaded:how-to-use-airtable-with-optisigns.md"
+  },
   "how-to-use-approval-workflow-feature.md": {
     "hash": "b774f522b3782cd6936f86c3d6acaf27830d8519acf155b36a0fd58e0463b512",
     "doc_name": "uploaded:how-to-use-approval-workflow-feature.md"
@@ -1055,9 +1063,17 @@
     "hash": "5776c8ea4482f52212bc4afadec2412d4aa81381d7df6591ee95b6dbdc9fd2cc",
     "doc_name": "uploaded:how-to-use-the-microsoft-teams-meeting-app.md"
   },
+  "how-to-use-the-mindmeister-app.md": {
+    "hash": "c9eddde2f0635038f0814e75cfee9186605e74d514da804e22a52a0af6d1f764",
+    "doc_name": "uploaded:how-to-use-the-mindmeister-app.md"
+  },
   "how-to-use-the-mobile-app-for-remote-control.md": {
     "hash": "706fc61efe4e2067e9b3a2c67e908c9523f5f1724569280a6c905221d3503004",
     "doc_name": "uploaded:how-to-use-the-mobile-app-for-remote-control.md"
+  },
+  "how-to-use-the-mondaycom-app.md": {
+    "hash": "709f4d2eadd1921cc017eb83474ea1b94d05ff5706ad49ba647ef8396795d855",
+    "doc_name": "uploaded:how-to-use-the-mondaycom-app.md"
   },
   "how-to-use-the-motivational-quote-app.md": {
     "hash": "80e7f06a4b64497d84c469420ec2bfe67da70c77e596a61c56783a5377955bf5",
@@ -1639,24 +1655,8 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "amazon-tv-firestick-troubleshooting-guide.md": {
-    "hash": "ba19460c12c559ab5cb2e48cb079c2a784e46b1a42f8add9dba23f75d0694ca0",
-    "doc_name": "uploaded:amazon-tv-firestick-troubleshooting-guide.md"
-  },
-  "how-to-use-airtable-with-optisigns.md": {
-    "hash": "d872133c697fc546801359fdcd0e02b9580f47434ada69a59bfa84b505e000af",
-    "doc_name": "uploaded:how-to-use-airtable-with-optisigns.md"
-  },
-  "how-to-best-use-canva-with-optisigns.md": {
-    "hash": "fe006e42ae099ebb7d552fc38acea6e8c9610bc616a34ea6583a6039f39b712f",
-    "doc_name": "uploaded:how-to-best-use-canva-with-optisigns.md"
-  },
-  "how-to-use-the-mindmeister-app.md": {
-    "hash": "c9eddde2f0635038f0814e75cfee9186605e74d514da804e22a52a0af6d1f764",
-    "doc_name": "uploaded:how-to-use-the-mindmeister-app.md"
-  },
-  "how-to-use-the-mondaycom-app.md": {
-    "hash": "709f4d2eadd1921cc017eb83474ea1b94d05ff5706ad49ba647ef8396795d855",
-    "doc_name": "uploaded:how-to-use-the-mondaycom-app.md"
+  "how-to-change-time-zone-on-your-fire-stick-device.md": {
+    "hash": "598301ff553535f4a9e8d0a84125de600eaf199a6b24fe18577bf7ba2500599e",
+    "doc_name": "uploaded:how-to-change-time-zone-on-your-fire-stick-device.md"
   }
 }
