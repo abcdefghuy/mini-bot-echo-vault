@@ -367,6 +367,10 @@
     "hash": "b65c1226352b878810b1ff8386f3d69bea010aa73e8a22ac3e2556df9eb65a23",
     "doc_name": "uploaded:how-to-change-engagekiosk-style-preferences.md"
   },
+  "how-to-change-time-zone-on-your-fire-stick-device.md": {
+    "hash": "598301ff553535f4a9e8d0a84125de600eaf199a6b24fe18577bf7ba2500599e",
+    "doc_name": "uploaded:how-to-change-time-zone-on-your-fire-stick-device.md"
+  },
   "how-to-change-time-zone-on-your-raspberry-pi-device.md": {
     "hash": "864d8bdd03469dae61a433d8bb712aceba73785b3fbabec3c50fefeabf1fad22",
     "doc_name": "uploaded:how-to-change-time-zone-on-your-raspberry-pi-device.md"
@@ -570,10 +574,6 @@
   "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md": {
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
-  },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "472a4bc48ed3d833c08eaf0430b093762535e136a6aa1aa48af891bed1a01d79",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
@@ -1655,8 +1655,8 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-change-time-zone-on-your-fire-stick-device.md": {
-    "hash": "598301ff553535f4a9e8d0a84125de600eaf199a6b24fe18577bf7ba2500599e",
-    "doc_name": "uploaded:how-to-change-time-zone-on-your-fire-stick-device.md"
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "a315e9298361157761254b15cc2521c62ac867aae0050db64c5a63bdf5d79a5a",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   }
 }
