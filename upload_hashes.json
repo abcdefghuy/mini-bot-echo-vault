@@ -659,10 +659,6 @@
     "hash": "f73a4b3c4b475ac893f61d1c14a7bcf3b00cd5f7c8ca44f35a688eb1a8af46cf",
     "doc_name": "uploaded:how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
   },
-  "how-to-preview-a-screen.md": {
-    "hash": "9f64e9fb1935d2d3fb47320e6b6f90c4569e98ca3de6a612d963e7e09e0cfbc2",
-    "doc_name": "uploaded:how-to-preview-a-screen.md"
-  },
   "how-to-put-live-tv-on-your-screens-with-optisigns.md": {
     "hash": "1305c95ae6031120ffb56fec315651989bca420a03432473883cf26ff2e498c9",
     "doc_name": "uploaded:how-to-put-live-tv-on-your-screens-with-optisigns.md"
@@ -1656,7 +1652,11 @@
     "doc_name": "uploaded:your-templates.md"
   },
   "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "a315e9298361157761254b15cc2521c62ac867aae0050db64c5a63bdf5d79a5a",
+    "hash": "792c7256b58f11ded26f5a3c3c5c8017da9823f0a0d98e540f6ed3ed6f1c3dac",
     "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
+  },
+  "how-to-preview-a-screen.md": {
+    "hash": "f774e4e8b914bcba244ac0e36396be2e19598ac42350575409ddc518781dc183",
+    "doc_name": "uploaded:how-to-preview-a-screen.md"
   }
 }
