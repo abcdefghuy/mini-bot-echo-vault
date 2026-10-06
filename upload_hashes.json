@@ -563,10 +563,6 @@
     "hash": "44ce97a6a51c8f17d73b20dde9babc96434781d6601088a25155f8a570a73b9e",
     "doc_name": "uploaded:how-to-get-the-mac-address-on-your-media-player.md"
   },
-  "how-to-get-the-most-out-of-your-digital-signs.md": {
-    "hash": "ca0f03f8769a5789090af37ac2c553388be5e4c6ceeaf70d9168616e761d7ed9",
-    "doc_name": "uploaded:how-to-get-the-most-out-of-your-digital-signs.md"
-  },
   "how-to-hide-certain-templates-categories-in-designers.md": {
     "hash": "51a7b63710e87f737bcc1e492c75081da94e0b1a3a272db5899e7428ee9ccf95",
     "doc_name": "uploaded:how-to-hide-certain-templates-categories-in-designers.md"
@@ -574,6 +570,10 @@
   "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md": {
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
+  },
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "792c7256b58f11ded26f5a3c3c5c8017da9823f0a0d98e540f6ed3ed6f1c3dac",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
@@ -658,6 +658,10 @@
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": {
     "hash": "f73a4b3c4b475ac893f61d1c14a7bcf3b00cd5f7c8ca44f35a688eb1a8af46cf",
     "doc_name": "uploaded:how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
+  },
+  "how-to-preview-a-screen.md": {
+    "hash": "f774e4e8b914bcba244ac0e36396be2e19598ac42350575409ddc518781dc183",
+    "doc_name": "uploaded:how-to-preview-a-screen.md"
   },
   "how-to-put-live-tv-on-your-screens-with-optisigns.md": {
     "hash": "1305c95ae6031120ffb56fec315651989bca420a03432473883cf26ff2e498c9",
@@ -1391,10 +1395,6 @@
     "hash": "1c00e0432f4f1c515765ff02a1ad6c2cf8893cb60c3c4c83ed670cf68e046c21",
     "doc_name": "uploaded:photos-gifs-and-qr-codes-in-designer.md"
   },
-  "powerpoint-resolution-size-for-use-with-digital-signage.md": {
-    "hash": "5883a8c6fba511a61184700cf79519df69aac257b098d70e260384e3f1f246fe",
-    "doc_name": "uploaded:powerpoint-resolution-size-for-use-with-digital-signage.md"
-  },
   "powerpoint-transition-and-animation-effect.md": {
     "hash": "ed4f91df599574339b92fc1bc4b54fb65bdb6bf850607f9301a40b3b928fcaae",
     "doc_name": "uploaded:powerpoint-transition-and-animation-effect.md"
@@ -1651,12 +1651,12 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "792c7256b58f11ded26f5a3c3c5c8017da9823f0a0d98e540f6ed3ed6f1c3dac",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
+  "how-to-get-the-most-out-of-your-digital-signs.md": {
+    "hash": "ed3fd2e4f8b9a4e0994768e37ca117e8e9bcad7c06d639bc88863e1579dd55a8",
+    "doc_name": "uploaded:how-to-get-the-most-out-of-your-digital-signs.md"
   },
-  "how-to-preview-a-screen.md": {
-    "hash": "f774e4e8b914bcba244ac0e36396be2e19598ac42350575409ddc518781dc183",
-    "doc_name": "uploaded:how-to-preview-a-screen.md"
+  "powerpoint-resolution-size-for-use-with-digital-signage.md": {
+    "hash": "743a3dd8b6a18b0342c9bebd667a4e354a1093b8080b35a9a300bb49ea61ec30",
+    "doc_name": "uploaded:powerpoint-resolution-size-for-use-with-digital-signage.md"
   }
 }
