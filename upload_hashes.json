@@ -563,6 +563,10 @@
     "hash": "44ce97a6a51c8f17d73b20dde9babc96434781d6601088a25155f8a570a73b9e",
     "doc_name": "uploaded:how-to-get-the-mac-address-on-your-media-player.md"
   },
+  "how-to-get-the-most-out-of-your-digital-signs.md": {
+    "hash": "ed3fd2e4f8b9a4e0994768e37ca117e8e9bcad7c06d639bc88863e1579dd55a8",
+    "doc_name": "uploaded:how-to-get-the-most-out-of-your-digital-signs.md"
+  },
   "how-to-hide-certain-templates-categories-in-designers.md": {
     "hash": "51a7b63710e87f737bcc1e492c75081da94e0b1a3a272db5899e7428ee9ccf95",
     "doc_name": "uploaded:how-to-hide-certain-templates-categories-in-designers.md"
@@ -1395,6 +1399,10 @@
     "hash": "1c00e0432f4f1c515765ff02a1ad6c2cf8893cb60c3c4c83ed670cf68e046c21",
     "doc_name": "uploaded:photos-gifs-and-qr-codes-in-designer.md"
   },
+  "powerpoint-resolution-size-for-use-with-digital-signage.md": {
+    "hash": "743a3dd8b6a18b0342c9bebd667a4e354a1093b8080b35a9a300bb49ea61ec30",
+    "doc_name": "uploaded:powerpoint-resolution-size-for-use-with-digital-signage.md"
+  },
   "powerpoint-transition-and-animation-effect.md": {
     "hash": "ed4f91df599574339b92fc1bc4b54fb65bdb6bf850607f9301a40b3b928fcaae",
     "doc_name": "uploaded:powerpoint-transition-and-animation-effect.md"
@@ -1595,10 +1603,6 @@
     "hash": "b814d4ac0759e37b420c455001002a78f6334c648d6fdd9eddb46ebda7e1ce71",
     "doc_name": "uploaded:what-access-does-optisigns-have-to-my-account-and-devices.md"
   },
-  "what-do-i-get-with-an-optisigns-free-plan.md": {
-    "hash": "d1937208b26e8c05c794314e5c01fec14d2e475d3837866b26d319af6836f466",
-    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
-  },
   "what-happen-if-internet-connection-is-lost.md": {
     "hash": "78606e402e8e1840aa7185ab041f73e113bbd2a27f9457b7b2749d357d88936a",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
@@ -1651,12 +1655,8 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-get-the-most-out-of-your-digital-signs.md": {
-    "hash": "ed3fd2e4f8b9a4e0994768e37ca117e8e9bcad7c06d639bc88863e1579dd55a8",
-    "doc_name": "uploaded:how-to-get-the-most-out-of-your-digital-signs.md"
-  },
-  "powerpoint-resolution-size-for-use-with-digital-signage.md": {
-    "hash": "743a3dd8b6a18b0342c9bebd667a4e354a1093b8080b35a9a300bb49ea61ec30",
-    "doc_name": "uploaded:powerpoint-resolution-size-for-use-with-digital-signage.md"
+  "what-do-i-get-with-an-optisigns-free-plan.md": {
+    "hash": "f7765d0a55a441b4d066bc4eafb1c6d35f24f852e3520cc11d39097119a448fc",
+    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
   }
 }
