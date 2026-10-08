@@ -499,10 +499,6 @@
     "hash": "2f7e6d4b0b3b272c172b6c6b62eebf6ecfe796673e5fb30d82e0456de981abdd",
     "doc_name": "uploaded:how-to-display-google-slide-in-portrait-mode.md"
   },
-  "how-to-display-grafana-dashboards-on-optisigns.md": {
-    "hash": "8a4950646ed2b6918f7d110b1ae6152ba53f1608a8fb035984574dd844dcbc2c",
-    "doc_name": "uploaded:how-to-display-grafana-dashboards-on-optisigns.md"
-  },
   "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
     "hash": "6dfc963e55b516c59a61a797bd041d9c722183b010e687a92e129cb174b5e9e9",
     "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
@@ -1656,7 +1652,11 @@
     "doc_name": "uploaded:your-templates.md"
   },
   "what-do-i-get-with-an-optisigns-free-plan.md": {
-    "hash": "f7765d0a55a441b4d066bc4eafb1c6d35f24f852e3520cc11d39097119a448fc",
+    "hash": "ff9598fa00be8b8bf632ed61fc4ab196d495fbe387338f7e89d2ce8bd58cfd8e",
     "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
+  },
+  "how-to-display-grafana-dashboards-on-optisigns.md": {
+    "hash": "6e40211bb9c908f47094349011e9aeecdbf5dd643a4cfa2716c8b4c67dd6c204",
+    "doc_name": "uploaded:how-to-display-grafana-dashboards-on-optisigns.md"
   }
 }
