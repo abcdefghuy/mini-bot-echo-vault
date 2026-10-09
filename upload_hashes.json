@@ -499,6 +499,10 @@
     "hash": "2f7e6d4b0b3b272c172b6c6b62eebf6ecfe796673e5fb30d82e0456de981abdd",
     "doc_name": "uploaded:how-to-display-google-slide-in-portrait-mode.md"
   },
+  "how-to-display-grafana-dashboards-on-optisigns.md": {
+    "hash": "6e40211bb9c908f47094349011e9aeecdbf5dd643a4cfa2716c8b4c67dd6c204",
+    "doc_name": "uploaded:how-to-display-grafana-dashboards-on-optisigns.md"
+  },
   "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md": {
     "hash": "6dfc963e55b516c59a61a797bd041d9c722183b010e687a92e129cb174b5e9e9",
     "doc_name": "uploaded:how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md"
@@ -570,10 +574,6 @@
   "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md": {
     "hash": "c9e7c52edc6d9d4e0c37580cc5b4087fb68285b99b69f499e1b391c3d042348c",
     "doc_name": "uploaded:how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md"
-  },
-  "how-to-install-an-apk-file-on-your-fire-tv.md": {
-    "hash": "792c7256b58f11ded26f5a3c3c5c8017da9823f0a0d98e540f6ed3ed6f1c3dac",
-    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   },
   "how-to-install-optisigns-as-an-apk-file-on-android-devices.md": {
     "hash": "ee1b00e0063bf10b357dc64cc0dd7f1be68fe89f64b0c5e5e76ce94cfd644e19",
@@ -1599,6 +1599,10 @@
     "hash": "b814d4ac0759e37b420c455001002a78f6334c648d6fdd9eddb46ebda7e1ce71",
     "doc_name": "uploaded:what-access-does-optisigns-have-to-my-account-and-devices.md"
   },
+  "what-do-i-get-with-an-optisigns-free-plan.md": {
+    "hash": "ff9598fa00be8b8bf632ed61fc4ab196d495fbe387338f7e89d2ce8bd58cfd8e",
+    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
+  },
   "what-happen-if-internet-connection-is-lost.md": {
     "hash": "78606e402e8e1840aa7185ab041f73e113bbd2a27f9457b7b2749d357d88936a",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
@@ -1651,12 +1655,8 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "what-do-i-get-with-an-optisigns-free-plan.md": {
-    "hash": "ff9598fa00be8b8bf632ed61fc4ab196d495fbe387338f7e89d2ce8bd58cfd8e",
-    "doc_name": "uploaded:what-do-i-get-with-an-optisigns-free-plan.md"
-  },
-  "how-to-display-grafana-dashboards-on-optisigns.md": {
-    "hash": "6e40211bb9c908f47094349011e9aeecdbf5dd643a4cfa2716c8b4c67dd6c204",
-    "doc_name": "uploaded:how-to-display-grafana-dashboards-on-optisigns.md"
+  "how-to-install-an-apk-file-on-your-fire-tv.md": {
+    "hash": "426f182adea5af4448d7a93207057069b60dbf9525c4c2755d60e2694f6ecc70",
+    "doc_name": "uploaded:how-to-install-an-apk-file-on-your-fire-tv.md"
   }
 }
