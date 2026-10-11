@@ -1291,10 +1291,6 @@
     "hash": "ed177e7aeb4d337e332083c673ad26ab0b1eacd3e93e92efa6cf49bee9ace2d5",
     "doc_name": "uploaded:linux.md"
   },
-  "list-of-supported-cities-for-weather-wall-city-themes.md": {
-    "hash": "8eaca5c0a1d8cf92ddabb46116ed001acd27e27c91d8b00be35be3514210c01a",
-    "doc_name": "uploaded:list-of-supported-cities-for-weather-wall-city-themes.md"
-  },
   "macos.md": {
     "hash": "216eb9b5018ffb0645990fd7cefc5df2c5814bc5f96a63c77962a5fcea4b778f",
     "doc_name": "uploaded:macos.md"
@@ -1658,5 +1654,9 @@
   "your-templates.md": {
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
+  },
+  "list-of-supported-cities-for-weather-wall-city-themes.md": {
+    "hash": "31430f35101ca31b79d538806200fa0b8a674c7be1a0e9dd537175e2b56d20bf",
+    "doc_name": "uploaded:list-of-supported-cities-for-weather-wall-city-themes.md"
   }
 }
