@@ -335,10 +335,6 @@
     "hash": "d58a6acf66aa0f292651f317aa1952caab34215de330d683f524c21e05486393",
     "doc_name": "uploaded:how-to-add-google-sheets-as-a-datasource-for-optisync.md"
   },
-  "how-to-add-use-vimeo-video-with-optisigns.md": {
-    "hash": "fdd573f0bffade67db61b64215297c1361e223b2ca7a469cc63eb14898e42e7f",
-    "doc_name": "uploaded:how-to-add-use-vimeo-video-with-optisigns.md"
-  },
   "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick.md": {
     "hash": "b084f00e2ba7c12032339d94b1b31fb3fb7d24e0e7ef6e12d6d495b5e07b14a5",
     "doc_name": "uploaded:how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick.md"
@@ -431,10 +427,6 @@
     "hash": "725e3dfd0865060922d558f4b911e4925b00d7c0c5745e3b3ab77c70096ad67a",
     "doc_name": "uploaded:how-to-create-and-use-instagram-wall.md"
   },
-  "how-to-create-and-use-nested-playlists.md": {
-    "hash": "ab308edb82879d32fdab108281c609cd9242013ac094a42a0f94a7c81fb53513",
-    "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
-  },
   "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
     "hash": "e71d1572a4b8f2c59fd82ad7372f5c9e3025e5bec84101766cece218e17dbca1",
     "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
@@ -458,10 +450,6 @@
   "how-to-create-custom-news-feeds-with-optisync.md": {
     "hash": "030f3c8cecd646ac239c05bf4b8a6cc4a187dedda93785ed2286501255a2edce",
     "doc_name": "uploaded:how-to-create-custom-news-feeds-with-optisync.md"
-  },
-  "how-to-create-use-playlists.md": {
-    "hash": "524bad71c3f041e8a273c8f96b5fa86dd618249097c476ec2c31c19c4139eb1e",
-    "doc_name": "uploaded:how-to-create-use-playlists.md"
   },
   "how-to-customize-the-thumbnail-of-files-assets-and-folders.md": {
     "hash": "f486e87cc62fa16d5842515025cc51b803cedcc049848ae7599be05904dab9bc",
@@ -510,14 +498,6 @@
   "how-to-display-microsoft-teams-chat-on-optisigns.md": {
     "hash": "530c0aeb8838dba5abb51cb3d119cc99c7f9a40e70a40794c7451ee3397a30d2",
     "doc_name": "uploaded:how-to-display-microsoft-teams-chat-on-optisigns.md"
-  },
-  "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
-    "hash": "ddf97ea0a5d4888fbbcd2b15713d3c718763af1586563ee3030220e4b9d4358a",
-    "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
-  },
-  "how-to-display-smartsheet-report-on-optisigns.md": {
-    "hash": "e972c65b2d4a4d7b63eb6cff8b7316e97eb5065668c75722f34b3d98c7405e5f",
-    "doc_name": "uploaded:how-to-display-smartsheet-report-on-optisigns.md"
   },
   "how-to-enable-auto-start-on-fireos-8-devices-like-amazon-fire-tv-stick-4k-gen-2-.md": {
     "hash": "e80941cc07fa4ff770dec85dbb08ed7c806a12e0eb6bece47e8d88ea40a686ab",
@@ -622,10 +602,6 @@
   "how-to-lockdown-ipadsingle-app-with-guided-accessibility.md": {
     "hash": "b7c09401d61068a6e168851101fc136b981211806d4fbbebc46778d2b6aefe35",
     "doc_name": "uploaded:how-to-lockdown-ipadsingle-app-with-guided-accessibility.md"
-  },
-  "how-to-manage-and-edit-your-playlist-settings.md": {
-    "hash": "1296d8cbaf67daa01f765366cdfcfe688c15e4f07fb6238827a861930685cac1",
-    "doc_name": "uploaded:how-to-manage-and-edit-your-playlist-settings.md"
   },
   "how-to-manage-sub-account-billing-with-optisigns.md": {
     "hash": "701d0b3a4153c1fdaa628fa2342209bf90cdf2137be85af970a067a7b84086c3",
@@ -1183,10 +1159,6 @@
     "hash": "046408a5bcc24aa931c51523650f2ca8672479fbf6a96349ebb76f3b12dee397",
     "doc_name": "uploaded:how-to-use-the-youtube-playlist-app-with-optisigns.md"
   },
-  "how-to-use-toast-api-data-with-optisigns.md": {
-    "hash": "479bcc566493a53076e12cdba43927d7e9ea577d8b6430b8435512fd28889255",
-    "doc_name": "uploaded:how-to-use-toast-api-data-with-optisigns.md"
-  },
   "how-to-use-trello-app.md": {
     "hash": "6604e0d060189612417f1b151c01ccff4b39b6621cc65c45b0a0139b22992313",
     "doc_name": "uploaded:how-to-use-trello-app.md"
@@ -1290,6 +1262,10 @@
   "linux.md": {
     "hash": "ed177e7aeb4d337e332083c673ad26ab0b1eacd3e93e92efa6cf49bee9ace2d5",
     "doc_name": "uploaded:linux.md"
+  },
+  "list-of-supported-cities-for-weather-wall-city-themes.md": {
+    "hash": "31430f35101ca31b79d538806200fa0b8a674c7be1a0e9dd537175e2b56d20bf",
+    "doc_name": "uploaded:list-of-supported-cities-for-weather-wall-city-themes.md"
   },
   "macos.md": {
     "hash": "216eb9b5018ffb0645990fd7cefc5df2c5814bc5f96a63c77962a5fcea4b778f",
@@ -1607,10 +1583,6 @@
     "hash": "78606e402e8e1840aa7185ab041f73e113bbd2a27f9457b7b2749d357d88936a",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
   },
-  "what-hardware-and-devices-are-supported.md": {
-    "hash": "8db93c2a4817398ef83b9ace9b6f8463ec93926b417d80c7c824cd9b7fa2d333",
-    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
-  },
   "what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md": {
     "hash": "28e9802d5311e9ebfc6361793b9d1e977ede2576a5d0917370ce0bffea2d5ea8",
     "doc_name": "uploaded:what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md"
@@ -1655,8 +1627,36 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "list-of-supported-cities-for-weather-wall-city-themes.md": {
-    "hash": "31430f35101ca31b79d538806200fa0b8a674c7be1a0e9dd537175e2b56d20bf",
-    "doc_name": "uploaded:list-of-supported-cities-for-weather-wall-city-themes.md"
+  "how-to-display-a-smartsheet-report-on-optisigns.md": {
+    "hash": "836ea0705e45a5a971fa74cb50623764bed453cfa8ddcc63f0a3098a9fe47ca4",
+    "doc_name": "uploaded:how-to-display-a-smartsheet-report-on-optisigns.md"
+  },
+  "how-to-create-and-use-nested-playlists.md": {
+    "hash": "09082fa741efb7e958efff5728d7bcd2349bfda36de6ddbf3f594c2408f84cde",
+    "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
+  },
+  "how-to-use-toast-api-data-with-optisigns.md": {
+    "hash": "8d26ef0e4922a5e83f505fc5bac3ff047a15fd23ade133cd9c888788616497b3",
+    "doc_name": "uploaded:how-to-use-toast-api-data-with-optisigns.md"
+  },
+  "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
+    "hash": "9817aa01b42214c5e6305bc3c6232fbb44c7c3a33f1850d6e1cc1223267085ab",
+    "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
+  },
+  "what-hardware-and-devices-are-supported.md": {
+    "hash": "2cab5053aa6f99175407480212a9e1c1fab96d15a0ff18adb55f5fdce6e045af",
+    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
+  },
+  "how-to-manage-and-edit-your-playlist-settings.md": {
+    "hash": "09026e612888c4f973c0fd4aeb9cbc30be7c65fb3586096a961d2c52a840e682",
+    "doc_name": "uploaded:how-to-manage-and-edit-your-playlist-settings.md"
+  },
+  "how-to-display-vimeo-videos-with-optisigns.md": {
+    "hash": "5878e030b358ef99bbb47dcf94693e071d8d037e4db854a52b5090d2743a060c",
+    "doc_name": "uploaded:how-to-display-vimeo-videos-with-optisigns.md"
+  },
+  "how-to-create-use-playlists.md": {
+    "hash": "142f00a98ddb11e55857db21b1e8572430411b2736a3f291e50493cc86de0d56",
+    "doc_name": "uploaded:how-to-create-use-playlists.md"
   }
 }
