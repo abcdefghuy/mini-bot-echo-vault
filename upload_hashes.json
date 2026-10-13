@@ -63,10 +63,6 @@
     "hash": "8643ed38d94a0020243fcba509a12f43043d1d4446c7deddb9e74c310912017d",
     "doc_name": "uploaded:amazon-signage-stick.md"
   },
-  "amazon-tv-firestick-troubleshooting-guide.md": {
-    "hash": "ba19460c12c559ab5cb2e48cb079c2a784e46b1a42f8add9dba23f75d0694ca0",
-    "doc_name": "uploaded:amazon-tv-firestick-troubleshooting-guide.md"
-  },
   "android-tv-chromecast.md": {
     "hash": "685bb89f9cba44b9ef5b085972e838ef4846a43dcf39cfad182a4558d279bad6",
     "doc_name": "uploaded:android-tv-chromecast.md"
@@ -327,10 +323,6 @@
     "hash": "6346f98c584217137e14fa59b35a16e35fb8b08feb9ab59465c4e083a5df8011",
     "doc_name": "uploaded:how-to-add-a-qr-code-in-designs-using-optisigns-designer.md"
   },
-  "how-to-add-captions-to-vimeo-videos.md": {
-    "hash": "8def5708380c93a21863b4d4ec23fc1c903f8989c9454eb2543a4e02ecf77084",
-    "doc_name": "uploaded:how-to-add-captions-to-vimeo-videos.md"
-  },
   "how-to-add-google-sheets-as-a-datasource-for-optisync.md": {
     "hash": "d58a6acf66aa0f292651f317aa1952caab34215de330d683f524c21e05486393",
     "doc_name": "uploaded:how-to-add-google-sheets-as-a-datasource-for-optisync.md"
@@ -427,6 +419,10 @@
     "hash": "725e3dfd0865060922d558f4b911e4925b00d7c0c5745e3b3ab77c70096ad67a",
     "doc_name": "uploaded:how-to-create-and-use-instagram-wall.md"
   },
+  "how-to-create-and-use-nested-playlists.md": {
+    "hash": "09082fa741efb7e958efff5728d7bcd2349bfda36de6ddbf3f594c2408f84cde",
+    "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
+  },
   "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
     "hash": "e71d1572a4b8f2c59fd82ad7372f5c9e3025e5bec84101766cece218e17dbca1",
     "doc_name": "uploaded:how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md"
@@ -451,6 +447,10 @@
     "hash": "030f3c8cecd646ac239c05bf4b8a6cc4a187dedda93785ed2286501255a2edce",
     "doc_name": "uploaded:how-to-create-custom-news-feeds-with-optisync.md"
   },
+  "how-to-create-use-playlists.md": {
+    "hash": "142f00a98ddb11e55857db21b1e8572430411b2736a3f291e50493cc86de0d56",
+    "doc_name": "uploaded:how-to-create-use-playlists.md"
+  },
   "how-to-customize-the-thumbnail-of-files-assets-and-folders.md": {
     "hash": "f486e87cc62fa16d5842515025cc51b803cedcc049848ae7599be05904dab9bc",
     "doc_name": "uploaded:how-to-customize-the-thumbnail-of-files-assets-and-folders.md"
@@ -462,6 +462,10 @@
   "how-to-design-kiosk-apps-using-kiosk-designer-pro.md": {
     "hash": "258f6860c9697a5cb1e59fa92b425c5be23a826883918d0a4823c176688a193f",
     "doc_name": "uploaded:how-to-design-kiosk-apps-using-kiosk-designer-pro.md"
+  },
+  "how-to-display-a-smartsheet-report-on-optisigns.md": {
+    "hash": "836ea0705e45a5a971fa74cb50623764bed453cfa8ddcc63f0a3098a9fe47ca4",
+    "doc_name": "uploaded:how-to-display-a-smartsheet-report-on-optisigns.md"
   },
   "how-to-display-a-snowflake-dashboard-with-optisigns.md": {
     "hash": "244795c1632f98b58d057d661f43d06c2b57cd66e208c66afc5679a014382dd6",
@@ -498,6 +502,10 @@
   "how-to-display-microsoft-teams-chat-on-optisigns.md": {
     "hash": "530c0aeb8838dba5abb51cb3d119cc99c7f9a40e70a40794c7451ee3397a30d2",
     "doc_name": "uploaded:how-to-display-microsoft-teams-chat-on-optisigns.md"
+  },
+  "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
+    "hash": "9817aa01b42214c5e6305bc3c6232fbb44c7c3a33f1850d6e1cc1223267085ab",
+    "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
   },
   "how-to-enable-auto-start-on-fireos-8-devices-like-amazon-fire-tv-stick-4k-gen-2-.md": {
     "hash": "e80941cc07fa4ff770dec85dbb08ed7c806a12e0eb6bece47e8d88ea40a686ab",
@@ -602,6 +610,10 @@
   "how-to-lockdown-ipadsingle-app-with-guided-accessibility.md": {
     "hash": "b7c09401d61068a6e168851101fc136b981211806d4fbbebc46778d2b6aefe35",
     "doc_name": "uploaded:how-to-lockdown-ipadsingle-app-with-guided-accessibility.md"
+  },
+  "how-to-manage-and-edit-your-playlist-settings.md": {
+    "hash": "09026e612888c4f973c0fd4aeb9cbc30be7c65fb3586096a961d2c52a840e682",
+    "doc_name": "uploaded:how-to-manage-and-edit-your-playlist-settings.md"
   },
   "how-to-manage-sub-account-billing-with-optisigns.md": {
     "hash": "701d0b3a4153c1fdaa628fa2342209bf90cdf2137be85af970a067a7b84086c3",
@@ -767,10 +779,6 @@
     "hash": "b774f522b3782cd6936f86c3d6acaf27830d8519acf155b36a0fd58e0463b512",
     "doc_name": "uploaded:how-to-use-approval-workflow-feature.md"
   },
-  "how-to-use-asana-app.md": {
-    "hash": "c3e6f553a6095b1cfb489b06557a78a37abc93db380849f65c76d574f7ba9178",
-    "doc_name": "uploaded:how-to-use-asana-app.md"
-  },
   "how-to-use-check-in-app-with-sms-follow-up.md": {
     "hash": "6eff294af91a4eb7a05a91a2a8c0a70cacd8c0c89f970d2ddd0866c996120dad",
     "doc_name": "uploaded:how-to-use-check-in-app-with-sms-follow-up.md"
@@ -871,10 +879,6 @@
     "hash": "cd88c217f9a87463cc60e817ddbfb35d85b9aed8d71aa8fe892cc5f878ba2fb7",
     "doc_name": "uploaded:how-to-use-market-index-app.md"
   },
-  "how-to-use-matterport-app.md": {
-    "hash": "4d0b0575c967ffa8659846605b14f2c5ba9991be99b040cfcf8a1883b5eda663",
-    "doc_name": "uploaded:how-to-use-matterport-app.md"
-  },
   "how-to-use-microsoft-excel-online-with-optisigns.md": {
     "hash": "ada05b4c3dce9fa4dbca26e3e6d0509ecdddbea0a008358ced904927c99c49ed",
     "doc_name": "uploaded:how-to-use-microsoft-excel-online-with-optisigns.md"
@@ -894,10 +898,6 @@
   "how-to-use-mrss-feeds-with-optisigns.md": {
     "hash": "00ee730e1e255cd0e26e7fa7a0391d7de3435aa9d8ba9a1223237c41504b9e3f",
     "doc_name": "uploaded:how-to-use-mrss-feeds-with-optisigns.md"
-  },
-  "how-to-use-notion-app.md": {
-    "hash": "85856cf0464e8f2862aadfa44bf3ac92bdfad6b55db4e9f82fc2c652d20f490a",
-    "doc_name": "uploaded:how-to-use-notion-app.md"
   },
   "how-to-use-optisigns-screen-capture-app.md": {
     "hash": "1ebcbb19a3f131bf4dd33c4ef25ec6fd092fc98e2160d83e13fe67febf3a19d9",
@@ -1023,10 +1023,6 @@
     "hash": "d51062f89850c4293304264d698d0363a9e9dc606a8912b207240ad2fc2bac43",
     "doc_name": "uploaded:how-to-use-the-guardian-news-app.md"
   },
-  "how-to-use-the-jira-formerly-atlassian-jira-app.md": {
-    "hash": "916a17011c44a2341865e0cb172984ca0c9403bdf1e6d075a63e4583f99aa6aa",
-    "doc_name": "uploaded:how-to-use-the-jira-formerly-atlassian-jira-app.md"
-  },
   "how-to-use-the-live-tv-with-ads-app.md": {
     "hash": "83bfee4b19cc4d27c73d375a13dbb2c96131df7ee8baa1cebf580f5ac74a73b5",
     "doc_name": "uploaded:how-to-use-the-live-tv-with-ads-app.md"
@@ -1058,10 +1054,6 @@
   "how-to-use-the-motivational-quote-app.md": {
     "hash": "80e7f06a4b64497d84c469420ec2bfe67da70c77e596a61c56783a5377955bf5",
     "doc_name": "uploaded:how-to-use-the-motivational-quote-app.md"
-  },
-  "how-to-use-the-musthavemenus-app-with-optisigns.md": {
-    "hash": "d2511a076b063ceec0a632a5f8dab5d06536daade568180afc9c5f56ec842960",
-    "doc_name": "uploaded:how-to-use-the-musthavemenus-app-with-optisigns.md"
   },
   "how-to-use-the-new-york-times-app.md": {
     "hash": "9c9c94bae666d2db5ade2394f7ce3c11a1fa926ac3f2bd3604ec80e8f1b98f46",
@@ -1159,13 +1151,9 @@
     "hash": "046408a5bcc24aa931c51523650f2ca8672479fbf6a96349ebb76f3b12dee397",
     "doc_name": "uploaded:how-to-use-the-youtube-playlist-app-with-optisigns.md"
   },
-  "how-to-use-trello-app.md": {
-    "hash": "6604e0d060189612417f1b151c01ccff4b39b6621cc65c45b0a0139b22992313",
-    "doc_name": "uploaded:how-to-use-trello-app.md"
-  },
-  "how-to-use-twitch-app.md": {
-    "hash": "76a5a3c37abff53b79596a05f8a07fb4301b93d863de1511982e4d2c8ed3f7e8",
-    "doc_name": "uploaded:how-to-use-twitch-app.md"
+  "how-to-use-toast-api-data-with-optisigns.md": {
+    "hash": "8d26ef0e4922a5e83f505fc5bac3ff047a15fd23ade133cd9c888788616497b3",
+    "doc_name": "uploaded:how-to-use-toast-api-data-with-optisigns.md"
   },
   "how-to-use-usb-hub-adaptor-connect-to-your-fire-stick.md": {
     "hash": "fcfe2dee956011f2ea0a3d061a82251d75022afb3c7e5af84dedb68d56bae5b4",
@@ -1270,10 +1258,6 @@
   "macos.md": {
     "hash": "216eb9b5018ffb0645990fd7cefc5df2c5814bc5f96a63c77962a5fcea4b778f",
     "doc_name": "uploaded:macos.md"
-  },
-  "making-a-video-wall-with-optisigns-video-wall-app.md": {
-    "hash": "4370aff63d90092b31d116b90d1e9b8f410ec30b26825c9be22e72e717708e27",
-    "doc_name": "uploaded:making-a-video-wall-with-optisigns-video-wall-app.md"
   },
   "manually-control-playlist-playback-with-optisigns.md": {
     "hash": "bdae0eee8de26c282987f1d8b8e02c1f4c9166827d4a391ac666bfdf71426f8d",
@@ -1583,6 +1567,10 @@
     "hash": "78606e402e8e1840aa7185ab041f73e113bbd2a27f9457b7b2749d357d88936a",
     "doc_name": "uploaded:what-happen-if-internet-connection-is-lost.md"
   },
+  "what-hardware-and-devices-are-supported.md": {
+    "hash": "2cab5053aa6f99175407480212a9e1c1fab96d15a0ff18adb55f5fdce6e045af",
+    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
+  },
   "what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md": {
     "hash": "28e9802d5311e9ebfc6361793b9d1e977ede2576a5d0917370ce0bffea2d5ea8",
     "doc_name": "uploaded:what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md"
@@ -1590,10 +1578,6 @@
   "what-if-the-optisigns-app-does-not-auto-start-on-an-android-tv.md": {
     "hash": "2c80c756e6555fa68e2e80c5732e650b5110b6bec57bd8c7bb57b70ddf1ec81e",
     "doc_name": "uploaded:what-if-the-optisigns-app-does-not-auto-start-on-an-android-tv.md"
-  },
-  "what-types-of-files-are-supported.md": {
-    "hash": "b25973dd234ba95c3235d4a02675496e11272d4b8f190b6e1e605da32afb8e48",
-    "doc_name": "uploaded:what-types-of-files-are-supported.md"
   },
   "where-to-buy-optisigns-devices.md": {
     "hash": "3439ab2795b47c45a666790a9ea29e5451db4e175767ce44d38068021b274b2c",
@@ -1615,10 +1599,6 @@
     "hash": "ef120a7c3f8df353aa7033dacec6b5766a0803f4e8e3d57af69474f2f8e10072",
     "doc_name": "uploaded:windows.md"
   },
-  "working-with-teams-and-security-levels.md": {
-    "hash": "189a21d4378096daf6c4a0c485abe5e8ac951a1b06167eeb1361cf2a5ae2f027",
-    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
-  },
   "your-facebook-page-doesnt-show-in-the-dropdown-list.md": {
     "hash": "36774b1c598cd306853c5fc47bb06937c59a3cf62f38b3405b04683108fd8e9f",
     "doc_name": "uploaded:your-facebook-page-doesnt-show-in-the-dropdown-list.md"
@@ -1627,36 +1607,52 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-display-a-smartsheet-report-on-optisigns.md": {
-    "hash": "836ea0705e45a5a971fa74cb50623764bed453cfa8ddcc63f0a3098a9fe47ca4",
-    "doc_name": "uploaded:how-to-display-a-smartsheet-report-on-optisigns.md"
+  "how-to-use-the-trello-app.md": {
+    "hash": "4f608f9ba570cb43c5a969a2b2cbd421115a2adbb408f95529e69b2b27473994",
+    "doc_name": "uploaded:how-to-use-the-trello-app.md"
   },
-  "how-to-create-and-use-nested-playlists.md": {
-    "hash": "09082fa741efb7e958efff5728d7bcd2349bfda36de6ddbf3f594c2408f84cde",
-    "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
+  "how-to-use-the-jira-app.md": {
+    "hash": "afe7abf41f7aafcd08011eab1aed498641e7459e500d760a5cf2419670a7a307",
+    "doc_name": "uploaded:how-to-use-the-jira-app.md"
   },
-  "how-to-use-toast-api-data-with-optisigns.md": {
-    "hash": "8d26ef0e4922a5e83f505fc5bac3ff047a15fd23ade133cd9c888788616497b3",
-    "doc_name": "uploaded:how-to-use-toast-api-data-with-optisigns.md"
+  "how-to-use-the-twitch-app.md": {
+    "hash": "972994378e7f0f33fc34b348578ddeb225ef06dee384e399adca0e34cb4241e9",
+    "doc_name": "uploaded:how-to-use-the-twitch-app.md"
   },
-  "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
-    "hash": "9817aa01b42214c5e6305bc3c6232fbb44c7c3a33f1850d6e1cc1223267085ab",
-    "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
-  },
-  "what-hardware-and-devices-are-supported.md": {
-    "hash": "2cab5053aa6f99175407480212a9e1c1fab96d15a0ff18adb55f5fdce6e045af",
-    "doc_name": "uploaded:what-hardware-and-devices-are-supported.md"
-  },
-  "how-to-manage-and-edit-your-playlist-settings.md": {
-    "hash": "09026e612888c4f973c0fd4aeb9cbc30be7c65fb3586096a961d2c52a840e682",
-    "doc_name": "uploaded:how-to-manage-and-edit-your-playlist-settings.md"
+  "how-to-use-the-notion-app.md": {
+    "hash": "d5e8b1fed54b8f10695c1bebd8bd4c46a99467e7c46eb41e9f6af1ed28e709c4",
+    "doc_name": "uploaded:how-to-use-the-notion-app.md"
   },
   "how-to-display-vimeo-videos-with-optisigns.md": {
-    "hash": "5878e030b358ef99bbb47dcf94693e071d8d037e4db854a52b5090d2743a060c",
+    "hash": "705a31eab9d11bfdcd100e66af2e49e1d70d0c9c2f1a292f36f254c53f75fce8",
     "doc_name": "uploaded:how-to-display-vimeo-videos-with-optisigns.md"
   },
-  "how-to-create-use-playlists.md": {
-    "hash": "142f00a98ddb11e55857db21b1e8572430411b2736a3f291e50493cc86de0d56",
-    "doc_name": "uploaded:how-to-create-use-playlists.md"
+  "how-to-use-the-matterport-app.md": {
+    "hash": "902e9b3f3f3e8e4383bc1bb2aa33b5c0090651aa26f7473d679421f1474f3f49",
+    "doc_name": "uploaded:how-to-use-the-matterport-app.md"
+  },
+  "how-to-use-the-asana-app.md": {
+    "hash": "7b46ebfc65e95e21900013d8ccfc6d5601ea5e601435179b9fef6692bcb6bec5",
+    "doc_name": "uploaded:how-to-use-the-asana-app.md"
+  },
+  "making-a-video-wall-with-optisigns-video-wall-app.md": {
+    "hash": "a777e3c75815a7f3c01657b5a45781e2374c7f8f50b3f83ad340ef280516d434",
+    "doc_name": "uploaded:making-a-video-wall-with-optisigns-video-wall-app.md"
+  },
+  "amazon-tv-firestick-troubleshooting-guide.md": {
+    "hash": "fe7fcb7f3ee51a8bdd79d390d902db9ce4aa90c8fe4036699a46641baed4610c",
+    "doc_name": "uploaded:amazon-tv-firestick-troubleshooting-guide.md"
+  },
+  "how-to-use-the-musthavemenus-app.md": {
+    "hash": "b3cf5950acb298ebc1e66a75aa23ae874a504677b793d9207a798362dd367e41",
+    "doc_name": "uploaded:how-to-use-the-musthavemenus-app.md"
+  },
+  "what-types-of-files-are-supported.md": {
+    "hash": "a8876aad3b1def57f3b0446d6b6e136574fab58b6dd32dd777e3218286ff3013",
+    "doc_name": "uploaded:what-types-of-files-are-supported.md"
+  },
+  "working-with-teams-and-security-levels.md": {
+    "hash": "25cea8b4a016caa79fc15c03683be14852626d32fd66dac69c5992fb6d1abc38",
+    "doc_name": "uploaded:working-with-teams-and-security-levels.md"
   }
 }
