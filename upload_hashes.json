@@ -131,6 +131,10 @@
     "hash": "ec58a40dcb996310d3b9799a3a1f35b8b3094d293b4eb6ee905c0c4e475b14ac",
     "doc_name": "uploaded:changing-screens-orientation-portrait-landscape.md"
   },
+  "chromeos-pwa-instructions.md": {
+    "hash": "5fcea0db4d564a103a42eaff08a9ada11426d065644404726bdd95879fc3f37c",
+    "doc_name": "uploaded:chromeos-pwa-instructions.md"
+  },
   "clean-install-of-optisigns-player-on-windows.md": {
     "hash": "f338d91381b67946e9fcef27172d9bbb2cc4ebbad3040e5a5363957916ebb744",
     "doc_name": "uploaded:clean-install-of-optisigns-player-on-windows.md"
@@ -183,10 +187,6 @@
     "hash": "bb5c22d2c87fcfcfff1d90d497a29a64eb0d6cde6a6ef3cd1d1e98b7ba1a75cb",
     "doc_name": "uploaded:designer-20-new-features.md"
   },
-  "device-management-and-mass-provisioning.md": {
-    "hash": "a75e1874ca5753c7bbce52494d9ce3151ef724446ed7cba5aaba3aec90df7539",
-    "doc_name": "uploaded:device-management-and-mass-provisioning.md"
-  },
   "difference-between-instagram-instagram-business-app.md": {
     "hash": "e3be3634b2e9dbde5e6306367e06ad1fb353150b7aa1335d8d5c98ee60b8a754",
     "doc_name": "uploaded:difference-between-instagram-instagram-business-app.md"
@@ -210,6 +210,10 @@
   "does-optisigns-offer-non-profiteducation-discount.md": {
     "hash": "afd49261c39bac2298de4b48c40c141c6bce323bb75875a289d46b823da47c48",
     "doc_name": "uploaded:does-optisigns-offer-non-profiteducation-discount.md"
+  },
+  "edit-screen-what-does-each-option-do.md": {
+    "hash": "437476cf23c189dbbbb2bf4586f44893a01e992f311e61a6a3aaf590ae78fccc",
+    "doc_name": "uploaded:edit-screen-what-does-each-option-do.md"
   },
   "enabling-lock-down-mode-on-touch-screen-devices.md": {
     "hash": "506ee3353c5e11327876f3a038c32c782a994f07dab283308dbe8757b98cde9f",
@@ -611,6 +615,10 @@
     "hash": "b7c09401d61068a6e168851101fc136b981211806d4fbbebc46778d2b6aefe35",
     "doc_name": "uploaded:how-to-lockdown-ipadsingle-app-with-guided-accessibility.md"
   },
+  "how-to-manage-and-edit-your-playlist-settings.md": {
+    "hash": "8c702d6edf9dc4d32d3b57406d18f84bfd3406c502224622a94e25817391a650",
+    "doc_name": "uploaded:how-to-manage-and-edit-your-playlist-settings.md"
+  },
   "how-to-manage-sub-account-billing-with-optisigns.md": {
     "hash": "701d0b3a4153c1fdaa628fa2342209bf90cdf2137be85af970a067a7b84086c3",
     "doc_name": "uploaded:how-to-manage-sub-account-billing-with-optisigns.md"
@@ -642,6 +650,10 @@
   "how-to-perform-mass-provisioning-with-optisigns.md": {
     "hash": "2d04603a619cd49854ec97a2441230aabec94c1217a049b2b32b5d0c8b8cd232",
     "doc_name": "uploaded:how-to-perform-mass-provisioning-with-optisigns.md"
+  },
+  "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": {
+    "hash": "ee351a142ce48a737e0ac6791149d94d496939d67967e00af63d21aa594f91f4",
+    "doc_name": "uploaded:how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
   },
   "how-to-preview-a-screen.md": {
     "hash": "f774e4e8b914bcba244ac0e36396be2e19598ac42350575409ddc518781dc183",
@@ -799,10 +811,6 @@
     "hash": "271a8635273d17bdebd8b3f8e62e260b034abd0154319394585915b340f156e4",
     "doc_name": "uploaded:how-to-use-facebook-video-app.md"
   },
-  "how-to-use-follow-us-app.md": {
-    "hash": "880b7b98bcbc068cc235080670b6c4aab55ad34e09320b91d9d72259b05fc235",
-    "doc_name": "uploaded:how-to-use-follow-us-app.md"
-  },
   "how-to-use-google-calendar-with-optisigns.md": {
     "hash": "a17f7fec1ab331b7045763f8eddf9be2d414852e7a2cb492f442fdd91cc7a095",
     "doc_name": "uploaded:how-to-use-google-calendar-with-optisigns.md"
@@ -843,10 +851,6 @@
     "hash": "ba784948273ea2e60d04ee064a14957d7555d31c6d310dcf3248cf9d4633fa77",
     "doc_name": "uploaded:how-to-use-imovie-content-with-optisigns.md"
   },
-  "how-to-use-instagram-business-app.md": {
-    "hash": "cee0682feec7aaf3ea6ba8617752ba2a4016a35942b0e6337b87939abdf571c5",
-    "doc_name": "uploaded:how-to-use-instagram-business-app.md"
-  },
   "how-to-use-instagram-counter-app.md": {
     "hash": "7fd392a18f09c54c52782b02b3b372afadb7c8590b9bf2ce8a1d8e49dd37f0aa",
     "doc_name": "uploaded:how-to-use-instagram-counter-app.md"
@@ -854,10 +858,6 @@
   "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md": {
     "hash": "72dc561901d1c93843ac8287c8cabc0e31a51b7f4070fd4240579e7b82740df3",
     "doc_name": "uploaded:how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md"
-  },
-  "how-to-use-linkedin-app.md": {
-    "hash": "5140ede66692abf42c9d98a2cc34c3181b4857492345650bd6e8a3f8f257ad31",
-    "doc_name": "uploaded:how-to-use-linkedin-app.md"
   },
   "how-to-use-livestreamcom-app.md": {
     "hash": "f94ec3965346820bcc930ac3d53229d5fc1f1662adc6c4677e8e7b25f3e1499d",
@@ -958,14 +958,6 @@
   "how-to-use-the-cnn-wall-app.md": {
     "hash": "52204f4588d18bb3b5b250f37e7784181aa61f769932993b175963f350b37b45",
     "doc_name": "uploaded:how-to-use-the-cnn-wall-app.md"
-  },
-  "how-to-use-the-countdown-app.md": {
-    "hash": "742bf825e3db57642b941fe437b2f90ca16b952835ac04b98e957628d9511706",
-    "doc_name": "uploaded:how-to-use-the-countdown-app.md"
-  },
-  "how-to-use-the-countup-app.md": {
-    "hash": "6ca91c58ccafd28e1c165dd190b97a82e76edea06dea58d0ee8f5ee334eea69f",
-    "doc_name": "uploaded:how-to-use-the-countup-app.md"
   },
   "how-to-use-the-crypto-index-crypto-exchange-app.md": {
     "hash": "57dd483d7b8371212b3329d6f4c945f9fa4b7dda9198c8fe06d739215df298f8",
@@ -1099,10 +1091,6 @@
     "hash": "41a105b2dfe03d5bfa76b1370bacc8b83d367149b1769a4372f17a35cbb7409e",
     "doc_name": "uploaded:how-to-use-the-slack-app.md"
   },
-  "how-to-use-the-social-mix-app.md": {
-    "hash": "89e4d62fc0e10926e981e4f4702fa89477329bdd3f1771766efef4e4c8638683",
-    "doc_name": "uploaded:how-to-use-the-social-mix-app.md"
-  },
   "how-to-use-the-stock-app.md": {
     "hash": "407b63485521254c35dcd07ea52a52e6410fa5b24447c7b4bc8d0a1ce5da0747",
     "doc_name": "uploaded:how-to-use-the-stock-app.md"
@@ -1166,6 +1154,10 @@
   "how-to-use-the-youtube-playlist-app-with-optisigns.md": {
     "hash": "046408a5bcc24aa931c51523650f2ca8672479fbf6a96349ebb76f3b12dee397",
     "doc_name": "uploaded:how-to-use-the-youtube-playlist-app-with-optisigns.md"
+  },
+  "how-to-use-the-zendesk-app.md": {
+    "hash": "7b40274720f43f22eb05842779873745669dd987a742c17b6d30b27d0b3f62cc",
+    "doc_name": "uploaded:how-to-use-the-zendesk-app.md"
   },
   "how-to-use-toast-api-data-with-optisigns.md": {
     "hash": "8d26ef0e4922a5e83f505fc5bac3ff047a15fd23ade133cd9c888788616497b3",
@@ -1491,10 +1483,6 @@
     "hash": "a3f0c11408103c91f2cc85a6548806262e30219eafa790d4e0e716d1aacae2ee",
     "doc_name": "uploaded:silent-installation-process-for-optisigns-player-on-windows.md"
   },
-  "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content.md": {
-    "hash": "87ea42adce5fc3963de1c88999926982417c0364a9b7fb836347f50bba6ca266",
-    "doc_name": "uploaded:stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content.md"
-  },
   "subscription-function-in-graphql.md": {
     "hash": "a59d1e6b319e437d2d34624359bb8ad65588e4148c55c6f2aac50e4a658acb93",
     "doc_name": "uploaded:subscription-function-in-graphql.md"
@@ -1635,24 +1623,32 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-manage-and-edit-your-playlist-settings.md": {
-    "hash": "8c702d6edf9dc4d32d3b57406d18f84bfd3406c502224622a94e25817391a650",
-    "doc_name": "uploaded:how-to-manage-and-edit-your-playlist-settings.md"
+  "how-to-use-the-follow-us-app.md": {
+    "hash": "e4fda669a9c1c3aef89129646e9a87e9cafa0051c269e401eda14eba74b5d0af",
+    "doc_name": "uploaded:how-to-use-the-follow-us-app.md"
   },
-  "edit-screen-what-does-each-option-do.md": {
-    "hash": "437476cf23c189dbbbb2bf4586f44893a01e992f311e61a6a3aaf590ae78fccc",
-    "doc_name": "uploaded:edit-screen-what-does-each-option-do.md"
+  "how-to-use-the-instagram-business-app.md": {
+    "hash": "1aa77c6b8d261acc70760108dc7791bb27fb761999b0c816b6b87f4fe0e3eb89",
+    "doc_name": "uploaded:how-to-use-the-instagram-business-app.md"
   },
-  "chromeos-pwa-instructions.md": {
-    "hash": "5fcea0db4d564a103a42eaff08a9ada11426d065644404726bdd95879fc3f37c",
-    "doc_name": "uploaded:chromeos-pwa-instructions.md"
+  "how-to-use-the-linkedin-app.md": {
+    "hash": "0b5282ab501ff19519f57477ce6209328751b9cef96a401d8dcd3361cb114b6d",
+    "doc_name": "uploaded:how-to-use-the-linkedin-app.md"
   },
-  "how-to-use-the-zendesk-app.md": {
-    "hash": "7b40274720f43f22eb05842779873745669dd987a742c17b6d30b27d0b3f62cc",
-    "doc_name": "uploaded:how-to-use-the-zendesk-app.md"
+  "device-management-and-mass-provisioning.md": {
+    "hash": "4b6babb7195c8c811183c2e68e574ed6c41483b42a49117405a0f1e9c7bdd9ff",
+    "doc_name": "uploaded:device-management-and-mass-provisioning.md"
   },
-  "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": {
-    "hash": "ee351a142ce48a737e0ac6791149d94d496939d67967e00af63d21aa594f91f4",
-    "doc_name": "uploaded:how-to-play-licensed-background-music-on-digital-signs-with-optisound.md"
+  "how-to-use-the-countup-app.md": {
+    "hash": "5daad06fe662db466855db34e224b9e3d28042c367847143a1bb578d5ab9587d",
+    "doc_name": "uploaded:how-to-use-the-countup-app.md"
+  },
+  "how-to-use-the-countdown-app.md": {
+    "hash": "205f038e3f771143374c914287c906bc53097394f766a650662c8538f3d6d2ba",
+    "doc_name": "uploaded:how-to-use-the-countdown-app.md"
+  },
+  "how-to-use-the-social-mix-app.md": {
+    "hash": "82fefe5d9a2a01987ba900940cde70cd91c7c7238fc822648eef51fbd79f15bc",
+    "doc_name": "uploaded:how-to-use-the-social-mix-app.md"
   }
 }
