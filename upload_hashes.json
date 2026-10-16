@@ -187,9 +187,9 @@
     "hash": "bb5c22d2c87fcfcfff1d90d497a29a64eb0d6cde6a6ef3cd1d1e98b7ba1a75cb",
     "doc_name": "uploaded:designer-20-new-features.md"
   },
-  "difference-between-instagram-instagram-business-app.md": {
-    "hash": "e3be3634b2e9dbde5e6306367e06ad1fb353150b7aa1335d8d5c98ee60b8a754",
-    "doc_name": "uploaded:difference-between-instagram-instagram-business-app.md"
+  "device-management-and-mass-provisioning.md": {
+    "hash": "4b6babb7195c8c811183c2e68e574ed6c41483b42a49117405a0f1e9c7bdd9ff",
+    "doc_name": "uploaded:device-management-and-mass-provisioning.md"
   },
   "disk-encryption.md": {
     "hash": "3760fde328856141ef21a6c9c828082318249261a7421487ea879f98c99ba61e",
@@ -411,14 +411,6 @@
     "hash": "3a0b5ad68ed13fe3662ab801dbe4acf997772fd32a1ff5a1bd6946062a3c944a",
     "doc_name": "uploaded:how-to-create-an-attract-screen-for-your-kiosk.md"
   },
-  "how-to-create-and-use-google-reviews-wall.md": {
-    "hash": "fb01b4ab781474960699fba8e76f1be8e25e9b6e2008090945d0de83e0adb6c3",
-    "doc_name": "uploaded:how-to-create-and-use-google-reviews-wall.md"
-  },
-  "how-to-create-and-use-instagram-wall.md": {
-    "hash": "725e3dfd0865060922d558f4b911e4925b00d7c0c5745e3b3ab77c70096ad67a",
-    "doc_name": "uploaded:how-to-create-and-use-instagram-wall.md"
-  },
   "how-to-create-and-use-nested-playlists.md": {
     "hash": "09082fa741efb7e958efff5728d7bcd2349bfda36de6ddbf3f594c2408f84cde",
     "doc_name": "uploaded:how-to-create-and-use-nested-playlists.md"
@@ -475,10 +467,6 @@
     "hash": "1875d4df95acfc7f7baa05561476c48d850b0af12a3993da1db473cd28ae7da7",
     "doc_name": "uploaded:how-to-display-birthday-lists-with-optisync-data-mapping-and-google-sheets.md"
   },
-  "how-to-display-content-inside-websites-that-require-login.md": {
-    "hash": "06b65290d92052482b58a000aaaeb7187af7df187e2e7eb5c9a4b4558c49f332",
-    "doc_name": "uploaded:how-to-display-content-inside-websites-that-require-login.md"
-  },
   "how-to-display-databricks-dashboards-on-optisigns.md": {
     "hash": "c2afeb6e1be21e544a19d18edd6314ab5f0b893fd816a3bff256599c773be2df",
     "doc_name": "uploaded:how-to-display-databricks-dashboards-on-optisigns.md"
@@ -502,10 +490,6 @@
   "how-to-display-microsoft-teams-chat-on-optisigns.md": {
     "hash": "530c0aeb8838dba5abb51cb3d119cc99c7f9a40e70a40794c7451ee3397a30d2",
     "doc_name": "uploaded:how-to-display-microsoft-teams-chat-on-optisigns.md"
-  },
-  "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
-    "hash": "9817aa01b42214c5e6305bc3c6232fbb44c7c3a33f1850d6e1cc1223267085ab",
-    "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
   },
   "how-to-display-vimeo-videos-with-optisigns.md": {
     "hash": "705a31eab9d11bfdcd100e66af2e49e1d70d0c9c2f1a292f36f254c53f75fce8",
@@ -819,10 +803,6 @@
     "hash": "894a4619ecccf820896b617f6322adc92ecc3a4d6592c6ce163c212045e32c2c",
     "doc_name": "uploaded:how-to-use-google-docs-with-optisigns.md"
   },
-  "how-to-use-google-drive-app.md": {
-    "hash": "049753bc573245a2498fa7a01693d211e41554ca8b005976a0f94378a38c487f",
-    "doc_name": "uploaded:how-to-use-google-drive-app.md"
-  },
   "how-to-use-google-sheets-with-optisigns.md": {
     "hash": "91bbfe6eb7d8386ac9f90a20694a14df378f2cac22886ecdbd2dca9ac8492955",
     "doc_name": "uploaded:how-to-use-google-sheets-with-optisigns.md"
@@ -959,6 +939,14 @@
     "hash": "52204f4588d18bb3b5b250f37e7784181aa61f769932993b175963f350b37b45",
     "doc_name": "uploaded:how-to-use-the-cnn-wall-app.md"
   },
+  "how-to-use-the-countdown-app.md": {
+    "hash": "205f038e3f771143374c914287c906bc53097394f766a650662c8538f3d6d2ba",
+    "doc_name": "uploaded:how-to-use-the-countdown-app.md"
+  },
+  "how-to-use-the-countup-app.md": {
+    "hash": "5daad06fe662db466855db34e224b9e3d28042c367847143a1bb578d5ab9587d",
+    "doc_name": "uploaded:how-to-use-the-countup-app.md"
+  },
   "how-to-use-the-crypto-index-crypto-exchange-app.md": {
     "hash": "57dd483d7b8371212b3329d6f4c945f9fa4b7dda9198c8fe06d739215df298f8",
     "doc_name": "uploaded:how-to-use-the-crypto-index-crypto-exchange-app.md"
@@ -970,10 +958,6 @@
   "how-to-use-the-data-studio-app.md": {
     "hash": "37a1a77e7633d3fd4ccbfeffa808d09aa9b02ef245e6d93862aaf0e30680d278",
     "doc_name": "uploaded:how-to-use-the-data-studio-app.md"
-  },
-  "how-to-use-the-dropbox-app.md": {
-    "hash": "5833a7091d1676d2540ea3b63d908515b6996d3fcd85cf7db84a7965d2f70c8c",
-    "doc_name": "uploaded:how-to-use-the-dropbox-app.md"
   },
   "how-to-use-the-emergency-feed-app.md": {
     "hash": "452ff287103bb93df39f890f9345f107b4647889e460e1985be6f736238c36cc",
@@ -995,6 +979,10 @@
     "hash": "025d20b8a5a7f2290b95bb70c4849ea8dda8e8434f18ee096c167011791e129d",
     "doc_name": "uploaded:how-to-use-the-flash-message-app.md"
   },
+  "how-to-use-the-follow-us-app.md": {
+    "hash": "e4fda669a9c1c3aef89129646e9a87e9cafa0051c269e401eda14eba74b5d0af",
+    "doc_name": "uploaded:how-to-use-the-follow-us-app.md"
+  },
   "how-to-use-the-google-ads-dashboard-app.md": {
     "hash": "47e5161ecd0f0e611bc05aab3260c329608488cab0d80a42723f1c074241bc49",
     "doc_name": "uploaded:how-to-use-the-google-ads-dashboard-app.md"
@@ -1010,6 +998,10 @@
   "how-to-use-the-jira-app.md": {
     "hash": "afe7abf41f7aafcd08011eab1aed498641e7459e500d760a5cf2419670a7a307",
     "doc_name": "uploaded:how-to-use-the-jira-app.md"
+  },
+  "how-to-use-the-linkedin-app.md": {
+    "hash": "0b5282ab501ff19519f57477ce6209328751b9cef96a401d8dcd3361cb114b6d",
+    "doc_name": "uploaded:how-to-use-the-linkedin-app.md"
   },
   "how-to-use-the-live-tv-with-ads-app.md": {
     "hash": "83bfee4b19cc4d27c73d375a13dbb2c96131df7ee8baa1cebf580f5ac74a73b5",
@@ -1067,14 +1059,6 @@
     "hash": "5dfce405af7430bb989b9a75e78325cb6cc02027e6cef42182f0e00fca1e80c1",
     "doc_name": "uploaded:how-to-use-the-on-this-day-app.md"
   },
-  "how-to-use-the-onedrive-app.md": {
-    "hash": "77c7eaf58dec72d1207b74a16db2ac7a6c864f3f8c2e0ac9a3e17d05068846fb",
-    "doc_name": "uploaded:how-to-use-the-onedrive-app.md"
-  },
-  "how-to-use-the-optisigns-mobile-admin-app.md": {
-    "hash": "de5632921889e1171c382c3fd0a6f427b4929bbf508702d313677395de59884e",
-    "doc_name": "uploaded:how-to-use-the-optisigns-mobile-admin-app.md"
-  },
   "how-to-use-the-qr-scan-to-interact-touchless-qr-app.md": {
     "hash": "bd7fd02d72428dfc545a36f578cf4c063a6092baa1ca092a2ed43c0bd2f06839",
     "doc_name": "uploaded:how-to-use-the-qr-scan-to-interact-touchless-qr-app.md"
@@ -1091,6 +1075,10 @@
     "hash": "41a105b2dfe03d5bfa76b1370bacc8b83d367149b1769a4372f17a35cbb7409e",
     "doc_name": "uploaded:how-to-use-the-slack-app.md"
   },
+  "how-to-use-the-social-mix-app.md": {
+    "hash": "82fefe5d9a2a01987ba900940cde70cd91c7c7238fc822648eef51fbd79f15bc",
+    "doc_name": "uploaded:how-to-use-the-social-mix-app.md"
+  },
   "how-to-use-the-stock-app.md": {
     "hash": "407b63485521254c35dcd07ea52a52e6410fa5b24447c7b4bc8d0a1ce5da0747",
     "doc_name": "uploaded:how-to-use-the-stock-app.md"
@@ -1098,10 +1086,6 @@
   "how-to-use-the-tableau-app.md": {
     "hash": "45f1ca2effc45eea7946e6818c74e1399995a98d4d86cd654c012cefa2014d9b",
     "doc_name": "uploaded:how-to-use-the-tableau-app.md"
-  },
-  "how-to-use-the-taggbox-display-app-with-optisigns.md": {
-    "hash": "160d17ce5208224450aae9f56636e31572a3ffd59aef6de0f48e8bd8850ee7ff",
-    "doc_name": "uploaded:how-to-use-the-taggbox-display-app-with-optisigns.md"
   },
   "how-to-use-the-techcrunch-news-app.md": {
     "hash": "d46d026f19c151c41d58fd04d751d7f4462d112f399e1e621ebad62f9cb1795c",
@@ -1234,10 +1218,6 @@
   "kiosk-setup-hub.md": {
     "hash": "72d6d676ffb130e1cb0d3795b4e5c0c5000eab44ad90fdc21e046dd7f9a166ca",
     "doc_name": "uploaded:kiosk-setup-hub.md"
-  },
-  "kiosk10.md": {
-    "hash": "39c4c27687215589892ff579e246a6c7c2ad2d0c0efb755c777ab058f211300c",
-    "doc_name": "uploaded:kiosk10.md"
   },
   "kiosk32.md": {
     "hash": "fa5a7a5a814e9fc5c33f87421c6fd304f4d4e5ad4e9b41bb100cfd481db6a611",
@@ -1623,32 +1603,60 @@
     "hash": "3d86d5b072655167bd5c0b1ef31b7eae4e2665b6686126646625633d95c904c1",
     "doc_name": "uploaded:your-templates.md"
   },
-  "how-to-use-the-follow-us-app.md": {
-    "hash": "e4fda669a9c1c3aef89129646e9a87e9cafa0051c269e401eda14eba74b5d0af",
-    "doc_name": "uploaded:how-to-use-the-follow-us-app.md"
+  "how-to-use-the-google-drive-app.md": {
+    "hash": "7320277fc9a1eda240b899ce7fad0ef4c39df8ec9c63db24fed8e945d7e881cb",
+    "doc_name": "uploaded:how-to-use-the-google-drive-app.md"
+  },
+  "how-to-display-content-from-websites-that-require-a-login.md": {
+    "hash": "0054824e74774218d59464e89370d134d846d90f60a35154c567cb3cfa47d8a6",
+    "doc_name": "uploaded:how-to-display-content-from-websites-that-require-a-login.md"
+  },
+  "how-to-use-the-air-quality-index-app.md": {
+    "hash": "02a2d56999e7442582fc692b2edb784acc9ac685013922c077487fa7b1cc257f",
+    "doc_name": "uploaded:how-to-use-the-air-quality-index-app.md"
+  },
+  "how-to-display-datadog-dashboards-on-optisigns.md": {
+    "hash": "a0b18574c92e47bfc58e1bab9441e60b897123490f19778d1ec2baa98b0027e9",
+    "doc_name": "uploaded:how-to-display-datadog-dashboards-on-optisigns.md"
+  },
+  "how-to-use-the-instagram-app.md": {
+    "hash": "c9a8e9ecf493618e7b467d47a1980942df483b97cd70041bf8e804fc9074d5e7",
+    "doc_name": "uploaded:how-to-use-the-instagram-app.md"
   },
   "how-to-use-the-instagram-business-app.md": {
-    "hash": "1aa77c6b8d261acc70760108dc7791bb27fb761999b0c816b6b87f4fe0e3eb89",
+    "hash": "0748550995c3f9a27062225a800f10a693f0e5654863c7ab069d38010fd87622",
     "doc_name": "uploaded:how-to-use-the-instagram-business-app.md"
   },
-  "how-to-use-the-linkedin-app.md": {
-    "hash": "0b5282ab501ff19519f57477ce6209328751b9cef96a401d8dcd3361cb114b6d",
-    "doc_name": "uploaded:how-to-use-the-linkedin-app.md"
+  "how-to-use-the-eventbrite-events-app.md": {
+    "hash": "6915c1cb3591417e41613d66c6e375e2a4bf8e5e9af4490fa92d12b9d2292b20",
+    "doc_name": "uploaded:how-to-use-the-eventbrite-events-app.md"
   },
-  "device-management-and-mass-provisioning.md": {
-    "hash": "4b6babb7195c8c811183c2e68e574ed6c41483b42a49117405a0f1e9c7bdd9ff",
-    "doc_name": "uploaded:device-management-and-mass-provisioning.md"
+  "how-to-use-the-google-reviews-app.md": {
+    "hash": "cd248e655d70521ca755dd740522dc688236a1f9cce6c5998900bff36eaff215",
+    "doc_name": "uploaded:how-to-use-the-google-reviews-app.md"
   },
-  "how-to-use-the-countup-app.md": {
-    "hash": "5daad06fe662db466855db34e224b9e3d28042c367847143a1bb578d5ab9587d",
-    "doc_name": "uploaded:how-to-use-the-countup-app.md"
+  "how-to-use-the-dropbox-app.md": {
+    "hash": "874203816083f413ddeab5a32c5cbc36368aa2ad7f0e953e00e586f126eb086c",
+    "doc_name": "uploaded:how-to-use-the-dropbox-app.md"
   },
-  "how-to-use-the-countdown-app.md": {
-    "hash": "205f038e3f771143374c914287c906bc53097394f766a650662c8538f3d6d2ba",
-    "doc_name": "uploaded:how-to-use-the-countdown-app.md"
+  "how-to-use-the-taggbox-display-app.md": {
+    "hash": "f9a66e0b3f01effc8ae88ba4667c587af3f8340e8080a2f4c98985f222316963",
+    "doc_name": "uploaded:how-to-use-the-taggbox-display-app.md"
   },
-  "how-to-use-the-social-mix-app.md": {
-    "hash": "82fefe5d9a2a01987ba900940cde70cd91c7c7238fc822648eef51fbd79f15bc",
-    "doc_name": "uploaded:how-to-use-the-social-mix-app.md"
+  "kiosk10.md": {
+    "hash": "6a17ed2a9b37a4c04e276e9df1336b51853fd7e76336416c4216bf42d8565dac",
+    "doc_name": "uploaded:kiosk10.md"
+  },
+  "how-to-use-the-onedrive-app.md": {
+    "hash": "927762507026aecab1a57061f13736fb0768b006042da608f001e629f1c618cf",
+    "doc_name": "uploaded:how-to-use-the-onedrive-app.md"
+  },
+  "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
+    "hash": "543d0aa17708d167c6e94bfff903df819147c2edfc740c4f6372232edf7c1e3e",
+    "doc_name": "uploaded:how-to-display-salesforce-dashboards-and-reports-on-optisigns.md"
+  },
+  "how-to-use-the-optisigns-mobile-admin-app.md": {
+    "hash": "c311287b43206c83e53a4690cb53a67b2df2bb88af2a4b0bfbd14696ca4b4427",
+    "doc_name": "uploaded:how-to-use-the-optisigns-mobile-admin-app.md"
   }
 }
